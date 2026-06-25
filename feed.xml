@@ -7,148 +7,141 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:01:12 +0000</lastBuildDate>
     <item>
       <title>Le foto dei danni causati dai terremoti in Venezuela</title>
       <link>https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026</link>
       <description>&lt;p&gt;&lt;em&gt;Mostrano vari palazzi completamente distrutti, soprattutto nell&amp;#x27;area attorno a La Guaira, e le prime operazioni di soccorso&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782404048-2026-06-25T123829Z_36950774_RC2Z0MAROH7T_RTRMADP_3_VENEZUELA-QUAKE.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782404048-2026-06-25T123829Z_36950774_RC2Z0MAROH7T_RTRMADP_3_VENEZUELA-QUAKE.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Nel tardo pomeriggio di mercoledì (quando in Italia era notte) in Venezuela ci sono stati &lt;a href="https://www.ilpost.it/2026/06/25/venezuela-terremoti-danni/"&gt;due terremoti fortissimi&lt;/a&gt;, di magnitudo 7.2 e 7.5. Per adesso le autorità venezuelane hanno detto che sono morte almeno 164 persone, e più di 900 sono rimaste ferite. Sono però cifre ancora molto preliminari, ed è probabile che le vittime saranno molte di più: secondo alcune previsioni potrebbero essere migliaia.&lt;/p&gt;
 &lt;p&gt;I due terremoti hanno provocato danni enormi, soprattutto nella zona attorno alla città di La Guaira, nella costa nord del Venezuela, ma anche a Caracas, dove vivono più di 5 milioni di persone. Le foto che arrivano mostrano diversi palazzi e condomini molto danneggiati o crollati, strade con spaccature profonde e le prime operazioni di soccorso.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-105/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782403810-AP26176510237734.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782403810-AP26176510237734.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/680x453/1782403810-AP26176510237734.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/768x512/1782403810-AP26176510237734.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/800x533/1782403810-AP26176510237734.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782403810-AP26176510237734.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782403810-AP26176510237734.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3614933 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-105/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403810-AP26176510237734.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/2026-06-25t022514z_693922304_rc2m0max3nv5_rtrmadp_3_venezuela-quake/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403717-2026-06-25T022514Z_693922304_RC2M0MAX3NV5_RTRMADP_3_VENEZUELA-QUAKE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176410284767/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403761-AP26176410284767.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176427206642/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403771-AP26176427206642.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176445035018/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403790-AP26176445035018.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/un-edificio-crollato-a-la-guaria-25-giugnoap-photo-pedro-mattey/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403777-AP26176429731573.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-107/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403826-GettyImages-2283212063.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176435062690/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403784-AP26176435062690.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-103/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403765-AP26176425873068.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26175861332501/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403727-AP26175861332501.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-104/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403795-AP26176465975938.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/un-edificio-crollato-a-caracas-24-giugno-2026ap-photo-ariana-cubillos/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403738-AP26176063356509.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/2026-06-25t123829z_36950774_rc2z0maroh7t_rtrmadp_3_venezuela-quake/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403722-2026-06-25T123829Z_36950774_RC2Z0MAROH7T_RTRMADP_3_VENEZUELA-QUAKE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176004507008-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403732-AP26176004507008.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176509610723/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403805-AP26176509610723.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176075962801/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403745-AP26176075962801.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-106/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403820-GettyImages-2283194786.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ilpost_20260625175338294_bed7090d3772f21a86646597124dcf21/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403831-ilpost_20260625175338294_bed7090d3772f21a86646597124dcf21.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176479904973/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403800-AP26176479904973.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176237016368/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403755-AP26176237016368.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/gettyimages-2282726993/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403815-GettyImages-2282726993.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-108/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403845-post_20260625090058910_6f8d374ef67621c3621772c8cb79f554.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ilpost_20260625175341443_23aa00acef585081e0dc2692a51fd329/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403836-ilpost_20260625175341443_23aa00acef585081e0dc2692a51fd329.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-102/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403750-AP26176123014589.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3614933 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-105/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403810-AP26176510237734.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/2026-06-25t022514z_693922304_rc2m0max3nv5_rtrmadp_3_venezuela-quake/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403717-2026-06-25T022514Z_693922304_RC2M0MAX3NV5_RTRMADP_3_VENEZUELA-QUAKE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176410284767/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403761-AP26176410284767.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176427206642/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403771-AP26176427206642.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176445035018/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403790-AP26176445035018.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/un-edificio-crollato-a-la-guaria-25-giugnoap-photo-pedro-mattey/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403777-AP26176429731573.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-107/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403826-GettyImages-2283212063.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176435062690/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403784-AP26176435062690.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-103/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403765-AP26176425873068.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26175861332501/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403727-AP26175861332501.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-104/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403795-AP26176465975938.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/un-edificio-crollato-a-caracas-24-giugno-2026ap-photo-ariana-cubillos/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403738-AP26176063356509.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/2026-06-25t123829z_36950774_rc2z0maroh7t_rtrmadp_3_venezuela-quake/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403722-2026-06-25T123829Z_36950774_RC2Z0MAROH7T_RTRMADP_3_VENEZUELA-QUAKE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176004507008-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403732-AP26176004507008.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176509610723/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403805-AP26176509610723.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176075962801/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403745-AP26176075962801.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-106/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403820-GettyImages-2283194786.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ilpost_20260625175338294_bed7090d3772f21a86646597124dcf21/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403831-ilpost_20260625175338294_bed7090d3772f21a86646597124dcf21.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176479904973/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403800-AP26176479904973.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ap26176237016368/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403755-AP26176237016368.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/gettyimages-2282726993/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403815-GettyImages-2282726993.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-108/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403845-post_20260625090058910_6f8d374ef67621c3621772c8cb79f554.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/ilpost_20260625175341443_23aa00acef585081e0dc2692a51fd329/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403836-ilpost_20260625175341443_23aa00acef585081e0dc2692a51fd329.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026/terremoto-102/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782403750-AP26176123014589.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/foto-terremoti-venezuela-2026</guid>
-      <pubDate>Thu, 25 Jun 2026 18:48:52 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 16:48:52 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>In un’elezione interna alla BCE c’era un finto dittatore</title>
       <link>https://www.ilpost.it/2026/06/25/bce-elezione-critiche-dipendenti</link>
       <description>&lt;p&gt;&lt;em&gt;Un dipendente si è presentato con le fattezze di un generale come protesta contro la dirigenza dell&amp;#x27;isitituzione&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782405460-AP26145719103040.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782405460-AP26145719103040.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;È raro che l&amp;#8217;elezione di un organo interno a un&amp;#8217;istituzione, anche se molto importante come la Banca centrale europea (BCE), interessi a qualcuno fuori da quell&amp;#8217;istituzione e riceva attenzioni sulla stampa generalista. Ci è riuscita quella della Commissione del personale, che rappresenta i lavoratori della BCE, perché uno dei candidati ha fatto una campagna pittoresca e polemica: per contestare la dirigenza, l&amp;#8217;informatico Jan Kuchta ha usato l&amp;#8217;intelligenza artificiale per ritrarsi come un despota ed è stato rimproverato dalla commissione che gestiva il voto.&lt;/p&gt;
 &lt;p&gt;La storia è stata raccontata per primo dal sito &lt;a href="https://www.politico.eu/article/ecb-reprimand-of-parody-dictator-candidate-tests-staff-speech-rules/"&gt;&lt;em&gt;Politico Europe&lt;/em&gt;&lt;/a&gt;. Ha avuto risonanza, nonostante sia molto ingarbugliata per i non addetti ai lavori, per via delle precedenti lamentele di cui si era fatta portavoce la Commissione del personale e che erano finite anche su media come il &lt;a href="https://www.ft.com/content/8c8f0722-c7d4-4de2-a915-c2e4cf6fa8ce?syn-25a6b1a6=1"&gt;&lt;em&gt;Financial Times&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Durante la campagna elettorale Kuchta aveva mandato un&amp;#8217;email a tutto il personale, vista anche dal &lt;em&gt;Post&lt;/em&gt;, in cui si presentava come «ammiraglio generale Jan Aladeen Kuchta», come il protagonista del film &lt;a href="https://www.ilpost.it/2011/06/13/sacha-baron-cohen-the-dictator/"&gt;&lt;em&gt;Il dittatore&lt;/em&gt;&lt;/a&gt; con Sacha Baron Cohen. È comune che i candidati inviino una mail collettiva, per presentare se stessi e il loro programma. Quella di Kuchta era corredata da immagini fatte con l&amp;#8217;IA del personaggio di fantasia e proponeva polemicamente di ultimare la trasformazione della BCE in una «dittatura suprema consultiva», sostenendo che avesse già una dirigenza autoritaria.&lt;/p&gt;
-&lt;div id="attachment_3614797" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3614797 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782397681-bce-campagna-generale.png" alt="L'immagine fatta con l'IA della campagna (ottenuta dal Post)" width="1200" height="892" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782397681-bce-campagna-generale.png 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x297/1782397681-bce-campagna-generale.png 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/680x505/1782397681-bce-campagna-generale.png 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/768x571/1782397681-bce-campagna-generale.png 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/800x595/1782397681-bce-campagna-generale.png 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;L&amp;#8217;immagine fatta con l&amp;#8217;IA della campagna (ottenuta dal &lt;em&gt;Post&lt;/em&gt;)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3614797"&gt;&lt;img alt="L'immagine fatta con l'IA della campagna (ottenuta dal Post)" class="wp-image-3614797 size-full" height="892" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782397681-bce-campagna-generale.png" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;L&amp;#8217;immagine fatta con l&amp;#8217;IA della campagna (ottenuta dal &lt;em&gt;Post&lt;/em&gt;)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Alcuni giorni dopo la commissione elettorale, che è slegata dalla dirigenza della BCE e viene estratta a sorte tra i dipendenti, ha fatto un richiamo a Kuchta, senza escludere la sua candidatura. Nel richiamo si contesta, con un lessico burocratico che ricorda involontariamente quello che Kuchta critica, che la campagna «eccede il livello di esagerazione retorica compatibile con gli standard etici illustrati e applicabile ai candidati in questo processo elettorale».&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/25/euro-digitale-parlamento-europeo-voto?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’euro digitale, spiegato&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;La commissione l&amp;#8217;ha accusato, in sostanza, di danneggiare l&amp;#8217;immagine della BCE. Viene ritenuto inopportuno l&amp;#8217;immaginario militaresco – il suo personaggio ha l&amp;#8217;uniforme e il simbolo dell&amp;#8217;euro addosso – con una guerra in corso in Ucraina e una in stallo in Medio Oriente. Alla fine Kuchta non è stato eletto tra i dieci membri della Commissione del personale: è arrivato 13esimo su 15 con 630 voti (la BCE ha 5.500 dipendenti, hanno votato in 2.159 sui 3.993 coi requisiti per votare).&lt;/p&gt;
 &lt;p&gt;Un rappresentante dei lavoratori della BCE sentito dal &lt;em&gt;Post&lt;/em&gt;, che chiede di restare anonimo temendo ripercussioni, dice che la campagna, al netto del lato scherzoso e provocatorio, riprendeva problemi concreti segnalati dai lavoratori e dal loro principale sindacato, l&amp;#8217;IPSO. Tra questi ci sono il carico di lavoro, che è un tema ricorrente anche di &lt;a href="https://www.instagram.com/intheinterestofservice/"&gt;una pagina di meme&lt;/a&gt; riconducibile ai dipendenti della banca, e l&amp;#8217;impressione che il networking e i favoritismi incidano sugli scatti di carriera.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="instagram" data-url="https://www.instagram.com/p/DQ0jH61iJXY/?igsh=MWU0anVzYnVxOTYzaQ%3D%3D"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p style="text-align: center;"&gt;&lt;small&gt;Un meme della pagina che contesta l&amp;#8217;attuale presidente Christine Lagarde&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Secondo il rappresentante, l&amp;#8217;intento di Kuchta non era venire eletto ma mandare un messaggio, per chiedere più meritocrazia e tutele interne. Il rappresentante dice che due anni fa Kuchta aveva fatto un&amp;#8217;altra campagna provocatoria, senza conseguenze: all&amp;#8217;epoca nell&amp;#8217;e-mail sotto elezioni si presentava come un guru, con una retorica zen che voleva sempre contrapporsi alla sua percezione dell&amp;#8217;ambiente di lavoro. Kuchta stesso, in un&amp;#8217;altra email ai colleghi vista dal &lt;em&gt;Post&lt;/em&gt;, ha raccontato il reclamo di quest&amp;#8217;anno come un tentativo di silenziarlo.&lt;/p&gt;
 &lt;p&gt;«La BCE sostiene pienamente un dialogo aperto, rispettoso e costruttivo, incluse le elezioni per il Comitato del personale. Il comitato elettorale, un organo indipendente, ha ritenuto che parti della campagna non rispettassero i requisiti e si è comportato di conseguenza», dice una portavoce della BCE sulla storia delle elezioni.&lt;/p&gt;
 &lt;p&gt;Nel 2025 il sindacato IPSO &lt;a href="https://www.ft.com/content/8c8f0722-c7d4-4de2-a915-c2e4cf6fa8ce?syn-25a6b1a6=1"&gt;si era rivolto&lt;/a&gt; alla Corte di giustizia dell&amp;#8217;Unione Europea con accuse analoghe a quelle di Kuchta, attribuendo alla BCE un tentativo di «censurare» e «intimidire» il personale. Il sindacato si era mosso dopo che una funzionaria della BCE aveva chiesto al presidente del Comitato del personale Carlos Bowles, riconfermato alle elezioni di questi giorni, di non fare altre interviste coi media dopo una al giornale tedesco &lt;a href="https://www.boersen-zeitung.de/konjunktur-politik/ezb-personalratschef-erhebt-schwere-anschuldigungen"&gt;&lt;em&gt;Börsen-Zeitung&lt;/em&gt;&lt;/a&gt; in cui Bowles aveva presentato i risultati di &lt;a href="https://www.ipso.de/wordpress/wp-content/uploads/2025/04/2025_04_29-Press-Release-IPSOs-ECB-staff-survey.pdf"&gt;un sondaggio&lt;/a&gt; del sindacato.&lt;/p&gt;
 &lt;p&gt;Il 68 per cento delle persone intervistate per il sondaggio, a cui avevano risposto in 1.400, aveva detto di essere restio a segnalare errori o problemi ai superiori, per paura di ripercussioni. Le questioni interne alla BCE, come detto, raramente finiscono fuori dai media specializzati: a volte, il fatto che ne parlino i giornali è utile come strumento di pressione per i sindacati interni.&lt;/p&gt;
-&lt;div id="attachment_3615008" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3615008 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782405554-AP26162480847320.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782405554-AP26162480847320.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782405554-AP26162480847320.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/680x453/1782405554-AP26162480847320.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/768x512/1782405554-AP26162480847320.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/800x533/1782405554-AP26162480847320.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Christine Lagarde, la presidente della Banca Centrale Europea, a Francoforte, 11 giugno 2026 (AP Photo/Michael Probst)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3615008"&gt;&lt;img alt="" class="wp-image-3615008 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782405554-AP26162480847320.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Christine Lagarde, la presidente della Banca Centrale Europea, a Francoforte, 11 giugno 2026 (AP Photo/Michael Probst)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;La BCE ha sede a Francoforte, in Germania, ma per statuto è un&amp;#8217;entità extraterritoriale. Dunque può adottare regole proprie anche in materia di organizzazione del lavoro: per esempio, quelle per l&amp;#8217;elezione della Commissione del personale &lt;a href="https://www.politico.eu/article/ecb-eyes-changes-to-staff-committee-fueling-fresh-tensions/"&gt;erano state cambiate&lt;/a&gt; prima di queste elezioni, allo scopo dichiarato di aumentare la rappresentatività dell&amp;#8217;organo. L&amp;#8217;IPSO aveva contestato la modifica delle regole, che tra le altre cose limitavano il tempo che i membri possono dedicare ai lavori della Commissione.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/11/banca-centrale-europea-aumenta-tassi-interesse-giugno-2026/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La Banca Centrale Europea ha alzato i tassi di interesse per la prima volta da quasi tre anni&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;La BCE ha un ricambio basso tra i lavoratori dipendenti, attorno all&amp;#8217;1,4 per cento all&amp;#8217;anno, che per via dei buoni salari e dei benefit tendono a restare. È assai più alto quello tra gli stagisti, che stanno tra i 6 mesi e 12 mesi: il loro lavoro è essenziale soprattutto per le divisioni della banca centrale dove negli ultimi anni è stato ridotto il budget per nuove assunzioni. Le barriere all&amp;#8217;ingresso e la stabilità dell&amp;#8217;organico fanno sì che la stasi nella carriera sia una delle principali lamentele.&lt;/p&gt;
-&lt;p&gt;Peraltro la campagna elettorale si è tenuta in un periodo molto intenso per la BCE, che l&amp;#8217;&lt;a href="https://www.ilpost.it/2026/06/11/banca-centrale-europea-aumenta-tassi-interesse-giugno-2026/"&gt;11 giugno&lt;/a&gt; ha alzato i tassi d&amp;#8217;interesse per la prima volta da quasi tre anni e lavora ad alto ritmo per aggiornare le sue previsioni, a volte da un giorno all&amp;#8217;altro, in base all&amp;#8217;andamento della guerra in Medio Oriente e dei negoziati tra Iran e Stati Uniti.&lt;/p&gt;
-</description>
+&lt;p&gt;Peraltro la campagna elettorale si è tenuta in un periodo molto intenso per la BCE, che l&amp;#8217;&lt;a href="https://www.ilpost.it/2026/06/11/banca-centrale-europea-aumenta-tassi-interesse-giugno-2026/"&gt;11 giugno&lt;/a&gt; ha alzato i tassi d&amp;#8217;interesse per la prima volta da quasi tre anni e lavora ad alto ritmo per aggiornare le sue previsioni, a volte da un giorno all&amp;#8217;altro, in base all&amp;#8217;andamento della guerra in Medio Oriente e dei negoziati tra Iran e Stati Uniti.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/bce-elezione-critiche-dipendenti</guid>
-      <pubDate>Thu, 25 Jun 2026 18:42:58 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 16:42:58 +0000</pubDate>
       <dc:creator>Matteo Castellucci</dc:creator>
     </item>
     <item>
       <title>Come vanno i controlli dell’anticorruzione sui medici gettonisti</title>
       <link>https://www.ilpost.it/2026/06/25/controlli-medici-gettonisti-anac</link>
       <description>&lt;p&gt;&lt;em&gt;Hanno scoperto che molti ospedali continuano a non rispettare la legge, individuando i trucchi che usano per farlo&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782400551-AP20198386897804.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782400551-AP20198386897804.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Nell’ultimo anno l’autorità nazionale anticorruzione (Anac) ha continuato a tenere d’occhio ogni singolo appalto di ospedali e aziende sanitarie per controllare le assunzioni dei gettonisti, i medici e gli infermieri forniti da cooperative o agenzie private, pagati a ore. La conclusione del report, &lt;a href="https://www.anticorruzione.it/-/news.report.ssn.gettonisti.23.06.2026"&gt;diffuso martedì dall’Anac&lt;/a&gt;, ha confermato quello che il &lt;em&gt;Post&lt;/em&gt; &lt;a href="https://www.ilpost.it/2026/05/13/gettonisti-ospedali/"&gt;aveva ricostruito&lt;/a&gt; a maggio in un’inchiesta che aveva analizzato allo stesso modo tutti i contratti delle aziende sanitarie italiane: il divieto di assumere gettonisti, introdotto il 31 luglio del 2025, non ha funzionato.&lt;/p&gt;
 &lt;p&gt;I dati dell’Anac dicono che tra il 2024 e il 2025 le aziende sanitarie hanno fatto contratti ai gettonisti per oltre un miliardo di euro, con un aumento della spesa del 15 per cento tra il 2024 e il 2025. Sono aumentati soprattutto i contratti dei medici – di molto: del 62 per cento – mentre per gli infermieri c’è stata una diminuzione.&lt;/p&gt;
 &lt;p&gt;Tutto è successo anche se il governo è intervenuto più volte prima per limitare e poi per vietare questi contratti. Nel 2023 aveva approvato un decreto che consentiva di assumere gettonisti solo in caso di necessità e urgenza, una sola volta e senza proroghe. Nell’ottobre del 2024 il ministero della Salute aveva pubblicato alcune linee guida che chiedevano di escludere contratti più lunghi di 12 mesi. Infine nel 2025 sempre il governo aveva introdotto il divieto totale di firmare nuovi contratti, che però poche aziende rispettano.&lt;/p&gt;
@@ -163,110 +156,102 @@
 &lt;p&gt;Busìa lo definisce un «circolo vizioso, accresciuto negli ultimi anni da un’irragionevole concorrenza tra le diverse aziende sanitarie». Altre conseguenze, dice, sono contratti più costosi per la pubblica amministrazione, prestazioni sanitarie inadeguate, rischi per i pazienti, mancata valorizzazione del personale interno, in definitiva un impoverimento della sanità pubblica.&lt;/p&gt;
 &lt;p&gt;«Ci sono stati dei controlli attraverso i Nas e ci saranno altri controlli», ha detto il ministro della Salute Orazio Schillaci. Una delle ipotesi allo studio è rivedere il modo in cui i contratti vengono rilevati dal ministero, per avere dati più frequenti, ogni tre mesi o ogni mese, e accorgersi prima se le aziende rispettano le norme. È però un tema politicamente delicato perché il controllo spetta alle regioni, che in Italia gestiscono almeno in parte la sanità e che negli ultimi anni si sono opposte più volte a qualsiasi tipo di intervento del ministero.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/05/13/gettonisti-ospedali/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Come gli ospedali italiani aggirano il divieto di assumere gettonisti&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/05/13/gettonisti-ospedali/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Come gli ospedali italiani aggirano il divieto di assumere gettonisti&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/controlli-medici-gettonisti-anac</guid>
-      <pubDate>Thu, 25 Jun 2026 18:33:45 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 16:33:45 +0000</pubDate>
       <dc:creator>Isaia Invernizzi</dc:creator>
     </item>
     <item>
       <title>Apple ha aumentato i prezzi di molti suoi prodotti, per via del costo crescente dei microchip</title>
       <link>https://www.ilpost.it/2026/06/25/apple-aumento-prezzi-microchip</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782403767-AP26063743337640.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782403767-AP26063743337640.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Apple ha aumentato i prezzi di molti suoi prodotti in modo significativo, con variazioni tra il 15 e 25 per cento, a causa del costo crescente dei microchip usati per la memoria. Per ora gli aumenti non riguardano gli iPhone né accessori come i telefoni o gli accessori, ma principalmente i computer portatili e i tablet.&lt;/p&gt;
 &lt;p&gt;Per esempio, il MacBook Neo con uno spazio di archivazione da 256 gigabyte (la versione più economica dei computer portatili prodotti da Apple) è passato da 699 a 799 euro. Il modello più economico del MacBook Pro è passato da 2.599 euro a 2.999. Il modello base e più economico dell&amp;#8217;iPad è passato da 409 a 509 euro. Gli aumenti di prezzo tendono a essere ancora più rilevanti per modelli superiori.&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;aumento del costo dei microchip è legato soprattutto all&amp;#8217;aumento della loro domanda sul mercato, per via del loro utilizzo nei data center usati per l&amp;#8217;intelligenza artificiale. L&amp;#8217;amministratore delegato di Apple, Tim Cook, in un&amp;#8217;intervista della settimana scorsa al &lt;a href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1"&gt;&lt;em&gt;Wall Street Journal&lt;/em&gt;&lt;/a&gt; aveva detto che la situazione stava diventando insostenibile, e che l&amp;#8217;aumento dei prezzi è «inevitabile». Altre aziende tecnologiche come Lenovo, Dell e HP hanno aumentato i prezzi dei loro prodotti nei mesi scorsi, sempre per lo stesso motivo.&lt;/p&gt;
-</description>
+&lt;p&gt;L&amp;#8217;aumento del costo dei microchip è legato soprattutto all&amp;#8217;aumento della loro domanda sul mercato, per via del loro utilizzo nei data center usati per l&amp;#8217;intelligenza artificiale. L&amp;#8217;amministratore delegato di Apple, Tim Cook, in un&amp;#8217;intervista della settimana scorsa al &lt;a href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1"&gt;&lt;em&gt;Wall Street Journal&lt;/em&gt;&lt;/a&gt; aveva detto che la situazione stava diventando insostenibile, e che l&amp;#8217;aumento dei prezzi è «inevitabile». Altre aziende tecnologiche come Lenovo, Dell e HP hanno aumentato i prezzi dei loro prodotti nei mesi scorsi, sempre per lo stesso motivo.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/apple-aumento-prezzi-microchip</guid>
-      <pubDate>Thu, 25 Jun 2026 18:16:21 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 16:16:21 +0000</pubDate>
       <dc:creator>Rodolfo Toe</dc:creator>
     </item>
     <item>
       <title>L’Europa al caldo, con le foto</title>
       <link>https://www.ilpost.it/2026/06/25/caldo-europa-foto</link>
-      <description>&lt;p&gt;&lt;em&gt;Con tanti classici e sempre utili protagonisti: ventilatori portatili, ombrelli, fontanelle e ventagli &#13;
+      <description>&lt;p&gt;&lt;em&gt;Con tanti classici e sempre utili protagonisti: ventilatori portatili, ombrelli, fontanelle e ventagli 
 &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782400022-AP26175628723712.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782400022-AP26175628723712.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;ondata di calore in corso in Italia e in gran parte dell&amp;#8217;Europa ha portato le temperature massime a raggiungere i 35-37 gradi e le minime a superare i 25 gradi, anche di notte. Come succede spesso d&amp;#8217;estate, l&amp;#8217;ondata è dovuta a un grande anticiclone subtropicale-desertico (o anticiclone africano), e intensifica il calore dovuto a un generale aumento delle temperature in corso da decenni: &lt;a href="https://www.ilpost.it/2026/06/24/temperature-caldo-comuni-italiani/"&gt;in questa infografica&lt;/a&gt; realizzata dal &lt;em&gt;Post&lt;/em&gt; si può consultare quanto è aumentata la temperatura nel proprio comune, in Italia.&lt;/p&gt;
 &lt;p&gt;Negli ultimi giorni comuni e regioni hanno emesso &lt;a href="https://www.ilpost.it/2026/06/20/regole-troppo-caldo-lavoro/"&gt;ordinanze&lt;/a&gt; e divieti per i lavoratori e le lavoratrici più esposte al calore e &lt;a href="https://www.ilpost.it/2026/06/24/citta-ondate-calore-piani-caldo-rifugi-climatici/"&gt;potenziato&lt;/a&gt; l&amp;#8217;assistenza agli anziani e alle persone fragili; a Firenze, nel frattempo, l&amp;#8217;aria condizionata della Galleria degli Uffizi – frequentatissima ogni anno da tantissimi turisti – è andata in sovraccarico è si è rotta.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-20t124803z_259941739_rc2mxladuw3b_rtrmadp_3_europe-weather-italy-heatwave/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/680x453/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/768x512/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/800x533/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x267/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3614850 gallery-columns-9 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-20t124803z_259941739_rc2mxladuw3b_rtrmadp_3_europe-weather-italy-heatwave/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-25t130525z_1708725743_rc211maq3x0r_rtrmadp_3_europe-weather-germany/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399764-2026-06-25T130525Z_1708725743_RC211MAQ3X0R_RTRMADP_3_EUROPE-WEATHER-GERMANY.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-20t184244z_1105347774_rc2sxlavvcqt_rtrmadp_3_europe-weather-italy-heatwave/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399759-2026-06-20T184244Z_1105347774_RC2SXLAVVCQT_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2283150484/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399822-GettyImages-2283150484.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175600523875/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399799-AP26175600523875.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282991577/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399816-GettyImages-2282991577.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174546271102/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399779-AP26174546271102.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 130w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/400x279/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/680x474/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/768x535/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/800x558/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg 980w" sizes="(max-width: 130px) 100vw, 130px" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/persone-si-rinfrescano-in-piscina-milano-24-giugnoap-photo-luca-bruno/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399790-AP26175465244015.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175469947451/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399795-AP26175469947451.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282552950/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399805-GettyImages-2282552950.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174393063022/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399769-AP26174393063022.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282620320/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399811-GettyImages-2282620320.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175342557084/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399785-AP26175342557084.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175628723712-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782400091-AP26175628723712.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174472818348/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399774-AP26174472818348.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2283150504/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399828-GettyImages-2283150504.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/25/caldo-europa-foto/ilpost_20260625154637994_083b287359c12faa3c70bafa8f3cd331/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399838-ilpost_20260625154637994_083b287359c12faa3c70bafa8f3cd331.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3614850 gallery-columns-9 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-20t124803z_259941739_rc2mxladuw3b_rtrmadp_3_europe-weather-italy-heatwave/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399754-2026-06-20T124803Z_259941739_RC2MXLADUW3B_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-25t130525z_1708725743_rc211maq3x0r_rtrmadp_3_europe-weather-germany/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399764-2026-06-25T130525Z_1708725743_RC211MAQ3X0R_RTRMADP_3_EUROPE-WEATHER-GERMANY.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/2026-06-20t184244z_1105347774_rc2sxlavvcqt_rtrmadp_3_europe-weather-italy-heatwave/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399759-2026-06-20T184244Z_1105347774_RC2SXLAVVCQT_RTRMADP_3_EUROPE-WEATHER-ITALY-HEATWAVE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2283150484/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399822-GettyImages-2283150484.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175600523875/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399799-AP26175600523875.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282991577/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399816-GettyImages-2282991577.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174546271102/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399779-AP26174546271102.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399833-ilpost_20260625154555469_20c27a73a1e9922c8018d50644053568.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/persone-si-rinfrescano-in-piscina-milano-24-giugnoap-photo-luca-bruno/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399790-AP26175465244015.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175469947451/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399795-AP26175469947451.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282552950/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399805-GettyImages-2282552950.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174393063022/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399769-AP26174393063022.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2282620320/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399811-GettyImages-2282620320.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175342557084/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399785-AP26175342557084.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26175628723712-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782400091-AP26175628723712.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ap26174472818348/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399774-AP26174472818348.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/gettyimages-2283150504/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399828-GettyImages-2283150504.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/25/caldo-europa-foto/ilpost_20260625154637994_083b287359c12faa3c70bafa8f3cd331/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/130x91/1782399838-ilpost_20260625154637994_083b287359c12faa3c70bafa8f3cd331.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
-&lt;p&gt;Anche oggi, come nei giorni scorsi, nelle città le persone hanno cercato di ripararsi dal caldo in vari modi: le fotografie scattate in Europa ritraggono persone con ombrelli, ventilatori e ventagli, ma anche con cartine geografiche usate per ripararsi dal sole; molte persone si sono tuffate, immerse o addirittura sdraiate all&amp;#8217;interno di fontane, oppure hanno utilizzato gli spruzzi di vapore usati per rinfrescare i locali come una specie di doccia. Ci sono molte facce affaticate, foto di piscine piene, e di operai che lavorano sotto il sole all&amp;#8217;interno di cantieri roventi.&lt;/p&gt;
-</description>
+&lt;p&gt;Anche oggi, come nei giorni scorsi, nelle città le persone hanno cercato di ripararsi dal caldo in vari modi: le fotografie scattate in Europa ritraggono persone con ombrelli, ventilatori e ventagli, ma anche con cartine geografiche usate per ripararsi dal sole; molte persone si sono tuffate, immerse o addirittura sdraiate all&amp;#8217;interno di fontane, oppure hanno utilizzato gli spruzzi di vapore usati per rinfrescare i locali come una specie di doccia. Ci sono molte facce affaticate, foto di piscine piene, e di operai che lavorano sotto il sole all&amp;#8217;interno di cantieri roventi.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/caldo-europa-foto</guid>
-      <pubDate>Thu, 25 Jun 2026 18:03:53 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 16:03:53 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
