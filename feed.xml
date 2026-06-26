@@ -7,47 +7,259 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Fri, 26 Jun 2026 05:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:01:16 +0000</lastBuildDate>
+    <item>
+      <title>Le prime pagine di oggi</title>
+      <link>https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600</link>
+      <description>&lt;p&gt;&lt;em&gt;Il terremoto in Venezuela, l&amp;#x27;incontro fra Macron e Meloni, le minacce iraniane all&amp;#x27;Italia, e le dimissioni dell&amp;#x27;amministratore delegato di Ferrovie dello Stato&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782450524-la_repubblica_apertura.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;Ci sono notizie diverse in apertura sui giornali di oggi: alcuni titolano sulle forti scosse di terremoto che hanno colpito il Venezuela mercoledì, provocando oltre duecento morti secondo i primi bilanci ancora parziali e probabilmente destinati a salire, altri si occupano dell’incontro ad Antibes, in Francia, fra il presidente francese Macron e la presidente del Consiglio Meloni, altri ancora seguono la situazione della società Ferrovie dello Stato, con le dimissioni annunciate dell’amministratore delegato Donnarumma dopo un incontro ieri mattina con il ministro dei Trasporti Salvini; qualche giornale apre poi sulle accuse del governo iraniano all’Italia di aver partecipato alle operazioni militari degli Stati Uniti contro l’Iran, dopo le dichiarazioni del segretario generale della NATO Rutte sull’utilizzo da parte degli aerei statunitensi delle basi militari in Italia.&lt;/p&gt;
+
+ &lt;style&gt;
+ .single-post-new article figure.split-gal-el .photo-container .arrow::after {
+ content: 'LE ALTRE FOTO';
+ }
+ &lt;/style&gt;
+ 
+ &lt;div id="gallery-new" class="split-gal"&gt;
+ &lt;figure class="split-gal-el"&gt;
+ &lt;div class="photo-container"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/1_corriere_della_sera-1091/" title="vai alla fotogallery"&gt;
+ &lt;img loading="lazy" decoding="async" width="400" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/400x605/1782449716-1_corriere_della_sera.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/400x605/1782449716-1_corriere_della_sera.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782449716-1_corriere_della_sera.jpg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
+ &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3615241 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/1_corriere_della_sera-1091/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449716-1_corriere_della_sera.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/2_la_repubblica-1071/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449720-2_la_repubblica.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/3_la_stampa-1058/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449725-3_la_stampa.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/4_il_sole_24_ore-1736/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449729-4_il_sole_24_ore.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/5_il_messaggero-1735/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449733-5_il_messaggero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/20260626_ilgiornale_rib_1-r3_p0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449739-6_giornale.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/nazionale-1-manifesto-primapagina-pag01-26-06-3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449743-7_manifesto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/8_avvenire-1432/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449746-8_avvenire.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/9_il_fatto_quotidiano-1742/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449751-9_il_fatto_quotidiano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/10_verita-1101/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449756-10_verita.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/11_libero-1096/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449760-11_libero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/12_domani-1090/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449765-12_domani.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/13_il_dubbio-901/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449769-13_il_dubbio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/14_il_riformista-1331/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449774-14_il_riformista.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/15_l_unita-695/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449779-15_l_unita.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/15_la_notizia-1294/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449782-15_la_notizia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/16_osservatore_romano-1292/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449787-16_osservatore_romano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/17_foglio-1598/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449791-17_foglio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/18_il_secolo_xix-684/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449796-18_il_secolo_xix.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/19_il_mattino-1589/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449800-19_il_mattino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/20_il_resto_del_carlino-1272/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449805-20_il_resto_del_carlino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/21_il_gazzettino-1587/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449810-21_il_gazzettino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/22_il_tempo-1551/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449814-22_il_tempo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/24_milano_finanza-975/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449819-24_milano_finanza.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/25_italia_oggi-1165/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449824-25_italia_oggi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/27_la_gazzetta_del_mezzogiorno-1060/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449829-27_la_gazzetta_del_mezzogiorno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/28_l_eco_di_bergamo-1091/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449833-28_l_eco_di_bergamo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/29_il_piccolo-619/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449837-29_il_piccolo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/30_giornale_di_sicilia-1057/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449842-30_giornale_di_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/31_la_nuova_sardegna-1077/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449847-31_la_nuova_sardegna.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/32_la_sicilia-1066/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449852-32_la_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/33_il_mattino_di_padova-583/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449857-33_il_mattino_di_padova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/34_l_unione_sarda-1019/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449862-34_l_unione_sarda.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/35_messaggero_veneto-617/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449867-35_messaggero_veneto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/36_gazzetta_di_mantova-1002/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449872-36_gazzetta_di_mantova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/37_il_tirreno-1054/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449877-37_il_tirreno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/38_leggo-850/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449881-38_leggo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/39_la_nuova_di_venezia_e_mestre-47/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449886-39_la_nuova_di_venezia_e_mestre.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/39_metro_today-38/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449891-39_metro_today.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/40_giornale_di_brescia-1083/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449895-40_giornale_di_brescia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/41_la_nuova_ferrara-1076/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449900-41_la_nuova_ferrara.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/42_gazzetta_di_modena-1079/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449905-42_gazzetta_di_modena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/43_l_arena-1080/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449911-43_l_arena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/44_il_centro-47/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449917-44_il_centro.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/20260626-como-dorso1-pag1-co_prim/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449921-45_provincia_como.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/46_gazzetta_di_parma-42/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449924-46_gazzetta_di_parma.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/47_l_adige-886/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449928-47_l_adige.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/48_gazzetta_del_sud_messina_sicilia-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449933-48_gazzetta_del_sud_messina_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/49_corriere_delle_alpi-583/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449937-49_corriere_delle_alpi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/50_il_t-537/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449942-50_il_t.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/50_la_citta_di_salerno-40/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449947-50_la_citta_di_salerno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/51_il_quotidiano_del_sud-1078/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449952-51_il_quotidiano_del_sud.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/52_corriere_dell_umbria-1003/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449957-52_corriere_dell_umbria.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/56_la_prealpina-1070/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449962-56_la_prealpina.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/57_corriere_del_ticino-363/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449967-57_corriere_del_ticino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/58_la_gazzetta_dello_sport-1094/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449971-58_la_gazzetta_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/59_corriere_dello_sport-1091/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449976-59_corriere_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon portrait'&gt;
+ &lt;a href='https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600/60_tuttosport-1092/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/130x91/1782449982-60_tuttosport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
+
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/06/26/le-prime-pagine-di-oggi-4600</guid>
+      <pubDate>Fri, 26 Jun 2026 07:08:54 +0200</pubDate>
+      <dc:creator>Nicola Sofri</dc:creator>
+    </item>
+    <item>
+      <title>A Parigi per il caldo estremo sarà vietato bere alcol all’aperto</title>
+      <link>https://www.ilpost.it/2026/06/26/parigi-alcol-divieto-aperto</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782450109-AP26175600523875.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;A Parigi da mezzogiorno di venerdì sarà vietato bere alcol all&amp;#8217;aperto: la misura è stata decisa dalla polizia per via della persistente ondata di calore che sta colpendo l&amp;#8217;Europa, la Francia e la città in particolare, con temperature vicine ai 40 gradi. Il divieto di consumare alcol ha l&amp;#8217;obiettivo di allentare la pressione sugli ospedali parigini che secondo il capo della polizia parigina Patrice Faure stanno «raggiungendo un punto di saturazione». Il ministro della Sanità francese Stéphanie Rist ha detto che in città i servizi d&amp;#8217;emergenza hanno dovuto fronteggiare un numero di arresti cardiaci quattro volte superiore al normale.&lt;/p&gt;
+&lt;p&gt;Il divieto di bere alcol all&amp;#8217;aperto inizierà alle 12 e durerà fino alle 7 di mattina di sabato e poi si ripeterà negli stessi orari anche fra sabato e domenica. Non riguarderà bar e ristoranti che hanno tavoli all&amp;#8217;aperto, mentre negli stessi giorni la vendita di alcolici da asporto sarà vietata dalle 6 del pomeriggio alle 7 di mattina. In Francia domenica scorsa era già stato vietato &lt;a href="https://www.ilpost.it/2026/06/21/divieto-consumo-alcol-francia-festa-musica/"&gt;il consumo di alcol nei concerti&lt;/a&gt;, mentre la città di Parigi aveva organizzato varie misure per gestire il caldo estremo, come &lt;a href="https://www.ilpost.it/2026/06/24/parigi-ondata-calore-caldo-gestione/"&gt;la Senna balneabile e le &amp;#8220;isole di freschezza&amp;#8221;&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/06/26/parigi-alcol-divieto-aperto</guid>
+      <pubDate>Fri, 26 Jun 2026 07:06:38 +0200</pubDate>
+      <dc:creator>Valerio Clari</dc:creator>
+    </item>
     <item>
       <title>L’Iran ha attaccato una nave portacontainer che non seguiva una rotta concordata nello stretto di Hormuz</title>
       <link>https://www.ilpost.it/2026/06/26/iran-nave-stretto-hormuz-attacco</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782448514-AP26168698036123.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782448514-AP26168698036123.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Nella serata di giovedì l&amp;#8217;Iran ha attaccato con un drone una nave portacontainer che stava attraversando lo stretto di Hormuz: dopo l&amp;#8217;attacco la circolazione nello stretto è stata sospesa. La nave Ever Lovely della Evergreen Marine, una compagnia navale di Taiwan, stava percorrendo la rotta vicino alle coste dell&amp;#8217;Oman e non quella più a nord, lungo le coste iraniane. I Guardiani della Rivoluzione iraniani sostengono che quella rotta sia pericolosa e non percorribile e che tutte le navi debbano concordare i termini del loro passaggio con il regime. Per questo alcune ore prima dell&amp;#8217;attacco avevano avvertito tutte le navi di non procedere su rotte alternative, confermando la volontà dell&amp;#8217;Iran di controllare il traffico nello stretto.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/UK_MTO/status/2070160682264269241"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;Secondo &lt;a href="https://www.ilpost.it/2026/06/15/tutte-le-cose-che-non-sappiamo-sullaccordo-fra-stati-uniti-e-iran/"&gt;il preaccordo con gli Stati Uniti del 15 giugno&lt;/a&gt;, la circolazione navale nello stretto sarà libera per 60 giorni, mentre in seguito l&amp;#8217;Iran si riserva la possibilità di far pagare una tassa per il passaggio: nella formulazione dell&amp;#8217;accordo si legge comunque che le navi devono concordare le modalità del passaggio con le autorità iraniane. Prima dell&amp;#8217;attacco la circolazione nello stretto era sostenuta: mercoledì 70 navi, fra cui 29 petroliere, l&amp;#8217;avevano attraversato, il numero più alto dall&amp;#8217;inizio della guerra.&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border-image: initial; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/26/iran-nave-stretto-hormuz-attacco</guid>
-      <pubDate>Fri, 26 Jun 2026 06:40:50 +0200</pubDate>
+      <pubDate>Fri, 26 Jun 2026 04:40:50 +0000</pubDate>
       <dc:creator>Valerio Clari</dc:creator>
     </item>
     <item>
       <title>Ci sono ancora centinaia di dispersi per i terremoti in Venezuela</title>
       <link>https://www.ilpost.it/2026/06/26/ricerca-centinaia-dispersi-terremoti-venezuela</link>
       <description>&lt;p&gt;&lt;em&gt;I soccorritori continuano a scavare sotto le macerie: almeno 235 persone sono morte e oltre 4.300 sono state ferite&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782447391-GettyImages-2283364368.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782447391-GettyImages-2283364368.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;In Venezuela i soccorritori stanno cercando centinaia di persone intrappolate sotto le macerie degli edifici crollati per i due terremoti che mercoledì hanno colpito il paese vicino alla capitale Caracas. Almeno 235 persone sono morte e che ci sono più di 4.300 feriti, ma i numeri probabilmente cresceranno. È complicato fare una stima dei dispersi: il governo ha detto che sono centinaia, anche se l’ultimo dato ufficiale parlava di 157 persone.&lt;/p&gt;
 &lt;p&gt;La prima scossa, di magnitudo 7.2, è avvenuta alle 18:04 ora locale di mercoledì, quando in Italia era passata da poco la mezzanotte, a circa 160 chilometri a ovest di Caracas. Meno di un minuto dopo ne è arrivata una seconda, di magnitudo 7.5. Entrambe sono state superficiali — secondo il servizio geologico statunitense (USGS) la prima a 20,3 chilometri di profondità, la seconda a 10 — e questo ha reso i danni più gravi. Secondo l&amp;#8217;USGS la seconda scossa è la più forte registrata in Venezuela dal 1900. Mercoledì era un giorno festivo, quindi più persone del solito erano in casa.&lt;/p&gt;
 &lt;p&gt;La zona con più danni è quella attorno a La Guaira, sulla costa a nord della capitale, dove Jorge Rodríguez, presidente dell&amp;#8217;assemblea nazionale e fratello della presidente ad interim Delcy Rodríguez, ha detto che sono collassati «decine di edifici». In tutto, ha aggiunto, gli edifici danneggiati o distrutti sono circa 250. Tra gli edifici gravemente danneggiati ci sono almeno otto ospedali, la sede della Croce Rossa venezuelana e l&amp;#8217;ambasciata francese.&lt;/p&gt;
-&lt;p&gt;La presidente Rodríguez ha dichiarato lo stato di emergenza nazionale. Ha detto di aver sospeso l&amp;#8217;erogazione del gas per evitare perdite che possano causare esplosioni, e che le scuole resteranno chiuse fino alla fine della settimana. In diverse zone sono saltate anche le forniture di acqua per i danni del terremoto, e a Caracas ci sono blackout in alcune aree. Sono state sospese le attività non essenziali e, nella capitale, anche treni e metropolitane. È stato chiuso l&amp;#8217;aeroporto internazionale Simón Bolívar, a Maiquetía vicino a Caracas, che ha subito gravi danni.&lt;/p&gt;
-</description>
+&lt;p&gt;La presidente Rodríguez ha dichiarato lo stato di emergenza nazionale. Ha detto di aver sospeso l&amp;#8217;erogazione del gas per evitare perdite che possano causare esplosioni, e che le scuole resteranno chiuse fino alla fine della settimana. In diverse zone sono saltate anche le forniture di acqua per i danni del terremoto, e a Caracas ci sono blackout in alcune aree. Sono state sospese le attività non essenziali e, nella capitale, anche treni e metropolitane. È stato chiuso l&amp;#8217;aeroporto internazionale Simón Bolívar, a Maiquetía vicino a Caracas, che ha subito gravi danni.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/26/ricerca-centinaia-dispersi-terremoti-venezuela</guid>
-      <pubDate>Fri, 26 Jun 2026 06:28:42 +0200</pubDate>
+      <pubDate>Fri, 26 Jun 2026 04:28:42 +0000</pubDate>
       <dc:creator>Isaia Invernizzi</dc:creator>
     </item>
     <item>
       <title>La Corte Suprema degli Stati Uniti ha preso due decisioni molto favorevoli alle posizioni di Trump sull’immigrazione</title>
       <link>https://www.ilpost.it/2026/06/25/corte-suprema-stati-uniti-immigrazione-trump</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782421696-migranti.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782421696-migranti.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Giovedì la Corte Suprema degli Stati Uniti &lt;a href="https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html"&gt;ha preso&lt;/a&gt; due decisioni che agevolano la linea molto dura che il presidente Donald Trump ha adottato nei confronti dell’immigrazione irregolare. Sono due sentenze, entrambe emesse con 6 voti contrari e 3 favorevoli, rispettivamente dei giudici conservatori e progressisti della Corte, che negli ultimi anni si è progressivamente spostata a destra sostenendo in maniera più o meno netta alcune posizioni di Trump, soprattutto sui diritti.&lt;/p&gt;
-&lt;p&gt;La prima sentenza permette in sostanza a Trump di interrompere le misure di protezione giuridica nei confronti di persone migranti che &lt;a href="https://apnews.com/live/trump-administration-updates-06-25-2026#0000019e-ff2f-d60f-a1bf-ffaf76530000"&gt;fuggono&lt;/a&gt; da violenze o disastri naturali, e che finora hanno permesso a migliaia di persone provenienti soprattutto da Haiti e dalla Siria di vivere e lavorare legalmente all&amp;#8217;interno degli Stati Uniti. La seconda sentenza permetterà invece a Trump di &lt;span draggable="true"&gt;&lt;a href="https://apnews.com/article/supreme-court-immigration-trump-d36d0092617c7115780c06de38e2000f" target="_blank" rel="noopener noreferrer"&gt;ripristinare&lt;/a&gt;&lt;/span&gt; la contestata del &lt;i&gt;&lt;span draggable="true"&gt;&lt;a href="https://www.politico.com/news/2026/06/25/asylum-seekers-mexico-border-trump-administration-00975589" target="_blank" rel="noopener noreferrer"&gt;metering&lt;/a&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;,&lt;/i&gt; che permette di respingere fisicamente i migranti al confine tra Texas e Messico senza valutare le loro richieste: è una misura che fu introdotta durante la presidenza di Barack Obama, usata durante il primo mandato di Trump e poi interrotta da Joe Biden nel 2021.&lt;/p&gt;
-</description>
+&lt;p&gt;La prima sentenza permette in sostanza a Trump di interrompere le misure di protezione giuridica nei confronti di persone migranti che &lt;a href="https://apnews.com/live/trump-administration-updates-06-25-2026#0000019e-ff2f-d60f-a1bf-ffaf76530000"&gt;fuggono&lt;/a&gt; da violenze o disastri naturali, e che finora hanno permesso a migliaia di persone provenienti soprattutto da Haiti e dalla Siria di vivere e lavorare legalmente all&amp;#8217;interno degli Stati Uniti. La seconda sentenza permetterà invece a Trump di &lt;span draggable="true"&gt;&lt;a href="https://apnews.com/article/supreme-court-immigration-trump-d36d0092617c7115780c06de38e2000f" rel="noopener noreferrer" target="_blank"&gt;ripristinare&lt;/a&gt;&lt;/span&gt; la contestata del &lt;i&gt;&lt;span draggable="true"&gt;&lt;a href="https://www.politico.com/news/2026/06/25/asylum-seekers-mexico-border-trump-administration-00975589" rel="noopener noreferrer" target="_blank"&gt;metering&lt;/a&gt;&lt;/span&gt;&lt;/i&gt;&lt;i&gt;,&lt;/i&gt; che permette di respingere fisicamente i migranti al confine tra Texas e Messico senza valutare le loro richieste: è una misura che fu introdotta durante la presidenza di Barack Obama, usata durante il primo mandato di Trump e poi interrotta da Joe Biden nel 2021.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/corte-suprema-stati-uniti-immigrazione-trump</guid>
-      <pubDate>Thu, 25 Jun 2026 23:25:07 +0200</pubDate>
+      <pubDate>Thu, 25 Jun 2026 21:25:07 +0000</pubDate>
       <dc:creator>Alessandra Pellegrini De Luca</dc:creator>
     </item>
     <item>
@@ -1280,29 +1492,6 @@ Qualche giorno prima il sindaco di Parigi Emmanuel Grégoire aveva annunciato ch
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/24/spacex-starfall</guid>
       <pubDate>Wed, 24 Jun 2026 13:09:15 +0000</pubDate>
       <dc:creator>Il Post</dc:creator>
-    </item>
-    <item>
-      <title>A Brescia venti persone sono indagate con l’accusa di aver smaltito illegalmente oltre 26mila tonnellate di scarti tessili</title>
-      <link>https://www.ilpost.it/2026/06/24/brescia-tonnellate-rifiuti-smaltiti-illegalmente</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/24/1782299237-ilpost_20260624130648780_6fba475557bcd623819f7271cea4aef8.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Mercoledì il giudice per le indagini preliminari del tribunale di Brescia &lt;a href="https://www.carabinieri.it/in-vostro-aiuto/informazioni/comunicati-stampa/traffico-illecito-di-rifiuti-sequestrata-azienda-e-12-milioni-di-euro-in-lombardia"&gt;ha disposto&lt;/a&gt; il sequestro di un&amp;#8217;azienda di Desenzano del Garda, Ri.te.ca, accusandola di aver smaltito illegalmente oltre 26mila tonnellate di scarti tessili. Sono stati sequestrati tutti i camion che l&amp;#8217;azienda usava per il trasporto dei rifiuti, oltre a 12 milioni di euro. La procura di Brescia sta indagando venti persone per traffico illecito di rifiuti e gestione di discarica abusiva.&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;azienda ritirava capi di abbigliamento di scarto offrendo prezzi molto bassi – in gran parte provenienti dalla Toscana – con l&amp;#8217;obiettivo dichiarato di recuperarli. Dopo averli raccolti invece li riclassificava illecitamente come “materia prima recuperata”, senza smistarli e sanificarli come previsto dalla normativa.. I rifiuti venivano poi stipati in capannoni sparsi in varie zone d&amp;#8217;Italia, che venivano affittati usando dei prestanome e diventavano poi delle discariche illegali. Sempre secondo le verifiche della procura, una parte dei rifiuti veniva anche smaltita all&amp;#8217;estero, in particolare in Turchia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/01/28/riciclo-vestiti-cassonetti-gialli-fast-fashion/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La raccolta degli abiti usati non funziona più&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/24/brescia-tonnellate-rifiuti-smaltiti-illegalmente</guid>
-      <pubDate>Wed, 24 Jun 2026 12:24:18 +0000</pubDate>
-      <dc:creator>Matilda Ferraris</dc:creator>
-    </item>
-    <item>
-      <title>Francesco Bagnaia non guiderà lascerà la Ducati alla fine del Mondiale di MotoGP</title>
-      <link>https://www.ilpost.it/2026/06/24/francesco-bagnaia-lascia-ducati-prossimo-mondiale-motogp</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/24/1782298810-AP25298286865883.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Alla fine di questo Mondiale di MotoGP il pilota Francesco &amp;#8220;Pecco&amp;#8221; Bagnaia non farà più parte della squadra Ducati Lenovo. Lo &lt;a href="https://www.ducati.com/ww/en/news/francesco-bagnaia-and-ducati-will-part-ways-at-the-end-of-the-2026-season" rel="noopener" target="_blank"&gt;ha annunciato&lt;/a&gt; la squadra stessa, che negli ultimi quattro anni ha sempre vinto il Mondiale con uno dei suoi piloti. Due volte, nel 2022 e nel 2023, ci riuscì proprio con Bagnaia.&lt;/p&gt;
-&lt;p&gt;Bagnaia è infatti il pilota che ha vinto più Mondiali nella storia della Ducati. Ha anche vinto il primo Mondiale della Ducati in 15 anni, dopo Casey Stoner nel 2007. Andò molto vicino a vincere il suo terzo Mondiale nel 2024, perso alla fine per pochi punti nei confronti dello spagnolo Jorge Martín, che guidava una moto del &amp;#8220;&lt;a href="https://www.ilpost.it/2024/11/17/martin-mondiale-motogp-2024-vittoria/" rel="noopener" target="_blank"&gt;team satellite&lt;/a&gt;&amp;#8221; della Ducati. Nel 2025, invece, Bagnaia andò meno bene: soprattutto nelle ultime gare cadde diverse volte.&lt;/p&gt;
-&lt;p&gt;È dal 2019 che Bagnaia guida una moto Ducati, del &amp;#8220;team satellite&amp;#8221; o di quello ufficiale. Claudio Domenicali, CEO della Ducati, ha detto che Bagnaia «ha scritto alcuni dei capitoli più memorabili nella storia della Ducati». Ieri, invece, la Ducati &lt;a href="https://www.ducati.com/it/it/news/e-rosso-marc-marquez-confermato-con-il-ducati-lenovo-team-per-le-stagioni-2027-e-2028" rel="noopener" target="_blank"&gt;ha rinnovato&lt;/a&gt; il contratto del pilota spagnolo Marc Márquez fino al 2028.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/24/francesco-bagnaia-lascia-ducati-prossimo-mondiale-motogp</guid>
-      <pubDate>Wed, 24 Jun 2026 11:04:39 +0000</pubDate>
-      <dc:creator>Michele Pelacci</dc:creator>
     </item>
   </channel>
 </rss>
