@@ -7,16 +7,60 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 27 Jun 2026 07:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:01:03 +0000</lastBuildDate>
+    <item>
+      <title>Quanta energia si consuma con questo caldo</title>
+      <link>https://www.ilpost.it/2026/06/27/energia-elettrica-consumi-terna-blackout-caldo-ondata-di-calore</link>
+      <description>&lt;p&gt;&lt;em&gt;La risposta breve è “tanta”, soprattutto per l&amp;#x27;aria condizionata; per la risposta completa ci vuole qualche numero e grafico&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/06/26/1782487877-GettyImages-2277821265.jpg" alt="" /&gt;&lt;/p&gt;
+
+                    
+&lt;p&gt;Durante le ondate di calore come quella attualmente in corso si crea un cortocircuito: fa caldo e si fa un uso intensivo dell&amp;#8217;aria condizionata per raffreddare le case, gli uffici, i negozi, i mezzi pubblici, e così via. Ma d&amp;#8217;altra parte gli stessi motori dell&amp;#8217;aria condizionata emettono aria calda che contribuisce a peggiorare il caldo estremo che si cerca di sopportare. Non solo, l’aria condizionata è anche una delle principali cause del riscaldamento globale, sia perché i modelli più datati impiegano gas refrigeranti che contribuiscono all’effetto serra, sia per la grande quantità di energia elettrica che consuma.&lt;/p&gt;
+&lt;p&gt;Proprio a causa dell&amp;#8217;aria condizionata in estate i consumi di energia elettrica sono molto più alti che nel resto dell’anno. La rete elettrica &lt;a href="https://www.ilpost.it/2026/06/22/rete-elettrica-perche-ci-sono-blackout-caldo/"&gt;è messa a dura prova&lt;/a&gt;, e rispetto all’inverno è molto più esposta a momenti di sovraccarico specialmente nelle ore di picco, cioè quelle in cui fa più caldo e si fa un uso più intenso del condizionatore: è per questo che nel periodo estivo sono generalmente più frequenti disservizi e blackout.&lt;/p&gt;
+&lt;p&gt;I consumi di tutta la rete li calcola Terna, società pubblica che in Italia si occupa della trasmissione ai distributori locali dell’energia elettrica sulla rete nazionale. Mercoledì 23 giugno Terna ha rilevato un picco nei consumi: alle 13:30 la potenza impegnata era di 55,3 gigawatt, il valore più alto registrato in tutto il 2026.&lt;/p&gt;
+&lt;p&gt;Il massimo storico risale a luglio del 2015, quando toccò 60,5 gigawatt. Negli anni più recenti i picchi si sono assestati su valori un po&amp;#8217; più bassi, probabilmente grazie a una maggiore efficienza degli impianti di condizionamento, non tanto perché ha fatto meno caldo: a luglio del 2023 il picco fu a 58,8 gigawatt, a luglio del 2024 a 56,9, e a luglio del 2025 a 55,54.&lt;/p&gt;
+&lt;p&gt;L’andamento dei consumi di energia elettrica in estate segue quello dell&amp;#8217;attività economica e soprattutto delle temperature: si riduce dal tardo pomeriggio fino ad arrivare al minimo la sera e la notte, quando negozi e aziende sono chiusi e fa più fresco; aumenta la mattina, quando si comincia a lavorare, e raggiunge il picco nelle ore centrali, dalle 11 alle 16, quando è più caldo.&lt;/p&gt;
+&lt;p&gt;Questo andamento produce questa specie di gobba che si vede nel grafico qui sotto.&lt;/p&gt;
+&lt;div class="flourish-embed" data-src="visualisation/29507164"&gt;&lt;/div&gt;
+&lt;p&gt;In inverno non solo i consumi sono più bassi, quindi la linea è traslata in basso, ma la gobba del grafico si sgonfia perché nelle ore centrali nella giornata non c’è necessità di tenere accese le luci. Si vede bene la differenza nel grafico qui sotto, in cui c&amp;#8217;è la curva della potenza impiegata il 22 dicembre 2025, uno dei giorni con meno luce dell&amp;#8217;anno, all&amp;#8217;opposto dei giorni di questo periodo che invece sono tra quelli che ne hanno di più.&lt;/p&gt;
+&lt;div class="flourish-embed" data-src="visualisation/29511347"&gt;&lt;/div&gt;
+&lt;p&gt;In estate più la gobba è alta e panciuta e più sono elevati e in crescita i consumi. Come si vede dal grafico qui sotto, da inizio giugno la curva si è gradualmente spostata in alto, il che significa che nell&amp;#8217;arco di tutta la giornata i consumi sono in media più alti delle scorse settimane. Le bolle sono anche diventate più panciute e alte intorno agli orari centrali, cioè quelli di picco: vuol dire che è diventato più intenso l&amp;#8217;uso di energia nelle ore centrali della giornata, a causa del caldo.&lt;/p&gt;
+&lt;p&gt;Il picco di consumi di giovedì 25 giugno, a 55,28 gigawatt alle 11:15, è più alto del 23 per cento rispetto al momento di massimo consumo del primo giovedì del mese, il 4 giugno alle 10:45, quando si era arrivati a 44,73 gigawatt.&lt;/p&gt;
+&lt;div class="flourish-embed" data-src="visualisation/29509235"&gt;&lt;/div&gt;
+&lt;p&gt;I dati mostrati finora sono in gigawatt, che indicano la potenza impiegata per rispondere alla domanda di energia di tutta l&amp;#8217;Italia. Un altro modo di vedere la questione è misurare la quantità di energia elettrica consumata, cioè i consumi effettivi fatti (e pagati in bolletta) dall&amp;#8217;intero sistema.&lt;/p&gt;
+&lt;p&gt;Dal primo al 25 giugno in Italia sono stati consumati 22.791,7 gigawattora, il 16 per cento in più rispetto ai primi 25 giorni di maggio, ovviamente perché fa più caldo. I consumi sono invece solo marginalmente superiori rispetto a giugno dell&amp;#8217;anno scorso, un mese che anche in quel caso &lt;a href="https://www.bloomberg.com/news/articles/2026-06-26/bond-traders-stunned-as-losses-on-spacex-s-new-debt-keep-growing"&gt;fu interessato da un&amp;#8217;intensa ondata di calore&lt;/a&gt;. La differenza si allarga invece se si considerano i primi 25 giorni di giugno 2024 e 2023, rispetto ai quali quest&amp;#8217;anno i consumi sono stati più alti rispettivamente del 7,8 e dell&amp;#8217;11,5 per cento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/22/rete-elettrica-perche-ci-sono-blackout-caldo/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Perché è così difficile evitare i blackout causati dal caldo&lt;/a&gt;&lt;/p&gt;
+
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/energia-elettrica-consumi-terna-blackout-caldo-ondata-di-calore</guid>
+      <pubDate>Sat, 27 Jun 2026 09:48:57 +0200</pubDate>
+      <dc:creator>Mariasole Lisciandro</dc:creator>
+    </item>
+    <item>
+      <title>OpenAI e Anthropic daranno le versioni più potenti delle loro AI a un gruppo ristretto di clienti concordati con l’amministrazione Trump</title>
+      <link>https://www.ilpost.it/2026/06/27/anthropic-openai-trump</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782544105-GettyImages-2282032931.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Venerdì OpenAI, l&amp;#8217;azienda che sviluppa il chatbot ChatGPT, ha &lt;a href="https://openai.com/index/previewing-gpt-5-6-sol/"&gt;detto&lt;/a&gt; che rilascerà una versione più potente di ChatGPT, GPT‑5.6 Sol, solo per un gruppo ristretto di clienti, concordati con l&amp;#8217;amministrazione statunitense di Donald Trump. Qualche ora dopo Anthropic, l’azienda che sviluppa il chatbot Claude, ha &lt;a href="https://x.com/AnthropicAI/status/2070665903440871779"&gt;detto&lt;/a&gt; che l&amp;#8217;amministrazione Trump ha acconsentito al rilascio dell&amp;#8217;ultima versione del suo chatbot, Claude Mythos 5. Anche in questo caso però sarà rilasciato solo a un numero ristretto di aziende statunitensi che «gestiscono e proteggono infrastrutture critiche». &lt;span style="font-size: 17px;"&gt;La decisione rappresenta un allentamento delle restrizioni imposte dall&amp;#8217;amministrazione Trump due settimane fa. Allora il governo aveva chiesto ad Anthropic di &lt;/span&gt;&lt;a style="font-size: 17px;" href="https://www.anthropic.com/news/fable-mythos-access"&gt;disattivare&lt;/a&gt;&lt;span style="font-size: 17px;"&gt; due dei suoi modelli più avanzati di intelligenza artificiale, Mythos 5 e Fable 5, per le persone o gli enti stranieri.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;OpenAI ha detto di considerare questa limitazione una fase temporanea e di aspettarsi una distribuzione più ampia del modello nelle prossime settimane. Anche Anthropic ha spiegato che continuerà a collaborare con il governo statunitense con l&amp;#8217;obiettivo di estendere gradualmente l&amp;#8217;accesso al modello.&lt;/p&gt;
+&lt;p&gt;In generale l&amp;#8217;amministrazione Trump in questi mesi è intervenuta varie volte nel tentativo di limitare lo sviluppo dei software di intelligenza artificiale. L&amp;#8217;ultimo provvedimento in questa direzione è stata l&amp;#8217;approvazione di un ordine &lt;a href="https://www.ilpost.it/2026/06/13/anthropic-disattiva-claude-mythos-fable-5/"&gt;esecutivo&lt;/a&gt; che introduce una lasca regolamentazione al settore: viene chiesto alle aziende di sottoporre volontariamente i modelli più avanzati a una revisione governativa almeno 30 giorni prima della diffusione, affinché le agenzie incaricate possano verificare che non ci siano rischi per la sicurezza nazionale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/02/25/il-pentagono-sta-facendo-forti-pressioni-su-anthropic/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Il Pentagono sta facendo forti pressioni su Anthropic&lt;/a&gt;&lt;/p&gt;
+
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/anthropic-openai-trump</guid>
+      <pubDate>Sat, 27 Jun 2026 09:48:26 +0200</pubDate>
+      <dc:creator>Matilda Ferraris</dc:creator>
+    </item>
     <item>
       <title>In Sudafrica le proteste contro l’immigrazione stanno condizionando la politica</title>
       <link>https://www.ilpost.it/2026/06/27/sudafrica-umkhonto-we-sizw-march-and-march-elezioni-locali-novembre</link>
       <description>&lt;p&gt;&lt;em&gt;Sono organizzate da un movimento che si dice apolitico, appoggiato dal terzo partito del paese, e sono centrali in elezioni importanti per il governo&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782470125-AP26169822736271.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782470125-AP26169822736271.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Il principale movimento che in Sudafrica sta guidando &lt;a href="https://www.ilpost.it/2026/06/04/proteste-sudafrica-apartheid/"&gt;le proteste violente contro l&amp;#8217;immigrazione&lt;/a&gt; delle ultime settimane sostiene di non voler avere nulla a che fare con la politica. Le sue richieste però stanno monopolizzando la campagna elettorale per le elezioni amministrative di novembre, che saranno una prova importante per il governo: sono le prime dalle politiche del 2024, che per per la prima volta in trent&amp;#8217;anni portarono a un &lt;a href="https://www.ilpost.it/2024/06/14/sudafrica-governo-coalizione-unita-nazionale/"&gt;governo di coalizione&lt;/a&gt; e tolsero la &lt;a href="https://www.ilpost.it/2024/06/01/sudafrica-african-national-congress-perde-maggioranza-assoluta/"&gt;maggioranza assoluta&lt;/a&gt; al partito che guidò la lotta all&amp;#8217;apartheid, il periodo di violenta segregazione razziale imposto tra il 1948 e il 1994 dai sudafricani bianchi, discendenti dei colonizzatori europei.&lt;/p&gt;
 &lt;p&gt;Il movimento in questione si chiama March and March e la sua leader Jacinta Ngobese-Zuma ha detto di aver ricevuto offerte per entrare in vari partiti, ma non ha specificato quali e ha detto comunque di averle rifiutate tutte. Ha detto di non avere intenzione di trasformare il movimento in un partito vero e proprio e di non avere ambizioni politiche personali. Ha negato anche di ricevere finanziamenti dai partiti e, insomma, non vuole essere collegata alla politica in alcun modo: «Non posso entrare nel sistema se lo voglio combattere», ha detto.&lt;/p&gt;
 &lt;p&gt;Da mesi March and March e altri movimenti simili stanno conducendo una campagna anti-immigrazione che occupa quotidianamente i principali giornali sudafricani. Gli attivisti sostengono che le proteste siano dirette solo verso i migranti irregolari ma usano una retorica xenofoba che accusa in modo generalizzato l&amp;#8217;immigrazione intra-africana di essere la causa di problemi come la disoccupazione e la violenza.&lt;/p&gt;
-&lt;div id="attachment_3615926" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3615926 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482438-GettyImages-2282384156.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482438-GettyImages-2282384156.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/400x267/1782482438-GettyImages-2282384156.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/680x453/1782482438-GettyImages-2282384156.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/768x512/1782482438-GettyImages-2282384156.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/800x533/1782482438-GettyImages-2282384156.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Jacinta Ngobese-Zuma durante le proteste antimigranti a Johannesburg, 19 giugno 2026 (Photo by Per-Anders Pettersson/Getty Images)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3615926"&gt;&lt;img alt="" class="wp-image-3615926 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482438-GettyImages-2282384156.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Jacinta Ngobese-Zuma durante le proteste antimigranti a Johannesburg, 19 giugno 2026 (Photo by Per-Anders Pettersson/Getty Images)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Nelle ultime settimane March and March ha organizzato ronde in cui i loro attivisti hanno ucciso, derubato e picchiato immigrati irregolari. L&amp;#8217;organizzazione ha dato anche una sorta di scadenza: dice che tutti i migranti irregolari presenti in Sudafrica dovranno lasciare il paese entro il 30 giugno, e per quella data hanno indetto una mobilitazione nazionale. La richiesta è chiaramente irrealizzabile e non ha basi legali, ma durante la mobilitazione potrebbero esserci violenze.&lt;/p&gt;
 &lt;p&gt;Tra i principali partiti del Sudafrica, uMkhonto Wesizwe (MK, cioè &amp;#8220;lancia della nazione&amp;#8221;) è quello che ha aderito in modo più netto alle istanze del movimento di Ngobese-Zuma. È un partito con posizioni populiste di sinistra in ambito economico, e che prende il nome dall&amp;#8217;organizzazione militare del partito del Congresso (ANC), quello che fu di Nelson Mandela e che guidò la lotta contro la segregazione dei neri negli anni Novanta. Tuttavia sull&amp;#8217;immigrazione MK ha sempre sostenuto una linea dura con istanze nazionaliste.&lt;/p&gt;
 &lt;p&gt;Il partito nacque nel 2023 in seguito a una scissione interna ad ANC, quando l&amp;#8217;ex presidente Jacob Zuma, uno dei politici sudafricani &lt;a href="https://www.ilpost.it/2024/04/10/il-ritorno-di-jacob-zuma/"&gt;più importanti e discussi&lt;/a&gt; degli ultimi decenni, ne uscì sostenendo avesse perso la spinta radicale degli inizi. Zuma oggi è presidente del partito, all&amp;#8217;opposizione, mentre l&amp;#8217;ANC governa ininterrottamente dagli anni Novanta (dal 2024 in coalizione con Alleanza Democratica, di centro e molto forte tra i bianchi, che sono una minoranza ancora molto privilegiata e che detiene gran parte del potere economico).&lt;/p&gt;
@@ -24,240 +68,227 @@
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2024/04/10/il-ritorno-di-jacob-zuma/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Il ritorno di Jacob Zuma&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Le prossime elezioni saranno le prime per MK livello locale, e sta sfruttando l&amp;#8217;immigrazione per provare a guadagnare consensi anche avvicinandosi ai movimenti xenofobi. Il segretario del partito Sibonelo Nomvalo ha detto: «Siamo solidali con la lotta di March and March, senza riserve, perché crediamo che rappresentino la giusta causa». Il partito ha detto anche che intende partecipare alla mobilitazione del 30 giugno.&lt;/p&gt;
-&lt;div id="attachment_3615931" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3615931 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482540-GettyImages-2282250651.jpg" alt="" width="1200" height="795" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482540-GettyImages-2282250651.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/400x265/1782482540-GettyImages-2282250651.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/680x451/1782482540-GettyImages-2282250651.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/768x509/1782482540-GettyImages-2282250651.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/800x530/1782482540-GettyImages-2282250651.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Jacob Zuma, 18 giugno 2026 (Photo by Per-Anders Pettersson/Getty Images)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3615931"&gt;&lt;img alt="" class="wp-image-3615931 size-full" height="795" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/26/1782482540-GettyImages-2282250651.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Jacob Zuma, 18 giugno 2026 (Photo by Per-Anders Pettersson/Getty Images)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Il legame tra March and March e MK non è solo ideologico. Sanele Khambule, direttore e tesoriere del movimento, fu candidato per MK alle politiche del 2024. Il quotidiano sudafricano &lt;a href="https://www.dailymaverick.co.za/article/2026-06-25-xenophobic-unrest-a-crisis-co-written-by-march-and-march-and-sas-political-class/?dm_source=blocks-grid-wide&amp;amp;dm_medium=card-link&amp;amp;dm_campaign=inform"&gt;&lt;em&gt;Daily Maverick&lt;/em&gt;&lt;/a&gt; ha contattato il partito per chiedere chiarimenti sull&amp;#8217;attuale status di iscrizione di Khambule ma non ha avuto risposta.&lt;/p&gt;
 &lt;p&gt;Nell&amp;#8217;appoggio a March and March oltre a MK si sono uniti anche i principali partiti di destra ed estrema destra, ma il caso di MK è peculiare per la sua storia, dato che l&amp;#8217;ANC da cui proviene è storicamente un partito posizioni favorevoli all&amp;#8217;accoglienza. E anche perché è l&amp;#8217;unico con percentuali di consenso rilevanti: alle &lt;a href="https://www.ilpost.it/2024/06/01/sudafrica-african-national-congress-perde-maggioranza-assoluta/"&gt;politiche del 2024&lt;/a&gt; arrivò terzo e i &lt;a href="https://www.ipsos.com/en-za/nearly-half-south-africans-feel-politically-homeless-ahead-local-elections"&gt;sondaggi&lt;/a&gt; lo indicano al 14 per cento.&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;immigrazione in Sudafrica è un tema molto sentito: è uno dei paesi più ricchi del continente e la principale meta dei migranti economici della regione. Ha 4 milioni di stranieri residenti regolarmente, oltre a un numero imprecisato di migranti irregolari.&lt;/p&gt;
 &lt;p&gt;I movimenti xenofobi accusano gli stranieri di sovraccaricare i servizi e di rubare il lavoro ai sudafricani, tra le altre cose, ma molti di questi problemi dipendono più dall&amp;#8217;eredità dell&amp;#8217;apartheid che dall&amp;#8217;immigrazione attuale. La segregazione razziale concentrò la ricchezza nelle mani dei bianchi, lasciando disuguaglianze che ancora oggi penalizzano la popolazione nera: proprio quella tra cui March and March trova più sostegno.&lt;/p&gt;
-&lt;p&gt;È anche per questo che l&amp;#8217;immigrazione è diventata centrale nella campagna per le amministrative: in Sudafrica sono i comuni a gestire i servizi di base — rete idrica, elettricità, rifiuti — il cui malfunzionamento alimenta il malcontento che i movimenti dicono di voler risolvere. Anche se sono elezioni amministrative potrebbero avere implicazioni e rilevanza nella politica nazionale, dato che sono considerate una prova sia per il governo di coalizione del Sudafrica sia per MK.&lt;/p&gt;
-</description>
+&lt;p&gt;È anche per questo che l&amp;#8217;immigrazione è diventata centrale nella campagna per le amministrative: in Sudafrica sono i comuni a gestire i servizi di base — rete idrica, elettricità, rifiuti — il cui malfunzionamento alimenta il malcontento che i movimenti dicono di voler risolvere. Anche se sono elezioni amministrative potrebbero avere implicazioni e rilevanza nella politica nazionale, dato che sono considerate una prova sia per il governo di coalizione del Sudafrica sia per MK.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/sudafrica-umkhonto-we-sizw-march-and-march-elezioni-locali-novembre</guid>
-      <pubDate>Sat, 27 Jun 2026 08:57:55 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:57:55 +0000</pubDate>
       <dc:creator>Antonella Serrecchia</dc:creator>
     </item>
     <item>
       <title>Tre persone della stessa famiglia sono state uccise a coltellate a Roma</title>
       <link>https://www.ilpost.it/2026/06/27/tre-persone-uccise-famiglia-coltellate-roma-casalotti</link>
       <description>&lt;p&gt;&lt;em&gt;Nella loro casa a Casalotti: sono una donna, un uomo e la figlia di cinque anni; la persona che le ha colpite è fuggita &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782540810-24077620_large.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782540810-24077620_large.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Venerdì sera tre persone appartenenti alla stessa famiglia sono state uccise a coltellate nella casa dove abitavano in via Montiglio, nella zona di Casalotti, nella periferia ovest di Roma. Sono una donna e un uomo di 38 e 39 anni, e una bambina di 5 anni. L&amp;#8217;unico a salvarsi è stato il figlio maggiore della coppia, che è stato trovato ferito e portato in ospedale.&lt;/p&gt;
 &lt;p&gt;La persona che le ha colpite è fuggita dopo gli omicidi: la stanno cercando gli agenti della squadra mobile di Roma, cioè la sezione investigativa della polizia. Per rintracciarla, gli investigatori hanno sequestrato le telecamere di sorveglianza presenti nella zona e nel corso della notte hanno perlustrato le aree boschive che circondano Casalotti con l&amp;#8217;aiuto di droni con telecamere a infrarossi.&lt;/p&gt;
 &lt;p&gt;Una delle ipotesi su cui stanno lavorando gli investigatori è che l&amp;#8217;assassino sia riuscito a entrare in casa perché conosceva la famiglia. Ad allertare le forze dell&amp;#8217;ordine e a chiamare i soccorsi sono stati i vicini di casa, che hanno sentito urla e rumori provenire dall&amp;#8217;appartamento della famiglia.&lt;/p&gt;
-&lt;p&gt;I membri della famiglia avevano tutti origini bengalesi: l&amp;#8217;uomo si trovava in Italia da circa una quindicina di anni e lavorava in un supermercato. La moglie lo aveva raggiunto pochi anni fa insieme ai figli. Nessuno di loro aveva precedenti.&lt;/p&gt;
-</description>
+&lt;p&gt;I membri della famiglia avevano tutti origini bengalesi: l&amp;#8217;uomo si trovava in Italia da circa una quindicina di anni e lavorava in un supermercato. La moglie lo aveva raggiunto pochi anni fa insieme ai figli. Nessuno di loro aveva precedenti.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/tre-persone-uccise-famiglia-coltellate-roma-casalotti</guid>
-      <pubDate>Sat, 27 Jun 2026 08:37:30 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:37:30 +0000</pubDate>
       <dc:creator>Alice De Luca</dc:creator>
     </item>
     <item>
       <title>Israele e Libano hanno firmato un accordo per la futura pace tra i due paesi, ma senza la partecipazione di Hezbollah</title>
       <link>https://www.ilpost.it/2026/06/27/israele-libano-stati-uniti-accordo-pace-senza-hezbollah</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782540518-AP26177670488494.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782540518-AP26177670488494.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Venerdì i governi di Israele e Libano hanno firmato un accordo di principio per mettere le basi in vista di una pace duratura tra i due paesi. Lo hanno fatto a Washington D.C., con la mediazione degli Stati Uniti. L&amp;#8217;accordo servirà a rendere più solido il fragile cessate il fuoco in vigore da aprile tra Israele e Libano, e prevede che le forze armate israeliane si ritirino gradualmente da alcune zone occupate nel sud del Libano. In teoria, il ritiro dovrebbe avvenire in seguito allo smantellamento delle infrastrutture del gruppo militare libanese Hezbollah, alleato dell&amp;#8217;Iran, che però non ha partecipato alle negoziazioni e non ha firmato l&amp;#8217;accordo.&lt;/p&gt;
-&lt;p&gt;Di fatto quindi al momento è un accordo che non cambia nulla rispetto all&amp;#8217;andamento della guerra: il 19 giugno Israele si era accordato inaspettatamente con Hezbollah per un cessate il fuoco in Libano, dopo che nei mesi precedenti aveva trattato &lt;a href="https://www.ilpost.it/2026/04/23/libano-negoziati-israele-hezbollah/"&gt;solo con il governo libanese&lt;/a&gt;. Gli attacchi reciproci però &lt;a href="https://www.ilpost.it/2026/06/20/cessate-il-fuoco-libano-israele-hezbollah-fragile/"&gt;non si sono fermati&lt;/a&gt;, e Hezbollah ha ribadito che non intende trattare con Israele nessun accordo a meno che non includa il ritiro incondizionato delle forze armate israeliane dal sud del Libano, cosa che Israele non ha intenzione di concedere.&lt;/p&gt;
-</description>
+&lt;p&gt;Di fatto quindi al momento è un accordo che non cambia nulla rispetto all&amp;#8217;andamento della guerra: il 19 giugno Israele si era accordato inaspettatamente con Hezbollah per un cessate il fuoco in Libano, dopo che nei mesi precedenti aveva trattato &lt;a href="https://www.ilpost.it/2026/04/23/libano-negoziati-israele-hezbollah/"&gt;solo con il governo libanese&lt;/a&gt;. Gli attacchi reciproci però &lt;a href="https://www.ilpost.it/2026/06/20/cessate-il-fuoco-libano-israele-hezbollah-fragile/"&gt;non si sono fermati&lt;/a&gt;, e Hezbollah ha ribadito che non intende trattare con Israele nessun accordo a meno che non includa il ritiro incondizionato delle forze armate israeliane dal sud del Libano, cosa che Israele non ha intenzione di concedere.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/israele-libano-stati-uniti-accordo-pace-senza-hezbollah</guid>
-      <pubDate>Sat, 27 Jun 2026 08:32:47 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:32:47 +0000</pubDate>
       <dc:creator>Giovanni De Benedictis</dc:creator>
     </item>
     <item>
       <title>Le prime pagine di oggi</title>
       <link>https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18</link>
       <description>&lt;p&gt;&lt;em&gt;La firma dell&amp;#x27;accordo tra Libano e Israele (senza Hezbollah), il terremoto in Venezuela e la grande ondata di calore in Europa&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782539147-la-stampa-020329mpx9py4.jpeg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782539147-la-stampa-020329mpx9py4.jpeg" /&gt;&lt;/p&gt;
 &lt;p&gt;In prima pagina sui quotidiani nazionali principali viene dato ampio spazio alla firma di un accordo preliminare tra Israele e Libano, ma senza Hezbollah, che prevede un parziale ritiro dell&amp;#8217;esercito israeliano. &lt;em&gt;La Stampa&lt;/em&gt; mette in apertura una foto-notizia di una delle tre persone italiane morte a causa del &lt;a href="https://www.ilpost.it/2026/06/26/terremoti-venezuela-cause-effetti/?homepagePosition=8"&gt;terremoto&lt;/a&gt; in Venezuela, Giuseppe Colaianni, che aveva soccorso la moglie. In generale tutti i giornali danno aggiornamenti sul terremoto in cui finora sono stati accertati quasi mille morti. &lt;em&gt;Il Sole 24&lt;/em&gt; &lt;em&gt;Ore &lt;/em&gt;ha in apertura la notizia di un piano di Volkswagen che prevederebbe 100mila licenziamenti e la chiusura di 4 impianti. Anche altri giornali riprendono la notizia, di cui per ora non ci sono però conferme. Su molti giornali si racconta l&amp;#8217;&lt;a href="https://www.ilpost.it/2026/06/22/ondata-calore-europa-italia/"&gt;ondata di calore&lt;/a&gt; che da diversi giorni sta colpendo l&amp;#8217;Europa.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-repubblica-010747rmta55t/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="594" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/400x594/1782537299-la-repubblica-010747rmta55t.jpeg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/400x594/1782537299-la-repubblica-010747rmta55t.jpeg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782537299-la-repubblica-010747rmta55t.jpeg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="594" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/400x594/1782537299-la-repubblica-010747rmta55t.jpeg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3616425 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-repubblica-010747rmta55t/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537299-la-repubblica-010747rmta55t.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-della-sera-051512dur2kvm/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537244-corriere-della-sera-051512dur2kvm.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-sole-24-ore-001227zgx6e83/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537288-il-sole-24-ore-001227zgx6e83.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-stampa-020329mpx9py4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537303-la-stampa-020329mpx9py4.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-manifesto-000028rt772bh/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537269-il-manifesto-000028rt772bh.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-fatto-quotidiano-0008381mv65ue/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537256-il-fatto-quotidiano-0008381mv65ue.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-foglio-001550fsicydb/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537259-il-foglio-001550fsicydb.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/domani-232008zyk9coo/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537248-domani-232008zyk9coo.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/avvenire-000825r6a8p9o/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537240-avvenire-000825r6a8p9o.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-dubbio-0403036e9c5ik/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537253-il-dubbio-0403036e9c5ik.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-messaggero-001307f3sbf8z/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537276-il-messaggero-001307f3sbf8z.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-notizia-233952ath2w4v/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537295-la-notizia-233952ath2w4v.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-riformista-233349klw2f3t/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537282-il-riformista-233349klw2f3t.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/libero-000940asva6xq/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537320-libero-000940asva6xq.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-tempo-001040iube6jp/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537292-il-tempo-001040iube6jp.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-giornale-005550zvjd8qo/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537266-il-giornale-005550zvjd8qo.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-mattino-001722qx5bhyx/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537272-il-mattino-001722qx5bhyx.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-gazzettino-004815vkcew25/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537262-il-gazzettino-004815vkcew25.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-resto-del-carlino-024449dhyartv/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537279-il-resto-del-carlino-024449dhyartv.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-secolo-xix-0538354nbaiiv/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537285-il-secolo-xix-0538354nbaiiv.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-verita-005821lb716wi/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537318-la-verita-005821lb716wi.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/alto-adige-065815qyv4vu3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538515-alto-adige-065815qyv4vu3.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/calabria-live-234209y6j310z/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538518-calabria-live-234209y6j310z.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-adriatico-ascoli-071858xsgcl7k/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538521-corriere-adriatico-ascoli-071858xsgcl7k.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-dell-umbria-021658xlua55t/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538524-corriere-dell-umbria-021658xlua55t.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-arezzo-021654pr3hl90/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538530-corriere-di-arezzo-021654pr3hl90.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-rieti-022245sao3syw/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538533-corriere-di-rieti-022245sao3syw.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-viterbo-0218541y1dbsg/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538537-corriere-di-viterbo-0218541y1dbsg.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/cronacaqui-031906qouafx8/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538540-cronacaqui-031906qouafx8.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/cronache-di-caserta-024634g2k26l4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538544-cronache-di-caserta-024634g2k26l4.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/gazzetta-di-modena-0103166m543l4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538547-gazzetta-di-modena-0103166m543l4.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/gazzetta-di-reggio-005830t422uu2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538550-gazzetta-di-reggio-005830t422uu2.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/giornale-di-brescia-012332oyh5zy3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538553-giornale-di-brescia-012332oyh5zy3.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-centro-052305m11isi5/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538556-il-centro-052305m11isi5.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-giornale-di-vicenza-012049jr73ed0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538559-il-giornale-di-vicenza-012049jr73ed0.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-piccolo-053922e2xdv9b/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538562-il-piccolo-053922e2xdv9b.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-tirreno-012251fta76ao/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538565-il-tirreno-012251fta76ao.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-adige-040024r8d63ql/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538568-l-adige-040024r8d63ql.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-arena-01200838r5s3h/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538572-l-arena-01200838r5s3h.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-unione-sarda-002036th5542h/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538575-l-unione-sarda-002036th5542h.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-prealpina-041532hf5d8gk/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538582-la-prealpina-041532hf5d8gk.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-provincia-pavese-030805bao75pt/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538586-la-provincia-pavese-030805bao75pt.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-sicilia-0718319xarhx6/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538589-la-sicilia-0718319xarhx6.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/le-cronache-lucane-234128ltj1f49/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538592-le-cronache-lucane-234128ltj1f49.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/primo-piano-molise-234102q5s9v81/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538594-primo-piano-molise-234102q5s9v81.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/quotidiano-di-puglia-0718089j06l6a/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538597-quotidiano-di-puglia-0718089j06l6a.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-dello-sport-025234iqkc31e/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538527-corriere-dello-sport-025234iqkc31e.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/tuttosport-02514516e52xe/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538600-tuttosport-02514516e52xe.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-gazzetta-dello-sport-0339225xx2xxd/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538579-la-gazzetta-dello-sport-0339225xx2xxd.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3616425 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-repubblica-010747rmta55t/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537299-la-repubblica-010747rmta55t.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-della-sera-051512dur2kvm/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537244-corriere-della-sera-051512dur2kvm.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-sole-24-ore-001227zgx6e83/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537288-il-sole-24-ore-001227zgx6e83.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-stampa-020329mpx9py4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537303-la-stampa-020329mpx9py4.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-manifesto-000028rt772bh/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537269-il-manifesto-000028rt772bh.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-fatto-quotidiano-0008381mv65ue/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537256-il-fatto-quotidiano-0008381mv65ue.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-foglio-001550fsicydb/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537259-il-foglio-001550fsicydb.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/domani-232008zyk9coo/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537248-domani-232008zyk9coo.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/avvenire-000825r6a8p9o/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537240-avvenire-000825r6a8p9o.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-dubbio-0403036e9c5ik/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537253-il-dubbio-0403036e9c5ik.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-messaggero-001307f3sbf8z/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537276-il-messaggero-001307f3sbf8z.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-notizia-233952ath2w4v/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537295-la-notizia-233952ath2w4v.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-riformista-233349klw2f3t/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537282-il-riformista-233349klw2f3t.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/libero-000940asva6xq/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537320-libero-000940asva6xq.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-tempo-001040iube6jp/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537292-il-tempo-001040iube6jp.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-giornale-005550zvjd8qo/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537266-il-giornale-005550zvjd8qo.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-mattino-001722qx5bhyx/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537272-il-mattino-001722qx5bhyx.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-gazzettino-004815vkcew25/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537262-il-gazzettino-004815vkcew25.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-resto-del-carlino-024449dhyartv/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537279-il-resto-del-carlino-024449dhyartv.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-secolo-xix-0538354nbaiiv/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537285-il-secolo-xix-0538354nbaiiv.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-verita-005821lb716wi/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782537318-la-verita-005821lb716wi.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/alto-adige-065815qyv4vu3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538515-alto-adige-065815qyv4vu3.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/calabria-live-234209y6j310z/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538518-calabria-live-234209y6j310z.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-adriatico-ascoli-071858xsgcl7k/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538521-corriere-adriatico-ascoli-071858xsgcl7k.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-dell-umbria-021658xlua55t/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538524-corriere-dell-umbria-021658xlua55t.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-arezzo-021654pr3hl90/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538530-corriere-di-arezzo-021654pr3hl90.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-rieti-022245sao3syw/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538533-corriere-di-rieti-022245sao3syw.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-di-viterbo-0218541y1dbsg/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538537-corriere-di-viterbo-0218541y1dbsg.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/cronacaqui-031906qouafx8/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538540-cronacaqui-031906qouafx8.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/cronache-di-caserta-024634g2k26l4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538544-cronache-di-caserta-024634g2k26l4.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/gazzetta-di-modena-0103166m543l4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538547-gazzetta-di-modena-0103166m543l4.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/gazzetta-di-reggio-005830t422uu2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538550-gazzetta-di-reggio-005830t422uu2.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/giornale-di-brescia-012332oyh5zy3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538553-giornale-di-brescia-012332oyh5zy3.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-centro-052305m11isi5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538556-il-centro-052305m11isi5.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-giornale-di-vicenza-012049jr73ed0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538559-il-giornale-di-vicenza-012049jr73ed0.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-piccolo-053922e2xdv9b/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538562-il-piccolo-053922e2xdv9b.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/il-tirreno-012251fta76ao/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538565-il-tirreno-012251fta76ao.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-adige-040024r8d63ql/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538568-l-adige-040024r8d63ql.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-arena-01200838r5s3h/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538572-l-arena-01200838r5s3h.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/l-unione-sarda-002036th5542h/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538575-l-unione-sarda-002036th5542h.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-prealpina-041532hf5d8gk/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538582-la-prealpina-041532hf5d8gk.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-provincia-pavese-030805bao75pt/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538586-la-provincia-pavese-030805bao75pt.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-sicilia-0718319xarhx6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538589-la-sicilia-0718319xarhx6.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/le-cronache-lucane-234128ltj1f49/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538592-le-cronache-lucane-234128ltj1f49.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/primo-piano-molise-234102q5s9v81/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538594-primo-piano-molise-234102q5s9v81.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/quotidiano-di-puglia-0718089j06l6a/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538597-quotidiano-di-puglia-0718089j06l6a.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/corriere-dello-sport-025234iqkc31e/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538527-corriere-dello-sport-025234iqkc31e.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/tuttosport-02514516e52xe/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538600-tuttosport-02514516e52xe.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18/la-gazzetta-dello-sport-0339225xx2xxd/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/130x91/1782538579-la-gazzetta-dello-sport-0339225xx2xxd.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/prime-pagine-oggi-18</guid>
-      <pubDate>Sat, 27 Jun 2026 08:05:37 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:05:37 +0000</pubDate>
       <dc:creator>Matilda Ferraris</dc:creator>
     </item>
     <item>
       <title>Il Burkina Faso ha interrotto le relazioni diplomatiche con la Francia</title>
       <link>https://www.ilpost.it/2026/06/27/burkina-faso-relazioni-diplomatiche-francia</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782539125-AP25074433188983.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/27/1782539125-AP25074433188983.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;La giunta militare che governa il Burkina Faso, nell’Africa occidentale, ha fatto sapere di aver interrotto le relazioni diplomatiche con la Francia. Ibrahim Traoré, il capo della giunta militare che nel 2022 aveva preso il potere con un colpo di stato, ha motivato la decisione accusando la Francia di cercare di interferire con gli interessi del paese.&lt;/p&gt;
-&lt;p&gt;Il Burkina Faso fu una colonia francese fino al 1960: nei decenni successivi ha avuto rapporti abbastanza stretti con la Francia, che &lt;a href="https://www.ilpost.it/2023/08/04/problemi-francia-africa-occidentale/"&gt;sono peggiorati&lt;/a&gt; decisamente dal 2022. Da quando è al potere, Traoré ha avviato un politica ostile ai paesi occidentali, e in particolare contro la Francia, per avvicinarsi soprattutto alla Russia, che da anni sta cercando di &lt;a href="https://www.ilpost.it/2023/06/30/gruppo-wagner-africa-russia/" target="_blank" rel="noopener noreferrer"&gt;allargare&lt;/a&gt; la sua sfera di &lt;a href="https://www.ilpost.it/2023/10/03/niger-bandiera-russia/" target="_blank" rel="noopener noreferrer"&gt;influenza&lt;/a&gt; in &lt;a href="https://www.ilpost.it/2024/06/17/gruppo-wagner-africa-corps/" target="_blank" rel="noopener noreferrer"&gt;Africa&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;p&gt;Il Burkina Faso fu una colonia francese fino al 1960: nei decenni successivi ha avuto rapporti abbastanza stretti con la Francia, che &lt;a href="https://www.ilpost.it/2023/08/04/problemi-francia-africa-occidentale/"&gt;sono peggiorati&lt;/a&gt; decisamente dal 2022. Da quando è al potere, Traoré ha avviato un politica ostile ai paesi occidentali, e in particolare contro la Francia, per avvicinarsi soprattutto alla Russia, che da anni sta cercando di &lt;a href="https://www.ilpost.it/2023/06/30/gruppo-wagner-africa-russia/" rel="noopener noreferrer" target="_blank"&gt;allargare&lt;/a&gt; la sua sfera di &lt;a href="https://www.ilpost.it/2023/10/03/niger-bandiera-russia/" rel="noopener noreferrer" target="_blank"&gt;influenza&lt;/a&gt; in &lt;a href="https://www.ilpost.it/2024/06/17/gruppo-wagner-africa-corps/" rel="noopener noreferrer" target="_blank"&gt;Africa&lt;/a&gt;.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/burkina-faso-relazioni-diplomatiche-francia</guid>
-      <pubDate>Sat, 27 Jun 2026 08:00:58 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:00:58 +0000</pubDate>
       <dc:creator>Giovanni De Benedictis</dc:creator>
     </item>
     <item>
       <title>Peanuts 2026 giugno 27</title>
       <link>https://www.ilpost.it/2026/06/27/peanuts-2026-giugno-27</link>
-      <description>&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/06/18/1781789580-pt_c260627.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" width="1104" height="330" class="alignnone size-large wp-image-3608988" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/18/680x203/1781789580-pt_c260627.jpg" alt="" srcset="https://www.ilpost.it/wp-content/uploads/2026/06/18/680x203/1781789580-pt_c260627.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/06/18/400x120/1781789580-pt_c260627.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/06/18/768x230/1781789580-pt_c260627.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/06/18/800x239/1781789580-pt_c260627.jpg 800w, https://www.ilpost.it/wp-content/uploads/2026/06/18/1781789580-pt_c260627.jpg 1104w" sizes="(max-width: 1104px) 100vw, 1104px" /&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/06/18/1781789580-pt_c260627.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="alignnone size-large wp-image-3608988" height="330" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/18/680x203/1781789580-pt_c260627.jpg" width="1104" /&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/27/peanuts-2026-giugno-27</guid>
-      <pubDate>Sat, 27 Jun 2026 08:00:42 +0200</pubDate>
+      <pubDate>Sat, 27 Jun 2026 06:00:42 +0000</pubDate>
       <dc:creator>Francesca Lagrotteria</dc:creator>
     </item>
     <item>
@@ -1387,63 +1418,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/music-for-peace-gaza-consegne</guid>
       <pubDate>Thu, 25 Jun 2026 20:20:03 +0000</pubDate>
       <dc:creator>Rodolfo Toe</dc:creator>
-    </item>
-    <item>
-      <title>Le condanne definitive per la strage di Viareggio del 2009</title>
-      <link>https://www.ilpost.it/2026/06/25/condanne-definitive-strage-di-viareggio</link>
-      <description>&lt;p&gt;&lt;em&gt;L’ex amministratore delegato di Ferrovie dello Stato, Mauro Moretti, è stato condannato a cinque anni: sono state confermate anche le condanne per gli altri 11 imputati&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782412557-viareggio2.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;La Corte di Cassazione &lt;a href="https://corrierefiorentino.corriere.it/notizie/cronaca/26_giugno_25/strage-di-viareggio-la-cassazione-conferma-la-condanna-a-5-anni-per-l-ex-ad-di-ferrovie-mauro-moretti-e-altri-10-3bcb038c-89c6-4cf1-a23f-5dcf9aba0xlk.shtml?refresh_ce"&gt;ha condannato&lt;/a&gt; dodici persone per la strage di Viareggio, il grosso incidente ferroviario avvenuto nel giugno del 2009 in cui morirono 32 persone: tra queste c&amp;#8217;è l’ex amministratore delegato di Rete Ferroviaria Italiana e Ferrovie dello Stato, Mauro Moretti, condannato a cinque anni per disastro ferroviario colposo e incendio.&lt;/p&gt;
-&lt;p&gt;Il giudizio della Cassazione è il terzo e ultimo all&amp;#8217;interno di un processo: le condanne sono quindi considerate definitive. A maggio del 2025, nel terzo processo di appello per la strage, la Corte d&amp;#8217;Appello di Firenze &lt;a href="https://www.ilpost.it/2025/05/27/corte-appello-condanne-viareggio/"&gt;aveva già confermato&lt;/a&gt; tutte e dodici le condanne.&lt;/p&gt;
-&lt;p&gt;Il processo per la strage di Viareggio era già finito in Cassazione all’inizio del 2024, ma i giudici &lt;a href="https://www.ilpost.it/2024/01/15/la-cassazione-ha-confermato-le-condanne-per-la-strage-di-viareggio/"&gt;avevano disposto un nuovo passaggio in Corte d’Appello&lt;/a&gt; per rideterminare alcune pene e applicare le attenuanti generiche. Nel corso degli anni si sono svolti vari processi sulla vicenda e alcune condanne sono state diminuite, anche perché nel frattempo diversi reati sono andati in prescrizione.&lt;/p&gt;
-&lt;p&gt;La Cassazione ha confermato anche le condanne di altri ex dirigenti, oltre che di tecnici delle società coinvolte nella gestione e manutenzione del treno deragliato: tra loro ci sono l’ex amministratore delegato di RFI Michele Mario Elia (4 anni, 2 mesi, 20 giorni); Mario Paolo Pizzadini, manager di Cima Riparazioni (2 anni, 10 mesi e 20 giorni); Daniele Gobbi Frattini, responsabile tecnico di Cima Riparazioni (2 anni, 10 mesi, 20 giorni); e Mario Castaldo, ex direttore della divisione Cargo Chemical (4 anni). Sono stati condannati anche dirigenti, tecnici e operai della Junghental, l&amp;#8217;azienda &lt;a href="https://www.ansa.it/sito/notizie/cronaca/2017/01/10/strage-viareggio-il-311-la-sentenza_6f0b8c1f-fe77-42d7-a96f-7658752df926.html?utm_source=chatgpt.com"&gt;responsabile&lt;/a&gt; della manutenzione dei carri cisterna, e della Gatx Rail, l&amp;#8217;azienda &lt;a href="https://www.ansa.it/sito/notizie/cronaca/2017/01/10/strage-viareggio-il-311-la-sentenza_6f0b8c1f-fe77-42d7-a96f-7658752df926.html?utm_source=chatgpt.com"&gt;proprietaria&lt;/a&gt; del carro deragliato.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615078"&gt;&lt;img alt="" class="wp-image-3615078 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782413228-viareggio.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Una manifestazione per le persone morte nella strage di Viareggio davanti alla Corte di Cassazione, nel 2024 (ANSA/ANGELO CARCONI)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;La strage di Viareggio avvenne la sera del 29 giugno 2009: un treno merci deragliò poco dopo aver superato la stazione di Viareggio, in Toscana. Trasportava GPL — gas di petrolio liquefatto — che fuoriuscì da uno dei carri cisterna del treno causando un incendio e l’esplosione di tre palazzine adiacenti alla stazione. 11 persone morirono subito per le ustioni o per il crollo degli edifici, altre 20 morirono in ospedale nelle settimane e nei mesi successivi mentre 2 anziani, Angela Monelli e Italo Ferrari, morirono di infarto, probabilmente a causa dello spavento dovuto all’esplosione.&lt;/p&gt;
-&lt;p&gt;Il treno merci, il 50325 Trecate-Gricignano, era composto da un locomotore e dai 14 carri cisterna che contenevano il GPL: deragliò a 400 metri di distanza dalle banchine della stazione. A seguito del deragliamento, nel primo carro cisterna si aprì uno squarcio da cui uscì il GPL, che passò dallo stato liquido non infiammabile a quello gassoso. Il GPL è un gas più pesante dell’aria, quindi non si disperde ma rimane vicino al terreno, “colando” verso la pendenza più vicina.&lt;/p&gt;
-&lt;p&gt;Gran parte del gas si riversò verso una delle due vie che corrono parallele alla linea ferroviaria: via Ponchielli. Questa strada non era separata dai binari, al contrario di via Antonio Cei sul lato della ferrovia rivolto verso il mare. Nel giro di pochi istanti il gas incontrò qualcosa che ne causò l’innesco. L’esplosione venne sentita in tutta Viareggio; molti testimoni ricordano di un boato molto forte e vibrazioni così intense da ricordare un terremoto. Una colonna di fuoco si alzò per decine di metri, visibile da ogni angolo della città.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2019/06/29/strage-viareggio/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La strage di Viareggio&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/condanne-definitive-strage-di-viareggio</guid>
-      <pubDate>Thu, 25 Jun 2026 18:57:30 +0000</pubDate>
-      <dc:creator>Alessandra Pellegrini De Luca</dc:creator>
-    </item>
-    <item>
-      <title>Storia e storie di Villa Certosa, la celebre residenza che fu di Berlusconi in Sardegna</title>
-      <link>https://www.ilpost.it/2026/06/25/storia-storie-villa-certosa-berlusconi</link>
-      <description>&lt;p&gt;&lt;em&gt;Un luogo di feste sfarzose ma anche sede di incontri con leader internazionali, che aveva persino un vulcano per impressionare gli ospiti&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782406092-ilpost_20260625184748653_TECNAVIA_PHOTO_GENERALE_129455.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Villa Certosa, l&amp;#8217;enorme e lussuosa residenza in Sardegna dell’ex presidente del Consiglio Silvio Berlusconi, &lt;a href="https://www.ilpost.it/2026/06/24/berlusconi-villa-certosa-vendita/"&gt;sarà venduta&lt;/a&gt; alla famiglia reale del Qatar. È stata per anni al centro della cronaca politica estiva, italiana e non solo: nei quasi tre decenni della sua attività politica Berlusconi ci ha quasi sempre passato il mese di agosto, un periodo in cui l&amp;#8217;attività politica a Roma è molto ridotta. Villa Certosa diventava così per Berlusconi non solo un posto per passare le vacanze, ma la sede di incontri con capi di stato e di governo stranieri, politici italiani e internazionali, amici e giornalisti.&lt;/p&gt;
-&lt;p&gt;Berlusconi era solito usare le proprie residenze private come luoghi da cui gestire la sua attività politica e di governo: oltre a Villa Certosa divennero noti per esempio Palazzo Grazioli a Roma e la villa di Arcore, in Brianza. Era un fatto nuovo e inusuale, e periodicamente ne nacquero polemiche.&lt;/p&gt;
-&lt;p&gt;Per via degli incontri diplomatici internazionali che ospitava, nel 2004 Villa Certosa fu addirittura classificata dal governo come «sede alternativa di massima sicurezza per l&amp;#8217;incolumità del presidente del Consiglio», cioè di Berlusconi: concretamente significava che era considerata al pari delle altre sedi istituzionali, come Palazzo Chigi a Roma, e autorizzava Berlusconi a svolgere da lì la sua azione di governo.&lt;/p&gt;
-&lt;p&gt;Sulla base di questa classificazione, sempre nel 2004, il ministero dell&amp;#8217;Interno poté far valere il segreto di Stato per impedire alla procura di Tempio Pausania di fare ispezioni per presunti abusi edilizi e reati ambientali. Il segreto di Stato è un vincolo giuridico che un presidente del Consiglio può mettere su qualsiasi cosa la cui rivelazione potrebbe causare danni alla Repubblica. La procura fece allora ricorso alla Corte costituzionale, e il ministero dell&amp;#8217;Interno tolse il segreto di Stato nel 2005, poco prima che si esprimesse sul caso.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Una parte dei giardini interni di Villa Certosa durante un'ispezione urbanistica del 2006 (EPA/DAVIDE CAGLIO/ANSA)" class="alignnone wp-image-3615030 size-full" height="633" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782407056-ilpost_2026062519035321_TECNAVIA_PHOTO_GENERALE_1579343.jpg" width="980" /&gt;&lt;/p&gt;
-&lt;p&gt;In un certo senso Berlusconi fu precursore di un&amp;#8217;abitudine che negli ultimi anni è stata spesso associata al presidente statunitense Donald Trump. Entrambi hanno fatto un uso pubblico e politico delle loro proprietà, solitamente costruite o ristrutturate con stili eccentrici ed esagerati, a testimonianza di una decisa refrattarietà ai rituali della politica ingessata. Villa Certosa è stata il simbolo più evidente di questo atteggiamento di Berlusconi, al pari del &lt;a href="https://www.ilpost.it/2024/11/28/mar-a-lago-storia-trump/"&gt;resort di Mar-a-Lago&lt;/a&gt; di Trump in Florida.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;
-&lt;p&gt;Villa Certosa in realtà non è una sola &lt;em&gt;villa&lt;/em&gt;, ma un complesso che ne comprende sette, più varie altre &lt;em&gt;dépendance&lt;/em&gt; e strutture aggiuntive. Si trova sopra una collinetta affacciata sul mare, 20 minuti in macchina a nord di Olbia, nel nord-est della Sardegna. Delle stravaganze presenti nella villa si potrebbe scrivere un libro intero. Tra le più notevoli e citate ci sono: il bunker antinucleare, l&amp;#8217;anfiteatro, il giardino dei dolmen, la grotta di Nettuno, un finto nuraghe, i laghetti artificiali con cigni e isole, diverse sculture in pietra o in bronzo raffiguranti corpi umani nudi, il percorso di talassoterapia (un sistema di cinque piscine poste su più livelli con acqua di mare).&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615042"&gt;&lt;img alt="" class="wp-image-3615042 size-full" height="566" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782407871-ilpost_20260625191704323_TECNAVIA_PHOTO_GENERALE_1591460.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Villa Certosa vista dal mare (Antonello Zappadu/ANSA)&lt;/p&gt;&lt;/div&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615043"&gt;&lt;img alt="" class="wp-image-3615043 size-full" height="599" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782407896-ilpost_20260625191713836_TECNAVIA_PHOTO_GENERALE_1548185.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Un chiostro interno di Villa Certosa (Antonello Zappadu/ANSA)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;C’era poi un famigerato vulcano: una sorta di piccola collina artificiale con dentro un meccanismo che, se attivato a distanza, riproduceva un’eruzione. La notte di Ferragosto del 2006, quando lo mise in funzione per la prima volta per allietare una comitiva di suoi ospiti, alcune persone che abitavano nei paraggi allertarono la Protezione civile.&lt;/p&gt;
-&lt;p&gt;Discorso a parte va fatto per le piante. Berlusconi era un appassionato di giardinaggio e quindi curava molto l&amp;#8217;aspetto vivaistico della villa. Aveva centinaia di palme, ibiscus e cactus. Tra i cactus c&amp;#8217;era pure quello che Berlusconi diceva assomigliare al «cervello di Tremonti», quando quest&amp;#8217;ultimo era il ministro dell&amp;#8217;Economia del suo governo, perché «è tutto contorto, ma pieno di roba».&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;aspetto della residenza è stravagante almeno quanto lo sono state la sua storia e le cose che ci sono successe. Berlusconi la acquistò da &lt;a href="https://www.ilpost.it/2022/01/25/flavio-carboni-morto-processi/"&gt;Flavio Carboni&lt;/a&gt;, un noto imprenditore sardo morto nel 2022 implicato in diverse faccende controverse della storia italiana recente, che decise di venderla alla fine degli anni Settanta per ripagare parte degli ingenti debiti che aveva accumulato. Berlusconi le cambiò il nome da Villa Monastero a Villa Certosa, e incaricò poi il suo architetto di fiducia Gianni Galimondi di ristrutturarla e ampliarla.&lt;/p&gt;
-&lt;p&gt;Dal 2001, quando Berlusconi divenne presidente del Consiglio per la seconda volta, successero poi i fatti più interessanti e curiosi. Negli anni successivi ospitò nella villa diversi capi di Stato e di governo stranieri, come l’ex presidente degli Stati Uniti George W. Bush, l&amp;#8217;ex presidente egiziano Hosni Mubarak, gli ex primi ministri spagnoli José Maria Aznar e José Zapatero.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615050"&gt;&lt;img alt="" class="wp-image-3615050 size-full" height="631" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782409309-ilpost_20260625194124234_TECNAVIA_PHOTO_GENERALE_1272403.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Un incontro a Villa Certosa tra Berlusconi e il Presidente egiziano Mubarak, luglio 2008 (LIVIO ANTICOLI/ANSA)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Rimase celebre la visita di Tony Blair, primo ministro laburista britannico, nell’agosto del 2004. Blair aveva una grossa simpatia per Berlusconi, pur essendo di orientamento politico opposto. Aveva accettato quell&amp;#8217;invito dopo varie insistenze, ma voleva in ogni modo evitare di mostrarsi accanto a Berlusconi, e per questo aveva pregato sua moglie Cherie di frapporsi sempre tra loro due davanti ai giornalisti.&lt;/p&gt;
-&lt;p&gt;Le foto finirono per suscitare clamore per altri motivi: nell&amp;#8217;accompagnare Blair e sua moglie per il centro di Porto Rotondo, località turistica molto nota lì vicino, Berlusconi si mostrò per la prima volta con in testa una bandana diventata poi celebre. Si scoprì più tardi che serviva a coprire i segni del reimpianto dei capelli fatto poche settimane prima in un centro d’eccellenza a Ferrara. Quella sera, tornati a Villa Certosa, Berlusconi omaggiò Blair con uno spettacolo pirotecnico personalizzato: in cielo i fuochi d’artificio disegnarono la scritta “W TONY”.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615053"&gt;&lt;img alt="" class="wp-image-3615053 size-full" height="646" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782409813-4720817_large.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Blair e sua moglie Cherie durante la loro visita a Villa Certosa con Berlusconi (Frezza/Lafata/Lapresse)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Il presidente russo Vladimir Putin, che &lt;a href="https://www.ilpost.it/2022/10/20/berlusconi-putin-amicizia/"&gt;fu molto amico di Berlusconi&lt;/a&gt;, soggiornò diverse volte nella villa. La prima, nel 2003, fu particolarmente scenografica. La visita durò tre giorni e Putin fu accompagnato da diverse navi da guerra russe, come l’incrociatore lanciamissili Moskva (che è poi stato affondato nell&amp;#8217;aprile 2022 nel Mar Nero dall&amp;#8217;Ucraina).&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3615056"&gt;&lt;img alt="" class="wp-image-3615056 size-full" height="638" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/25/1782410047-ilpost_20260625195351681_TECNAVIA_PHOTO_GENERALE_129458.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Berlusconi e Putin insieme a Villa Certosa nell&amp;#8217;agosto del 2003 (ANSA / ITAR-TASS POOL/ DEF)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Durante le visite di Putin venivano organizzate sfarzose feste alla villa. Che ci fosse un invitato come Putin o meno, erano spesso accompagnate dalle esibizioni di Mariano Apicella, cantautore e amico di Berlusconi. Apicella e Berlusconi avevano scritto anche diverse canzoni insieme. Nel 2008, proprio in occasione di una festa a Villa Certosa, duettarono sulle note di una delle più celebri: “Meglio &amp;#8216;na canzone”.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;Tra i 2007 e il 2009 il fotografo Antonello Zappadu fece di nascosto diverse foto a Villa Certosa, ritraendo Berlusconi e i suoi ospiti in atteggiamenti disinibiti. Alcune foto scattate nel 2008 ritraevano l&amp;#8217;ex primo ministro della Repubblica Ceca Mirek Topolánek nudo a bordo piscina: furono pubblicate nel 2009 &lt;a href="https://elpais.com/internacional/2009/06/05/actualidad/1244152802_850215.html?event_log=oklogin"&gt;sul quotidiano spagnolo &lt;em&gt;El País&lt;/em&gt;&lt;/a&gt;. In Italia le foto erano state sequestrate dal Garante della privacy, l&amp;#8217;autorità che controlla che vengano rispettate le norme sulla protezione dei dati personali, dopo che i legali di Berlusconi avevano denunciato Zappadu per violazione di domicilio e della privacy, oltre che per truffa. Zappadu venne assolto da tutte le accuse.&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;allora direttore del&lt;em&gt; País &lt;/em&gt;Javier Moreno, difendendo la scelta di pubblicare le foto di  Zappadu, disse che «ciò che le foto trasmettono» è «quella confusione tra la sfera pubblica e privata, una sorta di miscuglio immorale, che sta degradando lo Stato democratico in Italia».&lt;/p&gt;
-&lt;p&gt;A Villa Certosa Berlusconi concedeva anche interviste a giornalisti italiani e stranieri. Nel 2003 ne fece una che suscitò molto clamore con Boris Johnson, ex primo ministro britannico conservatore e all&amp;#8217;epoca giornalista della rivista britannica &lt;em&gt;The Spectator&lt;/em&gt;. Johnson intervistò Berlusconi insieme a un altro giornalista, Nicholas Farrell, che aveva da poco scritto un libro su Benito Mussolini. Farrell lo sollecitò a fare un confronto tra la dittatura fascista di Mussolini in Italia e quella di Saddam Hussein in Iraq (che era finita da poco, dopo 24 anni), e Berlusconi &lt;a href="https://archive.ph/20260227094525/https://spectator.com/article/diary-13-september-2003/#selection-1881.519-1881.643"&gt;disse&lt;/a&gt;: «Quella fu una dittatura molto più benevola: Mussolini non uccise nessuno. Mussolini mandava le persone in vacanza per confinarle».&lt;/p&gt;
-&lt;p&gt;Villa Certosa è stato anche il luogo da cui Berlusconi provò un&amp;#8217;ultima ambiziosa impresa politica, finita in modo fallimentare: farsi eleggere presidente della Repubblica. Le elezioni erano previste per il gennaio del 2022, e nell&amp;#8217;agosto del 2021 Berlusconi invitò proprio a Villa Certosa alcuni dei principali esponenti della destra e non solo, nel tentativo di convincerli a farlo votare dai loro partiti in parlamento come nuovo presidente: ci andarono Giorgia Meloni e Ignazio La Russa, Matteo Salvini e la sua compagna Francesca Verdini, Pier Ferdinando Casini e Matteo Renzi.&lt;/p&gt;
-&lt;p&gt;Alla fine nel 2022 fu rieletto Sergio Mattarella. Di quel maldestro tentativo di Berlusconi rimane il racconto della visita alla villa che fece La Russa in &lt;a href="https://www.corriere.it/politica/21_agosto_05/ignazio-la-russa-berlusconi-giorgia-meloni-0a0c8ab6-f552-11eb-be09-a49ff05c6b25.shtml"&gt;un&amp;#8217;intervista&lt;/a&gt; al &lt;em&gt;Corriere della Sera&lt;/em&gt;: «Ci ha portato in giro per la villa guidando la macchinetta elettrica come un pazzo, prendeva le curve come un pilota di Formula 1. Lui e Giorgia Meloni davanti; io e la fidanzata di Berlusconi, Marta Fascina, dietro. La fidanzata gli urlava “vai piano!”. Ma lui niente».&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2024/08/20/meloni-masseria-ceglie-puglia-salvini/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Dove si fa la politica d’estate&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/06/25/storia-storie-villa-certosa-berlusconi</guid>
-      <pubDate>Thu, 25 Jun 2026 18:49:09 +0000</pubDate>
-      <dc:creator>Pietro Pianini</dc:creator>
     </item>
   </channel>
 </rss>
