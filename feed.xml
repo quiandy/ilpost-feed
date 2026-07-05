@@ -7,244 +7,278 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 05 Jul 2026 10:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:00:44 +0000</lastBuildDate>
+    <item>
+      <title>In Italia ci sono già 200 data center, e altre decine ne arriveranno</title>
+      <link>https://www.ilpost.it/2026/07/05/data-center-espansione-italia</link>
+      <description>&lt;p&gt;&lt;em&gt;L&amp;#x27;espansione è un grande affare per alcuni comuni, ma va anche gestita: e sarà difficile farlo finché manca una norma nazionale&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/30/1782844835-data-center-Eni.jpeg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Da alcune settimane in Lombardia è in vigore una &lt;a href="https://www.lombardianotizie.online/data-center-nuova-legge/"&gt;legge regionale&lt;/a&gt; che regolamenta la costruzione di nuovi &lt;a href="https://www.osservatori.net/blog/cloud-transformation/data-center-cosa-sono/"&gt;data center&lt;/a&gt;, gli edifici che ospitano i server che servono a far funzionare tra le altre cose i servizi cloud e i chatbot di intelligenza artificiale. Sono in sostanza computer che lavorano in connessione tra loro dove vengono archiviati, custoditi e gestiti miliardi di dati. La legge lombarda fissa alcune regole su dove e come possano essere costruiti e sugli oneri che chi costruisce deve pagare ai comuni.&lt;/p&gt;
+&lt;p&gt;È la prima legge del genere, ed è appunto regionale, mentre una legge nazionale &lt;a href="https://www.ilpost.it/2024/12/02/data-center-mancano-norme/"&gt;ancora non esiste&lt;/a&gt;. Eppure i data center in Italia sono già 200, e altri 83 verranno costruiti nei prossimi anni. In poco tempo sono passati dall’essere infrastrutture tecniche quasi invisibili a diventare un &lt;a href="https://www.ilpost.it/2025/08/13/data-center-intelligenza-artificiale-bolla/"&gt;nuovo settore industriale&lt;/a&gt;, capace di muovere &lt;a href="https://www.ilpost.it/2025/10/14/google-data-center-lintelligenza-artificiale-india/"&gt;investimenti enormi&lt;/a&gt;. Ma sono anche molto contestati dalle comunità nelle quali vengono costruiti, perlomeno &lt;a href="https://www.ilpost.it/2026/06/01/data-center-erin-brockovich/"&gt;negli Stati Uniti&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Le ragioni delle proteste hanno riguardato soprattutto il consumo di suolo, visto che normalmente i data center sono molto estesi e a volte occupano terreni che prima erano agricoli; il &lt;a href="https://www.ilpost.it/2026/01/09/intelligenza-artificiale-consumo-acqua/"&gt;consumo d’acqua&lt;/a&gt; utilizzata per il raffreddamento dei server; e il &lt;a href="https://www.youtube.com/watch?v=gc5XZJfF0kQ"&gt;rumore&lt;/a&gt; prodotto per farli funzionare.&lt;/p&gt;
+&lt;p&gt;È probabile che alcuni di questi problemi arrivino anche in Italia. Secondo l&lt;a href="https://www.osservatori.net/data-center/"&gt;’Osservatorio Data Center&lt;/a&gt; del Politecnico di Milano, negli ultimi tre anni sono stati investiti nel settore dei data center oltre 7 miliardi. Da qui al 2028 la cifra potrebbe triplicare.&lt;/p&gt;
+&lt;div class="ilpost_datawrapper loader" data-id="lGcYk" data-height="400"&gt;&lt;/div&gt;
+&lt;p&gt;Il centro di questa crescita è la provincia di Milano. Qui c&amp;#8217;è il maggior numero di strutture, e qui c&amp;#8217;è la quota più grande di potenza installata per farle funzionare, il 68 per cento del totale nazionale. Qualcosa si sta muovendo anche intorno a Roma, con una ventina circa di progetti.&lt;/p&gt;
+&lt;p&gt;&lt;iframe loading="lazy" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="Interactive or visual content" src="https://flo.uri.sh/visualisation/29548305/embed#?secret=48eYYCMEdR" data-secret="48eYYCMEdR" frameborder="0" scrolling="no" height="575" width="500"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Generalmente gli operatori che realizzano i data center si dividono in due gruppi. I &lt;em&gt;colocator&lt;/em&gt; costruiscono e gestiscono l’infrastruttura — edificio, energia, raffreddamento, connessioni — e poi la affittano ai clienti. Gli &lt;em&gt;hyperscaler&lt;/em&gt;, cioè i grandi gruppi globali del cloud come Amazon Web Services, Microsoft Azure o Google Cloud, costruiscono in proprio. L’analisi dei 70 progetti nell’area milanese censiti dal &lt;a href="https://www.dastu.polimi.it/it/progetti-di-ricerca"&gt;Dipartimento di Architettura e Studi urbani&lt;/a&gt; del Politecnico di Milano mostra però che su questo mercato sono attivi anche soggetti di tipo diverso, molto spesso stranieri: società di telecomunicazioni e fondi di investimento, ma anche gruppi della logistica e sviluppatori immobiliari.&lt;/p&gt;
+&lt;div class="ilpost_datawrapper loader" data-id="LW1wY" data-height="400"&gt;&lt;/div&gt;
+&lt;p&gt;Un data center, infatti, è un&amp;#8217;infrastruttura digitale ma anche un prodotto immobiliare. Può diventare redditizio per società che fanno da “veicolo”, cioè comprano terreni, istruiscono la pratica urbanistica con i comuni e poi rivendono ad altre società del digitale prima ancora della costruzione. L’obiettivo è realizzare guadagni sulla mediazione. È un fenomeno che non può essere definito speculativo in senso stretto, ma è confermato dagli studiosi e dagli amministratori locali sentiti per questo articolo.&lt;/p&gt;
+&lt;p&gt;Per i comuni queste strutture sono di sicuro un’opportunità economica, almeno in potenza. Come per altri insediamenti produttivi, chi costruisce deve pagare i cosiddetti oneri di urbanizzazione, che servono a finanziare strade, reti energetiche, fognature, parcheggi. Le cifre variano entro criteri definiti o regolati dalle Regioni. A questi si possono aggiungere le opere di compensazione, cioè infrastrutture pubbliche finanziate dai privati per mitigare gli impatti ambientali: piste ciclabili, parchi urbani, interventi di efficientamento energetico sugli edifici comunali.&lt;/p&gt;
+&lt;p&gt;Secondo Alice Franchina e Cristiana Mattioli, ricercatrici del &lt;a href="https://www.dastu.polimi.it/it/progetti-di-ricerca"&gt;Dipartimento di Architettura e Studi urbani&lt;/a&gt; del Politecnico di Milano, nell’hinterland milanese tutto questo ha avviato una specie di «competizione negoziale» tra comuni. Chi possiede aree disponibili e uffici tecnici preparati può ottenere più soldi o più opere, perché è in grado di trattare al rialzo con gli investitori.&lt;/p&gt;
+&lt;p&gt;A Rho, che è un comune a nord-ovest di Milano dove Amazon Web Services sta costruendo un data center da 400 milioni di euro, l’assessore all’Urbanistica Edoardo Marini ha introdotto un onere più alto rispetto a quanto previsto nelle tabelle regionali: «100 euro al metro quadrato contro i 60 previsti». È una decisione, dice, che tiene conto dell’investimento in questione. «Un data center ha un valore che può oscillare tra i 6mila e 10mila euro al metro quadrato». Per questo motivo, secondo lui, i comuni possono provare a ottenere qualcosa di più.&lt;/p&gt;
+&lt;div class="ilpost_datawrapper loader" data-id="jmIEU" data-height="400"&gt;&lt;/div&gt;
+&lt;p&gt;In alcuni casi, l’effetto di questa negoziazione vale diversi anni di entrate comunali ordinarie. A Settimo Milanese c&amp;#8217;è un&amp;#8217;ampia area che apparteneva a Italtel, storica azienda italiana delle telecomunicazioni, e che è stata trasformata in uno dei principali campus digitali della zona. Tra il 2014 e il 2024 il comune ha incassato oltre 7,5 milioni di euro. A Magenta, dove è previsto un grande data center nell’area un tempo occupata dall’azienda chimica Novaceta, l’amministrazione ha di recente presentato l’operazione come un intervento da 19 milioni di euro, di cui 13 destinati a opere pubbliche per la città.&lt;/p&gt;
+&lt;p&gt;In casi come questi, ai benefici derivanti dagli oneri di urbanizzazione si somma la possibilità di rigenerare vecchie aree industriali, facendo sì che i costi di bonifica – proibitivi per piccoli enti locali – ricadano su chi intende investire. Un esempio è il comune di Pregnana Milanese, dove sono in arrivo tre data center su tre grandi aree un tempo occupate da stabilimenti Citroën, Iveco e Olivetti. Secondo il sindaco Angelo Bosani è un&amp;#8217;occasione «imperdibile». Il motivo è che «quelle aree occupano il 20 per cento della superficie edificata del mio comune. Sarà un’operazione di rigenerazione urbana altrimenti impossibile».&lt;/p&gt;
+&lt;p&gt;Nel milanese sono nati comitati civici &lt;a href="https://www.facebook.com/p/Osservatorio-Datacenter-Comitato-Rhodense-61590173905132/"&gt;contrari alla costruzione&lt;/a&gt;, allarmati soprattutto dall&amp;#8217;eventuale consumo di suolo. La nuova legge lombarda risolve la questione solo in parte, dichiara le ex aree industriali da rigenerare come destinazione prioritaria, ma non vieta di costruire su un’area libera: viene solo reso un po’ più oneroso farlo. E per gruppi pieni di soldi come le società immobiliari o quelle tecnologiche, pagare oneri più alti per un suolo agricolo non è un problema.&lt;/p&gt;
+&lt;div class="ilpost_datawrapper loader" data-id="QCmQQ" data-height="400"&gt;&lt;/div&gt;
+&lt;p&gt;Questo aspetto è centrale anche nel dibattito nazionale. In questi giorni si sta discutendo in Senato un disegno di legge che affida al governo la delega per regolamentare il settore. È stato già approvato alla Camera in una formula che gli stessi proponenti ritengono migliorabile. Tra questi c&amp;#8217;è Lorenzo Basso, del Partito Democratico. Dice che «si può fare meglio» innanzitutto «rendendo obbligatoria la localizzazione in aree industriali dismesse. La cosa consentirebbe di utilizzare le centrali elettriche a carbone che per legge hanno smesso di funzionare dal dicembre scorso».&lt;/p&gt;
+&lt;p&gt;Tuttavia non c&amp;#8217;è solo il consumo di suolo, c&amp;#8217;è anche quello &lt;a href="https://www.ilpost.it/2025/11/18/silicon-valley-data-center-inutilizzati/"&gt;energetico&lt;/a&gt;. Alimentare migliaia di server, mantenere sempre tutto acceso e raffreddare ambienti che si riscaldano moltissimo richiede enormi quantità di acqua e di energia. Nel 2025 le richieste di connessione alla rete di alta tensione sono state di oltre 60 gigawatt, quasi cento volte la potenza installata attualmente. Sebbene sia realistico pensare che non tutti i progetti per cui è stata fatta richiesta verranno realizzati, è comunque un dato che dà la dimensione di quanto il settore potrebbe espandersi.&lt;/p&gt;
+&lt;p&gt;Marina Natalucci, direttrice dell’Osservatorio Data Center del Politecnico di Milano, dice che sulla bolletta energetica di un data center, allo stato attuale, «pesa per oltre la metà il &lt;a href="https://www.ilpost.it/2026/01/09/intelligenza-artificiale-consumo-acqua/"&gt;raffreddamento&lt;/a&gt; dei server», e che però esistono già tecnologie efficienti per ridurre questo impatto. Tra i casi di studio cita Pont-Saint-Martin, in provincia di Aosta, dove i consumi sono stati ridotti del 35 per cento con un sistema di raffreddamento &lt;a href="https://www.ilpost.it/2025/03/09/toscana-geotermia-enel/"&gt;geotermico&lt;/a&gt;, cioè che sfrutta l&amp;#8217;energia generata dal calore naturale della Terra; e Ponte San Pietro, vicino a Bergamo, dove è stato adottato un raffreddamento con acqua di falda.&lt;/p&gt;
+&lt;p&gt;Dati questi consumi, i data center stanno interessando anche i gruppi del settore energetico. Eni ha già &lt;a href="https://www.ilpost.it/2013/10/30/eni-green-data-center/"&gt;da anni un proprio data center&lt;/a&gt; a Ferrera Erbognone, in provincia di Pavia, e ora &lt;a href="https://www.eni.com/en-IT/media/press-release/2025/07/pr-khazna-data-centers-eni-partner-develop-i-data-center-campus.html"&gt;ha annunciato&lt;/a&gt; un nuovo impianto destinato all’intelligenza artificiale che costruirà insieme a Khazna Data Centers, operatore emiratino specializzato in grandi infrastrutture digitali. È una linea di sviluppo futuro: se si considera il fabbisogno energetico che sarà richiesto da un uso esteso dell’AI, i nuovi data center costituiranno un bel pezzo della politica energetica di uno Stato, e richiederanno l’ingresso di investitori pubblici.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/07/05/data-center-espansione-italia</guid>
+      <pubDate>Sun, 05 Jul 2026 12:39:27 +0200</pubDate>
+      <dc:creator>Francesco Gaeta</dc:creator>
+    </item>
+    <item>
+      <title>All’aeroporto di Catania ci sono ritardi, dirottamenti e cancellazioni dei voli per un’eruzione dell’Etna</title>
+      <link>https://www.ilpost.it/2026/07/05/eruzione-etna-catania-aeroporto-voli</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/2560x1638/1783247728-ilpost_20260705123507693_9cf3dce94106efbefa12210892c7c0a2.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Domenica mattina la Società di gestione dell’aeroporto di Catania (SAC) ha disposto la chiusura di parte dello spazio aereo nella zona dell’Etna, che ha ripreso a eruttare in modo più intenso nella notte. La chiusura comporta una riduzione dei voli da e verso l’aeroporto, con disagi per i passeggeri che si potrebbero aggiungere a quelli già previsti per oggi a causa di una serie di scioperi del settore aereo.&lt;/p&gt;
+&lt;p&gt;SAC consiglia di verificare con la propria compagnia aerea eventuali ritardi o cancellazioni dei voli. La chiusura è prevista almeno fino alle serata di oggi con una riduzione a cinque voli in arrivo all’ora. Alcuni voli sono stati dirottati su Palermo.&lt;/p&gt;
+&lt;p&gt;Dal cratere Voragine, sul fianco orientale del vulcano, si è sviluppata una nube di polvere e fumo alta circa un chilometro e mezzo, spinta dal vento verso sud-est. Secondo l’Istituto nazionale di geofisica e vulcanologie è un &lt;a href="https://www.ct.ingv.it/Dati/informative/vulcanico/ComunicatoETNA20260705072916.pdf"&gt;segnale&lt;/a&gt; dell’intensificarsi dell’attività dell’Etna che proseguirà nei prossimi giorni. A fine giugno si era formata nella stessa area un’importante colata di lava, mentre tra il 2 e il 3 luglio se n’era formata una seconda più piccola, che si era fermata dopo poche ore.&lt;/p&gt;
+&lt;p&gt;I sensori montati sul vulcano hanno rilevato un aumento delle vibrazioni, generate dal movimento dei gas e del magma. Intorno alle 8:30 di domenica mattina è stato registrato il valore più alto, provenienti sempre dalla zona di Voragine a circa 3.000 metri di quota.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/07/05/eruzione-etna-catania-aeroporto-voli</guid>
+      <pubDate>Sun, 05 Jul 2026 12:36:09 +0200</pubDate>
+      <dc:creator>Il Post</dc:creator>
+    </item>
     <item>
       <title>Le migliori maglie nella storia dei Mondiali di calcio</title>
       <link>https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia</link>
       <description>&lt;p&gt;&lt;em&gt;O quantomeno le migliori secondo noi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/1783003781-GettyImages-1295324.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/1783003781-GettyImages-1295324.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Finora ci sono state 23 edizioni dei Mondiali maschili di calcio. In tutto – tra quelle presenti 23 volte, come il Brasile, e quelle che ci arrivano più di rado – a tutti i Mondiali hanno partecipato oltre 500 squadre. Contando che da tempo ogni squadra ha due maglie, a volte tre, si arriva facilmente a un migliaio di maglie. Confessando fin da subito di non averle viste tutte-tutte-tutte, dopo intenso e accorato dibattito interno, abbiamo scelto le migliori &lt;em&gt;secondo noi&lt;/em&gt;. Con parametri vari: a volte ha prevalso la stravaganza, altre volte l&amp;#8217;estetica, altre ancora la memorabilità.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/2090860_large/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="263" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/400x263/1783003131-2090860_large.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/400x263/1783003131-2090860_large.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/680x447/1783003131-2090860_large.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/768x505/1783003131-2090860_large.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/800x526/1783003131-2090860_large.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/1783003131-2090860_large.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="263" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/400x263/1783003131-2090860_large.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3621337 gallery-columns-9 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/2090860_large/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003131-2090860_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-33/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003290-GettyImages-2284248888.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-8/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003173-GettyImages-52919954.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/gettyimages-1252858/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003145-GettyImages-1252858.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003145-GettyImages-1252858.jpg 130w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/400x283/1783003145-GettyImages-1252858.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/680x482/1783003145-GettyImages-1252858.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/768x544/1783003145-GettyImages-1252858.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/800x567/1783003145-GettyImages-1252858.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/1783003145-GettyImages-1252858.jpg 980w" sizes="(max-width: 130px) 100vw, 130px" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003190-GettyImages-480749334.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003209-GettyImages-639616167.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-19/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003223-GettyImages-1244756275.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-32/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003285-GettyImages-2282907847.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003135-AP24022735757543.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-20/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003227-GettyImages-1305869320.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003150-GettyImages-1277204.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003154-GettyImages-1292210.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-6/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003163-GettyImages-1627203.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003204-GettyImages-612546082.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-11/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003186-GettyImages-450566542.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-10/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003182-GettyImages-52926290.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003199-GettyImages-539633664.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-17/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003214-GettyImages-981253290.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003168-GettyImages-3426638.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-18/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003218-GettyImages-997727502.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-5/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003159-GettyImages-1295324.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-31/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003280-GettyImages-2281969747.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-21/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003232-GettyImages-1311294052.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-30/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003274-GettyImages-2281871881.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-22/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003236-GettyImages-1446247364.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-23/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003240-GettyImages-2159389584.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-24/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003245-GettyImages-2208390978.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-26/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003254-GettyImages-2208584356.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-27/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003260-GettyImages-2211832567.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-29/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003269-GettyImages-2258663631.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-25/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003250-GettyImages-2208396847.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-34/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003295-ilpost_20260701191830556_e3b24725a0939069fb4b6fcc4f8bd8e2.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-9/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003178-GettyImages-52921853.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-28/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003264-GettyImages-2211846369.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003140-GettyImages-923267.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-13/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003194-GettyImages-525787680.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3621337 gallery-columns-9 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/2090860_large/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003131-2090860_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-33/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003290-GettyImages-2284248888.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-8/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003173-GettyImages-52919954.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/gettyimages-1252858/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003145-GettyImages-1252858.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003190-GettyImages-480749334.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003209-GettyImages-639616167.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-19/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003223-GettyImages-1244756275.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-32/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003285-GettyImages-2282907847.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003135-AP24022735757543.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-20/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003227-GettyImages-1305869320.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003150-GettyImages-1277204.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003154-GettyImages-1292210.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003163-GettyImages-1627203.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003204-GettyImages-612546082.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003186-GettyImages-450566542.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-10/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003182-GettyImages-52926290.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003199-GettyImages-539633664.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-17/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003214-GettyImages-981253290.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003168-GettyImages-3426638.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-18/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003218-GettyImages-997727502.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003159-GettyImages-1295324.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-31/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003280-GettyImages-2281969747.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-21/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003232-GettyImages-1311294052.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-30/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003274-GettyImages-2281871881.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-22/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003236-GettyImages-1446247364.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-23/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003240-GettyImages-2159389584.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-24/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003245-GettyImages-2208390978.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-26/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003254-GettyImages-2208584356.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-27/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003260-GettyImages-2211832567.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-29/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003269-GettyImages-2258663631.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-25/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003250-GettyImages-2208396847.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-34/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003295-ilpost_20260701191830556_e3b24725a0939069fb4b6fcc4f8bd8e2.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-9/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003178-GettyImages-52921853.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-28/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003264-GettyImages-2211846369.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003140-GettyImages-923267.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia/maglie-storiche-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/130x91/1783003194-GettyImages-525787680.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
 &lt;p&gt;Certo, se una maglia finisce addosso a Baggio, Maradona o Pelé, tutto diventa molto più facile. E sì, ce ne sono molte dagli anni Novanta in poi per un combinato disposto di motivi: perché nei primi decenni le maglie cambiavano poco, perché le foto sono rare oppure in bianco e nero e perché siamo (o comunque ci sentiamo) &lt;em&gt;giovani&lt;/em&gt;, e quindi ne abbiamo scelte da anni abbastanza lontani da essere storia e abbastanza vicini da ricordarceli bene.&lt;/p&gt;
-&lt;p&gt;Il &lt;em&gt;Post &lt;/em&gt;sta seguendo i Mondiali con un &lt;a href="https://www.ilpost.it/live/mondiali-di-calcio-2026/"&gt;liveblog&lt;/a&gt; (sempre lo stesso, fino alla fine dei Mondiali) e una newsletter,&lt;em&gt; &lt;a href="https://www.ilpost.it/newsletter/?newsletter_id=post-partita"&gt;Post Partita&lt;/a&gt;&lt;/em&gt;, che arriva ogni giorno verso le 8 di mattina.&lt;/p&gt;
-</description>
+&lt;p&gt;Il &lt;em&gt;Post &lt;/em&gt;sta seguendo i Mondiali con un &lt;a href="https://www.ilpost.it/live/mondiali-di-calcio-2026/"&gt;liveblog&lt;/a&gt; (sempre lo stesso, fino alla fine dei Mondiali) e una newsletter,&lt;em&gt; &lt;a href="https://www.ilpost.it/newsletter/?newsletter_id=post-partita"&gt;Post Partita&lt;/a&gt;&lt;/em&gt;, che arriva ogni giorno verso le 8 di mattina.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/05/maglie-mondiali-migliori-foto-storia</guid>
-      <pubDate>Sun, 05 Jul 2026 11:31:05 +0200</pubDate>
+      <pubDate>Sun, 05 Jul 2026 09:31:05 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>Le foto del concerto di Ultimo, il più venduto di sempre in Italia</title>
       <link>https://www.ilpost.it/2026/07/05/foto-concerto-ultimo</link>
       <description>&lt;p&gt;&lt;em&gt;A Tor Vergata c&amp;#x27;erano oltre 250mila persone&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783243439-ilpost_20260705112344221_b213370d23904e21440d8754b763c522.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783243439-ilpost_20260705112344221_b213370d23904e21440d8754b763c522.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Sabato sera a Roma si è svolto il concerto &amp;#8220;La favola per sempre&amp;#8221; di Ultimo, molto atteso per il record di biglietti venduti: circa 250mila. A Tor Vergata, nella periferia sud-est di Roma, c&amp;#8217;erano quindi 250mila spettatori che hanno reso l&amp;#8217;evento il secondo concerto a pagamento al mondo per presenze. Nonostante la grande quantità di persone, si è svolto tutto senza particolari problemi.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-3/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/400x267/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/400x267/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/680x453/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/768x512/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/800x533/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/400x267/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3623474 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241217-ilpost_20260705095357806_ba2b62f1ea453f7f419d7e4b4ec009b8.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241230-ilpost_20260705095555556_e691f7292874f306b2fdce1e31f260e1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-6/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241239-ilpost_20260705095626474_59df9fef71bbbe0e53a243cae1d8011e.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241221-ilpost_20260705095452742_b7ec5e718d5c1a6c54453b617e6136bd.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-5/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241235-ilpost_20260705095612708_308a5b6c6c5c3a078f744324fa65e20e.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241244-ilpost_20260705095640767_aa838a81e5cdde5a92d1d22c6570b0f4.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/concerto-ultimo-tor-vergata/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241248-24570437_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/concerto-ultimo-tor-vergata-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241252-24570443_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-at-la-favola-per-sempre-concert-rome/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241261-ilpost_20260705104023568_5709e6cdc44bd1667fe1955c689e8b01.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-8/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241257-ilpost_20260705103832567_6ee5e0b8533abda5ebcb27b0e6ec2569.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-9/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241707-ilpost_20260705105447594_0b2ea1a34512299471cd96c93f85b796.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3623474 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241225-ilpost_20260705095512133_61b5746f34ccc999f33fd6fcf09de3ba.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241217-ilpost_20260705095357806_ba2b62f1ea453f7f419d7e4b4ec009b8.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241230-ilpost_20260705095555556_e691f7292874f306b2fdce1e31f260e1.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241239-ilpost_20260705095626474_59df9fef71bbbe0e53a243cae1d8011e.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241221-ilpost_20260705095452742_b7ec5e718d5c1a6c54453b617e6136bd.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241235-ilpost_20260705095612708_308a5b6c6c5c3a078f744324fa65e20e.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241244-ilpost_20260705095640767_aa838a81e5cdde5a92d1d22c6570b0f4.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/concerto-ultimo-tor-vergata/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241248-24570437_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/concerto-ultimo-tor-vergata-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241252-24570443_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-at-la-favola-per-sempre-concert-rome/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241261-ilpost_20260705104023568_5709e6cdc44bd1667fe1955c689e8b01.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-8/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241257-ilpost_20260705103832567_6ee5e0b8533abda5ebcb27b0e6ec2569.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/07/05/foto-concerto-ultimo/ultimo-da-record-live-con-250mila-spettatori-a-tor-vergata-9/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/130x91/1783241707-ilpost_20260705105447594_0b2ea1a34512299471cd96c93f85b796.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
 &lt;p&gt;Dopo il concerto Ultimo ha pubblicato un &lt;a href="https://www.instagram.com/p/DaY1S2QK4Ra/?hl=it"&gt;post&lt;/a&gt; sul proprio profilo Instagram con scritto “Siamo nella storia” e il video di un pezzo del suo concerto.&lt;/p&gt;
 &lt;p&gt;Ultimo ha superato i biglietti venduti da Vasco Rossi per il suo concerto al parco Enzo Ferrari di Modena nel 2017, il più grande a pagamento mai tenuto in Italia finora. L’unico cantante che ha venduto più biglietti per un singolo concerto è Marko Perković Thompson, cantante nazionalista croato che l’anno scorso si era esibito in un concerto a Zagabria per cui erano stati venduti mezzo milione di biglietti.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="instagram" data-url="https://www.instagram.com/p/DaY1S2QK4Ra/?hl=it"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;Al concerto era presente anche il sindaco di Roma Roberto Gualtieri, che in un video pubblicato su Instagram per ringraziare Ultimo ha definito l’evento «una notte indimenticabile».&lt;/p&gt;
 &lt;p&gt;Ultimo, che è il nome d’arte di Niccolò Moriconi, ha 30 anni e fa un cantautorato pop molto melenso e convenzionale che in Italia ha una lunga storia di successi. Non è tra i cantanti più ascoltati sulle piattaforme musicali, ma negli anni si è creato una fanbase molto ampia, calorosa e affezionata al punto che i suoi fan sono stati descritti a volte come una “tribù”, perché il loro senso di appartenenza e di adesione ha pochi uguali nella musica italiana di oggi, ma anche del passato.&lt;/p&gt;
-&lt;p&gt;Come &lt;a href="https://www.ilpost.it/2026/07/02/accamparsi-prima-concerti/"&gt;spesso capita&lt;/a&gt; nel caso di concerti così attesi, molte persone si erano appostate già nei giorni precedenti in piazzale Giovanni Paolo II, l’area del concerto, usando in alcuni casi tende e sacchi a pelo, posti sotto un tendone da circo. Per gestire al meglio il gran numero di persone erano state prese delle misure straordinarie dalla questura di Roma, tra cui la chiusura delle strade intorno al luogo dell’evento dalla mattina di sabato e delle navette gratuite. Era inoltre stato deciso di tenere la metropolitana aperta tutta la notte.&lt;/p&gt;
-</description>
+&lt;p&gt;Come &lt;a href="https://www.ilpost.it/2026/07/02/accamparsi-prima-concerti/"&gt;spesso capita&lt;/a&gt; nel caso di concerti così attesi, molte persone si erano appostate già nei giorni precedenti in piazzale Giovanni Paolo II, l’area del concerto, usando in alcuni casi tende e sacchi a pelo, posti sotto un tendone da circo. Per gestire al meglio il gran numero di persone erano state prese delle misure straordinarie dalla questura di Roma, tra cui la chiusura delle strade intorno al luogo dell’evento dalla mattina di sabato e delle navette gratuite. Era inoltre stato deciso di tenere la metropolitana aperta tutta la notte.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/05/foto-concerto-ultimo</guid>
-      <pubDate>Sun, 05 Jul 2026 11:25:21 +0200</pubDate>
+      <pubDate>Sun, 05 Jul 2026 09:25:21 +0000</pubDate>
       <dc:creator>Alberto Chiumento</dc:creator>
     </item>
     <item>
       <title>Tante persone partecipano al funerale di Khamenei, ma quante?</title>
       <link>https://www.ilpost.it/2026/07/05/secondo-giorno-funerali-ali-khamenei-teheran-iran</link>
       <description>&lt;p&gt;&lt;em&gt;Il regime parla già di milioni di visitatori, ma sono stime difficili da verificare: da due giorni c&amp;#x27;è comunque una grande quantità di gente a Teheran&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/07/05/1783238962-AP26186268061774.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/07/05/1783238962-AP26186268061774.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Domenica è il secondo giorno dei sei previsti per il funerale di Ali Khamenei, e da sabato decine di migliaia di persone sono arrivate a Teheran, la capitale dell’Iran, per rendergli omaggio. È difficile anche solo stimare quante persone siano arrivate finora per vedere la sua bara, esposta in una teca di vetro nella Grande Moschea della città. Già dalle prime ore della mattina di domenica lo spiazzo davanti e le aree adiacenti erano pieni di gente per vederla e raccogliersi in preghiera. La cerimonia oggi dura fino alle 20 (le 18:30 in Italia).&lt;/p&gt;
 &lt;p&gt;Il regime ha stimato fino a 15 milioni di partecipanti e l&amp;#8217;agenzia di stato Tasnim ha detto che da sabato mattina sono stati registrati 7 milioni di accessi alla metropolitana di Teheran, che è il mezzo fortemente raccomandato per raggiungere la Grande Moschea in questi giorni di grande affollamento.&lt;/p&gt;
 &lt;p&gt;Sono numeri probabilmente gonfiati, dato che il funerale ha anche scopi politici: &lt;a href="https://www.ilpost.it/2026/07/03/funerale-ali-khamenei-forza-unione/"&gt;serve a mostrare forza e unità&lt;/a&gt; nei negoziati con gli Stati Uniti, a rafforzare il consenso attorno alla Repubblica islamica trasformando Khamenei in un martire della resistenza.&lt;/p&gt;
-&lt;div id="attachment_3623467" class="wp-caption aligncenter" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3623467 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239673-AP26186219169839.jpg" alt="" width="1200" height="800" srcset="https://www.ilpost.it/wp-content/uploads/2026/07/05/1783239673-AP26186219169839.jpg 1200w, https://www.ilpost.it/wp-content/uploads/2026/07/05/400x267/1783239673-AP26186219169839.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/07/05/680x453/1783239673-AP26186219169839.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/07/05/768x512/1783239673-AP26186219169839.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/07/05/800x533/1783239673-AP26186219169839.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption aligncenter" id="attachment_3623467"&gt;&lt;img alt="" class="wp-image-3623467 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239673-AP26186219169839.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Khamenei era l’esponente più importante e tra i più simbolici del regime. Era la Guida Suprema, cioè la più alta autorità politica e religiosa del paese, incarico che ha mantenuto fino al 28 febbraio, quando fu ucciso a 86 anni nel primo giorno di guerra in Medio Oriente da un bombardamento israeliano.&lt;/p&gt;
 &lt;p&gt;Nella mattina sono stati visti al funerale tre dei figli di Khamenei: Masoud, Meysam e Mostafa. Le autorità iraniane hanno detto che invece non parteciperà questioni di sicurezza &lt;a href="https://www.ilpost.it/2026/03/08/iran-mojtaba-khamenei/"&gt;Mojtaba Khamenei&lt;/a&gt;, che dalla morte del padre ha assunto il ruolo di Guida Suprema. Da allora non è mai apparso in pubblico e si è speculato molto sulle sue condizioni di salute e sulla possibilità che sia stato ferito in un bombardamento.&lt;/p&gt;
 &lt;p&gt;La televisione di stato iraniana sta seguendo il funerale con lunghe dirette, mostrando la grande quantità di partecipanti. Molti di loro urlano frasi contro gli Stati Uniti e Israele, come «Morte all&amp;#8217;America» ​​e «Morte a Israele», spesso sventolando bandiere e striscioni rossi, il colore tradizionalmente usato per le richieste di vendetta. È difficile capire quanto queste dimostrazioni siano spontanee o pilotate dal regime.&lt;/p&gt;
-&lt;div id="attachment_3623466" class="wp-caption aligncenter" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3623466 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239098-AP26186272241632.jpg" alt="" width="1200" height="800" srcset="https://www.ilpost.it/wp-content/uploads/2026/07/05/1783239098-AP26186272241632.jpg 1200w, https://www.ilpost.it/wp-content/uploads/2026/07/05/400x267/1783239098-AP26186272241632.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/07/05/680x453/1783239098-AP26186272241632.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/07/05/768x512/1783239098-AP26186272241632.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/07/05/800x533/1783239098-AP26186272241632.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;La folla sotto i vaporizzatori d’acqua usati per alleviare il caldo, Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption aligncenter" id="attachment_3623466"&gt;&lt;img alt="" class="wp-image-3623466 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239098-AP26186272241632.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;La folla sotto i vaporizzatori d’acqua usati per alleviare il caldo, Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;L’area della moschea è strettamente sorvegliata dalle forze di sicurezza, che perquisiscono e ispezionano con il metal detector chiunque arrivi. I visitatori si fermano a scrivere messaggi commemorativi sulle barricate installate per delimitare l’accesso all’area, e alcuni partecipanti appendono ritratti, oggetti e fiori anche sull’edificio in cui Khamenei fu ucciso.&lt;/p&gt;
 &lt;p&gt;Per quanto sia difficile fare stime accurate, le immagini mostrano una grande partecipazione. Khamenei aveva un forte seguito tra integralisti religiosi e nazionalisti iraniani, anche se dopo quasi 40 anni di governo, repressione e crisi economica hanno allontanato gran parte della popolazione dal regime, soprattutto i giovani.&lt;/p&gt;
 &lt;p&gt;Prima della guerra il regime aveva represso brutalmente diverse proteste e, dopo la morte di Ali Khamenei molti iraniani erano scesi in piazza per festeggiare, rischiando in molti casi la vita.&lt;/p&gt;
-&lt;div id="attachment_3623468" class="wp-caption aligncenter" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3623468 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239738-AP26186284836521.jpg" alt="" width="1200" height="800" srcset="https://www.ilpost.it/wp-content/uploads/2026/07/05/1783239738-AP26186284836521.jpg 1200w, https://www.ilpost.it/wp-content/uploads/2026/07/05/400x267/1783239738-AP26186284836521.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/07/05/680x453/1783239738-AP26186284836521.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/07/05/768x512/1783239738-AP26186284836521.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/07/05/800x533/1783239738-AP26186284836521.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption aligncenter" id="attachment_3623468"&gt;&lt;img alt="" class="wp-image-3623468 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/05/1783239738-AP26186284836521.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Teheran, 5 luglio 2026 (AP Photo/Altaf Qadri)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Il funerale continuerà anche lunedì, ma Teheran non sarà l’unica città coinvolta nella cerimonia.&lt;/p&gt;
 &lt;p&gt;Dopo la capitale, la salma di Khamenei sarà trasportata nella città santa di Qom, poi a Najaf e Karbala, in Iraq, dove c’è una grande comunità sciita. Nelle intenzioni del regime, raggiungere l’Iraq serve per mostrare la capacità dell’Iran di mantenere una propria influenza regionale come forza sciita internazionale.&lt;/p&gt;
-&lt;p&gt;La salma tornerà nuovamente in Iran per essere sepolta a Mashhad, la città dove nacque, il 19 aprile del 1939.&lt;/p&gt;
-</description>
+&lt;p&gt;La salma tornerà nuovamente in Iran per essere sepolta a Mashhad, la città dove nacque, il 19 aprile del 1939.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/05/secondo-giorno-funerali-ali-khamenei-teheran-iran</guid>
-      <pubDate>Sun, 05 Jul 2026 11:04:10 +0200</pubDate>
+      <pubDate>Sun, 05 Jul 2026 09:04:10 +0000</pubDate>
       <dc:creator>Mariasole Lisciandro</dc:creator>
     </item>
     <item>
@@ -1816,144 +1850,6 @@ e p.c. ai membri del CdA e ai Direttori di Dipartimento&lt;/p&gt;
       <guid isPermaLink="false">https://www.ilpost.it/2026/07/03/rai-3-cambiamento</guid>
       <pubDate>Fri, 03 Jul 2026 13:37:31 +0000</pubDate>
       <dc:creator>Matilda Ferraris</dc:creator>
-    </item>
-    <item>
-      <title>Il primo ministro della Moldavia si è dimesso, dopo uno scandalo di corruzione che ha coinvolto la presidente</title>
-      <link>https://www.ilpost.it/2026/07/03/il-primo-ministro-della-moldavia-si-e-dimesso-dopo-uno-scandalo-di-corruzione-che-ha-coinvolto-la-presidente</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/1783082620-AP26184287944235.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Il primo ministro della Moldavia, Alexandru Munteanu, &lt;a href="https://x.com/AlexMunteanuMD/status/2072935305653432411"&gt;si è dimesso&lt;/a&gt; venerdì, alcune settimane dopo uno scandalo di corruzione che ha coinvolto anche la presidente Maia Sandu. Munteanu era a capo di un governo filoeuropeo sostenuto dal Partito di Azione e Solidarietà (PAS), entrato in carica &lt;a href="https://www.ilpost.it/2025/09/29/moldavia-elezioni-parlamentari-vinte-partito-azione-solidarieta/"&gt;dopo le elezioni del 2025.&lt;/a&gt; Le sue dimissioni comportano anche la caduta del governo. Sandu, che è la fondatrice di PAS e uno dei suoi membri più importanti, ha detto che inizierà le consultazioni per nominare il suo successore lunedì.&lt;/p&gt;
-&lt;p&gt;A metà giugno il giornale &lt;a href="https://www.zdg.md/investigatii/ancheta/zborul-spre-sefia-moldatsa-pe-aripile-unui-cv-cu-informatii-false-misiunile-secrete-si-controversele-din-jurul-lui-dumitru-vangheli/"&gt;&lt;em&gt;Ziarul da Gardă&lt;/em&gt;&lt;/a&gt; aveva pubblicato un&amp;#8217;inchiesta secondo cui alcuni importanti funzionari nella compagnia aerea statale, MoldATSA, erano stati assunti e pagati in modo irregolare: tra di loro c&amp;#8217;è anche una cugina di Sandu. Dopo la pubblicazione dell&amp;#8217;inchiesta diversi importanti funzionari e membri di PAS si erano dimessi. Sandu però ha negato di essere collegata all&amp;#8217;assunzione della cugina, e ha creato una commissione per indagare sul modo in cui vengono amministrate le aziende statali. Ha anche negato le accuse secondo cui lei avrebbe impedito al primo ministro di contrastare comportamenti illeciti, dicendo che era libero di governare come voleva.&lt;/p&gt;
-&lt;p&gt;In un messaggio sui propri profili social, Munteanu non ha spiegato perché ha deciso di dimettersi, limitandosi ad accennare al fatto che non gli è più possibile esercitare la funzione di primo ministro rimanendo fedele «ai propri princìpi e alle proprie convinzioni».&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;Sandu è una politica molto filoeuropea, e una delle sue principali promesse durante la campagna elettorale era stata proprio quella di combattere la corruzione. L&amp;#8217;opposizione, che è formata da diversi partiti filorussi e contrari all&amp;#8217;integrazione europea della Moldavia, ha chiesto a Sandu di dimettersi e di convocare elezioni anticipate. Attualmente PAS ha la maggioranza assoluta in parlamento, e quindi è difficile che le dimissioni di Munteanu provochino una crisi politica più ampia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2018/10/16/moldavia-maia-sandu/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La Moldavia sta a metà&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/07/03/il-primo-ministro-della-moldavia-si-e-dimesso-dopo-uno-scandalo-di-corruzione-che-ha-coinvolto-la-presidente</guid>
-      <pubDate>Fri, 03 Jul 2026 13:26:44 +0000</pubDate>
-      <dc:creator>Rodolfo Toe</dc:creator>
-    </item>
-    <item>
-      <title>Celebripost</title>
-      <link>https://www.ilpost.it/2026/07/03/celebripost-623</link>
-      <description>&lt;p&gt;&lt;em&gt;Con Dwayne Johnson e questo grande amo da pesca, Javier Bardem, Penelope Cruz e Rosalía a tifare ai Mondiali, la coppia che ha scalato l&amp;#x27;Empire State Building e Emmanuel Macron e i suoi occhiali da sole&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/1783081559-ilpost_20260703092949663_efd02bf8258ddebb2320f3f9caeb2056.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Molte delle foto di questa raccolta appartengono al genere &amp;#8220;gente famosa fotografata sugli spalti degli eventi sportivi&amp;#8221;: Javier Bardem, Pénelope Cruz e Rosalía hanno festeggiato la qualificazione della Spagna ai Mondiali; mentre Venus Williams era a tifare la sorella Serena al torneo di Wimbledon, dove sono passati anche Bad Bunny, Romeo Beckham, Kate Middleton e Andy Murray. Naomi Osaka è stata invece fotografata in campo, ma con uno dei suoi &lt;a href="https://www.ilpost.it/2026/06/30/naomi-osaka-outfit/"&gt;outfit notevoli&lt;/a&gt;. Poi un po&amp;#8217; di quelli che hanno sfilato al &lt;a href="https://www.ilpost.it/2026/06/30/foto-pride-mondo/"&gt;Pride in varie parti del mondo&lt;/a&gt;: Elodie a Milano, Zohran Mamdani a New York e Mark Carney a Toronto. I fan del del &lt;em&gt;Signore degli Anelli &lt;/em&gt;apprezzeranno Elijah Wood (Frodo, per loro) che imita il personaggio Boromir a un evento per i 25 anni della trilogia, e per finire Emmanuel Macron, di nuovo con &lt;a href="https://www.ilpost.it/flashes/emmanuel-macron-occhiali-da-sole/"&gt;quegli occhiali da sole&lt;/a&gt;.&lt;/p&gt;
-
- 
- 
- &lt;div class="split-gal" id="gallery-new"&gt;
- &lt;figure class="split-gal-el"&gt;
- &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12792/" title="vai alla fotogallery"&gt;
- &lt;img alt="" class="attachment-medium size-medium" height="252" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/400x252/1783070369-2026-07-02T214526Z_1736224452_UP1EM721MV4EV_RTRMADP_3_SOCCER-WORLDCUP-ESP-AUT.jpg" width="400" /&gt;
- &lt;span class="arrow"&gt;&lt;/span&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- &lt;span class="caption"&gt;&lt;/span&gt;
- &lt;/figure&gt;
- &lt;/div&gt;&lt;div class="gallery galleryid-3615564 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12792/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070369-2026-07-02T214526Z_1736224452_UP1EM721MV4EV_RTRMADP_3_SOCCER-WORLDCUP-ESP-AUT.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12791/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070353-2026-07-02T160219Z_85866482_RC2M5MAMRM1F_RTRMADP_3_NEW-YORK-EMPIRE-PROTEST.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12790/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070339-2026-06-26T210625Z_518982683_UP1EM6Q1LADZC_RTRMADP_3_SOCCER-WORLDCUP-NOR-FRA-FANS.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12824/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783081204-2026-06-29T000633Z_390381377_RC2B3MABCZ7O_RTRMADP_3_AWARDS-BET.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12798/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070455-AP26180534786133.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12794/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070394-AP26179598828839.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12800/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070485-AP26181695295076.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12796/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070424-AP26180193969674.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12795/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070409-AP26179708718833.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12823/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070835-ilpost_20260703092949663_efd02bf8258ddebb2320f3f9caeb2056.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12810/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070644-GettyImages-2283611948.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12813/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070691-GettyImages-2283795839.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12797/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070438-AP26180379151507.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12799/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070471-AP26181670869065.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12804/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070553-AP26184049941619.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12808/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070610-GettyImages-2283598766.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12809/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070627-GettyImages-2283600766.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12802/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070525-AP26183461924181.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12806/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070581-GettyImages-2283470815.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12803/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070538-AP26183589928949.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12805/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070568-GettyImages-2283410224.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12820/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070796-GettyImages-2284400257.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12814/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070705-GettyImages-2283855343.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12807/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070595-GettyImages-2283497731.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12819/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070782-GettyImages-2284347112.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12812/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070678-GettyImages-2283767740.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12811/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070663-GettyImages-2283718503.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/ap26181720237304/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070922-AP26181720237304.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12821/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070810-ilpost_20260703083632899_37ca7519a43031556a2b45f9a37acdea.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/07/03/celebripost-623/celebripost-12816/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/03/130x91/1783070733-GettyImages-2283890178.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/07/03/celebripost-623</guid>
-      <pubDate>Fri, 03 Jul 2026 12:40:48 +0000</pubDate>
-      <dc:creator>Claudia Dusina</dc:creator>
     </item>
   </channel>
 </rss>
