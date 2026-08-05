@@ -7,323 +7,383 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:02:10 +0000</lastBuildDate>
     <item>
-      <title>C’è la Coppa d’Africa femminile di calcio </title>
+      <title>È stato approvato il decreto sul riconoscimento facciale, con qualche modifica</title>
+      <link>https://www.ilpost.it/2026/08/05/decreto-riconoscimento-facciale-polizia</link>
+      <description>&lt;p&gt;&lt;em&gt;Soprattutto riguardo al punto più delicato, cioè la raccolta dei dati biometrici nei luoghi pubblici &#13;
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785915158-GettyImages-1210654877.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Il Consiglio dei ministri &lt;a href="https://www.governo.it/it/articolo/consiglio-dei-ministri-n-185/32457"&gt;ha approvato&lt;/a&gt; il decreto legislativo che permette alla polizia di usare i sistemi tecnologici di &lt;a href="https://www.ilpost.it/2026/07/30/riconoscimento-facciale-legge-polizia/"&gt;riconoscimento facciale&lt;/a&gt; in casi specifici e limitati. È un provvedimento che serve ad adeguare la legge italiana all&amp;#8217;AI Act europeo, che nel 2024 ha stabilito fino a dove possono spingersi le tecnologie di sorveglianza.&lt;/p&gt;
+&lt;p&gt;Se ne discute da settimane per via dei rischi legati all’uso di questi strumenti, che senza regole e limitazioni diventano estremamente invasivi per la privacy delle persone. Rispetto all&amp;#8217;idea iniziale, il governo &lt;a href="https://www.ansa.it/sito/notizie/politica/2026/08/04/via-libera-del-cdm-al-riconoscimento-facciale-introdotte-piu-tutele_c16ccbc3-5fd4-4d92-82a1-29ea0d7ad05f.html"&gt;ha introdotto&lt;/a&gt; alcune modifiche che limitano l’uso e la rielaborazione dei dati raccolti nei luoghi pubblici, e rafforzano i controlli dell’autorità giudiziaria.&lt;/p&gt;
+&lt;p&gt;In conferenza stampa il viceministro della Giustizia Francesco Paolo Sisto, di Forza Italia, ha detto che «non c’è nulla di automatico affidato all’intelligenza artificiale». Ha poi detto che il controllo dei sistemi usati dalle forze dell’ordine passerà dall’autorità giudiziaria «in modo diversificato tra il pubblico ministero e il giudice per le indagini preliminari», senza però specificare esattamente in che modo.&lt;/p&gt;
+&lt;p&gt;Il riconoscimento facciale sfrutta software che analizzano l’immagine di un volto e la traducono in una serie di numeri, che variano in base a caratteristiche fisiche come la distanza tra gli occhi, la forma della mandibola, la posizione degli zigomi e così via. Quella sequenza di numeri viene poi confrontata con altre sequenze già archiviate. Il sistema non riconosce nessuno, in verità, ma calcola quanto due facce si assomigliano e restituisce un elenco di candidati con una percentuale di somiglianza.&lt;/p&gt;
+&lt;p&gt;Le parti più discusse del decreto sono contenute negli articoli 8 e 10. L’articolo 8 riguarda l’identificazione in tempo reale in luoghi pubblici o aperti al pubblico, ammessa in due soli casi: per prevenire una minaccia specifica e grave, come un attacco terroristico o un pericolo per la vita e l’incolumità delle persone; e per cercare persone scomparse o vittime di sequestro, tratta di esseri umani o sfruttamento sessuale. In questi casi l’uso del riconoscimento facciale è limitato a confermare l’identità di persone già individuate o a localizzare persone che si stanno cercando.&lt;/p&gt;
+&lt;p&gt;Il testo del decreto approvato dal Consiglio dei ministri non è ancora stato pubblicato, ma secondo quanto anticipato da Sisto e dalle agenzie di stampa il confronto tra le immagini potrà avvenire solo con una banca dati realizzata per quella specifica finalità, che dovrà essere cancellata alla scadenza dell’autorizzazione. Sisto ha detto che è vietato usare banche dati alimentate con una grande quantità di immagini ottenute online. Le banche dati dovranno essere quindi costruite a partire da archivi già usati dalla polizia, oppure da immagini e filmati acquisiti legalmente.&lt;/p&gt;
+&lt;div id="attachment_3648707" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3648707 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x267/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/680x453/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/768x512/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/800x533/1785915103-ilpost_20260805093041600_4163511b49f2fdb4f71ffaa91d610e22.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Il viceministro della Giustizia Francesco Paolo Sisto durante la conferenza stampa dopo il Consiglio dei ministri, 4 agosto 2026 (ANSA/ANGELO CARCONI)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Il &lt;em&gt;Sole 24 Ore&lt;/em&gt; scrive che la procedura per attivare i software è la stessa proposta nelle scorse settimane. Prevede che il questore o i responsabili delle forze dell’ordine presentino una richiesta motivata al pubblico ministero (pm), che a sua volta autorizza come, quando e per quanto tempo si può utilizzare il sistema. Nei casi urgenti la polizia può partire prima, avvisando il pm anche solo a voce, e chiedere l’autorizzazione entro 24 ore. Poi il pm ha altre 24 ore per decidere. Se l’autorizzazione non arriva, l’uso si interrompe e i dati vanno cancellati.&lt;/p&gt;
+&lt;p&gt;Questo è un punto controverso, perché questo genere di autorizzazioni in altri ambiti del processo penale viene accordato da un giudice terzo, cioè il giudice per le indagini preliminari, e non il pm che rappresenta una parte (l&amp;#8217;accusa).&lt;/p&gt;
+&lt;p&gt;L’articolo 10 riguarda invece i sistemi di videosorveglianza già installati, che potranno essere dotati di software di intelligenza artificiale capaci di attivare il riconoscimento facciale. L’accensione è consentita esclusivamente dopo un reato e solo per identificare persone «già indiziate».&lt;/p&gt;
+&lt;p&gt;Secondo quanto riportato dall&amp;#8217;&lt;em&gt;ANSA&lt;/em&gt;, il Consiglio dei ministri ha modificato la versione iniziale del punto più delicato di questo articolo, contenuta nel comma 3, che prevedeva che nei luoghi o negli eventi «rispetto ai quali sussistono esigenze di ordine e sicurezza pubblica» il sistema potesse trattare automaticamente i dati biometrici di tutte le persone che entrano. Ora invece è previsto che nelle piazze, negli stadi, nei cortei o in posti con caratteristiche simili le forze dell’ordine possano registrare e conservare le immagini ma non attivare automaticamente il riconoscimento facciale.&lt;/p&gt;
+&lt;p&gt;Il trattamento dei dati biometrici può essere attivato solo se viene commesso un reato. La conservazione di questi dati è comunque limitata: dura sette giorni, poi la cancellazione è automatica. Inoltre, anche in questo caso è previsto che la polizia giudiziaria debba chiedere un’autorizzazione al magistrato entro 24 ore dall’avvio del sistema, e spetta al magistrato decidere se concederla oppure no.&lt;/p&gt;
+&lt;p&gt;Sisto non ha illustrato nel dettaglio il provvedimento, ma tra le varie cose ha detto che sarà prevista una formazione specifica per le forze dell’ordine su questi sistemi.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/decreto-riconoscimento-facciale-polizia</guid>
+      <pubDate>Wed, 05 Aug 2026 09:46:25 +0200</pubDate>
+      <dc:creator>Laura Fasani</dc:creator>
+    </item>
+    <item>
+      <title>La storia dietro ai visti revocati ai diplomatici di Stati Uniti e Brasile</title>
+      <link>https://www.ilpost.it/2026/08/05/crisi-diplomatica-stati-uniti-brasile</link>
+      <description>&lt;p&gt;&lt;em&gt;È l’ennesimo episodio che mostra grandi frizioni tra Lula e Trump, e preannuncia una campagna elettorale brasiliana molto animata&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785913295-lula-usa.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Da un anno e mezzo, cioè grossomodo da quando Donald Trump è tornato presidente, Stati Uniti e Brasile alternano fasi di scontro diplomatico a fasi di relativa distensione. Adesso siamo di nuovo allo scontro, che è peggiorato in questi giorni e con ogni probabilità continuerà a farlo da qui alle elezioni presidenziali che si terranno in Brasile a ottobre.&lt;/p&gt;
+&lt;p&gt;Trump non nasconde l&amp;#8217;appoggio al candidato della destra brasiliana Flávio Bolsonaro, figlio dell&amp;#8217;ex presidente e suo stretto alleato, Jair Bolsonaro. Flávio Bolsonaro sfiderà contro l&amp;#8217;attuale presidente progressista &lt;a href="https://www.ilpost.it/2026/08/04/lula-brasile-quarto-mandato/"&gt;Luiz Inácio Lula da Silva&lt;/a&gt;, che si ricandida. Bolsonaro padre non può partecipare per via della &lt;a href="https://www.ilpost.it/2025/09/11/bolsonaro-condannato-brasile/"&gt;condanna&lt;/a&gt; per il tentato colpo di stato del 2022 e, anche se è agli arresti domiciliari, è &lt;a href="https://www.ilpost.it/2026/07/30/bolsonaro-video-ai/"&gt;molto presente&lt;/a&gt; nella campagna del figlio.&lt;/p&gt;
+&lt;p&gt;Martedì il governo statunitense &lt;a href="https://www.nbcnews.com/world/brazil/trump-administration-revokes-brazilian-ambassadors-visa-diplomatic-dis-rcna590888"&gt;ha revocato&lt;/a&gt; il visto all&amp;#8217;ambasciatrice brasiliana Maria Luiza Ribeiro Viotti: è un provvedimento duro, di solito riservato ai paesi ostili. È un tentativo di condizionare il governo brasiliano affinché approvi la nomina in sospeso di Daniel Perez come nuovo ambasciatore statunitense in Brasile. Perez è un amico del segretario di Stato americano Marco Rubio, è un deputato statale Repubblicano della Florida, lo stato dove vive un altro figlio di Bolsonaro, Eduardo, condannato &lt;a href="https://www.ilpost.it/2026/06/17/brasile-eduardo-bolsonaro-condannato/"&gt;a giugno&lt;/a&gt; dalla Corte suprema brasiliana per aver provato a influenzare il processo contro il padre facendo pressioni sul governo statunitense.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/04/lula-brasile-quarto-mandato/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Lula non è ancora stanco&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il collegamento tra Perez e Viotti l&amp;#8217;hanno fatto funzionari statunitensi. Hanno detto che il visto di Viotti verrà ripristinato in cambio di quello a Perez. Sulla nomina di Perez però gli Stati Uniti &lt;a href="https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html"&gt;non hanno seguito&lt;/a&gt; le consuetudini diplomatiche. Prima di indicarlo come ambasciatore, non hanno consultato il governo brasiliano come si fa in questi casi.&lt;/p&gt;
+&lt;p&gt;Ci sono stati altri episodi simili di scontri diplomatici tra i due paesi. A &lt;a href="https://www.reuters.com/world/americas/brazil-revoke-trump-adviser-beatties-visa-source-says-2026-03-13/"&gt;marzo&lt;/a&gt; il Brasile aveva revocato il visto a Darren Beattie, un inviato di Trump, per impedirgli di incontrare Jair e Flávio Bolsonaro. A fine &lt;a href="https://www.washingtonpost.com/world/2026/07/24/us-sending-envoys-question-brazilian-electoral-system-officials-say/"&gt;luglio&lt;/a&gt; ha negato il visto ad altri due funzionari del dipartimento di Stato, accusandoli di voler interferire con le presidenziali brasiliane. I funzionari aveva in programma incontri sulla regolarità delle elezioni, anche con leader religiosi tradizionalmente vicini alla destra. Negli stessi giorni Flávio Bolsonaro aveva insinuato &lt;a href="https://valorinternational.globo.com/politics/news/2026/07/23/members-of-brazils-top-courts-warn-flavio-bolsonaro-over-voting-claims.ghtml"&gt;dubbi&lt;/a&gt; sull&amp;#8217;affidabilità delle macchine per votare, poi ha in parte ritrattato.&lt;/p&gt;
+&lt;div id="attachment_3648677" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3648677 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785913230-manifestazione-brasile.jpg" alt="Una manifestazione contro la legge, poi approvata dal parlamento, per accorciare la pena a Bolsonaro, il 21 settembre del 2025 a Rio de Janeiro" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785913230-manifestazione-brasile.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x267/1785913230-manifestazione-brasile.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/680x453/1785913230-manifestazione-brasile.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/768x512/1785913230-manifestazione-brasile.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/800x533/1785913230-manifestazione-brasile.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Una manifestazione contro la legge, poi &lt;a href="https://www.ilpost.it/2026/04/30/parlamento-brasile-annulla-veto-lula-riduzione-pena-bolsonaro/"&gt;approvata&lt;/a&gt; dal parlamento, per accorciare la pena a Bolsonaro, il 21 settembre del 2025 a Rio de Janeiro (AP Photo/Silvia Izquierdo)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;A luglio gli Stati Uniti hanno rimesso dazi ad alcune merci brasiliane, che nel 2025 avevano prima imposto e poi allentato. L&amp;#8217;amministrazione Trump li usa come strumento politico e all&amp;#8217;inizio sperava &lt;a href="https://www.ilpost.it/2025/07/10/donald-trump-dazi-brasile-jair-bolsonaro/"&gt;di influenzare&lt;/a&gt; il processo a Bolsonaro padre. Non ci era riuscita, Lula aveva resistito e alla fine &lt;a href="https://www.ilpost.it/2025/12/23/pressioni-trump-brasile/"&gt;gli era andata bene&lt;/a&gt;: i dazi erano stati ritirati così come &lt;a href="https://www.ilpost.it/2025/12/13/stati-uniti-sanzioni-alexandre-de-moraes-jair-bolsonaro/"&gt;le sanzioni&lt;/a&gt; ad Alexandre de Moraes, il più potente giudice della Corte suprema che aveva seguito tutti i casi più importanti, dal processo Bolsonaro alla &lt;a href="https://www.ilpost.it/2024/09/02/brasile-corte-suprema-conferma-blocco-x/"&gt;breve sospensione&lt;/a&gt; del social X per limitare la disinformazione in Brasile.&lt;/p&gt;
+&lt;p&gt;Uno degli obiettivi dei nuovi dazi è il sistema di pagamento elettronico pubblico &lt;a href="https://www.ilpost.it/2026/07/23/pix-sistema-pagamenti-digitali-non-piace-trump-dazi-brasile/"&gt;Pix&lt;/a&gt;, divenuto popolarissimo in Brasile e integrato nelle app delle banche. Gli Stati Uniti sostengono faccia concorrenza sleale alle società di pagamento statunitensi, come Visa e Mastercard, che in realtà non hanno visto un calo delle loro transazione ma sono state costrette ad abbassare i costi di transazione, e dunque i profitti. Il Brasile ha minacciato di rispondere con dazi reciproci e per il momento &lt;a href="https://www.wto.org/english/news_e/news26_e/ds646rfc_30jul26_468_e.htm"&gt;ha fatto ricorso&lt;/a&gt; all&amp;#8217;Organizzazione mondiale del commercio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/07/30/bolsonaro-video-ai/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’AI di Bolsonaro sta partecipando alla campagna elettorale&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il 30 luglio Trump ha firmato &lt;a href="https://www.whitehouse.gov/presidential-actions/2025/07/addressing-threats-to-the-us/"&gt;un ordine esecutivo&lt;/a&gt; che prevede automaticamente ulteriori dazi se il Brasile ne metterà di propri. L&amp;#8217;ordine, tra le altre cose, riprende la retorica e molti dei provvedimenti ritirati nel corso del 2025: cita per esempio il giudice de Moraes e parla di «persecuzione giudiziaria» nei confronti di Bolsonaro padre, sostenendo che la sua condanna sia stata ingiusta. Con ogni probabilità, insomma, la revoca al visto dell&amp;#8217;ambasciatrice brasiliana Viotti è solo l&amp;#8217;inizio.&lt;/p&gt;
+&lt;p&gt;L&amp;#8217;amministrazione Trump aveva ritirato i dazi precedenti anche perché gli si erano in parte ritorti contro, facendo aumentare il prezzo di alcuni prodotti brasiliani molto diffusi negli Stati Uniti, in particolare della carne e del caffè (più di un terzo del caffè consumato dagli statunitensi arriva dal Brasile). Da gennaio inoltre gli Stati Uniti stanno trattando con il governo di Lula per &lt;a href="https://www.ilpost.it/2026/06/10/terre-rare-brasile-trump/"&gt;cercare di fare un accordo&lt;/a&gt; per sfruttare le terre rare del Brasile, che è il secondo paese al mondo per riserve dopo la Cina. Litigare con Lula allontana questo obiettivo strategico.&lt;/p&gt;
+&lt;p&gt;Gli scontri con gli Stati Uniti hanno fatto bene alla popolarità in patria di Lula, che si è presentato come il difensore dell&amp;#8217;autonomia brasiliana di fronte alle ingerenze della superpotenza statunitense, e specularmente hanno danneggiato Flávio Bolsonaro, che ha profondi legami con Trump e dichiarate volontà di graziare il padre. Hanno causato anche tensioni diplomatiche con i paesi del Sudamerica alleati di Trump, che sono sempre &lt;a href="https://www.ilpost.it/2026/06/23/destra-america-latina-trump/"&gt;più numerosi&lt;/a&gt;. Le ultime con &lt;a href="https://www.ilpost.it/2026/07/27/brasile-richiama-ambasciatore-argentina-insulti-milei-lula/"&gt;con l&amp;#8217;Argentina&lt;/a&gt;: il Brasile ha richiamato il suo ambasciatore e convocato quello argentino per protestare contro alcuni insulti del presidente Javier Milei a Lula e al giudice de Moraes.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/crisi-diplomatica-stati-uniti-brasile</guid>
+      <pubDate>Wed, 05 Aug 2026 09:22:59 +0200</pubDate>
+      <dc:creator>Matteo Castellucci</dc:creator>
+    </item>
+    <item>
+      <title>Bending Spoons comprerà la società tecnologica Airtable per 1,3 miliardi di dollari: è la prima acquisizione dalla quotazione in borsa</title>
+      <link>https://www.ilpost.it/2026/08/05/bending-spoons-acquisizione-airtable-129-miliardi-di-dollari-prima-acquisizione-da-quotazione-in-borsa</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785913302-GettyImages-2150300479.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;La società tecnologica italiana Bending Spoons &lt;a href="https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable"&gt;ha detto&lt;/a&gt; di aver firmato un accordo per comprare interamente la società tecnologica statunitense Airtable per 1,29 miliardi di dollari (1,10 miliardi di euro). È la prima acquisizione fatta da Bending Spoons &lt;a href="https://www.ilpost.it/2026/07/01/economia-bending-spoons-quotazione-new-york/"&gt;dalla quotazione in borsa&lt;/a&gt;, avvenuta il primo luglio al Nasdaq di New York. Airtable è stata fondata nel 2013 e i suoi servizi permettono di unire fogli di calcolo e database, consentendo di sviluppare applicazioni e gestire i flussi di lavoro senza bisogno di competenze di programmazione.&lt;/p&gt;
+&lt;p&gt;Bending Spoons ha circa 2.200 dipendenti e negli ultimi anni si è concentrata nell’individuare app e servizi web sviluppati da altre aziende che erano in crisi oppure che giudicava poco efficienti, per poi acquistarle e renderle più profittevoli attraverso licenziamenti, ottimizzazione dei costi, rinnovamenti del prodotto e aumento dei prezzi. Finora l’azienda ha acquistato più di 50 aziende, alcune delle quali molto note come l’app per gli appunti Evernote, il servizio per inviare file &lt;a href="https://www.ilpost.it/2024/07/31/bending-spoons-acquisto-wetransfer/"&gt;WeTransfer&lt;/a&gt;, la piattaforma per condividere video &lt;a href="https://www.ilpost.it/2025/09/10/bending-spoons-compra-vimeo/"&gt;Vimeo&lt;/a&gt; e quella per eventi &lt;a href="https://www.ilpost.it/2025/12/02/acquisizione-bending-spoons-eventbrite/"&gt;Eventbrite&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Bending Spoons ha detto che l&amp;#8217;acquisizione di Airtable si chiuderà entro la fine dell&amp;#8217;anno, una volta ricevuta l&amp;#8217;approvazione da parte degli enti regolatori statunitensi.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/bending-spoons-acquisizione-airtable-129-miliardi-di-dollari-prima-acquisizione-da-quotazione-in-borsa</guid>
+      <pubDate>Wed, 05 Aug 2026 09:15:04 +0200</pubDate>
+      <dc:creator>Alberto Chiumento</dc:creator>
+    </item>
+    <item>
+      <title>Il biglietto della lotteria da 1 milione recuperato tra i rifiuti in Puglia</title>
+      <link>https://www.ilpost.it/2026/08/05/biglietto-lotteria-1-milione-euro-bitonto-bari-spazzatura</link>
+      <description>&lt;p&gt;&lt;em&gt;La persona che lo aveva giocato lo aveva buttato per sbaglio, e quando se ne è accorta era già nel camion della spazzatura&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785911332-22048390_large.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Dopo due giorni di ricerche martedì a Bitonto, in Puglia, è stato ritrovato tra tonnellate di rifiuti un biglietto della lotteria da 1 milione di euro che era stato buttato per sbaglio. La persona che lo aveva giocato, rimasta anonima, lo aveva cestinato nella tabaccheria dopo aver letto “non pagabile” sulla macchinetta automatica che lo aveva elaborato. È il messaggio che compare quando il premio vinto è troppo alto perché sia versato dalla ricevitoria, ma l&amp;#8217;acquirente ha pensato che fosse un biglietto perdente, come i tanti che giocava abitualmente.&lt;/p&gt;
+&lt;p&gt;La vicenda è stata raccontata da Roberto Toscano, presidente di Sanb, a società che si occupa di raccolta e trasporto rifiuti a Bitonto. Ha detto che una volta rientrata a casa, un familiare della persona che aveva comprato il biglietto gli ha detto che quei numeri, una sequenza di numeri simbolici che giocavano sempre, erano quelli vincenti.&lt;/p&gt;
+&lt;p&gt;Una volta tornati alla tabaccheria però il cestino dei rifiuti era già stato svuotato, e i sacchi dell&amp;#8217;immondizia erano stati recuperati da un camion della spazzatura della Sanb. Toscano ha raccontato che le persone che avevano perso il biglietto hanno contattato la società, e in breve tempo gli operatori sono riusciti a identificare il camion giusto e a fermarlo prima che scaricasse il suo contenuto nel compattatore, il macchinario che pressa i rifiuti prima dello smaltimento.&lt;/p&gt;
+&lt;p&gt;«Per fortuna era domenica» ha raccontato Toscano a &lt;em&gt;&lt;a href="https://www.tgcom24.mediaset.it/cronaca/lotteria-biglietto-vincente-rifiuti-bitonto_115142644-202602k.shtml"&gt;TGCOM 24&lt;/a&gt;, &lt;/em&gt;«altrimenti il carico sarebbe già finito in discarica. Una volta individuato il compattatore l0 abbiamo isolato e sottoposto a vigilanza armata». Toscano racconta che poi sono stati eseguiti vari procedimenti amministrativi per poter estrarre i rifiuti e che il camion in questione è stato scortato in uno stabilimento, dove poi è iniziata la ricerca del tagliando in mezzo a 6 tonnellate di rifiuti.&lt;/p&gt;
+&lt;p&gt;Dopo molte ore di lavoro uno degli operatori di Sanb ha infine ritrovato il biglietto. Toscano ha raccontato dell&amp;#8217;esultanza degli operatori e di quella della persona vincitrice. Il costo dell&amp;#8217;operazione di recupero, ha raccontato Toscano, sarà addebitato alla persona vincitrice, che nei giorni scorsi aveva dovuto firmare una dichiarazione con cui si impegnava a coprire i costi aggiuntivi.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/biglietto-lotteria-1-milione-euro-bitonto-bari-spazzatura</guid>
+      <pubDate>Wed, 05 Aug 2026 08:48:48 +0200</pubDate>
+      <dc:creator>Sofia Calvo</dc:creator>
+    </item>
+    <item>
+      <title>C’è la Coppa d’Africa femminile di calcio</title>
       <link>https://www.ilpost.it/2026/08/05/coppa-d-africa-femminile-calcio-2026-problemi</link>
       <description>&lt;p&gt;&lt;em&gt;Ma è difficile accorgersene: è stata rimandata, si gioca in stadi vuoti e se ne parla pochissimo&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785827428-Tifosemarocco.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785827428-Tifosemarocco.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;C’è un torneo di calcio internazionale in corso in questi giorni, ma pochi sembrano essersene accorti: la Coppa d’Africa femminile, iniziata il 26 luglio in Marocco. Se non ne avete sentito parlare, è principalmente perché quasi nessuno ne ha scritto e, in generale, la competizione non sta avendo grande successo.&lt;/p&gt;
 &lt;p&gt;Fin dalle prime partite sui social &lt;a href="https://www.instagram.com/p/DbU9AdpHfXj/"&gt;sono state pubblicate foto&lt;/a&gt; di spalti quasi vuoti, con la sola eccezione delle partite della squadra di casa: al debutto del Marocco contro il Kenya erano presenti oltre 19mila persone nello stadio Moulay El Hassan, che ne può contenere fino a 22mila. È uno dei cinque stadi usati nel torneo, tre dei quali sono stati inaugurati l’anno scorso, anche in vista dei Mondiali maschili del 2030, che si terranno tra Spagna, Portogallo e Marocco.&lt;/p&gt;
 &lt;p&gt;In questi ultimi anni il Marocco &lt;a href="https://www.ilpost.it/2025/12/21/coppa-d-africa-marocco/"&gt;sta investendo molto nel calcio&lt;/a&gt;, con l’obiettivo di diventare sempre più competitivo e di ospitare grandi tornei internazionali. Oltre ai Mondiali del 2030, ha ospitato (e vinto, sebbene &lt;a href="https://www.ilpost.it/2026/03/17/marocco-vittoria-coppa-dafrica-senegal-ricorso/"&gt;in maniera molto controversa&lt;/a&gt;) l’ultima edizione della Coppa d’Africa maschile. A livello femminile ha ospitato la finale della Champions League africana nel 2022 e nel 2024, e soprattutto le ultime tre edizioni della Coppa d’Africa, compresa quella in corso che finirà il 15 agosto.&lt;/p&gt;
 &lt;p&gt;Nessun altro paese ha mai organizzato la competizione per tre volte consecutive, e questo dice molto sul potere politico ed economico della federazione calcistica marocchina (RMFF) all’interno della CAF, la confederazione africana del calcio. Il vicepresidente della CAF è Fouzi Lekjaa, che guida la RMFF dal 2014 e che &lt;a href="https://www.bloomberg.com/news/articles/2026-07-25/morocco-football-boss-enters-politics-with-premier-bid-possible"&gt;secondo &lt;em&gt;Bloomberg&lt;/em&gt;&lt;/a&gt; potrebbe anche diventare il prossimo primo ministro del Marocco.&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;organizzazione della Coppa d’Africa femminile di quest&amp;#8217;anno, però, è stata piuttosto travagliata; a un certo punto era sembrato che il torneo potesse tenersi altrove. Il Marocco ricevette l’assegnazione il 17 ottobre del 2024, e il piano era che si giocasse tra il 17 marzo e il 3 aprile. All’inizio di febbraio però la vice ministra dello Sport del Sudafrica, Peace Mabe, disse che il Marocco &lt;a href="https://sportnewsafrica.com/en/alerts/womens-afcon-2026-morocco-gives-up-south-africa-takes-over-the-organization"&gt;si era ritirato dall’organizzazione&lt;/a&gt; e che il suo paese ne avrebbe preso il posto. Il Sudafrica è una delle principali potenze del calcio femminile africano (ha vinto il torneo del 2022 proprio in Marocco) e una rivale del Marocco per la supremazia calcistica sul continente.&lt;/p&gt;
 &lt;p&gt;Nel giro di poche ore, comunque, il ministro dello Sport sudafricano Gayton McKenzie &lt;a href="https://guardian.ng/sport/confusion-over-2026-wafcon-venue/"&gt;aveva smentito&lt;/a&gt; Mabe, dicendo che il Marocco restava l’organizzatore ufficiale dell’evento. Il 13 febbraio il presidente della CAF, Patrice Motsepe (pure lui sudafricano) &lt;a href="https://www.bbc.com/sport/football/articles/cpqw9llqpwpo"&gt;aveva confermato&lt;/a&gt; che la competizione si sarebbe svolta in Marocco, come previsto, seppur altri paesi avessero chiesto di ospitarla cambiando le date. Il 5 marzo infine, quindi 12 giorni prima dell&amp;#8217;inizio previsto, lo stesso Motsepe &lt;a href="https://www.espn.com/espn/story/_/id/48119355/actually-embarrassing-caf-failed-women-football-wafcon-debacle"&gt;comunicò&lt;/a&gt; a sorpresa il rinvio della Coppa d’Africa tra luglio e agosto, a causa di mai chiarite «circostanze impreviste».&lt;/p&gt;
-&lt;div id="attachment_3647873" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3647873 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785827375-Lekjaainfantinomotsepe.jpg" alt="" width="980" height="653" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785827375-Lekjaainfantinomotsepe.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/400x267/1785827375-Lekjaainfantinomotsepe.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/680x453/1785827375-Lekjaainfantinomotsepe.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/768x512/1785827375-Lekjaainfantinomotsepe.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/800x533/1785827375-Lekjaainfantinomotsepe.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Fouzi Lekjaa, Patrice Motsepe e Gianni Infantino durante la partita tra Marocco e Canada agli ultimi Mondiali maschili (Robbie Jay Barratt &amp;#8211; AMA/Getty Images)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3647873"&gt;&lt;img alt="" class="wp-image-3647873 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785827375-Lekjaainfantinomotsepe.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Fouzi Lekjaa, Patrice Motsepe e Gianni Infantino durante la partita tra Marocco e Canada agli ultimi Mondiali maschili (Robbie Jay Barratt &amp;#8211; AMA/Getty Images)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Tutta questa situazione ha fatto emergere molte critiche sulla disorganizzazione della CAF, in particolare riguardo al calcio femminile. La confederazione africana assicura da tempo di voler investire per espanderne la visibilità: nel 2016 è stato cambiato il nome del torneo, precedentemente noto come Campionato africano femminile, per omologarlo a quello della più famosa Coppa d’Africa maschile; dall’edizione del 2022 si è passati da 8 a 12 squadre, e da quest’anno sono 16.&lt;/p&gt;
 &lt;p&gt;Il caos sul paese organizzatore non è stato però l’unico problema della CAF per questa Coppa d&amp;#8217;Africa femminile. Fino al 24 luglio il torneo non aveva nessuna copertura televisiva, poi a due giorni dalla partita inaugurale &lt;a href="https://www.cafonline.com/caf-womens-africa-cup-of-nations/news/bein-sport-uk-s-channel-4-dazn-and-ziggo-among-long-list-of-global-broadcasters-for-totalenergies-caf-women-s-africa-cup-of-nations-wafcon-morocco-2026/"&gt;sono stati annunciati&lt;/a&gt; alcuni accordi con emittenti internazionali. Nella stessa settimana Motsepe &lt;a href="https://www.africanews.com/2026/07/24/womens-africa-cup-of-nations-2026-what-you-need-to-know/"&gt;aveva detto&lt;/a&gt; che la squadra vincitrice avrebbe incassato 2 milioni di dollari, un record (nell&amp;#8217;ultima Coppa d&amp;#8217;Africa maschile il premio per la vincitrice erano 7 milioni di dollari).&lt;/p&gt;
 &lt;p&gt;Nonostante questo, qualche giorno fa il giornalista anglo-nigeriano Osasu Obayiuwana, uno dei maggiori esperti di calcio africano, &lt;a href="https://x.com/osasuo/status/2083525458910674962"&gt;ha denunciato&lt;/a&gt; tagli della CAF sia nel budget che nel personale per la Coppa d’Africa. Il giorno seguente inoltre la confederazione africana &lt;a href="https://x.com/osasuo/status/2083922334138986531"&gt;ha ammesso&lt;/a&gt; di aver avuto un problema con alcuni accrediti che erano stati stampati con una qualità pessima, rendendoli illeggibili ai controlli, e ha chiesto di restituirli per ottenerne di nuovi. Sono tutte cose che fanno percepire come raffazzonata e poco seria l&amp;#8217;organizzazione del torneo, all&amp;#8217;esterno e all&amp;#8217;interno.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/osasuo/status/2083525458910674962"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;La questione dei pochi tifosi è dunque solo uno dei tanti problemi di questa Coppa d’Africa, ed è dovuta soprattutto a una cultura del tifo che non si è ancora davvero formata nel calcio femminile africano. A questo si sommano anche problemi logistici ed economici legati ai viaggi, e una promozione dell’evento che è stata molto carente nelle stesse città ospitanti, come &lt;a href="https://mg.co.za/2026-07-28-the-empty-stands-of-wafcon-showcases-neglect-for-women-s-football-in-south-africa/"&gt;ha scritto&lt;/a&gt; il giornalista Lelo Mzaca sul giornale sudafricano &lt;em&gt;Mail &amp;amp; Guardian&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;A dispetto di tutti questi evidenti limiti, comunque, il calcio femminile in Africa sta da tempo crescendo, seppur faticosamente. Nelle ultime due edizioni dei Mondiali (2019 e 2023), la Nigeria ha sempre raggiunto gli ottavi di finale, stesso risultato ottenuto dal Sudafrica tre anni fa in Australia. Il miglior risultato a livello storico per un’africana al Mondiale sono i quarti di finale raggiunti dalla Nigeria nel 1999. Nel 2024 e nel 2025 due calciatrici africane sono arrivate tra le prime venti posizioni del Pallone d’Oro: la zambiana Barbra Banda, che gioca negli Stati Uniti con l’Orlando Pride, e la malawiana Tabitha Chawinga del Lione.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/lbed94XWZlE?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="v=lbed94XWZlE" data-thumbnail="https://i.ytimg.com/vi/lbed94XWZlE/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p style="text-align: center;"&gt;&lt;small&gt;&lt;em&gt;Uno dei risultati più sorprendenti della fase a gironi è stata la vittoria del Malawi per 3-2 contro la Nigeria, detentrice del torneo&lt;/em&gt;&lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Anche il Marocco sta migliorando rapidamente: è arrivato in finale delle ultime due edizioni della Coppa d’Africa (perdendo contro Sudafrica e Nigeria) e nel 2023 ha debuttato ai Mondiali, arrivando agli ottavi di finale. L’anno scorso per la prima volta una giocatrice marocchina, Ghizlane Chebbak, ha vinto il premio di Calciatrice africana dell’anno.&lt;/p&gt;
 &lt;p&gt;La nazionale marocchina non ha però ancora vinto alcun trofeo, e l’edizione di quest’anno della Coppa d’Africa è un’occasione importante. La RMFF ha investito molto per ingaggiare l’allenatore Jorge Vilda, campione del mondo nel 2023 con la Spagna femminile, e per costruire una squadra con tante giocatrici che vengono da famiglie emigrate all&amp;#8217;estero, tra cui le promettenti Hajar Saïd (Paris FC) e Kautar Azraf (Barcellona). Nella fase a gironi, che finirà giovedì, il Marocco ha ottenuto due vittorie e un pareggio, qualificandosi per i quarti di finale come prima classificata.&lt;/p&gt;
-&lt;p&gt;Proprio come si è visto nei Mondiali maschili di quest’anno, la diaspora è un fattore determinante nel calcio africano, e sta iniziando a emergere anche a livello femminile. Il caso più evidente è quello dell’Algeria, indicata come una delle possibili rivelazioni di questa Coppa d’Africa: 19 convocate su 26 sono nate e cresciute in Francia. Il torneo servirà anche per qualificarsi ai &lt;a href="https://www.ilpost.it/2026/07/23/mondiali-femminili-calcio-brasile-2027-playoff-italia-favorite/"&gt;Mondiali del prossimo anno in Brasile&lt;/a&gt;: tutte e quattro le semifinaliste otterranno automaticamente un posto.&lt;/p&gt;
-</description>
+&lt;p&gt;Proprio come si è visto nei Mondiali maschili di quest’anno, la diaspora è un fattore determinante nel calcio africano, e sta iniziando a emergere anche a livello femminile. Il caso più evidente è quello dell’Algeria, indicata come una delle possibili rivelazioni di questa Coppa d’Africa: 19 convocate su 26 sono nate e cresciute in Francia. Il torneo servirà anche per qualificarsi ai &lt;a href="https://www.ilpost.it/2026/07/23/mondiali-femminili-calcio-brasile-2027-playoff-italia-favorite/"&gt;Mondiali del prossimo anno in Brasile&lt;/a&gt;: tutte e quattro le semifinaliste otterranno automaticamente un posto.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/coppa-d-africa-femminile-calcio-2026-problemi</guid>
-      <pubDate>Wed, 05 Aug 2026 08:22:27 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 06:22:27 +0000</pubDate>
       <dc:creator>Gianluca Cedolin</dc:creator>
     </item>
     <item>
       <title>Mercoledì 5 agosto</title>
       <link>https://www.ilpost.it/2026/08/05/mercoledi-5-agosto-3</link>
       <description>&lt;p&gt;&lt;em&gt;Le foto dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785909742-AP26216449144022.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785909742-AP26216449144022.jpg" /&gt;&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/08/05/mercoledi-5-agosto-3/guatemala-76/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x267/1785909742-AP26216449144022.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x267/1785909742-AP26216449144022.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/680x453/1785909742-AP26216449144022.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/768x512/1785909742-AP26216449144022.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/800x533/1785909742-AP26216449144022.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785909742-AP26216449144022.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x267/1785909742-AP26216449144022.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3648633 gallery-columns-3 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/mercoledi-5-agosto-3/guatemala-76/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785909742-AP26216449144022.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-3648634" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3648633 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/mercoledi-5-agosto-3/guatemala-76/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785909742-AP26216449144022.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;
- &lt;figcaption class='wp-caption-text gallery-caption' id='gallery-2-3648634'&gt;
+ &lt;figcaption class="wp-caption-text gallery-caption" id="gallery-2-3648634"&gt;
  Guatemala
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/mercoledi-5-agosto-3</guid>
-      <pubDate>Wed, 05 Aug 2026 08:03:12 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 06:03:12 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>Peanuts 2026 agosto 05</title>
       <link>https://www.ilpost.it/2026/08/05/peanuts-2026-agosto-05</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/1785500325-pt_c260805.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" width="1110" height="331" class="alignnone size-large wp-image-3645917" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/680x203/1785500325-pt_c260805.jpg" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/680x203/1785500325-pt_c260805.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/400x119/1785500325-pt_c260805.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/768x229/1785500325-pt_c260805.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/800x239/1785500325-pt_c260805.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/1785500325-pt_c260805.jpg 1110w" sizes="(max-width: 1110px) 100vw, 1110px" /&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/1785500325-pt_c260805.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="alignnone size-large wp-image-3645917" height="331" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/31/680x203/1785500325-pt_c260805.jpg" width="1110" /&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/peanuts-2026-agosto-05</guid>
-      <pubDate>Wed, 05 Aug 2026 08:00:10 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 06:00:10 +0000</pubDate>
       <dc:creator>Francesca Lagrotteria</dc:creator>
     </item>
     <item>
       <title>Le prime pagine di oggi</title>
       <link>https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636</link>
       <description>&lt;p&gt;&lt;em&gt;La riunione dei ministri dell&amp;#x27;Interno dell&amp;#x27;Unione Europea sull&amp;#x27;immigrazione, l&amp;#x27;incontro fra Conte e Schlein, e la proroga dello sconto sulle accise del gasolio&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785907245-avvenire_apertura.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785907245-avvenire_apertura.jpg" /&gt;&lt;/p&gt;
 &lt;p class="p1"&gt;La maggior parte dei giornali di oggi dedica l’apertura alla riunione dei ministri dell’Interno dei paesi dell’Unione Europea sull’immigrazione convocata dopo la crisi migratoria a Ceuta, in Spagna, nella quale è stata espressa solidarietà, almeno a parole, alla Spagna e si è parlato della proposta italiana di costruire centri di rimpatrio al di fuori del territorio dell’Unione Europea. Qualche giornale titola invece sulla proroga decisa dal governo dello sconto sulle accise del gasolio, la &lt;em&gt;Stampa&lt;/em&gt; si occupa dell’aumento dei prezzi dell’energia causati dall’ondata di caldo, il &lt;em&gt;Fatto&lt;/em&gt; della discussione in parlamento sulla diffusione delle chat dell’ex sottosegretario alla Giustizia Delmastro, e &lt;em&gt;Libero&lt;/em&gt; degli affari immobiliari dell’ex presidente del Consiglio Conte.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/1_corriere_della_sera-1114/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x605/1785906450-1_corriere_della_sera.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x605/1785906450-1_corriere_della_sera.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785906450-1_corriere_della_sera.jpg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/400x605/1785906450-1_corriere_della_sera.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3648539 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/1_corriere_della_sera-1114/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906450-1_corriere_della_sera.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/2_la_repubblica-1094/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906455-2_la_repubblica.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/3_la_stampa-1081/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906459-3_la_stampa.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/4_il_sole_24_ore-1759/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906465-4_il_sole_24_ore.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/5_il_messaggero-1758/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906471-5_il_messaggero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20260805_ilgiornale_rib_1-r3_p0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906477-6_giornale.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/nazionale-1-manifesto-primapagina-pag01-05-08-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906480-7_manifesto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/8_avvenire-1450/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906484-8_avvenire.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/9_il_fatto_quotidiano-1765/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906489-9_il_fatto_quotidiano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/10_verita-1124/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906494-10_verita.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/11_libero-1119/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906499-11_libero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/12_domani-1113/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906504-12_domani.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/13_il_dubbio-919/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906508-13_il_dubbio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/14_il_riformista-1349/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906513-14_il_riformista.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/15_la_notizia-1311/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906518-15_la_notizia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/16_osservatore_romano-1309/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906524-16_osservatore_romano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/17_foglio-1619/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906528-17_foglio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/18_il_secolo_xix-707/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906533-18_il_secolo_xix.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/19_il_mattino-1612/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906537-19_il_mattino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20_il_resto_del_carlino-1295/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906542-20_il_resto_del_carlino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/21_il_gazzettino-1610/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906547-21_il_gazzettino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/22_il_tempo-1574/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906552-22_il_tempo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/23_l_edicola-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906558-23_l_edicola.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/24_milano_finanza-993/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906561-24_milano_finanza.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/25_italia_oggi-1188/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906566-25_italia_oggi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/27_la_gazzetta_del_mezzogiorno-1082/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906571-27_la_gazzetta_del_mezzogiorno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/28_l_eco_di_bergamo-1113/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906576-28_l_eco_di_bergamo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/29_il_piccolo-641/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906580-29_il_piccolo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/30_giornale_di_sicilia-1079/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906584-30_giornale_di_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/31_la_nuova_sardegna-1099/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906589-31_la_nuova_sardegna.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/32_la_sicilia-1088/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906594-32_la_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/33_il_mattino_di_padova-605/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906599-33_il_mattino_di_padova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/34_l_unione_sarda-1041/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906604-34_l_unione_sarda.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/35_messaggero_veneto-639/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906609-35_messaggero_veneto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/36_gazzetta_di_mantova-1024/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906614-36_gazzetta_di_mantova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/37_il_tirreno-1075/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906619-37_il_tirreno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/38_leggo-873/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906624-38_leggo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/39_la_nuova_di_venezia_e_mestre-69/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906629-39_la_nuova_di_venezia_e_mestre.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/39_metro_today-56/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906632-39_metro_today.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/40_giornale_di_brescia-1105/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906636-40_giornale_di_brescia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/41_la_nuova_ferrara-1098/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906642-41_la_nuova_ferrara.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/42_gazzetta_di_modena-1101/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906647-42_gazzetta_di_modena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/43_l_arena-1102/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906652-43_l_arena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/44_il_centro-67/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906657-44_il_centro.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20260805-como-dorso1-pag1-co_prim/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906661-45_provincia_como.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/46_gazzetta_di_parma-63/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906664-46_gazzetta_di_parma.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/47_l_adige-908/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906669-47_l_adige.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/48_gazzetta_del_sud_messina_sicilia-24/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906674-48_gazzetta_del_sud_messina_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/49_corriere_delle_alpi-605/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906679-49_corriere_delle_alpi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/50_il_t-555/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906684-50_il_t.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/50_la_citta_di_salerno-58/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906689-50_la_citta_di_salerno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/51_il_quotidiano_del_sud-1101/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906694-51_il_quotidiano_del_sud.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/52_corriere_dell_umbria-1024/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906700-52_corriere_dell_umbria.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/53_alto_adige-1040/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906706-53_alto_adige.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/54_corriere_adriatico-1004/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906712-54_corriere_adriatico.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/56_la_prealpina-1092/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906716-56_la_prealpina.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/57_corriere_del_ticino-385/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906722-57_corriere_del_ticino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/58_la_gazzetta_dello_sport-1117/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906726-58_la_gazzetta_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/59_corriere_dello_sport-1114/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906732-59_corriere_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/60_tuttosport-1115/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906737-60_tuttosport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3648539 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/1_corriere_della_sera-1114/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906450-1_corriere_della_sera.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/2_la_repubblica-1094/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906455-2_la_repubblica.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/3_la_stampa-1081/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906459-3_la_stampa.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/4_il_sole_24_ore-1759/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906465-4_il_sole_24_ore.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/5_il_messaggero-1758/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906471-5_il_messaggero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20260805_ilgiornale_rib_1-r3_p0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906477-6_giornale.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/nazionale-1-manifesto-primapagina-pag01-05-08-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906480-7_manifesto.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/8_avvenire-1450/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906484-8_avvenire.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/9_il_fatto_quotidiano-1765/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906489-9_il_fatto_quotidiano.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/10_verita-1124/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906494-10_verita.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/11_libero-1119/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906499-11_libero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/12_domani-1113/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906504-12_domani.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/13_il_dubbio-919/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906508-13_il_dubbio.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/14_il_riformista-1349/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906513-14_il_riformista.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/15_la_notizia-1311/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906518-15_la_notizia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/16_osservatore_romano-1309/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906524-16_osservatore_romano.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/17_foglio-1619/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906528-17_foglio.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/18_il_secolo_xix-707/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906533-18_il_secolo_xix.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/19_il_mattino-1612/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906537-19_il_mattino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20_il_resto_del_carlino-1295/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906542-20_il_resto_del_carlino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/21_il_gazzettino-1610/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906547-21_il_gazzettino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/22_il_tempo-1574/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906552-22_il_tempo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/23_l_edicola-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906558-23_l_edicola.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/24_milano_finanza-993/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906561-24_milano_finanza.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/25_italia_oggi-1188/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906566-25_italia_oggi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/27_la_gazzetta_del_mezzogiorno-1082/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906571-27_la_gazzetta_del_mezzogiorno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/28_l_eco_di_bergamo-1113/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906576-28_l_eco_di_bergamo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/29_il_piccolo-641/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906580-29_il_piccolo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/30_giornale_di_sicilia-1079/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906584-30_giornale_di_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/31_la_nuova_sardegna-1099/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906589-31_la_nuova_sardegna.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/32_la_sicilia-1088/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906594-32_la_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/33_il_mattino_di_padova-605/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906599-33_il_mattino_di_padova.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/34_l_unione_sarda-1041/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906604-34_l_unione_sarda.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/35_messaggero_veneto-639/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906609-35_messaggero_veneto.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/36_gazzetta_di_mantova-1024/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906614-36_gazzetta_di_mantova.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/37_il_tirreno-1075/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906619-37_il_tirreno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/38_leggo-873/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906624-38_leggo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/39_la_nuova_di_venezia_e_mestre-69/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906629-39_la_nuova_di_venezia_e_mestre.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/39_metro_today-56/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906632-39_metro_today.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/40_giornale_di_brescia-1105/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906636-40_giornale_di_brescia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/41_la_nuova_ferrara-1098/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906642-41_la_nuova_ferrara.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/42_gazzetta_di_modena-1101/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906647-42_gazzetta_di_modena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/43_l_arena-1102/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906652-43_l_arena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/44_il_centro-67/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906657-44_il_centro.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/20260805-como-dorso1-pag1-co_prim/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906661-45_provincia_como.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/46_gazzetta_di_parma-63/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906664-46_gazzetta_di_parma.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/47_l_adige-908/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906669-47_l_adige.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/48_gazzetta_del_sud_messina_sicilia-24/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906674-48_gazzetta_del_sud_messina_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/49_corriere_delle_alpi-605/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906679-49_corriere_delle_alpi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/50_il_t-555/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906684-50_il_t.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/50_la_citta_di_salerno-58/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906689-50_la_citta_di_salerno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/51_il_quotidiano_del_sud-1101/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906694-51_il_quotidiano_del_sud.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/52_corriere_dell_umbria-1024/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906700-52_corriere_dell_umbria.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/53_alto_adige-1040/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906706-53_alto_adige.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/54_corriere_adriatico-1004/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906712-54_corriere_adriatico.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/56_la_prealpina-1092/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906716-56_la_prealpina.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/57_corriere_del_ticino-385/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906722-57_corriere_del_ticino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/58_la_gazzetta_dello_sport-1117/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906726-58_la_gazzetta_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/59_corriere_dello_sport-1114/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906732-59_corriere_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636/60_tuttosport-1115/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/130x91/1785906737-60_tuttosport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/le-prime-pagine-di-oggi-4636</guid>
-      <pubDate>Wed, 05 Aug 2026 07:20:55 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 05:20:55 +0000</pubDate>
       <dc:creator>Nicola Sofri</dc:creator>
     </item>
     <item>
       <title>In Marocco i genitori cercano i figli che sono andati a Ceuta</title>
       <link>https://www.ilpost.it/2026/08/05/famiglie-genitori-scomparsi-ceuta</link>
       <description>&lt;p&gt;&lt;em&gt;Da giorni in centinaia si ritrovano al confine con la Spagna sperando di vederli tornare indietro, o almeno sapere che sono vivi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785906347-AP26215745301558.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785906347-AP26215745301558.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Da giorni decine di persone si trovano dalla parte marocchina del confine con l&amp;#8217;exclave spagnola di Ceuta non con l&amp;#8217;intenzione di attraversarlo, ma per vedere chi torna indietro: sono i genitori e i familiari di alcune delle circa 70mila persone, in gran parte molto giovani, che la scorsa settimana sono &lt;a href="https://www.ilpost.it/2026/07/30/spagna-ceuta-immigrazione/"&gt;entrate in massa a Ceuta&lt;/a&gt; sperando di poter chiedere asilo in Spagna.&lt;/p&gt;
 &lt;p&gt;Oggi quasi tutte sono tornate in Marocco, ma 99 persone sono morte mentre cercavano di compiere la traversata e decine sono disperse. Circa 2mila invece sono ancora a Ceuta: fra loro ci sono 862 minori non accompagnati che sono stati presi in carico dalle autorità spagnole.&lt;/p&gt;
 &lt;p&gt;Centinaia di genitori sono arrivati a Fnideq, la città marocchina più vicina al confine, da varie parti del paese, con la speranza di riconoscere i loro figli fra le persone che tornavano indietro da Ceuta. Nel frattempo mostrano ai passanti e agli altri migranti che hanno lasciato l&amp;#8217;exclave le loro foto, chiedendo se qualcuno li riconosce.&lt;/p&gt;
 &lt;p&gt;Parlando con il &lt;em&gt;País&lt;/em&gt;, una donna di circa 40 anni di nome Aisha ha detto di essere arrivata da Tétouan, una città 50 chilometri più a sud di Fnideq, per cercare sua figlia 15enne e suo figlio 12enne: «Mia figlia mi ha mandato un messaggio dicendomi che era arrivata in Spagna, ma di mio figlio non so ancora nulla». Hadijja, una donna di Tangeri arrivata al confine sabato, ha raccontato al &lt;em&gt;Guardian&lt;/em&gt; che il suo unico figlio non risponde al telefono da giorni e che presume abbia provato ad andare a Ceuta. Alcuni genitori dicono di voler rintracciare i loro figli solo per sapere che sono vivi e per mandare loro dei soldi, ma sperano che questi riescano a rimanere in Spagna.&lt;/p&gt;
 &lt;p&gt;Le foto delle persone scomparse vengono inoltre pubblicate e ricondivise sui social media e dalle testate locali. Negli ultimi giorni lo sta facendo molto il media &lt;em&gt;Tetouan Tube&lt;/em&gt;, che pubblica giornalmente sulla sua pagina Facebook, seguita da quasi mezzo milione di persone, le foto di persone scomparse inviate dai familiari.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="facebook" data-url="https://www.facebook.com/Tetouantube/posts/pfbid02TM7gVYescZJxHbhMiRaguqrJ7ZACzjCF8SaSKZnYbqEPLRzfzroQbn4LuvLgLn9Nl"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/04/ruolo-social-media-crisi-ceuta/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Perché migliaia di persone sono entrate a Ceuta tutte insieme&lt;/a&gt;&lt;/p&gt;
-
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/04/ruolo-social-media-crisi-ceuta/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Perché migliaia di persone sono entrate a Ceuta tutte insieme&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/famiglie-genitori-scomparsi-ceuta</guid>
-      <pubDate>Wed, 05 Aug 2026 07:17:35 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 05:17:35 +0000</pubDate>
       <dc:creator>Ginevra Falciani</dc:creator>
     </item>
     <item>
       <title>La Russia ha attaccato nuovamente l’area di Kiev con missili balistici e droni, uccidendo 15 persone</title>
       <link>https://www.ilpost.it/2026/08/05/kiev-attacco-missili-russia-morti</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785903855-AP26183141016301.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/05/1785903855-AP26183141016301.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Almeno 15 persone sono state uccise e più di 50 sono sono rimaste ferite in un attacco russo con missili balistici e droni contro Kiev e la regione circostante, nella notte tra martedì e mercoledì. È il secondo grande bombardamento contro la capitale ucraina nel giro di pochi giorni: nell’attacco del primo agosto, uno dei più pesanti degli ultimi mesi, i missili russi avevano ucciso almeno nove persone a Kiev.&lt;/p&gt;
 &lt;p&gt;Le esplosioni sono iniziate dopo la mezzanotte, quando diverse ondate di missili balistici e droni hanno raggiunto Kiev e i centri abitati nella regione circostante. Gli allarmi antiaerei sono rimasti attivi per più di un’ora mentre le difese ucraine cercavano di intercettare gli attacchi.&lt;/p&gt;
 &lt;p&gt;Poco dopo la mezzanotte diverse ondate di missili balistici e droni hanno raggiunto Kiev e le aree circostanti. Le autorità ucraine hanno detto che i bombardamenti hanno colpito almeno cinque distretti della capitale, provocando incendi e danni agli edifici. I missili sono arrivati mentre erano già attivi gli allarmi antiaerei, che sono rimasti in vigore per più di un’ora.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/NewsUkraineRBC/status/2084848368178589903"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/05/kiev-attacco-missili-russia-morti</guid>
-      <pubDate>Wed, 05 Aug 2026 06:46:37 +0200</pubDate>
+      <pubDate>Wed, 05 Aug 2026 04:46:37 +0000</pubDate>
       <dc:creator>Giovanni De Benedictis</dc:creator>
     </item>
     <item>
@@ -741,7 +801,7 @@
       <title>Le foto dei funerali di Franco Baresi</title>
       <link>https://www.ilpost.it/2026/08/04/funerali-franco-baresi</link>
       <description>&lt;p&gt;&lt;em&gt;Con tanti suoi ex compagni al Milan, da Maldini a Van Basten, e i tifosi a rendergli omaggio &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785835402-2026-08-04T091040Z_1997713863_RC2LRMA50IY6_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785835402-2026-08-04T091040Z_1997713863_RC2LRMA50IY6_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Martedì mattina c&amp;#8217;è stato il funerale dell&amp;#8217;ex calciatore Franco Baresi, storico capitano del Milan e della Nazionale italiana, &lt;a href="https://www.ilpost.it/2026/07/31/morto-franco-baresi-calcio-milan/"&gt;morto venerdì&lt;/a&gt; all&amp;#8217;età di 66 anni. Era considerato &lt;a href="https://www.ilpost.it/2026/07/31/franco-baresi-ultimo-libero-calcio-italiano/"&gt;uno dei più forti difensori della storia&lt;/a&gt; del calcio. Il funerale si è svolto alla basilica di Sant&amp;#8217;Ambrogio, nel centro di Milano. È cominciato alle 11, ma già qualche ora prima molte persone si erano radunate fuori dalla chiesa, spesso con magliette e bandiere del Milan.&lt;/p&gt;
@@ -749,103 +809,96 @@
 &lt;p&gt;Era presente anche il sindaco di Milano Giuseppe Sala, che ha proclamato una giornata di lutto cittadino: in tutti gli uffici comunali le bandiere sono state quindi esposte a mezz&amp;#8217;asta. C&amp;#8217;erano inoltre il noto ex calciatore Roberto Baggio, il nuovo direttore tecnico della Nazionale italiana Claudio Ranieri, e il ministro dello Sport Andrea Abodi.&lt;/p&gt;
 &lt;p&gt;Erano presenti anche Giuseppe Marotta, il presidente dell&amp;#8217;Inter, l&amp;#8217;altra squadra di Milano, e Beppe Bergomi, che ha letto la prima lettura durante la messa. Quest&amp;#8217;ultimo è stato un importante giocatore dell&amp;#8217;Inter negli anni in cui Baresi giocava nel Milan: i due erano grandi rivali – erano entrambi capitani delle rispettive squadre – ma si stimavano parecchio: a febbraio avevano &lt;a href="https://youtu.be/V1yU4OywvMA?si=SCku0PC3WAnSPkZG&amp;amp;t=10825"&gt;portato insieme la torcia olimpica&lt;/a&gt; durante la cerimonia di apertura delle Olimpiadi invernali di Milano Cortina, in quella che è stata l&amp;#8217;ultima uscita pubblica di Baresi.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/clarence-seedorf-reuters-yara-nardi/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/400x267/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/400x267/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/680x453/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/768x512/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/800x533/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/400x267/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3647962 gallery-columns-5 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/clarence-seedorf-reuters-yara-nardi/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834948-2026-08-04T084338Z_913620987_RC2KRMAHQQTS_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-4/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834954-2026-08-04T084825Z_2053119591_RC2KRMAOP3EQ_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834942-2026-08-04T083115Z_1287680631_RC2KRMAFMOGE_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834930-2026-08-04T081611Z_1976694411_RC2KRMA11KU4_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/claudio-ranierireuters-yara-nardi/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834960-2026-08-04T085142Z_1942024684_RC2KRMA36OAN_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/mauro-tassotti-e-paolo-maldini-reuters-daniele-mascolo/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835547-2026-08-04T092238Z_625739514_RC2LRMA6UEQU_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/2026-08-04t085928z_286320168_rc2krmapq4k2_rtrmadp_3_soccer-italy-baresi-funeral/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834966-2026-08-04T085928Z_286320168_RC2KRMAPQ4K2_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-9/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835030-24646860_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/la-bara-di-franco-baresi-accanto-alle-sue-magliereuters-daniele-mascolo/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835777-2026-08-04T092714Z_1789492590_RC2LRMA33YP4_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-11/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835041-ilpost_20260804111117623_07662f8e7f936df22e4ea274836db859.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-10/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835035-24646867_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835019-24646844_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-13/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837494-2026-08-04T091828Z_1125906380_RC2KRMA54V7R_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837498-24646942_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-17/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837514-24647008_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/marco-borriello-claudio-furlan-lapresse/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835001-24646827_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/marco-van-basten-e-mauro-tassotticlaudio-furlan-lapresse/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835013-24646840_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-8/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835024-24646859_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837504-24646976_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/aldo-serena-claudio-furlan-lapresse/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834986-24646819_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837509-24646977_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-6/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835007-24646837_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-5/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834976-24646781_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/04/funerali-franco-baresi/giancarlo-antognoni-claudio-furlan-lapresse/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834996-24646825_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3647962 gallery-columns-5 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/clarence-seedorf-reuters-yara-nardi/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834936-2026-08-04T082558Z_414013286_RC2KRMAR3ZQY_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834948-2026-08-04T084338Z_913620987_RC2KRMAHQQTS_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834954-2026-08-04T084825Z_2053119591_RC2KRMAOP3EQ_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834942-2026-08-04T083115Z_1287680631_RC2KRMAFMOGE_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834930-2026-08-04T081611Z_1976694411_RC2KRMA11KU4_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/claudio-ranierireuters-yara-nardi/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834960-2026-08-04T085142Z_1942024684_RC2KRMA36OAN_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/mauro-tassotti-e-paolo-maldini-reuters-daniele-mascolo/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835547-2026-08-04T092238Z_625739514_RC2LRMA6UEQU_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/2026-08-04t085928z_286320168_rc2krmapq4k2_rtrmadp_3_soccer-italy-baresi-funeral/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834966-2026-08-04T085928Z_286320168_RC2KRMAPQ4K2_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-9/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835030-24646860_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/la-bara-di-franco-baresi-accanto-alle-sue-magliereuters-daniele-mascolo/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835777-2026-08-04T092714Z_1789492590_RC2LRMA33YP4_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835041-ilpost_20260804111117623_07662f8e7f936df22e4ea274836db859.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-10/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835035-24646867_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835019-24646844_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837494-2026-08-04T091828Z_1125906380_RC2KRMA54V7R_RTRMADP_3_SOCCER-ITALY-BARESI-FUNERAL.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837498-24646942_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-17/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837514-24647008_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/marco-borriello-claudio-furlan-lapresse/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835001-24646827_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/marco-van-basten-e-mauro-tassotticlaudio-furlan-lapresse/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835013-24646840_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-8/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835024-24646859_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837504-24646976_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/aldo-serena-claudio-furlan-lapresse/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834986-24646819_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785837509-24646977_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785835007-24646837_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/funerali-baresi-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834976-24646781_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/04/funerali-franco-baresi/giancarlo-antognoni-claudio-furlan-lapresse/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/04/130x91/1785834996-24646825_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/04/funerali-franco-baresi</guid>
-      <pubDate>Tue, 04 Aug 2026 12:15:16 +0200</pubDate>
+      <pubDate>Tue, 04 Aug 2026 10:15:16 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
@@ -1502,115 +1555,6 @@ con una persona greca, si cita l&amp;#8217;assenza di attori greci&lt;/small&gt;
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/03/russia-morti-drone-mar-nero</guid>
       <pubDate>Mon, 03 Aug 2026 16:47:12 +0000</pubDate>
       <dc:creator>Pietro Pianini</dc:creator>
-    </item>
-    <item>
-      <title>Il Marocco ha grandi ambizioni e grandi problemi</title>
-      <link>https://www.ilpost.it/2026/08/03/marocco-ambizioni-problemi</link>
-      <description>&lt;p&gt;&lt;em&gt;Vuole proporsi come potenza nel Mediterraneo, anche grazie al calcio e all&amp;#x27;appoggio di Stati Uniti e Israele, ma democrazia e benessere sono ancora incerti&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761093-AP26214588174763.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Il &lt;a href="https://www.ilpost.it/2026/08/03/migranti-ceuta-retate/?homepagePosition=3"&gt;tentato esodo&lt;/a&gt; di oltre 50mila migranti dal Marocco verso l&amp;#8217;exclave spagnola di Ceuta è iniziato nel giorno della Festa del Trono, il 30 luglio, che celebra l&amp;#8217;anniversario dell&amp;#8217;inizio del regno di Mohammed VI: quest&amp;#8217;anno era il 27esimo. Da qualche anno la festa ha toni sempre più entusiastici usati per celebrare i traguardi macroeconomici del paese, la costruzione di grandi infrastrutture e una crescente rilevanza internazionale. Il Marocco ha ambizioni da potenza nel Mediterraneo, ma appena possono molti giovani marocchini continuano a emigrare all&amp;#8217;estero per mancanza di posti di lavoro, di servizi di base soddisfacenti e di libertà democratiche.&lt;/p&gt;
-&lt;p&gt;La crisi di Ceuta si è risolta in meno di un giorno: sabato la maggior parte dei migranti &lt;a href="https://www.ilpost.it/2026/07/31/spagna-ceuta-marocco-49mila-persone-passaggio-attraverso-confine/"&gt;era già tornata in Marocco&lt;/a&gt;. È però un&amp;#8217;ulteriore conferma delle grandi distanze che rimangono fra le ambizioni economiche e politiche del Marocco, sostenute anche da Stati Uniti e Israele, e la situazione reale con cui buona parte dei suoi abitanti deve confrontarsi quotidianamente.&lt;/p&gt;
-&lt;p&gt;Durante &lt;a href="https://www.ilpost.it/2025/10/01/marocco-proteste-stadi-ospedali/"&gt;le ultime proteste del settembre del 2025&lt;/a&gt;, nelle quali sono state arrestata &lt;a href="https://www.ilpost.it/2025/10/19/marocco-repressione-proteste/"&gt;centinaia di persone&lt;/a&gt;, questa distanza era riassunta da uno degli slogan dei manifestanti: «Meno stadi, più ospedali». I giovani protestavano contro gli enormi investimenti fatti nelle infrastrutture per i Mondiali di calcio del 2030, che il Marocco organizzerà con Spagna e Portogallo, e quelli insufficienti per migliorare le pessime condizioni della sanità pubblica o del settore dell&amp;#8217;istruzione. Il governo del Marocco considera invece i Mondiali uno strumento decisivo per acquisire maggiore rilevanza economica e politica a livello internazionale, e quindi ha tutto l&amp;#8217;interesse a puntarci.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647452"&gt;&lt;img alt="" class="wp-image-3647452 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761088-AP26114332317983.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Il grattacielo Mohammed VI a Sale: il più alto in Marocco, inaugurato ad aprile (AP Photo)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Negli stessi giorni della crisi di Ceuta e della festa nazionale marocchina, il presidente degli Stati Uniti Donald Trump ringraziava con un post sui social e &lt;a href="https://truthsocial.com/@realDonaldTrump/posts/116986582428363613"&gt;un video celebrativo&lt;/a&gt; il re Mohammed VI, che tra le altre cose gli ha intitolato l&amp;#8217;autostrada fra Tiznit e Dakhla. Si chiamerà &amp;#8220;autostrada Donald Trump&amp;#8221; è non è un&amp;#8217;autostrada qualsiasi, ma un&amp;#8217;opera lunga oltre 1.000 chilometri e da 1 miliardo di dollari che collega il nord del paese con il sud, e soprattutto con il Sahara Occidentale.&lt;/p&gt;
-&lt;p&gt;Il Sahara Occidentale è un ampio &lt;a href="https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"&gt;territorio non autonomo&lt;/a&gt; che il Marocco rivendica come proprio da decenni (da quando lo abbandonò la Spagna, potenza coloniale). Il Marocco ne occupa buona parte e il governo lo presenta come proprio, chiamandolo «le province del sud». Nell&amp;#8217;area è attivo il Fronte Polisario, un movimento locale che invece lotta per fare del Sahara occidentale uno stato autonomo: controlla una striscia di territorio al confine con Algeria e Mauritania, ed è sostenuto dall&amp;#8217;Algeria. I rapporti del Marocco con l&amp;#8217;Algeria sono quindi pessimi e negli scorsi anni il governo marocchino ha minacciato ritorsioni contro i paesi che intrattengono relazioni che giudica troppo strette con l&amp;#8217;Algeria: è successo a Francia e Spagna.&lt;/p&gt;
-&lt;p&gt;Il Sahara Occidentale negli ultimi anni è stato al centro della politica estera del Marocco, che ha usato &lt;a href="https://www.ilpost.it/2026/08/01/ceuta-marocco-spagna/?homepagePosition=3.1&amp;amp;referrerPost=3647111"&gt;leve economiche, diplomatiche e migratorie&lt;/a&gt; per ottenere il riconoscimento internazionale della propria sovranità su quel territorio. Gli Stati Uniti lo riconoscono come marocchino dal 2020, quando il Marocco aderì agli &lt;a href="https://www.ilpost.it/2022/03/29/accordi-di-abramo-israele/"&gt;Accordi di Abramo&lt;/a&gt;, avviati durante il primo mandato di Trump e che prevedevano la normalizzazione delle relazioni diplomatiche ed economiche tra Israele e vari paesi arabi (una questione da sempre molto complicata).&lt;/p&gt;
-&lt;p&gt;Da allora i rapporti del Marocco con Stati Uniti e Israele sono molto stretti: anche Israele &lt;a href="https://www.ilpost.it/2023/07/18/israele-riconosciuta-sovranita-sahara-occidentale-dice-marocco/"&gt;ha riconosciuto&lt;/a&gt; la sovranità del Marocco sul Sahara occidentale e ci sono collaborazioni strette sia in campo militare sia economico. Il Marocco è stato uno dei primi paesi a entrare &lt;a href="https://www.ilpost.it/2026/01/21/consiglio-di-pace-trump-onu/"&gt;nel Consiglio di pace di Trump&lt;/a&gt;, l&amp;#8217;organismo creato per gestire il processo di pace e la ricostruzione nella Striscia di Gaza (entrambi sono fermi), e dovrebbe essere il primo paese a inviare forze militari di controllo nella Striscia.&lt;/p&gt;
-&lt;p&gt;Ha anche firmato con gli Stati Uniti un accordo militare decennale (2026-2036) che prevede investimenti per quasi un miliardo di dollari in armi di fabbricazione statunitense, tra cui missili, elicotteri e jet da guerra. Ci sono già state anche esercitazioni congiunte, proprio nella zona del Sahara Occidentale. Questi enormi investimenti dovrebbero rendere il Marocco una delle maggiori potenze militari del Nordafrica.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647450"&gt;&lt;img alt="" class="wp-image-3647450 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761078-AP25143400993062.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;I generali Michael Langley (Stati Uniti) e Mohammed Berrid (Marocco), durante le esircitazioni congiunte del 2025 (AP Photo/Mosa&amp;#8217;ab Elshamy)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Altri progetti puntano sullo sviluppo economico e sullo sfruttamento delle risorse, grazie anche a ingenti investimenti stranieri (3,3 miliardi di dollari nel 2025): i settori che hanno visto il maggiore sviluppo sono quelli dell&amp;#8217;energia rinnovabile, le miniere di fosfati (proprio nel Sahara occidentale), e le industrie di veicoli elettrici e di batterie. Il Marocco ha costruito nel 2010 un enorme porto sul Mediterraneo, quello di Tangeri, e ne costruirà altri due, a Nador (sempre nel Mediterraneo) e sulla penisola di Dakhla, sull&amp;#8217;Atlantico, dove arriva &amp;#8220;l&amp;#8217;autostrada Trump&amp;#8221;.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647451"&gt;&lt;img alt="" class="wp-image-3647451 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761083-AP8987605599300175.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Il re Mohammed VI in visita allo stabilimento di Casablanca della Safran, dove si costruiscono motori per aerei, nell&amp;#8217;ottobre del 2025 (AETOSWire)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Oltre a costruire nuovi stadi, in vista dei Mondiali del 2030 prevede lavori per migliorare i trasporti interni, le capacità ricettive e aeroportuali. Punta a ospitare la finale del torneo (la sede non è ancora stata decisa, l&amp;#8217;alternativa è la Spagna) e a trasformare quell&amp;#8217;occasione in un&amp;#8217;ulteriore momento di affermazione del proprio status di potenza nella regione e di connessione fra Europa, mondo arabo e il resto dell&amp;#8217;Africa, con estensioni verso il Nordamerica attraverso le rotte atlantiche.&lt;/p&gt;
-&lt;p&gt;Tutti questi investimenti sono possibili perché effettivamente l&amp;#8217;economia del Marocco negli ultimi anni &lt;a href="https://www.ilpost.it/2025/10/10/proteste-marocco-economia/"&gt;è molto cresciuta&lt;/a&gt;, ma anche perché le risorse sono perlopiù convogliate in grandi infrastrutture e non nel miglioramento immediato delle condizioni degli abitanti. Nonostante le molte opere pubbliche, la disoccupazione in questi anni non si è ridotta: secondo i dati del governo è circa dell&amp;#8217;11 per cento, ma è tre volte superiore fra i giovani fra i 15 e i 24 anni. Secondo la Banca Mondiale nell&amp;#8217;ultimo decennio la popolazione in età lavorativa è cresciuta dell&amp;#8217;11,4 per cento, ma i posti di lavoro solo dell&amp;#8217;1,4 per cento. Il PIL pro capite &lt;a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"&gt;nel 2025 è stato&lt;/a&gt; di 4.600 euro, contro i 38.600 della Spagna o i 43.300 dell&amp;#8217;Italia.&lt;/p&gt;
-&lt;p&gt;A questo si aggiungono condizioni molto precarie della sanità pubblica, delle scuole e delle università, e periodi di siccità sempre più frequenti che condizionano l&amp;#8217;agricoltura e la vita quotidiana, anche per carenze nella rete idrica.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647448"&gt;&lt;img alt="" class="wp-image-3647448 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761067-AP22281736821478.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Una parata militare con un ritratto del re Mohammed VI nel 2022 (AP Photo/Mosa&amp;#8217;ab Elshamy)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Queste situazioni e la scarsa fiducia della popolazione nella possibilità di cambiare le cose attraverso il voto e la normale vita politica hanno portato a proteste, forte astensione e costante emigrazione.&lt;/p&gt;
-&lt;p&gt;Il Marocco è un paese con tendenze autoritarie, dove il dissenso è punito con arresti. Nel 2020 per esempio si parlò molto, anche all&amp;#8217;estero, dei giornalisti investigativi Omar Radi e Soulaimane Raissouni, condannati per spionaggio e reati sessuali con accuse e prove che varie ong hanno considerato costruite ad arte: sono stati graziati dal re nel 2024.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647449"&gt;&lt;img alt="" class="wp-image-3647449 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785761072-AP24211862920933.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Il rilascio del giornalista e attivista Omar Radi dalla prigione di Tifelt dopo la grazia, il 29 luglio 2024 (AP Photo)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Il paese non è una democrazia piena: si svolgono elezioni con vari partiti – le prossime sono il 23 settembre – ed esiste un’alternanza al potere, ma anche nella nuova Costituzione del 2011 &lt;a href="https://www.ispionline.it/it/pubblicazione/marocco-basteranno-le-modifiche-alla-costituzione-83"&gt;i poteri del re restano molto ampi&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Mohammed VI di fatto controlla buona parte della politica marocchina, a partire dalla coalizione trasversale attualmente al governo, con partiti di centrodestra e centrosinistra, di approccio tecnico e liberale. Inoltre è a capo del Consiglio dei ministri, che prende le decisioni più importanti in tema di politica estera e interna, può promulgare leggi attraverso i decreti regi senza passare dal parlamento, mantiene una legittimazione religiosa e una consolidata rete di potere che attraversa le più importanti espressioni della società e dell’economia marocchina.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/07/16/cinema-marocco-sahara-occidentale/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Per il Marocco il cinema è uno strumento di colonizzazione&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/03/marocco-ambizioni-problemi</guid>
-      <pubDate>Mon, 03 Aug 2026 15:32:34 +0000</pubDate>
-      <dc:creator>Valerio Clari</dc:creator>
-    </item>
-    <item>
-      <title>Anche le macchine da caffè hanno un problema con la Cina</title>
-      <link>https://www.ilpost.it/2026/08/03/macchine-caffe-concorrenza-cinese</link>
-      <description>&lt;p&gt;&lt;em&gt;I produttori italiani mantengono il primato sulle macchine da bar tradizionali, che però si vendono sempre meno rispetto alle “superautomatiche”&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/06/1783346629-IMG_9998.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Da un chilo di caffè macinato si ricavano 143 tazzine di espresso – sette grammi l&amp;#8217;una – e un barista aggiungerebbe subito che ognuna è diversa dalle altre. Tra chi sta dietro il bancone si dice che per un buon espresso contino quattro M: miscela, macinatura, mano e macchina. L&amp;#8217;ultima M è quella che ha reso famoso il caffè italiano, perché le macchine per farlo sono nate in Italia. Le altre tre M dipendono da chi lavora al banco e dosa macinatura, pressione, temperatura.&lt;/p&gt;
-&lt;p&gt;Così accadeva almeno fino a qualche tempo fa. Oggi infatti le macchine più vendute non sono più quelle manuali o le semiautomatiche, in cui le aziende italiane hanno un primato storico, ma le superautomatiche. Nelle prime il barista macina il caffè, lo pressa nel portafiltro e decide quando fermare l&amp;#8217;erogazione. La macchina gli dà acqua alla temperatura e alla pressione volute, il resto lo fa la persona. Le superautomatiche invece macinano, dosano, pressano, erogano e montano il latte tutto da sole, e sono in grado di realizzare 143 tazzine di caffè identiche.&lt;/p&gt;
-&lt;p&gt;Da un punto di vista industriale è un problema, perché su quel tipo di macchine i produttori cinesi sono sempre più forti.&lt;/p&gt;
-&lt;p&gt;Maurizio Giuli guida la nuova Simonelli, uno dei marchi storici del settore, e spiega che sta succedendo ciò che è accaduto nel mondo dell’auto: hanno imparato da noi, hanno conquistato la fascia bassa di mercato, ora fanno concorrenza su quella alta. Le macchine cinesi sono oggi tecnologicamente molto avanzate e costano a volte anche il 50 per cento in meno.&lt;/p&gt;
-&lt;p&gt;Il settore in Italia vale oltre 1,4 miliardi di euro. È una filiera fatta di poco più di una trentina di imprese, spesso medio-piccole, distribuite tra Lombardia, Toscana, Veneto e Marche. Alcune sono marchi storici – Cimbali, Rancilio, La Marzocco, Simonelli, La San Marco – tutti piuttosto noti nel mondo. Secondo uno studio pubblicato dall’Ucimac, l’associazione che raggruppa i produttori, otto macchine su dieci prodotte in Italia vanno sui mercati esteri.&lt;/p&gt;
-&lt;p&gt;Il primato all&amp;#8217;estero dipende anche dall&amp;#8217;aspetto delle macchine: molte sono state firmate da importanti designer – Gio Ponti, i fratelli Castiglioni, Ettore Sottsass, Giorgetto Giugiaro – che le hanno rese oggetti di arredo. È un tratto estetico che le caratterizza ancora oggi.&lt;/p&gt;
-&lt;div class="wp-caption aligncenter" id="attachment_3625173"&gt;&lt;img alt="" class="wp-image-3625173 size-full" height="654" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/07/1783415930-IMG_9946.jpeg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;(Francesco Gaeta/Il Post)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;La produzione italiana è però quasi di alto artigianato se la si confronta con la scala di quella cinese. L’azienda Dr.coffee, fondata in Cina nel 2016, supererà quest’anno i 200mila pezzi prodotti, più o meno quanti ne escono in un anno da tutte le aziende italiane. Alla fiera HostMilano che si è tenuta in ottobre, l’azienda cinese ha portato ai potenziali clienti oltre dieci nuovi modelli, ha dichiarato di avere più di 100 brevetti e di essere presente in 60 paesi. Lo stesso hanno fatto altri marchi di dimensioni minori come Jetinno, Caye e Kalerm. Nessuno di loro ha più di 10 anni di vita.&lt;/p&gt;
-&lt;p&gt;Queste aziende sono presenti anche in Italia, dove l’import cinese vale l’8 per cento del mercato interno. Sono soprattutto in hotel, stazioni di rifornimento, grandi ristoranti, centri commerciali, cioè luoghi in cui è necessario ridurre il più possibile le code e dare a migliaia di persone al giorno nel tempo più breve possibile fino a 90 varianti di bevande a base di caffè, acqua, latte, schiuma e cioccolato.&lt;/p&gt;
-&lt;p&gt;Questa competizione basata sul prezzo è comune a molti altri comparti industriali. E le risposte delle aziende italiane sono simili a ciò che avviene in quei casi.&lt;/p&gt;
-&lt;p&gt;Innanzitutto, le aziende tentano di migliorare tecnologicamente i prodotti. Significa fare macchine con più componenti interni – per una superautomatica si arriva a oltre 600 componenti, assemblati in molte varianti diverse – ma più leggere, che disperdono meno calore e usano meno energia. Questi miglioramenti richiedono molti investimenti, perché un ciclo di progettazione può durare anche 15 anni e diverse migliaia di ore di collaudo. È una soluzione alla portata solo di aziende di grandi dimensioni.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3624508"&gt;&lt;img alt="" class="wp-image-3624508 size-full" height="900" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/06/1783347103-IMG_9905.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;La fase di collaudo di una macchina Cimbali nello stabilimento di Binasco, Milano (Francesco Gaeta/Il Post)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Uno dei posti per capirlo è Binasco, vicino a Milano, dove ha lo stabilimento principale uno dei maggiori produttori italiani, Cimbali. L’azienda investe il 6 per cento del suo fatturato annuo (che ammonta a circa 240 milioni di euro) in ricerca e sviluppo, e produce ogni giorno 180 macchine da bar, che possono costare anche più di 25mila euro.&lt;/p&gt;
-&lt;p&gt;Al centro della ricerca c&amp;#8217;è il software che controlla la macchina, perché anche nelle versioni manuali quasi tutto dipende dall&amp;#8217;elettronica: controllo di temperatura e pressione, pulizia automatica, gestione del latte, diagnostica, connessioni con altre attrezzature. I sensori misurano le prestazioni e permettono di adattare la macchina all&amp;#8217;ambiente in cui si trova, per esempio cambiando la macinatura a seconda dell&amp;#8217;umidità dell&amp;#8217;aria.&lt;/p&gt;
-&lt;p&gt;Andrea Coccia, che dirige la divisione ricerca e sviluppo di Cimbali, dice che per questi dispositivi parlare di macchine da caffè è riduttivo, e preferisce l&amp;#8217;espressione «dispositivi elettronici di trasformazione alimentare»: «Il punto chiave è che i dati raccolti elettronicamente sono trasmessi dai bar alla nostra rete di concessionari in tempo reale».&lt;/p&gt;
-&lt;p&gt;Questi dati servono alla “manutenzione predittiva”, cioè a capire in anticipo quando un pezzo può rompersi e va sostituito per evitare di fermarsi. Piattaforme di assistenza come queste sono offerte anche da altre case produttrici. È un servizio che avvicina questo settore a comparti dove la misurazione delle prestazioni e i servizi di assistenza connessi sono presenti da tempo, come quello delle auto o di certe macchine agricole. Visti i costi elevati dei prodotti, se ne allunga il più possibile il ciclo di vita. Ma serve una rete di assistenza che ancora la concorrenza cinese non è in grado di offrire.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3624497"&gt;&lt;img alt="" class="wp-image-3624497 size-full" height="900" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/06/1783346783-IMG_9892.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Lo stabilimento della Cimbali a Binasco, Milano (Francesco Gaeta/Il Post)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;C’è però una novità specifica di questo settore: per effetto della concorrenza asiatica, sta cambiando la catena della fornitura, cioè il modo con il quale una macchina arriva in un bar. Andrea Boaretto, docente di marketing al Politecnico di Milano e tra gli autori dell’ultima ricerca di Ucimac, spiega che «fin qui il produttore è rimasto dietro le quinte: la macchina entra nel locale attraverso i torrefattori, cioè i produttori di caffè, dentro un pacchetto che comprende miscela, macinacaffè, tazzine, zuccheriere, insegne». Il barista non deve mettere soldi all&amp;#8217;inizio, perché ottiene tutto in comodato d&amp;#8217;uso o in leasing e paga a rate mensili.&lt;/p&gt;
-&lt;p&gt;Secondo Boaretto ora i produttori stanno iniziando a scavalcare la mediazione dei torrefattori. Offrono attrezzatura, ma anche sistemi di finanziamento, supporto marketing e consulenza su come organizzare l’offerta.&lt;/p&gt;
-&lt;p&gt;Attraverso questo rapporto più diretto le aziende italiane stanno cercando di sottrarre i bar a chi vende solo un’attrezzatura a prezzi più vantaggiosi. «La macchina sta diventando il centro di un pacchetto di servizi che siamo noi produttori a gestire», spiega Roberto Nocera, che è al vertice del marchio La San Marco e presiede Ucimac. «Noi forniamo una cultura della bevanda, non soltanto un attrezzo di lavoro».&lt;/p&gt;
-&lt;p&gt;Fornire una “cultura della bevanda” vuol dire in concreto occuparsi del barista. Dietro il bancone il personale cambia spesso e per i titolari dei locali è un problema. Fare il barista richiede una pratica che si costruisce negli anni, e la prova più difficile non è l&amp;#8217;espresso, ma il cappuccino.&lt;/p&gt;
-&lt;p&gt;Per farne uno buono bisogna portare il latte intorno ai 65 gradi in meno di mezzo minuto, creare un vortice regolare con il movimento del braccio per inglobare aria, rompere le bolle più grandi con un colpo leggero della mano sul bricco e ottenere così una schiuma compatta e vellutata. Se la temperatura del latte sale a 70 o 80 gradi, il cappuccino prende sentori caramellati; se si sbaglia a dare il colpo al bricco, la schiuma non sarà uniforme. Le persone sentite per questo articolo non sono d&amp;#8217;accordo sul fatto che una superautomatica possa fare un cappuccino così.&lt;/p&gt;
-&lt;p&gt;Così, mentre il mercato su scala globale si muove verso l’automazione rafforzando “la macchina”, i produttori di macchine italiani quasi paradossalmente si orientano a rafforzare “la mano”. Ormai tutte le aziende hanno avviato scuole di formazione per baristi. La Marzocco, storico marchio di fascia alta con sede vicino a Firenze, ha creato un’Academy in cui insegna come utilizzare la tecnologia delle sue macchine semiautomatiche. Secondo l&amp;#8217;azienda, queste macchine non sostituiscono il barista, ma lo mettono nelle condizioni di lavorare meglio, riducendo «la variabilità indesiderata in situazioni affollate».&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/03/macchine-caffe-concorrenza-cinese</guid>
-      <pubDate>Mon, 03 Aug 2026 15:25:00 +0000</pubDate>
-      <dc:creator>Francesco Gaeta</dc:creator>
-    </item>
-    <item>
-      <title>È stato trovato il corpo di una quarta persona morta nel crollo della palazzina a Messina: altre due sono ancora disperse</title>
-      <link>https://www.ilpost.it/2026/08/03/messina-crollo-palazzina-recuperato-corpo-persone-disperse</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785768982-ilpost_20260803165603402_f8af58e263c970cafb735eaa1cc0d3a8.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Lunedì è stato trovato il corpo di una quarta persona morta nel &lt;a href="https://www.ilpost.it/2026/07/30/crollo-edificio-messina-cinque-feriti/"&gt;crollo&lt;/a&gt; di una palazzina nel quartiere di Pistunina, a Messina, in Sicilia. Tre erano già stati recuperati tra &lt;a href="https://www.ilpost.it/2026/08/01/ritrovati-corpi-persone-disperse-crollo-palazzina-messina/"&gt;venerdì&lt;/a&gt; e &lt;a href="https://www.ilpost.it/2026/08/01/trovato-corpo-disperso-messina/"&gt;sabato&lt;/a&gt;, mentre si stanno ancora cercando due dispersi. La procura di Messina sta indagando su tre persone per disastro colposo, omicidio colposo plurimo e rimozione dolosa di cautele contro gli infortuni sul lavoro.&lt;/p&gt;
-&lt;p&gt;L’edificio è crollato giovedì pomeriggio per cause ancora non certe. Aveva tre piani, con appartamenti, un supermercato e alcune attività commerciali al piano terra: qui erano in corso alcuni lavori di ristrutturazione. All&amp;#8217;inizio era stato ipotizzato che il crollo fosse legato allo scoppio di una bombola del gas, ma adesso si sta valutando la possibilità di un cedimento strutturale dell’edificio, forse provocato dai lavori. Nel crollo erano state ferite gravemente cinque persone.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/03/messina-crollo-palazzina-recuperato-corpo-persone-disperse</guid>
-      <pubDate>Mon, 03 Aug 2026 15:20:37 +0000</pubDate>
-      <dc:creator>Matilda Ferraris</dc:creator>
-    </item>
-    <item>
-      <title>Allo Spin Time di Roma tiene un sacco di gente</title>
-      <link>https://www.ilpost.it/2026/08/03/spin-time-labs-roma</link>
-      <description>&lt;p&gt;&lt;em&gt;Non solo le centinaia di persone che vivono nel palazzo occupato, ma anche quelle per cui è diventato un punto di riferimento&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785746831-ilpost_20260803104559479_e3df84f22789ef7b9bfe4faa8fb43414.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Nonostante fosse un weekend di inizio agosto con temperature che hanno sfiorato i 40 °C, sabato decine e decine di persone si sono radunate in via di Santa Croce in Gerusalemme, a Roma, per partecipare a un presidio contro lo sgombero del palazzo occupato noto come Spin Time Labs, che giovedì &lt;a href="https://www.ilpost.it/2026/07/31/spin-time-labs-roma-sgomberato-incendio/"&gt;era stato dichiarato inagibile e posto sotto sequestro&lt;/a&gt; dopo un incendio. Molti stanno dormendo lì davanti in tenda, e dicono che ci rimarranno finché i cancelli non saranno riaperti e potranno tornare in quella che, per tredici anni, è stata la loro casa.&lt;/p&gt;
-&lt;p&gt;Spin Time è infatti un&amp;#8217;iniziativa che coinvolge moltissime persone ed è diventato negli anni un punto di riferimento per diverse realtà sociali e culturali del quartiere Esquilino e in generale di Roma. Non solo per le molte attività che organizza e che ospita, che hanno fornito alla zona servizi che non c’erano o ne ha rafforzati di esistenti, ma anche per le 400 persone che hanno trovato una casa nei suoi ampi locali, ricavati dagli uffici dell&amp;#8217;ex sede Inpdap, a poca distanza da piazza di San Giovanni in Laterano, a sud est del centro.&lt;/p&gt;
-&lt;p&gt;Al piano terra ci sono un coworking e una grande sala che gli abitanti possono mettere a disposizione per iniziative di diverso tipo; ogni sabato, per esempio, viene organizzato un doposcuola frequentato sia dai bambini che vivono nel palazzo sia da quelli delle scuole del quartiere. Negli anni negli spazi di Spin Time sono nati anche un’osteria, un auditorium per dibattiti, spettacoli e riunioni, uno studio di registrazione, una falegnameria e una camera oscura. Anche il parcheggio dello stabile è stato trasformato: oggi ospita la sede del giornale &lt;em&gt;Scomodo&lt;/em&gt;, che durante il giorno funziona come aula studio e spazio ricreativo aperto a chiunque, mentre la sera accoglie spesso eventi musicali, spettacoli e dibattiti.&lt;/p&gt;
-&lt;p&gt;Adesso le stesse attività che sono state organizzate per molto tempo dentro le mura di Spin Time sono proposte all&amp;#8217;esterno: sono stati organizzati balli di gruppo tenuti dalla comunità boliviana di Spin Time, laboratori artistici di disegno, partite di calcetto e cene collettive. Sabato sera è stata inaugurata dalla comica Sabina Guzzanti l&amp;#8217;arena cinema: un maxischermo dove vengono proiettati film e cartoni animati.&lt;/p&gt;
-&lt;p&gt;In pochi giorni è stata anche organizzata una raccolta fondi con cui si sono raccolti più di 85mila euro che servono per il sostentamento delle persone che stanno dormendo per strada in questi giorni. Attraverso la pagina Instagram di Spin Time gli organizzatori aggiornano quotidianamente l&amp;#8217;elenco dei beni di prima necessità di cui c&amp;#8217;è bisogno. In questi giorni, con le alte temperature, la priorità è aiutare le persone a sopportare il caldo: per questo vengono chiesti soprattutto ventilatori e altri dispositivi che possano rendere più sopportabile la permanenza all&amp;#8217;aperto.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3647365"&gt;&lt;img alt="" class="wp-image-3647365 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/03/1785754300-ilpost_20260803125116504_9063e482ae2870499270b1d64e3127f3.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Un bambino fa il bagno in una piscina gonfiabile in via di Santa Croce in Gerusalemme (Giuseppe Lami/Ansa)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Attorno al futuro di Spin Time c&amp;#8217;è uno scontro politico che dura da anni: il palazzo era da tempo nella lista degli sgomberi stilata dal ministro dell&amp;#8217;Interno Matteo Piantedosi, che da quando ha assunto il suo incarico ha mantenuto un approccio duro nei confronti delle occupazioni. Nell&amp;#8217;ultimo anno infatti sono stati sgomberati due dei centri sociali più famosi e importanti in Italia: il Leoncavallo di Milano e l&amp;#8217;Askatasuna di Torino, e i partiti di destra chiedono che lo stesso accada con Spin Time. Il presidente della Regione Lazio Francesco Rocca ha detto che gli abitanti dovrebbero essere inseriti nelle liste d&amp;#8217;attesa per le case popolari, ma che non dovrebbero tornare a vivere nello stabile.&lt;/p&gt;
-&lt;p&gt;Nel centrosinistra, invece, c’è chi considera Spin Time un esempio di partecipazione cittadina e una risposta concreta all’emergenza abitativa. La giunta del comune di Roma aveva portato avanti a lungo una trattativa per acquistare l’immobile dalla proprietà, il fondo InvestiRE SGR, che però è rimasta sempre dell’idea di non voler vendere, e costruire lì un albergo di lusso.&lt;/p&gt;
-&lt;p&gt;Ora dopo l’incendio e il sequestro la trattativa è ripresa: l’idea del comune è replicare il modello di gestione adottato con l’ex Direzione dei magazzini del commissariato in via del Porto Fluviale, uno stabile che fu occupato nel 2003 e che nel 2022 è stato acquistato dal comune di Roma che lo sta sistemando. Quando i lavori saranno conclusi, l’edificio sarà assegnato alle famiglie che lo occupavano e che sono in possesso dei requisiti previsti.&lt;/p&gt;
-&lt;p&gt;Spin Time ha sempre mantenuto delle comunicazioni con la politica istituzionale: per esempio nel 2021 ospitò il primo confronto tra i candidati alle primarie del centrosinistra per l&amp;#8217;elezione del sindaco di Roma. Un altro rapporto privilegiato è quello con la chiesa cattolica: nel 2025 Spin Time ha ospitato la quinta edizione dell&amp;#8217;incontro mondiale dei movimenti popolari, un appuntamento nato nel 2014 su impulso di papa Francesco che riunisce delegazioni di organizzazioni sociali e dei lavoratori provenienti da circa 170 paesi. In quell&amp;#8217;occasione gli attivisti e gli abitanti di Spin Time furono ricevuti in Vaticano da papa Leone XIV.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/01/07/spin-time-roma/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Che cos&amp;#8217;è Spin Time Labs &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Non è la prima volta che Spin Time Labs finisce al centro di un confronto con le istituzioni. Era già successo nel 2019 quando Acea, la società che gestisce i servizi energetici a Roma, interruppe la fornitura di elettricità e acqua calda all’edificio a causa di un debito non saldato di circa 300mila euro. Per sei giorni gli occupanti di Spin Time rimasero senza luce né acqua calda. La situazione si sbloccò con l’intervento del cardinale Konrad Krajewski, responsabile del Vaticano per le opere di carità, che andò personalmente nello stabile, rimosse i sigilli dal contatore e ripristinò l’elettricità, assumendosi pubblicamente la responsabilità del gesto.&lt;/p&gt;
-&lt;p&gt;Nel 2023 l’ipotesi di uno sgombero tornò concreta. Piantedosi disse che l’edificio sarebbe stato sgomberato perché i suoi proprietari avevano valutato la possibilità di riconvertirlo in un albergo in vista del Giubileo; l’operazione però non si concretizzò. Nello stesso periodo l’assessore alla casa Tobia Zevi inserì Spin Time nel Piano Casa del comune come immobile da acquisire, partendo dal presupposto che fosse l’unica soluzione possibile per evitare lo sgombero. La trattativa avviata in quella fase non andò a buon fine.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2023/03/15/case-occupate-roma-sgomberi-piantedosi/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Sulle case occupate di Roma governo e comune hanno idee diverse&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/08/03/spin-time-labs-roma</guid>
-      <pubDate>Mon, 03 Aug 2026 15:00:39 +0000</pubDate>
-      <dc:creator>Matilda Ferraris</dc:creator>
     </item>
   </channel>
 </rss>
