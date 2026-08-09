@@ -7,17 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:01:58 +0000</lastBuildDate>
     <item>
       <title>Il primo giorno di controlli in Spagna è stato tranquillo</title>
       <link>https://www.ilpost.it/2026/08/09/come-sono-andati-controlli-frontiera-spagna-schengen</link>
       <description>&lt;p&gt;&lt;em&gt;Erano attivi in sette aeroporti e hanno riguardato meno di 200 persone, senza particolari intoppi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786256976-controlli-polizia.jpeg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786256976-controlli-polizia.jpeg" /&gt;&lt;/p&gt;
 &lt;p&gt;Sabato 8 agosto fino alle 21 sono stati controllati i documenti di 199 persone arrivate in Spagna con 12 voli provenienti dall&amp;#8217;Italia, secondo i dati del ministero dell&amp;#8217;Interno: una frazione del totale, dato che soprattutto in agosto i viaggi tra i due paesi sono molti frequenti. Era il primo giorno in cui erano in vigore i &lt;a href="https://www.ilpost.it/2026/08/08/controlli-italia-spagna"&gt;controlli di frontiera&lt;/a&gt; reintrodotti dalla Spagna, dopo che l’Italia aveva fatto lo stesso la scorsa settimana in risposta alla crisi migratoria a Ceuta.&lt;/p&gt;
 &lt;p&gt;Secondo i giornali spagnoli le procedure si sono svolte senza particolari intoppi. I controlli erano attivi in sette aeroporti principali: Madrid, Barcellona, Malaga, Siviglia, Bilbao, Alicante e Valencia. Il maggior numero di controlli è stato fatto a Madrid, su un volo proveniente da Roma, e a Barcellona, su due che arrivavano da Milano e da Roma. A Siviglia sono stati controllati due voli da Bologna e da Firenze, a Bilbao un altro volo da Roma, infine a Valencia sono stati controllate in tutto 33 persone che viaggiavano su voli partiti da Cagliari, Napoli e Bari. Ad Alicante non sono stati fatti controlli.&lt;/p&gt;
 &lt;p&gt;Complessivamente, ha riferito il ministero, erano stati coinvolti 100 agenti di polizia. I controlli saranno estesi a breve anche agli aeroporti delle isole Baleari e alle Canarie.&lt;/p&gt;
 &lt;p&gt;Vengono fatti sull’identità e sulla nazionalità dei passeggeri degli aerei (e delle navi, nei porti) arrivati dall’Italia e, in caso di cittadini di paesi esterni all’Unione Europea, anche sul visto o sul permesso di soggiorno. Il governo spagnolo ha detto che dureranno fino al 7 settembre, a meno che non cambino le condizioni che hanno portato alla loro imposizione.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/interiorgob/status/2086013200839872869"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;L’organizzazione varia da caso a caso, ma i funzionari che fanno i controlli sui passeggeri provenienti dall’Italia decidono di volta in volta se controllare tutti i passeggeri di un volo o solo alcuni, a campione: il ministero dell’Interno ha detto che in media vengono controllati tra il 5 e il 10 per cento dei passeggeri totali. Fonti del governo hanno spiegato al quotidiano &lt;em&gt;El País&lt;/em&gt; che le modalità dei controlli vengono decise sulla base della lista con i nomi dei passeggeri che le compagnie aeree trasmettono in anticipo al governo del paese di arrivo.&lt;/p&gt;
 &lt;p&gt;In generale le persone intervistate dai &lt;a href="https://www.elnacional.cat/es/sociedad/primer-dia-controles-italia-hacia-espana-viven-pasajeros-aeropuerto-prat_1679188_102.html"&gt;giornali spagnoli&lt;/a&gt; e da quelli italiani non hanno segnalato problemi particolari. Il giornalista del &lt;em&gt;Corriere della Sera&lt;/em&gt; Andrea Nicastro, per esempio, che ha viaggiato sabato su un volo da Malpensa a Barcellona, ha scritto che c’erano quattro agenti a controllare i documenti e che tutta la procedura è stata rapida. Un altro passeggero italiano, che si è presentato solo come Giovanni ed era atterrato anche lui all’aeroporto El Prat di Barcellona, &lt;a href="https://elpais.com/espana/2026-08-08/primer-dia-de-control-a-los-viajeros-procedentes-de-italia-la-policia-pide-la-documentacion-a-solo-el-5-o-10-de-los-pasajeros.html"&gt;ha detto&lt;/a&gt; al &lt;em&gt;País&lt;/em&gt; che all’arrivo la polizia ha diviso i passeggeri dell’aereo in due gruppi e ha chiesto i documenti alle persone italiane.&lt;/p&gt;
 &lt;p&gt;I controlli sono stati fatti all’uscita del pontile di imbarco, quel corridoio o ponte mobile (chiamato in gergo “&lt;em&gt;finger&lt;/em&gt;”) che collega il gate dell’aeroporto e l’aereo. I viaggiatori non devono quindi seguire le procedure predisposte per chi non ha un passaporto europeo.&lt;/p&gt;
@@ -25,19 +25,18 @@
 &lt;p&gt;Per quanto riguarda i controlli sulle navi, &lt;em&gt;El&lt;/em&gt; &lt;em&gt;País&lt;/em&gt; scrive che è previsto per sabato l’arrivo di una prima nave da crociera dall’Italia al porto di Barcellona.&lt;/p&gt;
 &lt;p&gt;Sia l’Italia sia la Spagna fanno parte dell’area Schengen, la zona di libera circolazione per le persone che comprende 25 paesi dell’Unione Europea (tutti tranne Cipro e l’Irlanda) più Norvegia, Svizzera, Islanda e Liechtenstein. Normalmente i cittadini di questi paesi possono spostarsi da uno all’altro senza particolari controlli: andando dall’Italia in Francia in aereo, per esempio, viene controllata solo la carta d’identità al momento dell’imbarco.&lt;/p&gt;
 &lt;p&gt;Al momento Italia e Spagna si stanno comportando almeno in parte come se fossero fuori dall’area Schengen. La reintroduzione dei controlli è il risultato di uno &lt;a href="https://www.ilpost.it/2026/08/04/meloni-sanchez-ceuta/"&gt;scontro politico&lt;/a&gt; sull’immigrazione tra i governi di Pedro Sánchez (centrosinistra) e di Giorgia Meloni (destra) iniziato a fine luglio, quando decine di migliaia di persone migranti sono entrate dal Marocco nell’exclave spagnola di Ceuta, per poi tornare indietro nel giro di poche ore.&lt;/p&gt;
-&lt;p&gt;In un&amp;#8217;&lt;a href="https://www.lastampa.it/politica/2026/08/09/news/tajani_schengen_italia_spagna_intervista-15710751/?ref=LSHA-BH-P2-S1-F"&gt;intervista&lt;/a&gt; di domenica alla &lt;em&gt;Stampa&lt;/em&gt;, il ministro degli Esteri Antonio Tajani ha criticato Sánchez ma ha detto che i due governi si stanno parlando e che «ci auguriamo di poter revocare la sospensione [degli accordi di Schengen] presto».&lt;/p&gt;
-</description>
+&lt;p&gt;In un&amp;#8217;&lt;a href="https://www.lastampa.it/politica/2026/08/09/news/tajani_schengen_italia_spagna_intervista-15710751/?ref=LSHA-BH-P2-S1-F"&gt;intervista&lt;/a&gt; di domenica alla &lt;em&gt;Stampa&lt;/em&gt;, il ministro degli Esteri Antonio Tajani ha criticato Sánchez ma ha detto che i due governi si stanno parlando e che «ci auguriamo di poter revocare la sospensione [degli accordi di Schengen] presto».&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/09/come-sono-andati-controlli-frontiera-spagna-schengen</guid>
-      <pubDate>Sun, 09 Aug 2026 08:51:43 +0200</pubDate>
+      <pubDate>Sun, 09 Aug 2026 06:51:43 +0000</pubDate>
       <dc:creator>Laura Fasani</dc:creator>
     </item>
     <item>
       <title>Il messaggio della FIFA che difende il presidente della FIFA</title>
       <link>https://www.ilpost.it/2026/08/09/messaggio-fifa-infantino</link>
       <description>&lt;p&gt;&lt;em&gt;Parla di uno «sforzo congiunto e prolungato» per danneggiare Infantino, e mette in chiaro che resterà in carica nonostante le moltissime critiche&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786255516-AP26213254615303.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786255516-AP26213254615303.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Sabato sera la FIFA, l’organizzazione che governa il calcio globale e organizza i Mondiali, ha diffuso sui propri profili social &lt;a href="https://x.com/fifamedia/status/2086198317562630170"&gt;un messaggio&lt;/a&gt; in cui difende il presidente Gianni Infantino da quello che definisce uno «sforzo congiunto e prolungato per danneggiare la FIFA e il suo presidente», dopo un periodo in cui le critiche nei suoi confronti si sono fatte molto pressanti. Il messaggio mette in chiaro che Infantino non intende lasciare il suo incarico e critica chi cerca di sminuirne l&amp;#8217;autorità: «Il presidente della FIFA è stato eletto democraticamente [&amp;#8230;] e continua a svolgere il suo mandato», si legge.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/fifamedia/status/2086198317562630170"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;Nei suoi anni come presidente Infantino ha preso diverse decisioni contestate, ma nelle ultime settimane varie federazioni e confederazioni calcistiche &lt;a href="https://www.espn.co.uk/football/story/_/id/49551450/gianni-infantino-backed-argentina-fa-praised-owning-mistakes"&gt;sono arrivate&lt;/a&gt; a chiedere le sue dimissioni a causa di un &lt;a href="https://www.ilpost.it/2026/07/29/societa-sussidiaria-fifa/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;contestato piano&lt;/a&gt; da lui promosso che avrebbe aperto agli investitori privati alcuni aspetti dell&amp;#8217;organizzazione dei Mondiali. I critici l&amp;#8217;hanno ritenuto poco trasparente e pericoloso per l&amp;#8217;indipendenza che la FIFA dovrebbe avere, e le critiche sono state talmente nette che Infantino è stato costretto a &lt;a href="https://www.ilpost.it/2026/08/01/fifa-ritirato-piano-privatizzazione-investitori-uefa-mondiali/"&gt;ritirare il piano&lt;/a&gt; e a &lt;a href="https://www.ilpost.it/2026/08/06/infantino-scuse-piano-privatizzazione-fifa/"&gt;scusarsi&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Venerdì inoltre il quotidiano britannico &lt;em&gt;The&lt;/em&gt; &lt;em&gt;Telegraph &lt;/em&gt;ha pubblicato &lt;a href="https://www.ilpost.it/2026/08/08/inchiesta-uefa-pagamenti-amante-infantino/"&gt;un&amp;#8217;inchiesta&lt;/a&gt; secondo cui la UEFA, la confederazione del calcio europeo, avrebbe pagato un&amp;#8217;ingente buonuscita a un&amp;#8217;amante di Infantino quando lui era segretario dell&amp;#8217;organizzazione, tra il 2009 e il 2016. Nel messaggio diffuso sabato dalla FIFA si legge che «recenti notizie contenevano dichiarazioni non confermate e affermazioni chiaramente false sulla FIFA e sul suo presidente». Infantino ha negato ogni comportamento illecito, mentre la UEFA ha detto che sapeva di sospetti sulla relazione e ha confermato i pagamenti, sostenendo però che fossero regolari.&lt;/p&gt;
 &lt;p&gt;La UEFA fa parte della FIFA, ma da tempo è &lt;a href="https://www.ilpost.it/2026/07/10/fifa-uefa-mondiali-infantino-ceferin/"&gt;in rotta con Infantino&lt;/a&gt; ed era stata tra i principali oppositori al suo piano, arrivando a minacciare di &lt;a href="https://www.ilpost.it/2026/07/30/uefa-consiglio-straordinario-progetto-fifa-posizione-serie-a/"&gt;boicottare&lt;/a&gt; i prossimi Mondiali se non fosse stato ritirato.&lt;/p&gt;
@@ -45,242 +44,228 @@
 
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/01/sostituire-infantino-fifa/??utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;È possibile sostituire Infantino?&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border-image: initial; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border-image: initial; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/09/messaggio-fifa-infantino</guid>
-      <pubDate>Sun, 09 Aug 2026 08:26:35 +0200</pubDate>
+      <pubDate>Sun, 09 Aug 2026 06:26:35 +0000</pubDate>
       <dc:creator>Laura Loguercio</dc:creator>
     </item>
     <item>
       <title>Oggi finisce un Tour de France molto incerto</title>
       <link>https://www.ilpost.it/2026/08/09/tour-de-france-femminile-2026-finale-incerto-ultima-tappa</link>
       <description>&lt;p&gt;&lt;em&gt;Quello femminile: in otto tappe cinque cicliste hanno indossato la maglia gialla, e ci sono solo 8 secondi di distacco tra la prima e la seconda&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/08/1786228762-Volleringarrivo.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/08/1786228762-Volleringarrivo.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Sabato pomeriggio la ciclista nederlandese Demi Vollering ha vinto l&amp;#8217;ottava e penultima tappa del Tour de France femminile, portandosi in testa alla classifica generale. A una tappa dalla fine Vollering ha 8 secondi di vantaggio sulla polacca Kasia Niewiadoma, che a sua volta il giorno prima aveva vinto la tappa, &lt;a href="https://www.ilpost.it/2026/08/07/tour-de-france-femmes-mont-ventoux-2026/"&gt;quella con arrivo sul Mont Ventoux&lt;/a&gt;, prendendosi la maglia gialla.&lt;/p&gt;
 &lt;p&gt;In otto tappe, cinque cicliste diverse hanno indossato la maglia gialla, simbolo del primato in classifica generale: &lt;a href="https://www.ilpost.it/2026/08/03/lorena-wiebes-velocista-tour-de-france-femmes-2026-ciclismo/"&gt;la velocista Lorena Wiebes&lt;/a&gt;, che aveva vinto le prime due tappe con arrivo in volata, e poi la norvegese Sigrid Haugset, la svizzera Marlen Reusser e appunto Niewiadoma e Vollering. È insomma un Tour de France davvero incerto ed equilibrato, molto più di quello maschile, &lt;a href="https://www.ilpost.it/2026/07/26/tadej-pogacar-ha-vinto-tour-de-france-2026/"&gt;vinto&lt;/a&gt; il mese scorso da Tadej Pogačar con distacchi incolmabili.&lt;/p&gt;
 &lt;p&gt;Quella di sabato non doveva, in teoria, essere una tappa in grado di cambiare la classifica, ma in una delle poche salite Vollering ha attaccato le avversarie, sorprendendole e staccandole, guadagnando poi un altro po&amp;#8217; di vantaggio in discesa. Nell&amp;#8217;ultima tappa, che si tiene domenica pomeriggio su un percorso che parte e arriva a Nizza (un circuito, da percorrere quattro volte) potranno ancora cambiare le cose, perché per quattro volte le cicliste saliranno sul ripido Col d&amp;#8217;Èze.&lt;/p&gt;
 &lt;p&gt;A giocarsi la vittoria saranno probabilmente Vollering e Niewiadoma, perché la terza classificata, Reusser, ha 1 minuto e 12 secondi di ritardo (l&amp;#8217;italiana Elisa Longo Borghini è quarta con 3 minuti e 5 secondi di ritardo). Due anni fa Niewiadoma &lt;a href="https://www.ilpost.it/2024/08/19/tour-de-france-femmes-vollering-niewiadoma-ultima-tappa/"&gt;aveva vinto&lt;/a&gt; il Tour de France con solo 4 secondi di vantaggio proprio su Vollering, il minor distacco finale nella storia del Tour de France, maschile o femminile. Vollering, una delle migliori cicliste al mondo e vincitrice già del Giro d&amp;#8217;Italia quest&amp;#8217;anno, vinse il Tour nel 2023, e nei due anni successivi è arrivata seconda.&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;ultima tappa si può vedere su Eurosport, disponibile su HBO Max, Discovery+, DAZN, TIMVision e Prime Video.&lt;/p&gt;
-</description>
+&lt;p&gt;L&amp;#8217;ultima tappa si può vedere su Eurosport, disponibile su HBO Max, Discovery+, DAZN, TIMVision e Prime Video.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/09/tour-de-france-femminile-2026-finale-incerto-ultima-tappa</guid>
-      <pubDate>Sun, 09 Aug 2026 08:21:45 +0200</pubDate>
+      <pubDate>Sun, 09 Aug 2026 06:21:45 +0000</pubDate>
       <dc:creator>Gianluca Cedolin</dc:creator>
     </item>
     <item>
       <title>Domenica 9 agosto</title>
       <link>https://www.ilpost.it/2026/08/09/domenica-9-agosto-3</link>
       <description>&lt;p&gt;&lt;em&gt;Le foto dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786255006-AP26221195048633.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786255006-AP26221195048633.jpg" /&gt;&lt;/p&gt;
 &lt;div class="col-6 col-lg-7 col-xxl-8 details-media"&gt;
-&lt;div id="div_caption" class="description"&gt;&lt;/div&gt;
+&lt;div class="description" id="div_caption"&gt;&lt;/div&gt;
 &lt;/div&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/08/09/domenica-9-agosto-3/china-daily-life-176/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="274" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/400x274/1786255006-AP26221195048633.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/400x274/1786255006-AP26221195048633.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/680x466/1786255006-AP26221195048633.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/768x527/1786255006-AP26221195048633.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/800x549/1786255006-AP26221195048633.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/1786255006-AP26221195048633.jpg 1200w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="274" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/400x274/1786255006-AP26221195048633.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3651502 gallery-columns-3 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/domenica-9-agosto-3/china-daily-life-176/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/130x91/1786255006-AP26221195048633.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-3651503" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3651502 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/domenica-9-agosto-3/china-daily-life-176/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/08/09/130x91/1786255006-AP26221195048633.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;
- &lt;figcaption class='wp-caption-text gallery-caption' id='gallery-2-3651503'&gt;
+ &lt;figcaption class="wp-caption-text gallery-caption" id="gallery-2-3651503"&gt;
  Pechino, Cina
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/09/domenica-9-agosto-3</guid>
-      <pubDate>Sun, 09 Aug 2026 07:59:59 +0200</pubDate>
+      <pubDate>Sun, 09 Aug 2026 05:59:59 +0000</pubDate>
       <dc:creator>Andrea Da Lio</dc:creator>
     </item>
     <item>
       <title>Le prime pagine di oggi</title>
       <link>https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640</link>
       <description>&lt;p&gt;&lt;em&gt;Il primo giorno di controlli alle frontiere in Spagna, i litigi alla commemorazione del disastro di Marcinelle e i molti incendi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/08/09/1786253363-la-repubblica-004053cvic8nt.jpeg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/1786253363-la-repubblica-004053cvic8nt.jpeg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;La maggior parte dei quotidiani locali e nazionali ha messo in prima pagina le notizie sulle prima giornata di &lt;a href="https://www.ilpost.it/2026/08/08/controlli-italia-spagna/?homepagePosition=5"&gt;controlli da parte della Spagna&lt;/a&gt; su voli e navi in arrivo dall&amp;#8217;Italia. Si parla molto anche di un episodio accaduto durante la &lt;a href="https://www.ilpost.it/2026/08/08/mattarella-marcinelle-messaggio-flussi-migratori/"&gt;commemorazione&lt;/a&gt; del settantesimo anniversario del &lt;a href="https://www.ilpost.it/2016/08/08/miniera-marcinelle/"&gt;disastro di Marcinelle&lt;/a&gt;, in Belgio, durante la quale i rappresentanti di un sindacato belga hanno voltato le spalle al presidente del Senato italiano Ignazio La Russa, in polemica con le sue posizioni di estrema destra. Molti giornali locali parlano dei problemi del sistema sanitario, e in tanti scrivono degli incendi che interessano le loro zone.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-della-sera-050012qqu6ouw/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="605" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/400x605/1786253419-corriere-della-sera-050012qqu6ouw.jpeg" class="attachment-medium size-medium" alt="" srcset="https://www.ilpost.it/wp-content/uploads/2026/08/09/400x605/1786253419-corriere-della-sera-050012qqu6ouw.jpeg 400w, https://www.ilpost.it/wp-content/uploads/2026/08/09/1786253419-corriere-della-sera-050012qqu6ouw.jpeg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/400x605/1786253419-corriere-della-sera-050012qqu6ouw.jpeg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-0 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-della-sera-050012qqu6ouw/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253419-corriere-della-sera-050012qqu6ouw.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-repubblica-004053cvic8nt-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253472-la-repubblica-004053cvic8nt.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-stampa-0135384sbcy2i/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253476-la-stampa-0135384sbcy2i.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-sole-24-ore-001252l0mdgpr/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253468-il-sole-24-ore-001252l0mdgpr.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/avvenire-001644s54e2oo/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253416-avvenire-001644s54e2oo.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/domani-23255094xbt6z/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253424-domani-23255094xbt6z.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-fatto-quotidiano-000749vdk6vme/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253428-il-fatto-quotidiano-000749vdk6vme.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-foglio-000840tld1okl/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253432-il-foglio-000840tld1okl.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-manifesto-00002438gr59y/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253444-il-manifesto-00002438gr59y.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-giornale-0006502mrarqd/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253440-il-giornale-0006502mrarqd.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-verita-003826lfd2iz2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253480-la-verita-003826lfd2iz2.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/libero-000955i8l3wm7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253483-libero-000955i8l3wm7.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-riformista-234105qm9bxrv/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253460-il-riformista-234105qm9bxrv.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-gazzettino-001415yhr90mu/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253436-il-gazzettino-001415yhr90mu.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-mattino-235113wkz68nw/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253448-il-mattino-235113wkz68nw.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-messaggero-001050d1h462t/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253452-il-messaggero-001050d1h462t.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-resto-del-carlino-063450wgv4zm7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253456-il-resto-del-carlino-063450wgv4zm7.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-secolo-xix-064411svu5iwx/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253464-il-secolo-xix-064411svu5iwx.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/alto-adige-0702395do7r3t/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253602-alto-adige-0702395do7r3t.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-dell-umbria-021830k1obcjt/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253606-corriere-dell-umbria-021830k1obcjt.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-di-siena-0208599tqaakn/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253610-corriere-di-siena-0208599tqaakn.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-di-viterbo-02473282l3fbs/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253614-corriere-di-viterbo-02473282l3fbs.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/cronache-di-caserta-024510cvbdhkb/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253618-cronache-di-caserta-024510cvbdhkb.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-mantova-004525o8f69s2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253622-gazzetta-di-mantova-004525o8f69s2.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-modena-005824vqb6ve0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253626-gazzetta-di-modena-005824vqb6ve0.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-reggio-005808fycbjdp/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253631-gazzetta-di-reggio-005808fycbjdp.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/giornale-di-brescia-010827591czcu/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253635-giornale-di-brescia-010827591czcu.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/giornale-di-sicilia-024219htd2ohz/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253639-giornale-di-sicilia-024219htd2ohz.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-centro-052218r6rc44u/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253643-il-centro-052218r6rc44u.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-mattino-di-padova-001531kbd7sjd/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253647-il-mattino-di-padova-001531kbd7sjd.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-piccolo-000144u6layt2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253651-il-piccolo-000144u6layt2.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-quotidiano-del-sud-cosenza-0318047ind0os/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253655-il-quotidiano-del-sud-cosenza-0318047ind0os.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-t-quotidiano-020550mu96hss/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253660-il-t-quotidiano-020550mu96hss.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-tirreno-012808s082gn3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253664-il-tirreno-012808s082gn3.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/l-adige-040025f1i8ipg/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253668-l-adige-040025f1i8ipg.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/l-unione-sarda-0043141eme0kp/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253672-l-unione-sarda-0043141eme0kp.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-citta-di-salerno-2327043uhej34/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253676-la-citta-di-salerno-2327043uhej34.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-gazzetta-del-mezzogiorno-010025d3xelx3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253680-la-gazzetta-del-mezzogiorno-010025d3xelx3.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nazione-062640iema8xm/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253684-la-nazione-062640iema8xm.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nuova-del-sud-000255obn2g0h/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253688-la-nuova-del-sud-000255obn2g0h.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nuova-sardegna-010814ofq5jyt/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253692-la-nuova-sardegna-010814ofq5jyt.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-prealpina-041547glr4lt5/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253696-la-prealpina-041547glr4lt5.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-sicilia-004931b2su27y/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253700-la-sicilia-004931b2su27y.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-stampa-valle-d-aosta-013846s4m51j3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253704-la-stampa-valle-d-aosta-013846s4m51j3.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/primo-piano-molise-235838pk2e9l2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253708-primo-piano-molise-235838pk2e9l2.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-0 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-della-sera-050012qqu6ouw/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253419-corriere-della-sera-050012qqu6ouw.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-repubblica-004053cvic8nt-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253472-la-repubblica-004053cvic8nt.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-stampa-0135384sbcy2i/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253476-la-stampa-0135384sbcy2i.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-sole-24-ore-001252l0mdgpr/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253468-il-sole-24-ore-001252l0mdgpr.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/avvenire-001644s54e2oo/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253416-avvenire-001644s54e2oo.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/domani-23255094xbt6z/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253424-domani-23255094xbt6z.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-fatto-quotidiano-000749vdk6vme/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253428-il-fatto-quotidiano-000749vdk6vme.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-foglio-000840tld1okl/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253432-il-foglio-000840tld1okl.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-manifesto-00002438gr59y/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253444-il-manifesto-00002438gr59y.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-giornale-0006502mrarqd/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253440-il-giornale-0006502mrarqd.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-verita-003826lfd2iz2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253480-la-verita-003826lfd2iz2.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/libero-000955i8l3wm7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253483-libero-000955i8l3wm7.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-riformista-234105qm9bxrv/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253460-il-riformista-234105qm9bxrv.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-gazzettino-001415yhr90mu/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253436-il-gazzettino-001415yhr90mu.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-mattino-235113wkz68nw/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253448-il-mattino-235113wkz68nw.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-messaggero-001050d1h462t/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253452-il-messaggero-001050d1h462t.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-resto-del-carlino-063450wgv4zm7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253456-il-resto-del-carlino-063450wgv4zm7.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-secolo-xix-064411svu5iwx/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253464-il-secolo-xix-064411svu5iwx.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/alto-adige-0702395do7r3t/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253602-alto-adige-0702395do7r3t.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-dell-umbria-021830k1obcjt/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253606-corriere-dell-umbria-021830k1obcjt.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-di-siena-0208599tqaakn/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253610-corriere-di-siena-0208599tqaakn.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/corriere-di-viterbo-02473282l3fbs/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253614-corriere-di-viterbo-02473282l3fbs.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/cronache-di-caserta-024510cvbdhkb/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253618-cronache-di-caserta-024510cvbdhkb.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-mantova-004525o8f69s2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253622-gazzetta-di-mantova-004525o8f69s2.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-modena-005824vqb6ve0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253626-gazzetta-di-modena-005824vqb6ve0.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/gazzetta-di-reggio-005808fycbjdp/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253631-gazzetta-di-reggio-005808fycbjdp.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/giornale-di-brescia-010827591czcu/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253635-giornale-di-brescia-010827591czcu.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/giornale-di-sicilia-024219htd2ohz/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253639-giornale-di-sicilia-024219htd2ohz.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-centro-052218r6rc44u/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253643-il-centro-052218r6rc44u.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-mattino-di-padova-001531kbd7sjd/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253647-il-mattino-di-padova-001531kbd7sjd.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-piccolo-000144u6layt2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253651-il-piccolo-000144u6layt2.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-quotidiano-del-sud-cosenza-0318047ind0os/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253655-il-quotidiano-del-sud-cosenza-0318047ind0os.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-t-quotidiano-020550mu96hss/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253660-il-t-quotidiano-020550mu96hss.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/il-tirreno-012808s082gn3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253664-il-tirreno-012808s082gn3.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/l-adige-040025f1i8ipg/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253668-l-adige-040025f1i8ipg.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/l-unione-sarda-0043141eme0kp/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253672-l-unione-sarda-0043141eme0kp.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-citta-di-salerno-2327043uhej34/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253676-la-citta-di-salerno-2327043uhej34.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-gazzetta-del-mezzogiorno-010025d3xelx3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253680-la-gazzetta-del-mezzogiorno-010025d3xelx3.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nazione-062640iema8xm/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253684-la-nazione-062640iema8xm.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nuova-del-sud-000255obn2g0h/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253688-la-nuova-del-sud-000255obn2g0h.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-nuova-sardegna-010814ofq5jyt/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253692-la-nuova-sardegna-010814ofq5jyt.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-prealpina-041547glr4lt5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253696-la-prealpina-041547glr4lt5.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-sicilia-004931b2su27y/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253700-la-sicilia-004931b2su27y.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/la-stampa-valle-d-aosta-013846s4m51j3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253704-la-stampa-valle-d-aosta-013846s4m51j3.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640/primo-piano-molise-235838pk2e9l2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/08/09/130x91/1786253708-primo-piano-molise-235838pk2e9l2.jpeg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/08/09/le-prime-pagine-di-oggi-4640</guid>
-      <pubDate>Sun, 09 Aug 2026 07:48:52 +0200</pubDate>
+      <pubDate>Sun, 09 Aug 2026 05:48:52 +0000</pubDate>
       <dc:creator>Andrea Da Lio</dc:creator>
     </item>
     <item>
