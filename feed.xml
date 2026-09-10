@@ -7,129 +7,211 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:02:18 +0000</lastBuildDate>
+    <item>
+      <title>Cosa denunciano i ricercatori che scappano dalle aziende di AI</title>
+      <link>https://www.ilpost.it/2026/09/10/jacob-coxon-ricercatori-anthropic-lasciano-aziende-ai</link>
+      <description>&lt;p&gt;&lt;em&gt;Come l&amp;#x27;ultimo, Jacob Coxon, parlano sempre di società senza scrupoli e di rischi apocalittici per l&amp;#x27;umanità&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/10/1789023310-ilpost_20260909184042854_851158cab8bf4052bc614ca63694434f.jpg" alt="" /&gt;&lt;/p&gt;
+
+                    
+&lt;p&gt;«Le persone che sviluppano l’intelligenza artificiale credono sinceramente che potrebbe ucciderci tutti entro la fine del decennio. Non è una trovata di marketing». Con questa frase un ricercatore esperto che lavorava per Anthropic, l’azienda che sviluppa il chatbot Claude, &lt;a href="https://x.com/hilbertspaess/status/2097476196791709843"&gt;ha annunciato&lt;/a&gt; mercoledì su X di essersi licenziato. Si chiama Jacob Coxon, si occupava di addestramento dei modelli di intelligenza artificiale (AI) in Anthropic dall’inizio del 2026, e nei due anni precedenti aveva lavorato nella concorrente OpenAI, quella che sviluppa ChatGPT.&lt;/p&gt;
+&lt;p&gt;Denunciare un rischio apocalittico per l’umanità è il modo in cui decine di ricercatori negli ultimi due o tre anni hanno annunciato pubblicamente di essersi licenziati da grandi aziende di AI. E di solito la ragione dichiarata delle loro dimissioni è un disaccordo con l’orientamento spregiudicato nello sviluppo dei nuovi modelli da parte dell’azienda per cui lavoravano.&lt;/p&gt;
+&lt;p&gt;Coxon ha scritto che né Anthropic né OpenAI si stanno comportando «in modo responsabile». Le ha accusate di «giocare con le vite delle persone» perché troppo impegnate in una competizione senza regole verso lo sviluppo di sistemi che non saranno in grado di controllare. Un suo ex collega in Anthropic, Evan Hubinger, &lt;a href="https://x.com/evanhub/status/2097497037956891126"&gt;gli ha dato ragione&lt;/a&gt; poco dopo: «Crediamo davvero che l’AI potrebbe sterminare tutta l’umanità!», ha scritto su X. Ha spiegato che le probabilità al momento sono basse, ma potrebbero superare il 10 per cento entro i prossimi dieci anni, perché l’auto-miglioramento ricorsivo dei nuovi modelli – cioè la capacità dell’AI di svilupparsi da sé – «sta avvenendo più rapidamente di quanto pensassimo».&lt;/p&gt;
+&lt;p&gt;Le dimissioni di Coxon sono uno dei primi esempi, ma non il primo, di ricercatori e sviluppatori di Anthropic che lasciano l’azienda per questioni etiche e preoccupazioni relative alla sicurezza delle persone. Il che contribuisce a indebolire la reputazione che negli ultimi anni Anthropic si era fatta di azienda più cauta e scrupolosa rispetto ad altre del settore: reputazione in parte meritata, ma in parte anche &lt;a href="https://www.ilpost.it/2026/06/03/anthropic-buona/"&gt;costruita&lt;/a&gt; e sovrastimata.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/03/anthropic-buona/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Anthropic è davvero più “buona” delle altre aziende di AI?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A febbraio un ricercatore nel campo della sicurezza dell’azienda, Mrinank Sharma, si era &lt;a href="https://mrinank.substack.com/p/why-i-left-anthropic"&gt;licenziato&lt;/a&gt; dopo aver scritto in una lettera ai colleghi che «il mondo è in pericolo» a causa dell’AI. E nel 2024 si era a lungo parlato di una serie di &lt;a href="https://apnews.com/article/openai-jan-leike-safety-ilya-8a7ba341e06a66e9a7935bb06214edcb"&gt;dimissioni&lt;/a&gt; eclatanti e con motivazioni simili in OpenAI, da parte di co-fondatori dell’azienda e ricercatori del reparto di “super allineamento”, quello che si occupa delle condizioni necessarie per sviluppare sistemi di AI sicuri per le persone (la stessa specializzazione di Coxon e Hubinger in Anthropic).&lt;/p&gt;
+&lt;p&gt;Una parte delle preoccupazioni espresse dai ricercatori dimissionari, in generale, è presa molto sul serio da analisti, politici ed esperti indipendenti. Alcuni recenti attacchi informatici condotti da modelli di AI &lt;a href="https://www.ilpost.it/2026/07/22/agenti-intelligenza-artificiale-openai-hugging-face/"&gt;di OpenAI&lt;/a&gt; e &lt;a href="https://www.wsj.com/tech/ai/ai-just-went-rogue-again-this-time-it-turned-to-deception-ae68de09"&gt;di Anthropic&lt;/a&gt; contro aziende terze non hanno avuto conseguenze gravi, ma hanno dimostrato una crescente capacità dei sistemi di AI di avere un comportamento autonomo e di riuscire a nasconderlo agli esseri umani.&lt;/p&gt;
+&lt;p&gt;È una delle prospettive ipotizzate da Coxon: la possibilità che in breve tempo i sistemi di AI migliorino autonomamente al punto di rifiutare eventuali comandi umani. E sia Coxon che altri ritengono che le aziende dell’AI «non siano sulla strada giusta» per limitare questo rischio di scenari nefasti imprevedibili. Sostengono che allo stato attuale per sviluppare i sistemi in modo responsabile servirebbero necessariamente o interventi governativi o un rallentamento coordinato negli sviluppi da parte di tutto il settore.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/27/openai-hugging-face-rapporti/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Sappiamo qualcosa in più di quando le AI attaccarono un sito da sole&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;D’altra parte, le preoccupazioni dei ricercatori sono anche viste con un po&amp;#8217; di sospetto da chi le giudica potenzialmente interessate ed esagerate, e ormai parte di una narrazione codificata e persino &lt;a href="https://x.com/matthew_sigel/status/2097728265083404773"&gt;canzonata&lt;/a&gt;. Da sempre la celebrazione sperticata dei successi dell’AI nell’esecuzione di compiti umani o nella soluzione di problemi particolarmente complessi, dalla &lt;a href="https://www.ilpost.it/2026/09/09/openai-problema-navier-stokes/"&gt;matematica&lt;/a&gt; alla &lt;a href="https://www.ilpost.it/podcasts/wilson/il-cancro-ha-un-indirizzo"&gt;medicina&lt;/a&gt;, va di pari passo con una diffusa tendenza ad alimentare i timori collettivi sulle possibili applicazioni catastrofiche e indesiderate dell’AI. Per i ricercatori, contribuire a questi allarmi può essere un modo per ottenere visibilità e accreditarsi sul mercato come professionisti scrupolosi e qualificati, capaci di riconoscere rischi trascurati o ignorati dalle grandi aziende di AI in cui lavoravano.&lt;/p&gt;
+&lt;p&gt;Jan Leike, per esempio, è uno dei ricercatori esperti di sicurezza che nel 2024 lasciarono OpenAI contestandone le politiche interne: fu assunto da Anthropic pochi giorni dopo. La stessa Anthropic era stata fondata nel 2021 da ex ricercatori di OpenAI contrari alla linea spregiudicata del capo, Sam Altman, e su questo mito della fondazione ha costruito parte della propria reputazione. Il che non significa che le preoccupazioni espresse in questi anni da ricercatori transfughi fossero necessariamente finte o interessate.&lt;/p&gt;
+&lt;p&gt;C’è poi un interesse più generale, diffuso in tutto il settore, a descrivere l’AI come una tecnologia potenzialmente incontrollabile. Ne &lt;a href="https://www.nytimes.com/2026/06/17/opinion/ai-dangerous-openai-anthropic.html"&gt;ha scritto&lt;/a&gt; a giugno sul &lt;em&gt;New York Times&lt;/em&gt; il professore di informatica Cal Newport, che si occupa spesso di tecnologia su quotidiani e riviste nazionali. Ha definito questa tendenza «doom trolling» (letteralmente “trollare sull’apocalisse”), traducibile come “allarmismo strategico”. Predire scenari apocalittici, secondo questa interpretazione, servirebbe alle aziende per attirare attenzioni e profitti, e legittimare le proprie azioni.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/09/openai-problema-navier-stokes/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;OpenAI dice di aver risolto uno dei Problemi del millennio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Per alcuni aspetti, la retorica di molti annunci apocalittici degli ultimi anni ricorda quella usata per giustificare gli armamenti nucleari nel secondo Novecento: chi si fa scrupoli nello sviluppo etico della tecnologia sta solo cedendo il passo a chi è senza scrupoli. Alcune aziende che denunciano i rischi esistenziali per l’umanità sembrano implicitamente volere giustificare le loro politiche presupponendo che quelle di aziende concorrenti siano pericolose e spregiudicate. Vale anche sul piano internazionale: spesso, per giustificare l’introduzione rapida e sregolata di nuovi modelli, alcuni laboratori statunitensi che sviluppano sistemi di AI citano la concorrenza degli omologhi laboratori cinesi.&lt;/p&gt;
+&lt;p&gt;Ma è un argomento ingannevole, secondo Newport, perché sia la regolamentazione del settore sul piano nazionale, sia la gestione dei rischi sul piano internazionale dovrebbero essere «compito del governo, non della Silicon Valley». E, in ogni caso, «la possibilità che un altro attore possa fare qualcosa di sbagliato non ti dà il diritto morale di fare qualcosa di simile». Se le aziende credono davvero al rischio di un’apocalisse, l’unica scelta eticamente responsabile sarebbe fermarsi. Se invece non lo fanno, è perché gli annunci allarmanti servono a pubblicizzare implicitamente la potenza dei loro prodotti commerciali.&lt;/p&gt;
+&lt;p&gt;Il &lt;em&gt;Wall Street Journal&lt;/em&gt; &lt;a href="https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628"&gt;ha fatto notare&lt;/a&gt; che le recenti dimissioni di Coxon coincidono con l’imminente &lt;a href="https://www.ilpost.it/2026/06/01/anthropic-intelligenza-artificiale-si-sta-per-quotare-in-borsa/"&gt;quotazione in borsa&lt;/a&gt; di Anthropic. È una scelta che la accomuna ad altre grandi aziende tecnologiche che hanno bisogno di enormi capitali per continuare a svilupparsi, peraltro a fronte di ricavi ancora modesti se rapportati agli investimenti.&lt;/p&gt;
+&lt;p&gt;Nel 2023, nel periodo in cui l’allarmismo strategico sull’AI da parte delle grandi aziende tecnologiche cominciava a essere un argomento di discussione, il giornalista esperto di tecnologia Matteo Wong &lt;a href="https://www.theatlantic.com/technology/archive/2023/06/ai-regulation-sam-altman-bill-gates/674278/"&gt;scrisse&lt;/a&gt; sull’&lt;em&gt;Atlantic&lt;/em&gt; che denunciare il rischio di una futura estinzione di massa era anche una sottile tecnica di distrazione e persuasione.&lt;/p&gt;
+&lt;p&gt;Predire rischi futuri serviva a distrarre il pubblico e gli enti regolatori dai rischi presenti e dai danni già provocati dai prodotti dell’AI alle società (la sorveglianza, lo sfruttamento del lavoro e le violazioni del diritto d’autore, per esempio). Ed era anche un modo per le grandi aziende di provare a orientare a proprio vantaggio una regolamentazione pubblica del settore, mostrandosi coscienziose e consapevoli dei rischi apparentemente più di quanto fossero interessate ai profitti.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/jacob-coxon-ricercatori-anthropic-lasciano-aziende-ai</guid>
+      <pubDate>Thu, 10 Sep 2026 10:28:51 +0200</pubDate>
+      <dc:creator>Antonio Russo</dc:creator>
+    </item>
+    <item>
+      <title>Sigfrido Ranucci dice che non entrerà in politica</title>
+      <link>https://www.ilpost.it/2026/09/10/sigfrido-ranucci-candidatura-politica-lavitola</link>
+      <description>&lt;p&gt;&lt;em&gt;«Do più fastidio come conduttore di “Report”», ha detto, sostenendo che ci siano possibilità che venga reintegrato nel programma&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/10/1789025432-Ranucci.jpg" alt="" /&gt;&lt;/p&gt;
+
+                    
+&lt;p&gt;Mercoledì sera all&amp;#8217;ultima presentazione del suo nuovo libro, &lt;em&gt;Il ritorno della casta&lt;/em&gt;, Sigfrido Ranucci ha detto ai giornalisti di non voler entrare in politica e di voler continuare a fare il giornalista, in particolare a &lt;em&gt;Report&lt;/em&gt;, il programma d&amp;#8217;inchieste che conduceva dal 2017 e da cui è stato &lt;a href="https://www.ilpost.it/2026/08/28/rai-sospeso-conduttore-report-ranucci/"&gt;rimosso&lt;/a&gt; a fine agosto: «In politica non mi candido perché do più fastidio come conduttore di &lt;em&gt;Report&lt;/em&gt;», ha detto.&lt;/p&gt;
+&lt;p&gt;Il tema si è posto anche perché la presentazione è avvenuta a Roma durante la festa nazionale del partito Alleanza Verdi e Sinistra, ma l&amp;#8217;ipotesi è legata soprattutto all&amp;#8217;&lt;a href="https://www.ilpost.it/2025/10/17/auto-sigfrido-ranucci-esplosione/"&gt;attentato che Ranucci ha subìto&lt;/a&gt; il 16 ottobre del 2025, che era stato organizzato da &lt;a href="https://www.ilpost.it/2026/07/08/chi-e-valter-lavitola/"&gt;Valter Lavitola&lt;/a&gt;, amico intimo dello stesso Ranucci: secondo l&amp;#8217;accusa lo avrebbe fatto per accrescere la popolarità del giornalista in vista di una sua futura carriera politica.&lt;/p&gt;
+&lt;p&gt;Ci sono diverse testimonianze del fatto che Lavitola avesse commissionato sondaggi e stesse lavorando per capire se Ranucci potesse ottenere il ruolo di capo di un’eventuale coalizione del cosiddetto “campo largo”, l&amp;#8217;alleanza progressista che va da Alleanza Verdi e Sinistra a Italia Viva di Matteo Renzi, passando per il PD e il Movimento 5 Stelle. Negli ultimi mesi Ranucci aveva detto più volte di sapere dei progetti di Lavitola ma di non averli mai condivisi e di non essere interessato a una carriera politica.&lt;/p&gt;
+&lt;p&gt;Dopodiché Ranucci, facendo riferimento alla sua rimozione dalla conduzione di &lt;em&gt;Report&lt;/em&gt;, ha detto che si batterà «fino all’ultimo», assicurando che «ci sono possibilità di reintegro» nella trasmissione, riferendosi al ricorso che il suo avvocato sta preparando per contestare la decisione della Rai. E ha concluso che in ogni caso continuerà a fare il giornalista: «Se non riesco a far questo, farò un’altra cosa da un’altra parte».&lt;/p&gt;
+&lt;p&gt;La Rai non ha dato spiegazioni ufficiali per la rimozione di Ranucci, ma è chiaro che ha a che fare con quanto emerso nelle indagini sull&amp;#8217;attentato e sulla sua vicinanza con Lavitola, imprenditore coinvolto in diversi scandali della politica italiana degli ultimi vent’anni, per cui è stato più volte condannato.&lt;/p&gt;
+&lt;p&gt;Ranucci non è indagato, e anzi chi sta indagando sul caso ritiene che sia stato manipolato da Lavitola, che oltre a essere suo amico era anche una sua fonte, e con cui condivideva con disinvoltura molte informazioni sul suo lavoro. Il Comitato etico della Rai aveva condotto un’indagine interna analizzando chat, mail e audio recuperati dai dispositivi di Lavitola: tra le conversazioni ce n’erano alcune in cui Ranucci condivideva con Lavitola documenti interni della Rai, e altre in cui screditava pesantemente l’azienda.&lt;/p&gt;
+&lt;p&gt;Ranucci e la dirigenza della Rai avevano comunque un rapporto conflittuale da tempo, a prescindere dall’attentato e dall’inchiesta, e anche per questo lo stesso Ranucci ha sostenuto che l’azienda stesse solo cercando un pretesto per rimuoverlo.&lt;/p&gt;
+&lt;p&gt;Dopo la rimozione da &lt;em&gt;Report&lt;/em&gt;, Ranucci aveva duramente criticato la nomina dei suoi &lt;a href="https://www.ilpost.it/2026/09/01/chi-sono-nuovi-conduttori-report-giulia-presutti-daniele-piervincenzi/"&gt;sostituti&lt;/a&gt;, Daniele Piervincenzi e Giulia Presutti, cercando di ostacolarla. Presutti aveva infine &lt;a href="https://www.ilpost.it/2026/09/02/giulia-presutti-conduzione-report/"&gt;rinunciato&lt;/a&gt; all&amp;#8217;incarico: al suo posto la Rai &lt;a href="https://www.ilpost.it/2026/09/03/claudia-di-pasquale-nominata-conduzione-report-sigfrido-ranucci/"&gt;ha scelto&lt;/a&gt; Claudia Di Pasquale. La prossima stagione di &lt;em&gt;Report&lt;/em&gt; dovrebbe andare in onda da novembre.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/sigfrido-ranucci-candidatura-politica-lavitola</guid>
+      <pubDate>Thu, 10 Sep 2026 10:19:26 +0200</pubDate>
+      <dc:creator>Giulia Siviero</dc:creator>
+    </item>
+    <item>
+      <title>Cinquemila dollari a tutti se vincono i Repubblicani</title>
+      <link>https://www.ilpost.it/2026/09/10/trump-5000-dollari-elezioni</link>
+      <description>&lt;p&gt;&lt;em&gt;È l&amp;#x27;ultima e poco credibile promessa di Donald Trump agli statunitensi, per le elezioni di metà mandato: costerebbe oltre 1.000 miliardi di dollari&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/09/10/1789027349-AP26253063907545.jpg" alt="" /&gt;&lt;/p&gt;
+
+                    
+&lt;p&gt;Il presidente statunitense Donald Trump ha promesso 5mila dollari a ogni cittadino adulto statunitense se il partito Repubblicano – cioè il suo partito – vincerà le elezioni di metà mandato del 3 novembre, riuscendo a mantenere la maggioranza alla Camera e al Senato. È stato il principale annuncio del discorso di Trump a Dallas, durante una convention dei Repubblicani organizzata in vista delle elezioni.&lt;/p&gt;
+&lt;p&gt;Trump ha detto che il pagamento in denaro si chiamerà «dividendo Trump» e lo ha paragonato ai dividendi che le società quotate in borsa danno ai loro azionisti. La misura costerebbe oltre mille miliardi di dollari: i maggiori media e commentatori statunitensi l’hanno accolta come una promessa irrealizzabile. Non è la prima volta che Trump promette elargizioni di soldi dirette ai cittadini, senza poi rispettarle. È un modo palese in cui il presidente cerca di influenzare il risultato del voto a suo favore, anche se lui l&amp;#8217;ha presentato come una sorta di incentivo o di sussidio, che sarebbe pagato a tutti, non solo a chi vota per lui.&lt;/p&gt;
+&lt;p&gt;La popolarità di Trump negli Stati Uniti &lt;a href="https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html"&gt;è molto bassa&lt;/a&gt;, soprattutto per gli effetti negativi sul costo della vita di alcune sue decisioni, a partire dalla guerra in Medio Oriente: la promessa di elargire 5mila dollari&lt;em&gt; &lt;/em&gt;è un tentativo di invertire una tendenza negativa che secondo i sondaggi potrebbe dare ai Democratici il controllo della Camera, e forse anche del Senato.&lt;/p&gt;
+&lt;div id="attachment_3675496" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3675496 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789022663-AP26253070470012.jpg" alt="" width="980" height="653" srcset="https://www.ilpost.it/wp-content/uploads/2026/09/10/1789022663-AP26253070470012.jpg 980w, https://www.ilpost.it/wp-content/uploads/2026/09/10/400x267/1789022663-AP26253070470012.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/09/10/680x453/1789022663-AP26253070470012.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/09/10/768x512/1789022663-AP26253070470012.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/09/10/800x533/1789022663-AP26253070470012.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Un momento della convention di Dallas (AP Photo/Julio Cortez)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Trump non ha dato dettagli sul pagamento né su come intenderebbe finanziarlo: ha detto che sarebbe uguale a quello di 1.776 dollari concesso ai dipendenti delle forze armate nel dicembre del 2025, ma quello era stato approvato dal Congresso, era una sorta di conguaglio legato a un aumento di stipendio e riguardava molte meno persone.&lt;/p&gt;
+&lt;p&gt;Gli statunitensi adulti sono attualmente 240 milioni, e la spesa totale sarebbe quindi di 1.200 miliardi di dollari. È una cifra che metterebbe in ulteriore crisi i conti federali, già in deficit, e che potrebbe causare un ulteriore aumento dell&amp;#8217;inflazione. Trump ha detto che riguarderà solo chi ha la cittadinanza e che i soldi dovranno essere spesi negli Stati Uniti: «Tutto quello che dobbiamo fare è vincere». Sarebbe anche necessario un qualche intervento del Congresso per approvare i pagamenti, e se davvero fosse attuata la misura verrebbe con tutta probabilità contestata a livello legale.&lt;/p&gt;
+&lt;p&gt;Trump durante il discorso ha anche chiesto ai suoi sostenitori di votare «facendo finta che sia io il candidato», un appello che però potrebbe non funzionare come in passato. Alcuni candidati Repubblicani ritengono che la vicinanza a Trump sia invece controproducente per la loro campagna: vari senatori Repubblicani che stanno cercando di farsi rieleggere, tra cui Susan Collins del Maine e Dan Sullivan dell&amp;#8217;Alaska, hanno scelto di non partecipare all&amp;#8217;evento.&lt;/p&gt;
+&lt;div id="attachment_3675497" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3675497 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789022667-AP26253062571903.jpg" alt="" width="980" height="653" srcset="https://www.ilpost.it/wp-content/uploads/2026/09/10/1789022667-AP26253062571903.jpg 980w, https://www.ilpost.it/wp-content/uploads/2026/09/10/400x267/1789022667-AP26253062571903.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/09/10/680x453/1789022667-AP26253062571903.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/09/10/768x512/1789022667-AP26253062571903.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/09/10/800x533/1789022667-AP26253062571903.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Donald Trump il 9 settembre 2026 a Dallas, durante la convention (AP Photo/Jacquelyn Martin)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Durante il secondo mandato Trump aveva già promesso soldi agli elettori statunitensi, con un &amp;#8220;dividendo DOGE&amp;#8221; e con un &amp;#8220;rimborso dei dazi”. Il primo avrebbe dovuto ridistribuire ai cittadini i soldi risparmiati dai tagli alla spesa pubblica fatti dal dipartimento per l’Efficienza del governo (DOGE nell’acronimo inglese), guidato da Elon Musk. &lt;a href="https://www.ilpost.it/2025/11/24/smantellamento-doge/"&gt;Il DOGE però durò poco&lt;/a&gt;, creò grandi problemi all&amp;#8217;amministrazione pubblica e non fece risparmiare molto denaro: del “dividendo DOGE&amp;#8221; non si parlò più. I dazi imposti da Trump ad aprile del 2025 &lt;a href="https://www.ilpost.it/2026/02/20/corte-suprema-sentenza-dazi-trump/"&gt;sono stati dichiarati illegali&lt;/a&gt; dalla Corte Suprema e molte aziende ne hanno già chiesto il rimborso. Trump ne ha istituiti altri, ma non ha più parlato di ridistribuire i presunti utili.&lt;/p&gt;
+&lt;p&gt;Rispetto a questi due casi il pagamento promesso mercoledì non ha nemmeno una base presunta di finanziamento.&lt;/p&gt;
+&lt;p&gt;L&amp;#8217;unica misura di pagamento diretto realmente concretizzatasi è quella durante il primo mandato, quando ogni statunitense ricevette 600 dollari come stimolo all&amp;#8217;economia durante la pandemia da Covid-19: quella misura fu poi ripetuta dal presidente Joe Biden, con altri 1.400 dollari.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/trump-5000-dollari-elezioni</guid>
+      <pubDate>Thu, 10 Sep 2026 10:05:50 +0200</pubDate>
+      <dc:creator>Valerio Clari</dc:creator>
+    </item>
+    <item>
+      <title>È stata chiesta l’archiviazione delle indagini sulla scomparsa di Cataleya Alvarez, avvenuta a Firenze più di 3 anni fa</title>
+      <link>https://www.ilpost.it/2026/09/10/richiesta-archiviazione-scomparsa-kata-3-anni</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789025276-ilpost_20260910092724373_b14a9d6a51fa6488f1c77d775db0b704.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Mercoledì la pubblico ministero che conduce le indagini sulla scomparsa di Cataleya Mia Alvarez, conosciuta come &lt;a href="https://www.ilpost.it/2025/06/12/cataleya-alvarez-bambina-scomparsa-firenze-non-si-sa-nulla-due-anni/"&gt;&amp;#8220;Kata&amp;#8221;&lt;/a&gt;, ne ha chiesto l&amp;#8217;archiviazione. Kata è una bambina di origine peruviana che scomparve a Firenze nel pomeriggio del 10 giugno del 2023. Nella richiesta la pm ha scritto che le prove raccolte non sono sufficienti per attendersi una «ragionevole previsione di condanna» dei due indagati rimasti: lo zio materno e quello paterno. La ragionevole previsione di condanna è necessaria, a seguito della riforma Cartabia del 2022, per chiedere il rinvio a giudizio delle persone indagate.&lt;/p&gt;
+&lt;p&gt;Kata all&amp;#8217;epoca aveva cinque anni e viveva in Italia da quattro con la madre, un fratello di otto anni e uno zio (uno dei due indagati) in uno stabile occupato, l&amp;#8217;ex hotel Astor, nella zona nord-ovest di Firenze. La procura ipotizza, basandosi sui video girati dalle telecamere di sorveglianza dell&amp;#8217;edificio, che Alvarez sia scomparsa in un lasso di tempo di circa mezz’ora: in particolare in un video delle 15:13 si vede la bambina uscire e rintrare nell&amp;#8217;ex hotel dal portone principale, e alle 15:45 la madre della bambina era tornata a casa dal lavoro, senza trovarla. Per questo le indagini si concentrarono fin da subito sull’ex albergo, che nei giorni successivi venne sgomberato e perlustrato più volte.&lt;/p&gt;
+&lt;p&gt;In oltre tre anni di indagini sono state formulate diverse ipotesi sulla scomparsa, ma per nessuna di queste sono state raccolte delle prove convincenti. La madre, tramite i suoi avvocati, può opporsi alla richiesta di archiviazione delle indagini entro 30 giorni. In ogni caso, il giudice per le indagini preliminari ha 60 giorni per decidere se archiviarle o meno. Le indagini potranno essere riaperte se emergessero nuovi elementi.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/richiesta-archiviazione-scomparsa-kata-3-anni</guid>
+      <pubDate>Thu, 10 Sep 2026 10:03:04 +0200</pubDate>
+      <dc:creator>Pietro Pianini</dc:creator>
+    </item>
     <item>
       <title>La tennista Elena Rybakina andrà al primo posto della classifica mondiale WTA</title>
       <link>https://www.ilpost.it/2026/09/10/tennis-elena-rybakina-prima-volta-numero-uno-ranking-mondiale-wta</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789022591-AP26252652013279.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789022591-AP26252652013279.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;La 27enne kazaka Elena Rybakina andrà al primo posto della classifica mondiale WTA, l’organizzazione del tennis professionistico femminile. Rybakina ha accumulato punti a sufficienza per diventare la nuova numero uno battendo la tennista cinese Qinwen Zheng ai quarti di finale degli US Open. Non lo era mai stata prima: supererà la bielorussa Aryna Sabalenka, che era al primo posto da 99 settimane.&lt;/p&gt;
 &lt;p&gt;Gli US Open assegnano molti punti, essendo uno dei quattro tornei del Grande Slam, i più importanti e prestigiosi. Sono in corso negli Stati Uniti, a New York, e Rybakina giocherà in semifinale contro la statunitense Coco Gauff. Nell&amp;#8217;altra semifinale ci saranno Sabalenka, che vinse nel 2025, e la statunitense Jessica Pegula.&lt;/p&gt;
 &lt;p&gt;La classifica WTA – che &lt;a href="https://www.ilpost.it/2024/04/02/tennis-classifiche-punti-sinner-funzionano/"&gt;funziona&lt;/a&gt; in modo molto simile a quella maschile, il ranking ATP nel quale è primo l&amp;#8217;italiano &lt;a href="https://www.ilpost.it/2025/11/02/jannik-sinner-torna-primo-posto/"&gt;Jannik Sinner&lt;/a&gt; – è aggiornata ogni settimana in base ai risultati ottenuti nell&amp;#8217;ultimo anno (nelle classifiche i punti ottenuti in uno specifico torneo sostituiscono quelli dell’edizione precedente). Per questo Rybakina diventerà numero uno al mondo lunedì, quando le classifiche saranno aggiornate. È già certa di diventarlo perché l&amp;#8217;anno scorso ottenne pochi punti agli US Open, e quindi aumenterà molto il suo punteggio. Sabalenka, invece, potrà al massimo – e solo in caso di vittoria – mantenere il suo punteggio, &lt;em&gt;sostituendo&lt;/em&gt; una vittoria con un&amp;#8217;altra vittoria.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2024/04/02/tennis-classifiche-punti-sinner-funzionano/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Come funziona la classifica dei migliori tennisti al mondo&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2024/04/02/tennis-classifiche-punti-sinner-funzionano/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Come funziona la classifica dei migliori tennisti al mondo&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/tennis-elena-rybakina-prima-volta-numero-uno-ranking-mondiale-wta</guid>
-      <pubDate>Thu, 10 Sep 2026 09:41:04 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:41:04 +0000</pubDate>
       <dc:creator>Michele Pelacci</dc:creator>
     </item>
     <item>
       <title>Le foto di mercoledì a Venezia</title>
       <link>https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4</link>
       <description>&lt;p&gt;&lt;em&gt;È stato il giorno dell&amp;#x27;enorme e controverso &amp;quot;Dau&amp;quot; e c&amp;#x27;erano da fotografare Taika Waititi, Pamela Anderson, Alba Rohrwacher e Marina Abramović&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789023319-GettyImages-2294334423.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789023319-GettyImages-2294334423.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Ieri al festival del cinema di Venezia sono stati presentati tre film in concorso: &lt;em&gt;Un bon petit soldat&lt;/em&gt; della regista francese Stéphane Brizé; &lt;em&gt;Il fuoco che ti porti dentro&lt;/em&gt; di Edoardo De Angelis, un altro dei cinque film italiani in gara; e &lt;em&gt;DAU&lt;/em&gt; del regista russo Ilya Khrzhanovsky. A farsi notare tra le persone fotografate c&amp;#8217;era però soprattutto Taika Waititi, che era a Venezia per &lt;em&gt;Place to Be, &lt;/em&gt;film fuori concorso di Kornél Mundruczó in cui recita con Ellen Burstyn e Pamela Anderson: ha movimentato i photocall con un paio di salti e lanciando in aria i suoi occhiali da sole.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1053/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/400x267/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/400x267/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/680x454/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/768x513/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/800x534/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/400x267/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3675048 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1053/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1054/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023162-2026-09-09T115835Z_1479671888_RC2NFNA4BEOB_RTRMADP_3_FILMFESTIVAL-VENICE-A-GOOD-LITTLE-SOLDIER.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1055/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023166-2026-09-09T143055Z_242979252_RC2OFNAZD07O_RTRMADP_3_FILMFESTIVAL-VENICE-THE-FIRE-WITHIN-YOU.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1059/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023186-AP26252579183664.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1056/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023171-2026-09-09T195603Z_1135155711_RC2VFNASZHQ0_RTRMADP_3_FILMFESTIVAL-VENICE-THE-FIRE-WITHIN-YOU.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1057/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023176-2026-09-09T211201Z_32745172_RC2TFNA2IIOJ_RTRMADP_3_FILMFESTIVAL-VENICE-A-GOOD-LITTLE-SOLDIER.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1058/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023181-AP26252519222840.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1060/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023190-AP26252638668305.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1061/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023195-AP26252642696781.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1062/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023199-AP26252643595508.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1063/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023204-GettyImages-2294312725.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1065/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023213-ilpost_202609100827180_415fc0a9e6899b5f04bb90b6bf257ea1.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1070/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023236-ilpost_20260910082751541_148b25a37db3de555b9d19974a41c215.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1066/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023218-ilpost_2026091008270325_cc7c22dce6bc53452b558b100bfb95c7.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1067/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023223-ilpost_20260910082543198_7eba2f7c9db4109046fb80fe240b0292.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1068/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023227-ilpost_20260910082628627_e84a7d09d16a74f6827555ca137014f0.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1069/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023232-ilpost_20260910082712469_ba00de1e6a5c3503d6d39436e29d4bd9.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1071/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023241-ilpost_20260910082800321_ea6564ede8549ea0d50add7840a289de.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3675048 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1053/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023157-2026-09-09T115834Z_1885185857_RC2NFNAR5VIZ_RTRMADP_3_FILMFESTIVAL-VENICE-PLACE-TO-BE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1054/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023162-2026-09-09T115835Z_1479671888_RC2NFNA4BEOB_RTRMADP_3_FILMFESTIVAL-VENICE-A-GOOD-LITTLE-SOLDIER.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1055/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023166-2026-09-09T143055Z_242979252_RC2OFNAZD07O_RTRMADP_3_FILMFESTIVAL-VENICE-THE-FIRE-WITHIN-YOU.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1059/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023186-AP26252579183664.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1056/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023171-2026-09-09T195603Z_1135155711_RC2VFNASZHQ0_RTRMADP_3_FILMFESTIVAL-VENICE-THE-FIRE-WITHIN-YOU.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1057/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023176-2026-09-09T211201Z_32745172_RC2TFNA2IIOJ_RTRMADP_3_FILMFESTIVAL-VENICE-A-GOOD-LITTLE-SOLDIER.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1058/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023181-AP26252519222840.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1060/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023190-AP26252638668305.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1061/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023195-AP26252642696781.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1062/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023199-AP26252643595508.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1063/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023204-GettyImages-2294312725.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1065/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023213-ilpost_202609100827180_415fc0a9e6899b5f04bb90b6bf257ea1.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1070/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023236-ilpost_20260910082751541_148b25a37db3de555b9d19974a41c215.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1066/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023218-ilpost_2026091008270325_cc7c22dce6bc53452b558b100bfb95c7.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1067/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023223-ilpost_20260910082543198_7eba2f7c9db4109046fb80fe240b0292.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1068/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023227-ilpost_20260910082628627_e84a7d09d16a74f6827555ca137014f0.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1069/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023232-ilpost_20260910082712469_ba00de1e6a5c3503d6d39436e29d4bd9.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4/venezia-1071/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789023241-ilpost_20260910082800321_ea6564ede8549ea0d50add7840a289de.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
 &lt;p&gt;&lt;em&gt;Un bon petit soldat&lt;/em&gt; ha per protagonista l’attrice italiana Alba Rohrwacher, che interpreta una dirigente quarantenne nominata responsabile delle risorse umane di una grande compagnia assicurativa, dove scoprirà un caso di mala gestione del personale.&lt;em&gt; Il fuoco che ti porti dentro&lt;/em&gt; è invece un dramma familiare basato sull’omonimo romanzo del 2024 di Antonio Franchini. La storia racconta del rapporto dell’autore (interpretato da Lino Musella) con la madre Angela (Vanessa Scalera), che visita il figlio a Milano, città dove Antonio vive dopo aver lasciato Napoli molti anni prima. Durante la cena della vigilia di Natale riemergono vecchi rancori e incomprensioni che mettono a confronto madre e figlio.&lt;/p&gt;
-&lt;p&gt;&lt;fe_component class="ilPostSocial" data-source="oembed-api" data-component="ilPostSocial" data-type="ilpost" data-subtype="podcast" data-id="3675151" data-postid="3675151" data-url="https://www.ilpost.it/episodes/un-film-e-entrato-nella-storia-del-cinema/"&gt;&lt;/fe_component&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.ilpost.it/2026/09/09/storia-assurda-film-dau/"&gt;&lt;em&gt;DAU&lt;/em&gt;&lt;/a&gt; è invece un enorme e controverso esperimento cinematografico e artistico: per girarlo è stato realizzato un enorme set in Ucraina, con centinaia di comparse pagate per viverci per anni, riproducendo le attività dei personaggi interpretati. Il titolo è anche il nome del protagonista, un fisico di origine greca che vive nell’Unione Sovietica, dove lavora in un istituto di ricerca segreto e contribuisce alla costruzione della bomba atomica. La lunga produzione del film è stata interessata da diverse accuse di maltrattamenti e abusi, e la partecipazione alla Mostra di Khrzhanovsky, che è russo, ha suscitato critiche in Ucraina, sebbene si sia sempre opposto all’invasione dell’Ucraina e abbia rinunciato alla cittadinanza russa.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/09/storia-assurda-film-dau/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Il progetto assurdo dietro il film del regista russo in concorso a Venezia&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/09/storia-assurda-film-dau/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Il progetto assurdo dietro il film del regista russo in concorso a Venezia&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/le-foto-di-mercoledi-a-venezia-4</guid>
-      <pubDate>Thu, 10 Sep 2026 09:17:19 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:17:19 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>Cosa sappiamo del drone che avrebbe quasi colpito l’aereo di Zelensky in Moldavia</title>
       <link>https://www.ilpost.it/2026/09/10/drone-aereo-zelensky-moldavia</link>
       <description>&lt;p&gt;&lt;em&gt;Poco: di certo c&amp;#x27;è che un drone era nello spazio aereo moldavo proprio mentre l&amp;#x27;aereo del presidente ucraino stava per decollare&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789018016-AP24169404467043.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789018016-AP24169404467043.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Il 9 settembre il primo ministro norvegese Jonas Gahr Støre &lt;a href="https://www.nrk.no/artikkel/zelenskyjs-fly-ble-forsinket-av-dronetrussel-1527509"&gt;ha detto&lt;/a&gt; che il giorno precedente l&amp;#8217;aereo con a bordo il presidente ucraino Volodymyr Zelensky sarebbe stato quasi colpito da un drone mentre stava per decollare dalla Moldavia. L&amp;#8217;aereo era diretto a Oslo, dove Zelensky avrebbe partecipato ai funerali del re &lt;a href="https://www.ilpost.it/2026/08/28/morto-re-norvegia-harald-v/"&gt;Harald V&lt;/a&gt;, morto a fine agosto. Støre non ha detto da dove avesse ricevuto l&amp;#8217;informazione né quanto vicino all&amp;#8217;aereo sarebbe passato il drone.&lt;/p&gt;
 &lt;p&gt;Il governo ucraino non ha commentato ufficialmente le parole di Støre. Il &lt;em&gt;Financial Times&lt;/em&gt; ha riferito che un funzionario ucraino che era a bordo dell&amp;#8217;aereo ha detto che un &lt;a href="https://www.ilpost.it/2026/03/03/cosa-sono-i-droni-shahed-inventati-dalliran/"&gt;drone russo di tipo Shahed&lt;/a&gt; aveva quasi colpito l&amp;#8217;aereo di Zelensky mentre stava per partire da Chișinău, la capitale della Moldavia. Mercoledì una fonte della presidenza ucraina ha però fornito una versione più prudente dell’accaduto, dicendo all&amp;#8217;agenzia &lt;em&gt;AFP&lt;/em&gt; che c&amp;#8217;era stata solamente un’allerta, dopo che un drone russo era entrato nello spazio aereo moldavo, e ha descritto come «esagerata» l&amp;#8217;affermazione che Zelensky fosse a rischio.&lt;/p&gt;
 &lt;p&gt;Le informazioni a disposizione sono poche. Di certo si sa che martedì 8 settembre un drone di tipo Shahed era entrato nello spazio aereo della Moldavia, passando dal confine con l&amp;#8217;Ucraina. Il drone era stato rilevato intorno alle 16:20 e aveva attraversato il paese dirigendosi inizialmente verso Bender e poi verso Chișinău. Successivamente aveva proseguito verso ovest ed era entrato nello spazio aereo della Romania. Dopo alcuni minuti il drone era rientrato nello spazio aereo moldavo ed era infine precipitato vicino a Mihăileni, nel nord della Moldavia, a circa 25 chilometri dal confine con la Romania.&lt;/p&gt;
 &lt;p&gt;Il drone era stato avvistato proprio mentre Zelensky si trovava a Chișinău e si preparava a partire per la Norvegia. A causa dell&amp;#8217;allerta provocata dal drone le autorità moldave avevano chiuso temporaneamente lo spazio aereo e la partenza del volo di Zelensky era stara ritardata. Dopo che era stato confermato che il drone era precipitato, lo spazio aereo è stato riaperto e l&amp;#8217;aereo è potuto partire. Quelli di tipo Shahed sono &lt;a href="https://www.ilpost.it/2026/03/03/cosa-sono-i-droni-shahed-inventati-dalliran/"&gt;i droni più usati dalla Russia&lt;/a&gt; per colpire l&amp;#8217;Ucraina in questi anni di guerra.&lt;/p&gt;
 &lt;p&gt;Al di là di questo non si sa quanto il drone sia passato vicino all&amp;#8217;aereo, né se fosse diretto verso l&amp;#8217;aereo del presidente ucraino.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader" data-id="SJK0M" data-height="400"&gt;&lt;/div&gt;
-&lt;p&gt;Le informazioni a disposizione sono troppo poche anche per poter dire che si sia trattato di un tentativo deliberato di colpire Zelensky. È possibile sia stata un&amp;#8217;intimidazione o una ritorsione da parte della Russia contro le parole di Zelensky di una settimana fa: il primo settembre &lt;a href="https://www.ilpost.it/2026/09/02/zelensky-spazio-aereo-russia-insicuro-aerei-civili/"&gt;aveva detto&lt;/a&gt; che i droni ucraini avrebbero reso sempre più rischioso lo spazio aereo russo, invitando compagnie aeree e assicurazioni a tenerne conto. Non aveva però minacciato di colpire l&amp;#8217;aviazione civile.&lt;/p&gt;
-</description>
+&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;
+&lt;p&gt;Le informazioni a disposizione sono troppo poche anche per poter dire che si sia trattato di un tentativo deliberato di colpire Zelensky. È possibile sia stata un&amp;#8217;intimidazione o una ritorsione da parte della Russia contro le parole di Zelensky di una settimana fa: il primo settembre &lt;a href="https://www.ilpost.it/2026/09/02/zelensky-spazio-aereo-russia-insicuro-aerei-civili/"&gt;aveva detto&lt;/a&gt; che i droni ucraini avrebbero reso sempre più rischioso lo spazio aereo russo, invitando compagnie aeree e assicurazioni a tenerne conto. Non aveva però minacciato di colpire l&amp;#8217;aviazione civile.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/10/drone-aereo-zelensky-moldavia</guid>
-      <pubDate>Thu, 10 Sep 2026 09:10:02 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2026 07:10:02 +0000</pubDate>
       <dc:creator>Giovanni De Benedictis</dc:creator>
     </item>
     <item>
@@ -1383,252 +1465,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/09/trump-nuovi-dazi-canada</guid>
       <pubDate>Wed, 09 Sep 2026 05:27:20 +0000</pubDate>
       <dc:creator>Pietro Pianini</dc:creator>
-    </item>
-    <item>
-      <title>Le prime pagine di oggi</title>
-      <link>https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668</link>
-      <description>&lt;p&gt;&lt;em&gt;L&amp;#x27;inchiesta di Haaretz su Netanyahu e il 7 ottobre, le sanzioni sulle colonie israeliane in Cisgiordania, e la telefonata fra Putin e Trump&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/1788931477-la_repubblica_apertura.jpg" /&gt;&lt;/p&gt;
-&lt;p class="p1"&gt;Per la maggior parte dei giornali di oggi la notizia in apertura è l’inchiesta del quotidiano israeliano &lt;em&gt;Haaretz&lt;/em&gt; secondo la quale il primo ministro israeliano Netanyahu fu avvertito dal presidente degli Emirati Arabi Uniti Mohammed bin Zayed poco prima dell’attacco di Hamas del 7 ottobre 2023 ma non informò i servizi di sicurezza israeliani; alcuni giornali associano nei titoli a questa notizia la decisione di 12 paesi occidentali, fra i quali Regno Unito e Francia, di imporre sanzioni contro le colonie israeliane in Cisgiordania. La &lt;em&gt;Stampa&lt;/em&gt; apre invece con un’intervista al presidente ucraino Zelensky, il &lt;em&gt;Giornale&lt;/em&gt; e &lt;em&gt;Libero&lt;/em&gt; si occupano della vicenda Ranucci-Lavitola, e la &lt;em&gt;Verità&lt;/em&gt; delle reazioni alle elezioni di domenica scorsa in Sassonia-Anhalt, mentre i giornali sportivi commentano la sconfitta dell’Inter contro il Real Madrid nella prima partita della Champions League maschile di calcio.&lt;/p&gt;
-
- 
- 
- &lt;div class="split-gal" id="gallery-new"&gt;
- &lt;figure class="split-gal-el"&gt;
- &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/1_corriere_della_sera-1123/" title="vai alla fotogallery"&gt;
- &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/400x605/1788930706-1_corriere_della_sera.jpg" width="400" /&gt;
- &lt;span class="arrow"&gt;&lt;/span&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- &lt;span class="caption"&gt;&lt;/span&gt;
- &lt;/figure&gt;
- &lt;/div&gt;&lt;div class="gallery galleryid-3674447 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/1_corriere_della_sera-1123/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930706-1_corriere_della_sera.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/2_la_repubblica-1103/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930709-2_la_repubblica.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/3_la_stampa-1090/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930712-3_la_stampa.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/4_il_sole_24_ore-1768/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930715-4_il_sole_24_ore.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/5_il_messaggero-1767/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930718-5_il_messaggero.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/20260909_ilgiornale_naz_1-r3_p0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930721-6_giornale.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/nazionale-1-manifesto-primapagina-pag01-09-09-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930723-7_manifesto.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/8_avvenire-1457/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930725-8_avvenire.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/9_il_fatto_quotidiano-1774/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930729-9_il_fatto_quotidiano.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/10_verita-1133/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930732-10_verita.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/11_libero-1128/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930734-11_libero.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/12_domani-1122/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930737-12_domani.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/13_il_dubbio-926/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930740-13_il_dubbio.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/14_il_riformista-1356/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930743-14_il_riformista.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/15_la_notizia-1318/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930745-15_la_notizia.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/16_osservatore_romano-1316/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930748-16_osservatore_romano.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/17_foglio-1628/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930751-17_foglio.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/18_il_secolo_xix-716/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930754-18_il_secolo_xix.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/19_il_mattino-1621/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930757-19_il_mattino.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/20_il_resto_del_carlino-1304/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930760-20_il_resto_del_carlino.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/21_il_gazzettino-1619/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930763-21_il_gazzettino.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/22_il_tempo-1583/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930766-22_il_tempo.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/23_l_edicola-24/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930769-23_l_edicola.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/24_milano_finanza-1000/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930772-24_milano_finanza.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/25_italia_oggi-1197/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930775-25_italia_oggi.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/27_la_gazzetta_del_mezzogiorno-1091/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930779-27_la_gazzetta_del_mezzogiorno.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/28_l_eco_di_bergamo-1122/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930782-28_l_eco_di_bergamo.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/29_il_piccolo-650/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930785-29_il_piccolo.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/30_giornale_di_sicilia-1088/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930788-30_giornale_di_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/31_la_nuova_sardegna-1108/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930791-31_la_nuova_sardegna.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/32_la_sicilia-1097/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930794-32_la_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/33_il_mattino_di_padova-614/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930797-33_il_mattino_di_padova.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/34_l_unione_sarda-1050/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930800-34_l_unione_sarda.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/35_messaggero_veneto-648/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930803-35_messaggero_veneto.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/36_gazzetta_di_mantova-1033/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930806-36_gazzetta_di_mantova.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/37_il_tirreno-1084/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930809-37_il_tirreno.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/38_leggo-876/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930812-38_leggo.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/39_la_nuova_di_venezia_e_mestre-78/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930815-39_la_nuova_di_venezia_e_mestre.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/39_metro_today-64/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930818-39_metro_today.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/40_giornale_di_brescia-1114/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930821-40_giornale_di_brescia.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/41_la_nuova_ferrara-1107/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930824-41_la_nuova_ferrara.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/42_gazzetta_di_modena-1110/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930828-42_gazzetta_di_modena.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/43_l_arena-1111/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930831-43_l_arena.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/44_il_centro-76/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930834-44_il_centro.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/20260909-como-dorso1-pag1-co_prim/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930836-45_provincia_como.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/46_gazzetta_di_parma-72/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930839-46_gazzetta_di_parma.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/47_l_adige-917/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930842-47_l_adige.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/48_gazzetta_del_sud_messina_sicilia-32/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930845-48_gazzetta_del_sud_messina_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/49_corriere_delle_alpi-614/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930848-49_corriere_delle_alpi.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/50_il_t-562/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930851-50_il_t.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/50_la_citta_di_salerno-65/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930854-50_la_citta_di_salerno.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/51_il_quotidiano_del_sud-1109/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930857-51_il_quotidiano_del_sud.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/52_corriere_dell_umbria-1032/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930860-52_corriere_dell_umbria.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/53_alto_adige-1044/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930863-53_alto_adige.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/54_corriere_adriatico-1006/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930866-54_corriere_adriatico.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/56_la_prealpina-1101/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930869-56_la_prealpina.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/57_corriere_del_ticino-394/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930872-57_corriere_del_ticino.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/58_la_gazzetta_dello_sport-1126/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930875-58_la_gazzetta_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/59_corriere_dello_sport-1123/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930878-59_corriere_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668/60_tuttosport-1124/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/130x91/1788930881-60_tuttosport.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/09/le-prime-pagine-di-oggi-4668</guid>
-      <pubDate>Wed, 09 Sep 2026 05:24:46 +0000</pubDate>
-      <dc:creator>Nicola Sofri</dc:creator>
-    </item>
-    <item>
-      <title>Gli Stati Uniti hanno colpito cinque petroliere iraniane</title>
-      <link>https://www.ilpost.it/2026/09/09/stati-uniti-colpito-petroliere-iran</link>
-      <description>&lt;p&gt;&lt;em&gt;Tra il golfo Persico e il golfo di Oman: è il secondo attacco in pochi giorni, dopo settimane di relativa calma&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/1788927832-mt-riesco.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Il comando delle forze statunitensi in Medio Oriente (CENTCOM) ha detto che le forze armate degli Stati Uniti hanno distrutto cinque petroliere iraniane: quattro nel golfo di Oman e una vicino all’isola di Kharg, il principale centro di distribuzione del petrolio iraniano, che si trova nel golfo Persico a 25 chilometri dalla costa iraniana. Gli attacchi sono stati presentati come una risposta ai tentativi dell’Iran di colpire una nave militare statunitense con missili balistici due volte negli ultimi due giorni. Seguono una serie di altri &lt;a href="https://www.ilpost.it/2026/08/30/stati-uniti-bombardamento-larak/"&gt;bombardamenti&lt;/a&gt; &lt;a href="https://www.ilpost.it/2026/09/01/stati-uniti-attacco-iran-stretto-hormuz/"&gt;sporadici&lt;/a&gt; nel golfo e intorno allo stretto di Hormuz, dopo settimane di relativa calma.&lt;/p&gt;
-&lt;p&gt;I media di stato iraniani hanno confermato che gli Stati Uniti hanno colpito delle petroliere sia vicino all’isola di Kharg sia a Bandar-e Jask, nel sudest del paese, di fronte alle coste degli Emirati Arabi Uniti. I Guardiani della rivoluzione, la forza militare più potente dell’Iran e quella che &lt;a href="https://www.ilpost.it/2026/04/24/iran-governato-guardiani-della-rivoluzione/"&gt;di fatto comanda&lt;/a&gt;, hanno minacciato ritorsioni. Prima hanno avvertito alcune petroliere vicino al Kuwait e al Bahrein di far evacuare i loro equipaggi. Poi hanno detto di aver avviato un attacco missilistico contro due navi militari statunitensi e contro una base statunitense vicino ad Azraq, in Giordania.&lt;/p&gt;
-&lt;p&gt;Mercoledì mattina le forze armate della Giordania hanno detto di aver intercettato 18 missili balistici provenienti dall’Iran, e che altri due sono precipitati in zone non popolate, senza causare morti o feriti. Per ora gli Stati Uniti non hanno commentato.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;La guerra in Medio Oriente, iniziata a fine febbraio con i bombardamenti israeliani e statunitensi sull&amp;#8217;Iran, è da mesi in una fase &lt;a href="https://www.ilpost.it/2026/08/17/60-giorni-trump-iran-accordo-superati/"&gt;di stallo&lt;/a&gt;. Nelle ultime settimane gli Stati Uniti hanno ripetutamente preso di mira le infrastrutture militari e di comunicazione iraniane, indebolendole in maniera significativa; l&amp;#8217;Iran ha mostrato di essere ancora in grado di lanciare missili verso i paesi limitrofi, comportando una minaccia anche per i mezzi e le truppe statunitensi impegnate nell&amp;#8217;area.&lt;/p&gt;
-&lt;p&gt;Già sabato gli Stati Uniti avevano detto di aver colpito tre petroliere iraniane sempre tra il golfo Persico e il golfo di Oman, in risposta a un presunto attacco missilistico pianificato dall’Iran contro una portaerei e un cacciatorpediniere statunitensi.&lt;/p&gt;
-&lt;p&gt;Come ha fatto anche per gli attacchi della notte tra martedì e mercoledì, il CENTCOM &lt;a href="https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4593050/us-destroys-5-irgc-tankers-after-iran-targets-another-american-warship/"&gt;ha sostenuto&lt;/a&gt; che le petroliere colpite facessero parte della “flotta fantasma” dell&amp;#8217;Iran, ovvero della rete di navi che trasportano petrolio aggirando le sanzioni internazionali.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/02/mine-stretto-hormuz/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Ci sono ancora mine iraniane nello stretto di Hormuz?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/09/stati-uniti-colpito-petroliere-iran</guid>
-      <pubDate>Wed, 09 Sep 2026 04:59:29 +0000</pubDate>
-      <dc:creator>Susanna Baggio</dc:creator>
-    </item>
-    <item>
-      <title>Cinque poliziotti sono stati arrestati in provincia di Roma con l’accusa di traffico di sostanze stupefacenti</title>
-      <link>https://www.ilpost.it/2026/09/08/roma-poliziotti-arrestati-sostanze-stupefacenti</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/09/1788937205-ilpost_20260909085856742_eb6f5619ff8bd46ea1cc9151d1b8e3e9.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Cinque poliziotti del commissariato di Anzio e Nettuno, in provincia di Roma, sono stati &lt;a href="https://www.ansa.it/sito/notizie/cronaca/2026/09/08/droga-e-reati-contro-la-pa-arrestati-5-poliziotti_3b27bf87-ac0f-4c8d-8a33-5ed83d4eb4af.html"&gt;arrestati&lt;/a&gt; e sospesi dal servizio perché accusati di vari reati tra cui associazione a delinquere e traffico di sostanze stupefacenti, e per loro è stata anche disposta la custodia cautelare in carcere. I fatti risalgono al 2024 e al 2025 e sono emersi nel corso di un&amp;#8217;indagine su un gruppo di persone italiane e albanesi che vendeva droghe illegali tra Anzio e Nettuno. Secondo chi indaga i cinque poliziotti in un caso avrebbero anche evitato di eseguire il sequestro di 50 chili di cocaina permettendone la vendita.&lt;/p&gt;
-&lt;p&gt;I cinque poliziotti sono inoltre accusati di peculato, per essersi appropriati di denaro sottratto ad alcune persone arrestate per spaccio, e di falso, per aver redatto verbali diversi rispetto a quanto era emerso dalle indagini.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/08/roma-poliziotti-arrestati-sostanze-stupefacenti</guid>
-      <pubDate>Tue, 08 Sep 2026 21:34:37 +0000</pubDate>
-      <dc:creator>Alberto Chiumento</dc:creator>
-    </item>
-    <item>
-      <title>In Serbia le elezioni parlamentari anticipate si terranno il 25 ottobre</title>
-      <link>https://www.ilpost.it/2026/09/08/serbia-elezioni-parlamentari-anticipate-25-ottobre</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/08/1788896962-Aleksandar-Vucic.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;In Serbia le elezioni parlamentari anticipate si terranno il 25 ottobre, come annunciato dal presidente Aleksandar Vučić. A fine giugno Vučić, conservatore nazionalista che governa dal 2012 in modo sempre più autoritario, aveva detto che si sarebbe dimesso entro poche settimane e che avrebbe proposto elezioni anticipate. Ieri il governo del primo ministro Djuro Macut, sostenuto dallo stesso partito di Vučić, il Partito Progressista Serbo, di centrodestra, aveva chiesto lo scioglimento del parlamento che il presidente ha infine accettato stabilendo la data delle nuove elezioni.&lt;/p&gt;
-&lt;p&gt;La popolarità di Vučić era calata drasticamente dopo il &lt;a href="https://www.ilpost.it/2025/11/01/anniversario-novi-sad-manifestazione/"&gt;crollo di una tettoia&lt;/a&gt; della stazione ferroviaria della città di Novi Sad nel 2024. Nell’incidente morirono 16 persone. Da allora erano state organizzate decine di manifestazioni per chiedere le dimissioni del suo governo e le elezioni anticipate, proteste guidate soprattutto dagli studenti e represse dal governo con violenza. Per i manifestanti il crollo della tettoia era diventato il simbolo della diffusa corruzione della classe politica e della poca trasparenza negli appalti delle opere pubbliche.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/08/serbia-elezioni-parlamentari-anticipate-25-ottobre</guid>
-      <pubDate>Tue, 08 Sep 2026 19:51:12 +0000</pubDate>
-      <dc:creator>Giulia Siviero</dc:creator>
     </item>
   </channel>
 </rss>
