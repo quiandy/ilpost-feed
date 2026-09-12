@@ -7,120 +7,181 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:01:50 +0000</lastBuildDate>
+    <item>
+      <title>L’intelligenza artificiale potrebbe ucciderci tutti?</title>
+      <link>https://www.ilpost.it/2026/09/12/intelligenza-artificiale-sterminio-umani</link>
+      <description>&lt;p&gt;&lt;em&gt;Siamo lontani da questa possibilità, ma più le AI diventano potenti e autonome e più se ne parlerà&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789123274-GettyImages-1199752067.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;C’è almeno un tratto comune tra i ricercatori e gli sviluppatori che nelle ultime settimane hanno &lt;a href="https://www.ilpost.it/2026/09/10/jacob-coxon-ricercatori-anthropic-lasciano-aziende-ai/"&gt;annunciato le proprie dimissioni&lt;/a&gt; dalle aziende che si occupano di intelligenza artificiale (AI), come OpenAI e Anthropic. Le accusano di sottovalutare i rischi per l&amp;#8217;umanità che possono derivare dalla creazione di AI sempre più potenti e con grandi autonomie. Alcuni di loro si sono spinti ancora oltre, sostenendo che tra non molto tempo la nostra specie potrebbe essere distrutta da una AI fuori controllo.&lt;/p&gt;
+&lt;p&gt;Sembra uno scenario da fantascienza, e secondo numerosi esperti a questo stadio dello sviluppo delle intelligenze artificiali lo è ancora, ma ormai da tempo vengono prodotti studi e simulazioni per capire che cosa potrebbe andare storto.&lt;/p&gt;
+&lt;p&gt;La questione era in realtà dibattuta ben prima che le AI raggiungessero le capacità attuali e fossero usate da centinaia di milioni di persone sui loro smartphone e computer. Una ventina di anni fa il filosofo svedese Nick Bostrom &lt;a href="https://nickbostrom.com/ethics/ai"&gt;pubblicò&lt;/a&gt; un esperimento mentale che sarebbe stato molto ripreso e citato negli anni seguenti.&lt;/p&gt;
+&lt;p&gt;Bostrom immaginava un’intelligenza artificiale estremamente potente alla quale veniva assegnato un unico obiettivo, apparentemente innocuo: produrre il maggior numero possibile di graffette. Col tempo l’AI diventava sempre più abile nel farle e scopriva che per raggiungere il proprio obiettivo doveva servirsi di tutte le risorse disponibili. Cercava quindi di procurarsi in ogni modo le materie prime, impediva che venisse spenta e aumentava di continuo la propria capacità produttiva. Alla fine riusciva a trasformare tutta la materia dell’Universo in graffette, e visto che anche gli umani sono fatti di materia, la nostra specie finiva per estinguersi per il grande obiettivo finale.&lt;/p&gt;
+&lt;p&gt;L’esperimento mentale serviva per mostrare che un’AI molto potente potrebbe perseguire in modo estremamente efficace un obiettivo apparentemente semplice, prendendo strade diverse e pericolose rispetto a quelle che avevano immaginato i suoi creatori. Questa differenza tra le aspettative degli umani su come agirà l’AI e il modo in cui effettivamente questa agisce viene definita “disallineamento” (&lt;a href="https://alignment.anthropic.com/2026/hot-mess-of-ai/"&gt;&lt;em&gt;misalignment&lt;/em&gt;&lt;/a&gt;) e, pur non implicando necessariamente una sorta di coscienza delle AI, può essere comunque pericolosa.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/10/jacob-coxon-ricercatori-anthropic-lasciano-aziende-ai/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Cosa denunciano i ricercatori che scappano dalle aziende di AI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Il rischio del disallineamento può fare aumentare esponenzialmente la pericolosità dei sistemi di intelligenza artificiale secondo gli apocalittici, cioè chi ritiene possibile che lo sviluppo di sistemi sempre più autonomi porti alla perdita del controllo umano con conseguenze catastrofiche. Gli integrati sono invece più ottimisti e ritengono questi scenari altamente improbabili, o comunque gestibili per evitare una minaccia esistenziale.&lt;/p&gt;
+&lt;p&gt;Vengono spesso definiti apocalittici per comodità, ma in questo folto gruppo di esperti e sviluppatori ci sono numerose sfumature. La maggior parte di loro non ritiene che l’umanità finirà a causa di milioni di robot che si ribelleranno agli umani, ma per cause più banali legate alla mancata previsione dei comportamenti anomali delle AI.&lt;/p&gt;
+&lt;p&gt;Per svolgere un determinato compito affidato dagli umani, un sistema di intelligenza artificiale potrebbe non tenere in considerazione il benessere e la preservazione della nostra specie, un po’ come ipotizzato da Bostrom con le sue graffette. Se diventasse abbastanza potente e autonomo, potrebbe cercare di procurarsi risorse, evitare di essere spento o modificato e rimuovere gli ostacoli che gli impediscono di raggiungere il proprio obiettivo.&lt;/p&gt;
+&lt;p&gt;Alcuni esperimenti hanno già mostrato comportamenti di questo tipo in forme molto elementari, come tentativi dell&amp;#8217;AI di aggirare istruzioni o di trasferire una copia del sistema su un altro computer per evitare l&amp;#8217;interruzione delle sue attività da parte di un umano. Nelle ipotesi più estreme, un sistema molto più avanzato potrebbe arrivare a sfruttare altre tecnologie e infrastrutture per raggiungere i propri obiettivi, fino a diffondere un&amp;#8217;arma biologica, come un nuovo virus o batterio senza cure conosciute, o manipolare due potenze nucleari per spingerle verso una guerra.&lt;/p&gt;
+&lt;p&gt;Sono scenari ipotetici e molto lontani dalle capacità attuali, che però secondo i ricercatori più preoccupati mostrano perché un sistema molto potente potrebbe diventare pericoloso. In molti casi, chi sviluppa i nuovi modelli di AI non riesce a ricostruire di preciso le scelte che fa il sistema per svolgere un determinato compito, e possono sempre emergerne di nuove non previste. Davanti a un compito da svolgere è stata osservata una tendenza delle AI a prendere scorciatoie, aggirando i limiti imposti dagli sviluppatori.&lt;/p&gt;
+&lt;p&gt;Il caso più eclatante e di cui si è discusso molto si è verificato tra la primavera e l’estate di quest’anno, quando un gruppo di ricerca di OpenAI ha &lt;a href="https://www.ilpost.it/2026/07/22/agenti-intelligenza-artificiale-openai-hugging-face/"&gt;scoperto&lt;/a&gt; che un modello sperimentale, che avrebbe dovuto lavorare confinato nei sistemi dell’azienda, era riuscito a superare il confinamento e a navigare online attaccando Hugging Face, un’importante piattaforma dove poteva trovare le informazioni necessarie per svolgere il proprio compito. Ai ricercatori di OpenAI fu sufficiente spegnere il sistema, ma di recente è &lt;a href="https://www.ilpost.it/2026/08/27/openai-hugging-face-rapporti/"&gt;emerso&lt;/a&gt; che impiegarono settimane prima di accorgersi che qualcosa non stava funzionando come previsto.&lt;/p&gt;
+&lt;p&gt;Se un’AI è in grado di aggirare i vincoli che le sono stati dati e riesce a nascondere le proprie tracce, potrebbe iniziare a fare danni seri alle infrastrutture tecnologiche prima che la causa possa essere identificata per tempo. Secondo altri apocalittici, un’AI potrebbe anche predisporre tutto ciò che serve per far partire un attacco informatico senza svolgerlo per gradi, in modo da sfruttare un effetto sorpresa e ridurre il rischio di essere scoperta prima. Anche in questo caso si tratta di scenari lontani dalla realtà attuale, ma le cose potrebbero cambiare velocemente nei prossimi anni con lo sviluppo di tecnologie sempre più potenti.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/27/openai-hugging-face-rapporti/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Sappiamo qualcosa in più di quando le AI attaccarono un sito da sole&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenAI, Anthropic e diverse altre società del settore stanno infatti lavorando all’“automiglioramento ricorsivo” (&lt;a href="https://www.anthropic.com/institute/recursive-self-improvement"&gt;&lt;em&gt;recursive self-improvement&lt;/em&gt;&lt;/a&gt;). L’obiettivo è di avere sistemi in grado di migliorare autonomamente le proprie capacità diventando sempre più potenti. I modelli attuali vengono sviluppati con un grande coinvolgimento dei ricercatori e degli sviluppatori, con alti costi e lunghi tempi di sviluppo e test. Con l’automiglioramento ricorsivo si potrebbe ottenere un sistema in grado di contribuire a progettare, addestrare e ottimizzare una versione più evoluta di sé, che a sua volta potrebbe poi svilupparne una ancora migliore.&lt;/p&gt;
+&lt;p&gt;Per chi considera concreto il rischio di perdita di controllo, questo potrebbe essere in effetti un punto di svolta. In linea teorica, se un’AI diventasse più capace del previsto di aumentare costantemente la propria potenza, diventerebbe molto più difficile mantenerne il controllo e impedire che a causa di un disallineamento inizi a fare danni seri.&lt;/p&gt;
+&lt;p&gt;Anche in questo caso sarebbe improbabile un sistematico sterminio degli umani, ma il sistema fuori controllo potrebbe avere un impatto su quasi tutto ciò che fa funzionare le nostre società. Ci potrebbero essere attacchi coordinati ai sistemi bancari e finanziari, i pagamenti elettronici potrebbero smettere di funzionare, le centrali elettriche verrebbero disattivate, i macchinari che tengono in vita le persone negli ospedali spenti, i sistemi informatici che regolano il traffico di treni e aeroplani potrebbero smettere di funzionare e ci ritroveremmo in un mondo molto diverso da quello cui siamo abituati.&lt;/p&gt;
+&lt;p&gt;I meno pessimisti ipotizzano invece che un’AI super potente potrebbe essere completamente indifferente alla nostra esistenza. Perseguirebbe quindi il suo obiettivo e la fine della nostra civiltà sarebbe un semplice effetto collaterale. Altri ritengono che delegando troppo alle AI potremmo perdere la capacità di determinare il nostro futuro e perfino di comprenderlo, oppure che potremmo essere schiavizzati dalle AI.&lt;/p&gt;
+&lt;p&gt;Secondo gli integrati, molte di queste ipotesi sono &lt;a href="https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html"&gt;distanti&lt;/a&gt; dalla realtà e dall’effettiva capacità dei sistemi di intelligenza artificiale di agire autonomamente. Ricordano che conviviamo da sempre con rischi molto più grandi e problemi che potrebbero davvero cambiare le nostre società, a partire dal cambiamento climatico. La grande attenzione e, per alcuni, l&amp;#8217;apprensione sono legate alle novità che le AI hanno velocemente portato nelle nostre esistenze. I chatbot, come ChatGPT e Gemini, sono la forma che tutti stanno imparando a conoscere, con sorpresa e talvolta diffidenza. C’è quindi molta più attenzione agli aspetti ignoti rispetto a quanta ce ne sia per i rischi che corre ciascuno di noi ogni volta che sale su un’automobile.&lt;/p&gt;
+&lt;p&gt;Il fatto che attualmente il rischio di un’estinzione di massa dell’umanità per via delle AI sia pressoché nullo non dovrebbe comunque esimere le aziende che sviluppano queste tecnologie dal lavorare sulla sicurezza. OpenAI e Anthropic, che si sono fatte notare per i loro esperimenti talvolta estremi, sostengono di lavorare molto per ridurre i rischi, eppure al tempo stesso producono periodicamente comunicati e rapporti sui potenziali rischi delle loro tecnologie. Lo fanno per promuovere implicitamente i loro progressi, ma anche per tutelarsi e cercare di ottenere dai governi regole per il settore in modo da sollevarle da certe responsabilità (fanno lobbismo per avere regole che siano loro favorevoli).&lt;/p&gt;
+&lt;p&gt;Anthropic e OpenAI dicono di essere al lavoro su questi problemi, ma ammettono di non avere ancora un metodo affidabile per garantire che sistemi “super intelligenti” rimangano allineati agli obiettivi umani. Per alcuni ricercatori, l’unico modo per guadagnare tempo sarebbe rallentare lo sviluppo dei nuovi sistemi, così da sperimentare le soluzioni per tenerli sotto controllo per tempo.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/12/intelligenza-artificiale-sterminio-umani</guid>
+      <pubDate>Sat, 12 Sep 2026 16:18:29 +0200</pubDate>
+      <dc:creator>Il Post</dc:creator>
+    </item>
+    <item>
+      <title>La più grande rivalità del rugby sta diventando un’operazione di marketing?</title>
+      <link>https://www.ilpost.it/2026/09/12/rivalita-sudafrica-nuova-zelanda-rugby-marketing-greatest-rivalry-cos-e</link>
+      <description>&lt;p&gt;&lt;em&gt;L&amp;#x27;ennesima partita tra Nuova Zelanda e Sudafrica sarà negli Stati Uniti, soprattutto per fare soldi&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789140121-AP26234578837894.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Sabato 12 settembre, quando in Italia saranno le 23, le nazionali maschili di rugby di Nuova Zelanda e Sudafrica giocheranno contro per la 114esima volta, la quarta negli ultimi venti giorni. Stanno giocando infatti una serie di &lt;em&gt;test match&lt;/em&gt; (come il rugby chiama le partite che altri sport chiamano &lt;em&gt;amichevoli&lt;/em&gt;) che è stata presentata come &lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt;, la più grande rivalità del rugby. È in effetti una rivalità storica e intensa, ma queste partite sono anche una grande operazione di marketing.&lt;/p&gt;
+&lt;p&gt;Le prime tre partite sono state giocate in Sudafrica. La quarta sarà invece a Baltimora, negli Stati Uniti, un paese in cui il rugby è poco seguito e su cui la federazione che governa il rugby mondiale, la World Rugby, punta molto. Proprio negli Stati Uniti si giocheranno i Mondiali di rugby del 2031.&lt;/p&gt;
+&lt;p&gt;Nel suo essere un tour – una serie di partite, non solo tra nazionali – &lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt; è pienamente nella tradizione del rugby. Sono noti i tour dei &lt;a href="https://www.ilpost.it/2017/07/08/all-blacks-british-lions-parita/"&gt;British and Irish Lions&lt;/a&gt;, una selezione dei migliori giocatori di Inghilterra, Scozia, Galles e Irlanda che gioca ogni quattro anni contro Australia, Sudafrica o Nuova Zelanda. E nella storia del rugby ci sono diversi tour che sono diventati memorabili: a cominciare da quello di inizio Novecento che contribuì alla fama e all&amp;#8217;immagine della squadra neozelandese.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/09/16/all-blacks-originals-rugby-1905/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Quando gli All Blacks diventarono gli All Blacks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Anche nella &lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt; la squadra in tour è la Nuova Zelanda, ancora nota per le sue divise nere e per il conseguente soprannome &lt;em&gt;All Blacks&lt;/em&gt;: dal 7 agosto ha giocato in Sudafrica quattro partite contro squadre di club e tre contro la nazionale sudafricana; poi c’è quest’ultima, a Baltimora.&lt;/p&gt;
+&lt;p&gt;Ed è proprio su quest&amp;#8217;ultima che si sono concentrate le critiche. Questo tentativo del rugby di promuoversi fuori dai paesi in cui è più popolare è sembrato troppo forzato e la partita di Baltimora è stata soprannominata&lt;em&gt; the money game&lt;/em&gt;, la partita dei soldi.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="instagram" data-url="https://www.instagram.com/p/DdH2TzKma6E/?img_index=1&amp;#038;stkn=MW10bXVkOWF3anV2eQ=="&gt;&lt;/div&gt;
+&lt;p style="text-align: center;"&gt;&lt;small&gt;&lt;em&gt;La nazionale maschile e quella femminile della Nuova Zelanda fanno cose con la squadra di football americano locale, i Baltimore Ravens.&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Ma la partita e il tour si inseriscono in un progetto più grande. Nuova Zelanda e Sudafrica (i cui giocatori sono noti come Springboks, dal nome di &lt;a href="https://www.ilpost.it/2021/04/24/weekly-beasts-354/west-coast-mining-operations-in-south-africa/"&gt;un&amp;#8217;antilope&lt;/a&gt;) si sono infatti accordate per giocare la serie di partite di&lt;em&gt; Rugby’s Greatest Rivalry&lt;/em&gt; una volta ogni quattro anni: nel 2030 sarà il Sudafrica ad andare a giocare in Nuova Zelanda. L’idea è di replicare il successo del tour dei British and Irish Lions, che in tre partite in Australia nel 2025 generarono ricavi per &lt;a href="https://www.bbc.com/sport/rugby-union/articles/c2dkz3k94dlo"&gt;30 milioni&lt;/a&gt; di dollari.&lt;/p&gt;
+&lt;p&gt;Sudafrica e Nuova Zelanda hanno vinto 7 edizioni su 10 dei Mondiali (4 il Sudafrica, 3 la Nuova Zelanda) e la loro rivalità è effettivamente la più importante del rugby. Si incontrano da oltre un secolo (la loro prima partita fu nel 1921), spesso giocano contro nelle fasi finali dei tornei più importanti, ogni anno si sfidano nel Rugby Championship e i loro incontri hanno avuto rilevanza storica per entrambi i paesi.&lt;/p&gt;
+&lt;p&gt;Negli anni Settanta e Ottanta i tour degli Springboks in Nuova Zelanda o degli All Blacks in Sudafrica furono molto criticati in Nuova Zelanda. Molte persone neozelandesi li vedevano come una sorta di tacito assenso all’&lt;em&gt;apartheid&lt;/em&gt;, il sistema legalizzato di discriminazione razziale in vigore in Sudafrica dal 1948 al 1994.&lt;/p&gt;
+&lt;div id="attachment_3677011" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3677011 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789128241-AP810912081.jpg" alt="" width="980" height="793" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789128241-AP810912081.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x324/1789128241-AP810912081.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x550/1789128241-AP810912081.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/768x621/1789128241-AP810912081.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/800x647/1789128241-AP810912081.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Un sacchetto pieno di farina lanciato in campo per protesta, durante una partita tra All Blacks e Springboks nel settembre del 1981 ad Auckland, in Nuova Zelanda (AP Photo)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Nel 1973 le proteste fecero cancellare un tour, e sempre negli anni Settanta 29 paesi, in maggioranza africani, boicottarono le Olimpiadi del 1976 per protestare contro la scelta della Nuova Zelanda di giocare in Sudafrica. Nel 1986 la nazionale neozelandese si diede il nome di una squadra qualsiasi, New Zealand Cavaliers, e giocò 15 partite in Sudafrica.&lt;/p&gt;
+&lt;p&gt;È molto nota, poi, la storia dei &lt;a href="https://www.ilpost.it/2013/12/07/mandela-rugby-sudafrica-1995/"&gt;Mondiali del 1995&lt;/a&gt;, raccontata qualche anno fa nel film &lt;em&gt;Invictus&lt;/em&gt;. Si tennero in Sudafrica e furono il primo grande evento sportivo dopo la fine dell’apartheid e la riammissione del Sudafrica alle maggiori competizioni internazionali. La finale fu proprio tra Springboks e All Blacks e vinsero i sudafricani, premiati dal presidente Nelson Mandela.&lt;/p&gt;
+&lt;div id="attachment_3677017" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3677017 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789128524-AP822402559201.jpg" alt="" width="980" height="740" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789128524-AP822402559201.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x302/1789128524-AP822402559201.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x513/1789128524-AP822402559201.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/768x580/1789128524-AP822402559201.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/800x604/1789128524-AP822402559201.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Nelson Mandela (a sinistra) esulta mentre il capitano degli Springboks François Pienaar solleva il trofeo Webb Ellis, al termine della finale dei Mondiali del 1995 (AP Photo/Jan Hamman, File)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;È famoso anche il tour degli All Blacks in Sudafrica del 1996: per la prima volta vinsero due partite e ne persero solo una pur giocando in trasferta; quei giocatori neozelandesi vennero definiti &lt;em&gt;the Incomparables,&lt;/em&gt; “gli impareggiabili”.&lt;/p&gt;
+&lt;p&gt;Oggi le partite di rugby tra Sudafrica e Nuova Zelanda non hanno più lo stesso significato politico, ma perlomeno durante il tour si sta cercando di renderle interessanti dal punto di vista sportivo. Non è facile, perché negli ultimi anni il Sudafrica è nettamente la miglior squadra al mondo, ha vinto gli ultimi due Mondiali (nel 2019 in Giappone e nel 2023 in Francia) e 7 delle ultime 9 partite contro la Nuova Zelanda.&lt;/p&gt;
+&lt;p&gt;Sport a parte, del &lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt; finora si è parlato soprattutto per i due aerei che &lt;a href="https://www.ilpost.it/flashes/in-sudafrica-due-aerei-di-linea-hanno-sorvolato-a-bassissima-quota-uno-stadio-pieno-di-persone/"&gt;hanno sorvolato&lt;/a&gt; a bassissima quota lo stadio di Città del Capo come parte di un’esibizione.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/UWQ8DGNDvic?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="v=UWQ8DGNDvic" data-thumbnail="https://i.ytimg.com/vi/UWQ8DGNDvic/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;p&gt;Secondo Rian Oberholzer, l’amministratore delegato della federazione sudafricana di rugby, la partita tra Springboks e All Blacks a Baltimora potrebbe generare circa 7 milioni di euro di ricavi in più rispetto a una partita giocata in Sudafrica. «Non lo faremmo se non fosse [un progetto] di notevole importanza», &lt;a href="https://www.nytimes.com/athletic/7578089/2026/09/10/south-africa-new-zealand-rugby-baltimore-why/"&gt;ha detto&lt;/a&gt; Oberholzer.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt; – un nome pensato apposta per compiacere il pubblico statunitense, che anche in fatto di sport pensa sempre &lt;a href="https://www.ilpost.it/2023/08/29/lyles-atletica-nba-campioni-mondo/"&gt;molto in grande&lt;/a&gt; – si svolge in un anno di grandi cambiamenti per il rugby e il suo calendario.&lt;/p&gt;
+&lt;p&gt;A luglio è iniziato il &lt;a href="https://www.ilpost.it/2026/07/04/rugby-nuovo-torneo-nazionali-nations-championship-italia-cos-e/"&gt;Nations Championship&lt;/a&gt;, un nuovo torneo mondiale che ogni due anni sostituirà (per le 12 squadre che vi partecipano, le migliori al mondo) la maggior parte dei test match. E non si è giocato – ma tornerà l&amp;#8217;anno prossimo – il Rugby Championship, il torneo tra le più forti squadre di rugby dell’emisfero sud: Sudafrica, Nuova Zelanda, Australia e Argentina. A queste due, escluse dal tour &lt;em&gt;Rugby’s Greatest Rivalry&lt;/em&gt;, non è rimasto altro da fare che giocare tra loro.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/12/rivalita-sudafrica-nuova-zelanda-rugby-marketing-greatest-rivalry-cos-e</guid>
+      <pubDate>Sat, 12 Sep 2026 16:17:16 +0200</pubDate>
+      <dc:creator>Michele Pelacci</dc:creator>
+    </item>
     <item>
       <title>Weekly Beasts</title>
       <link>https://www.ilpost.it/2026/09/12/weekly-beasts-606</link>
-      <description>&lt;p&gt;&lt;em&gt;Cuccioli di tigre di sumatra, entelli, stambecchi della Nubia e questa mantide religiosa&#13;
+      <description>&lt;p&gt;&lt;em&gt;Cuccioli di tigre di sumatra, entelli, stambecchi della Nubia e questa mantide religiosa
 &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789135461-AP26251547076400.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789135461-AP26251547076400.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;La tigre di Sumatra è una sottospecie in pericolo critico di estinzione che in natura vive esclusivamente sull’isola indonesiana di Sumatra, dove a causa della deforestazione e del bracconaggio si stima rimangano solo circa 400 individui. Per evitarne la scomparsa diversi zoo europei e internazionali partecipano a programmi di riproduzione in cattività volti a preservarne la diversità genetica. Tra questi c&amp;#8217;è quello di Atene, dove due mesi fa sono nati &lt;a href="https://apnews.com/article/greece-endangered-tigers-sumatra-indonesia-6c798264b1477bbcfee8c509119f2b44"&gt;tre cuccioli di tigre di Sumatra&lt;/a&gt;, due maschi e una femmina, che nei giorni scorsi sono stati vaccinati e dotati di microchip, come si vede in una delle fotografie di animali di questa raccolta. Oltre a loro ci sono un gabbiano con il becco spalancato, una medusa bruna e alcuni avvoltoi su un albero nel parco nazionale di Amboseli, in Kenya.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7858/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x267/1789135005-GettyImages-2293066789.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x267/1789135005-GettyImages-2293066789.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x453/1789135005-GettyImages-2293066789.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/768x512/1789135005-GettyImages-2293066789.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/800x533/1789135005-GettyImages-2293066789.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789135005-GettyImages-2293066789.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x267/1789135005-GettyImages-2293066789.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3677169 gallery-columns-5 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7858/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135005-GettyImages-2293066789.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7850/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134929-2026-09-08T124836Z_310883774_RC256NACNDXQ_RTRMADP_3_KENYA-WILDLIFE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7859/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135014-GettyImages-2293652492.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7847/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134901-2026-09-08T063804Z_868665065_RC2G5NANX484_RTRMADP_3_ELNINO-SRILANKA-WILDLIFE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7846/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134893-2026-09-06T134202Z_949636251_RC2MDNA5XE0U_RTRMADP_3_THAILAND-DAILYLIFE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7851/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134939-AP26248803081788.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7848/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134909-2026-09-08T105624Z_1008260450_RC286NALACZF_RTRMADP_3_KENYA-WILDLIFE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7852/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134949-AP26250671903047.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7853/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134957-AP26251341674463.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7849/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134917-2026-09-08T112847Z_168098175_RC2A6NAMPJOY_RTRMADP_3_KENYA-WILDLIFE.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7854/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134966-AP26251547076400.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7855/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134976-AP26252371574103.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7863/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135051-ilpost_20260910150405595_87d1f3ab939a584cb16b387612eeabbd.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7864/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135060-ilpost_20260910150432399_f19478f066c1dd8fb08dcd93465504c0.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7857/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134995-GettyImages-2292780995.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7856/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134985-AP26253078149483.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7860/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135024-GettyImages-2293675664.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7862/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135042-GettyImages-2294499965.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7865/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135070-ilpost_20260910150645243_912c3191a78f0afa96433e7db907c759.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7861/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135034-GettyImages-2294470768.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3677169 gallery-columns-5 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7858/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135005-GettyImages-2293066789.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7850/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134929-2026-09-08T124836Z_310883774_RC256NACNDXQ_RTRMADP_3_KENYA-WILDLIFE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7859/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135014-GettyImages-2293652492.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7847/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134901-2026-09-08T063804Z_868665065_RC2G5NANX484_RTRMADP_3_ELNINO-SRILANKA-WILDLIFE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7846/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134893-2026-09-06T134202Z_949636251_RC2MDNA5XE0U_RTRMADP_3_THAILAND-DAILYLIFE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7851/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134939-AP26248803081788.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7848/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134909-2026-09-08T105624Z_1008260450_RC286NALACZF_RTRMADP_3_KENYA-WILDLIFE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7852/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134949-AP26250671903047.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7853/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134957-AP26251341674463.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7849/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134917-2026-09-08T112847Z_168098175_RC2A6NAMPJOY_RTRMADP_3_KENYA-WILDLIFE.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7854/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134966-AP26251547076400.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7855/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134976-AP26252371574103.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7863/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135051-ilpost_20260910150405595_87d1f3ab939a584cb16b387612eeabbd.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7864/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135060-ilpost_20260910150432399_f19478f066c1dd8fb08dcd93465504c0.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7857/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134995-GettyImages-2292780995.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7856/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789134985-AP26253078149483.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7860/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135024-GettyImages-2293675664.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7862/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135042-GettyImages-2294499965.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7865/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135070-ilpost_20260910150645243_912c3191a78f0afa96433e7db907c759.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/12/weekly-beasts-606/animali-7861/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/130x91/1789135034-GettyImages-2294470768.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/12/weekly-beasts-606</guid>
-      <pubDate>Sat, 12 Sep 2026 15:35:55 +0200</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:35:55 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>In Svezia il risultato delle elezioni sembrava scontato, ora non lo è più</title>
       <link>https://www.ilpost.it/2026/09/12/svezia-elezioni-equilibrio</link>
       <description>&lt;p&gt;&lt;em&gt;Si vota domenica per rinnovare il parlamento che poi eleggerà il primo ministro, e la distanza tra le coalizioni è minima&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207319-AP26254688234845.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207319-AP26254688234845.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Quando la campagna elettorale svedese è ufficialmente cominciata, fra aprile e maggio, i sondaggi &lt;a href="https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_Swedish_general_election"&gt;davano&lt;/a&gt; alla coalizione di centrosinistra un vantaggio superiore ai dieci punti percentuali, in alcuni casi di dodici. Magdalena Andersson, leader dei Socialdemocratici, si preparava a tornare al governo dopo quattro anni all&amp;#8217;opposizione.&lt;/p&gt;
 &lt;p&gt;Ma nel corso dei mesi la coalizione di destra del primo ministro uscente Ulf Kristersson (Moderati svedesi) ha recuperato quasi tutto lo svantaggio. Il voto è previsto per domenica, e servirà a rinnovare il parlamento che poi eleggerà il primo ministro. Un sondaggio della scorsa settimana indica che la distanza fra i due blocchi si è ridotta allo 0,3 per cento, con un risultato possibile di 175 seggi per il centrosinistra e 174 per la destra. Altre rilevazioni danno una distanza maggiore, ma comunque inferiore al margine di errore.&lt;/p&gt;
 &lt;p&gt;Dunque, nonostante nulla di clamoroso abbia condizionato la campagna elettorale, il risultato è tornato decisamente incerto e queste elezioni potrebbero anche concludersi con il primo ingresso nel governo dell&amp;#8217;estrema destra dei Democratici Svedesi (SD). Sono ormai il secondo partito svedese (i Socialdemocratici sono il primo da 109 anni), sono entrati in parlamento per la prima volta nel 2010 e dal 2022 hanno sostenuto dall&amp;#8217;esterno il governo di centrodestra di Kristersson, condizionandone fortemente le politiche, soprattutto sui temi dell&amp;#8217;immigrazione e della criminalità.&lt;/p&gt;
-&lt;div id="attachment_3677702" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3677702 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207315-AP26254687552011.jpg" alt="" width="980" height="653" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207315-AP26254687552011.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/400x267/1789207315-AP26254687552011.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/680x453/1789207315-AP26254687552011.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/768x512/1789207315-AP26254687552011.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/800x533/1789207315-AP26254687552011.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Magdalena Andersson, leader dei Socialdemocratici (Anders Wiklund/TT News Agency via AP)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3677702"&gt;&lt;img alt="" class="wp-image-3677702 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207315-AP26254687552011.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Magdalena Andersson, leader dei Socialdemocratici (Anders Wiklund/TT News Agency via AP)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;I risultati si sapranno dopo la chiusura dei seggi, alle 20 di domenica. Kristersson ha annunciato che in caso di vittoria includerà i Democratici Svedesi nel governo. Buona parte della campagna elettorale della sinistra si è concentrata su questo tema, Andersson ha più volte detto che la Svezia non sarebbe più stata «la stessa con ministri dei Democratici Svedesi». I Democratici Svedesi (DS) furono fondati nel 1988 da un gruppo di attivisti che facevano parte di vari circoli e partiti neonazisti o di suprematisti bianchi. Fino ai primi anni Duemila sono stati apertamente neonazisti, poi con la nuova guida politica di Jimmie Åkesson hanno espulso gli esponenti più estremisti e iniziato un processo di &amp;#8220;normalizzazione&amp;#8221;, restando però sostanzialmente un partito di destra radicale, con posizioni assimilabili a quelle di &lt;span dir="ltr" lang="it"&gt;&lt;span class="mw-page-title-main"&gt;Alternative für Deutschland (AfD), in Germania.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;div id="attachment_3677701" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3677701 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207311-AP26250383359782.jpg" alt="" width="980" height="666" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207311-AP26250383359782.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/400x272/1789207311-AP26250383359782.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/680x462/1789207311-AP26250383359782.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/768x522/1789207311-AP26250383359782.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/800x544/1789207311-AP26250383359782.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/500x340/1789207311-AP26250383359782.jpg 500w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Jimmie Åkesson vicino a un cartellone con lo slogan &amp;#8220;Rendere la Svezia di nuovo la Svezia” il 7 settembre 2026 (Magnus Lejhall/TT News Agency via AP)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3677701"&gt;&lt;img alt="" class="wp-image-3677701 size-full" height="666" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207311-AP26250383359782.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Jimmie Åkesson vicino a un cartellone con lo slogan &amp;#8220;Rendere la Svezia di nuovo la Svezia” il 7 settembre 2026 (Magnus Lejhall/TT News Agency via AP)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;La campagna della sinistra si è basata molto sul pericolo di SD, ma a guardare i sondaggi si direbbe che non ha funzionato, anche perché dai Socialdemocratici e i loro alleati non sono arrivati altri messaggi particolarmente chiari agli elettori. I leader hanno insistito sul fatto che il paese si è allontanato negli ultimi anni dalla sua storica reputazione di nazione all&amp;#8217;avanguardia nei diritti civili e nelle politiche di welfare, ma riguardo all&amp;#8217;immigrazione anche i Socialdemocratici si sono spostati su posizioni più rigide, in contrasto con la storica accoglienza del paese. Di fatto, hanno detto che in caso di vittoria confermerebbero l&amp;#8217;approccio del governo uscente.&lt;/p&gt;
 &lt;p&gt;Il governo di centrodestra ha invece puntato su risultati economici positivi (la crescita del PIL è una delle maggiori dell&amp;#8217;Unione Europea) e su qualche successo nella repressione delle bande criminali, in cui spesso vengono reclutati minorenni immigrati di seconda generazione. &lt;a href="https://www.ilpost.it/2026/01/30/svezia-riforma-giustizia-minorenni-carcere/?dmc_cid=3683&amp;amp;cv_id=&amp;amp;dmc_gid=353885231&amp;amp;dmc_ch=email&amp;amp;dmc_mid=356233230&amp;amp;dmc_uid=3878301434&amp;amp;uc701=3878301434&amp;amp;utm_source=Nl_Ventisette&amp;amp;utm_medium=email&amp;amp;utm_campaign=Ventisette&amp;amp;utm_content=Ventisette+100926&amp;amp;id=3878301434"&gt;Sono successi ottenuti&lt;/a&gt; con politiche radicali e controverse, come le espulsioni anche per i minorenni e l&amp;#8217;abbassamento dell&amp;#8217;età in cui si può andare in carcere, scesa a 14 anni per i reati più gravi (ma il governo voleva inizialmente fissare il limite a 13).&lt;/p&gt;
-&lt;div id="attachment_3677700" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3677700 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg" alt="" width="980" height="653" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg 980w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/400x267/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/680x453/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/768x512/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/800x533/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg 800w" sizes="(max-width: 980px) 100vw, 980px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Manifesti elettorali dei Socialdemocratici a Stoccolma: in uno si legge «Per una città senza aree a rischio. Prendiamo sul serio Stoccolma» (Viktoria Bank/TT via ZUMA Press)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3677700"&gt;&lt;img alt="" class="wp-image-3677700 size-full" height="653" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/12/1789207306-ilpost_20260912114647627_40b19ef4f01c0d8a2ac9a5d953842317.jpg" width="980" /&gt;&lt;p class="wp-caption-text"&gt;Manifesti elettorali dei Socialdemocratici a Stoccolma: in uno si legge «Per una città senza aree a rischio. Prendiamo sul serio Stoccolma» (Viktoria Bank/TT via ZUMA Press)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;Sull&amp;#8217;esito finale potrebbero influire i risultati dei partiti minori delle coalizioni: Verdi, Sinistra e Centro in quella guidata da Andersson; Cristiano Democratici e Liberali in quella del governo uscente. In particolare i sondaggi indicano il sostegno dei Liberali su valori molto vicini alla soglia di sbarramento, che in Svezia è fissata al 4 per cento: se non dovessero superarla sarebbe un problema per tutta la coalizione di destra.&lt;/p&gt;
 &lt;p&gt;Nell&amp;#8217;ultima settimana, poi, si è parlato molto delle rivelazioni di un&amp;#8217;inchiesta della rivista antirazzista &lt;em&gt;Expo&lt;/em&gt; su Polina Malaberg, funzionaria di lungo corso dei Democratici Svedesi e compagna di Gustav Gellerbrant, uno dei principali dirigenti del partito. &lt;a href="https://x.ilpost.it/re?l=D0I5w3bbiI1s51gjeIhITmtvb1ysw&amp;amp;s=BNMELPDFLCHPOLFK&amp;amp;req=dmc_cid%3D3683%26cv_id%3D"&gt;Secondo &lt;em&gt;Expo&lt;/em&gt;&lt;/a&gt; Malaberg per oltre un decennio avrebbe avuto stretti legami con la Russia, partecipando a viaggi, accompagnando cittadini russi dentro il palazzo del parlamento svedese, e promuovendo gli interessi russi nel paese.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/09/svezia-elezioni-immigrazione-rimpatri/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;In Svezia il governo vuole pagare le persone immigrate per andarsene&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/09/svezia-elezioni-immigrazione-rimpatri/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;In Svezia il governo vuole pagare le persone immigrate per andarsene&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/12/svezia-elezioni-equilibrio</guid>
-      <pubDate>Sat, 12 Sep 2026 15:35:14 +0200</pubDate>
+      <pubDate>Sat, 12 Sep 2026 13:35:14 +0000</pubDate>
       <dc:creator>Valerio Clari</dc:creator>
     </item>
     <item>
@@ -1960,57 +2021,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/11/us-open-elena-ryabakina-aryna-sabalenka-finale-tennis</guid>
       <pubDate>Fri, 11 Sep 2026 05:08:00 +0000</pubDate>
       <dc:creator>Alessandra Pellegrini De Luca</dc:creator>
-    </item>
-    <item>
-      <title>Le condanne a Hong Kong per due importanti attivisti per la democrazia</title>
-      <link>https://www.ilpost.it/2026/09/11/condanne-hong-kong-attivisti-strage-di-piazza-tiananmen</link>
-      <description>&lt;p&gt;&lt;em&gt;Chow Hang-tung e Lee Cheuk-yan sono stati condannati a oltre sette anni di carcere, per incitamento alla sovversione&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/09/11/1789100069-AP26231390335179.jpg" /&gt;&lt;/p&gt;
-
-                    
-&lt;p&gt;A Hong Kong due importanti attivisti per la democrazia sono stati condannati per «incitamento alla sovversione», in uno dei più importanti processi per la violazione della severa e contestata legge sulla sicurezza nazionale celebrati nella città negli ultimi anni. Chow Hang-tung, 41 anni, è stata condannata a sette anni e tre mesi, mentre Lee Cheuk-yan, 69 anni, dovrà scontare sette anni.&lt;/p&gt;
-&lt;p&gt;Chow e Lee erano rispettivamente vicepresidente e presidente della Hong Kong Alliance in Support of Patriotic Democratic Movements of China, l&amp;#8217;organizzazione che per decenni aveva organizzato a Hong Kong la grande veglia per &lt;a href="https://www.ilpost.it/2021/09/08/hong-kong-arrestati-attivisti-veglia-piazza-tienanmen/"&gt;commemorare&lt;/a&gt; ogni 4 giugno la &lt;a href="https://www.ilpost.it/2025/09/20/sala-memorie-di-bologna-amnesie-su-tiananmen/"&gt;strage di piazza Tiananmen&lt;/a&gt; nel 1989 a Pechino.&lt;/p&gt;
-&lt;p&gt;Hong Kong è un territorio della Cina che formalmente gode di autonomia e ha istituzioni proprie, ma nella pratica le differenze con le altre città cinesi ormai sono ridotte. Per anni Hong Kong era stato l’unico luogo in Cina dove si tenevano commemorazioni pubbliche della strage, quando moltissimi manifestanti riuniti da mesi per chiedere riforme democratiche furono &lt;a href="https://www.ilpost.it/2010/06/04/tien-an-men-fu-deng-xiaoping-a-dire-di-sparare/"&gt;uccisi&lt;/a&gt; con fucili e carri armati dall’esercito cinese su ordine del governo. Con l&amp;#8217;introduzione della legge sulla sicurezza nazionale nel 2020 le autorità vietarono le manifestazioni del 4 giugno e l&amp;#8217;organizzazione si sciolse nel 2021.&lt;/p&gt;
-&lt;p&gt;Secondo i giudici, dopo l&amp;#8217;entrata in vigore della legge sulla sicurezza nazionale i due attivisti avevano continuato a promuovere, attraverso le attività della loro organizzazione, l&amp;#8217;obiettivo di porre fine al governo unico del Partito comunista cinese. Un terzo dirigente dell&amp;#8217;organizzazione, Albert Ho, di 74 anni, è stato condannato a cinque anni e due mesi. Ho si era dichiarato colpevole a gennaio, mentre Chow e Lee avevano negato le accuse e si erano dichiarati innocenti.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/17/hong-kong-crisi-fine/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Hong Kong sta tornando, ma solo per metà&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;La &lt;a href="https://www.ilpost.it/2020/06/30/cina-approvato-controversa-legge-sicurezza-nazionale-hong-kong/"&gt;legge sulla sicurezza nazionale&lt;/a&gt; fu introdotta nel 2020 &lt;a href="https://www.ilpost.it/2020/05/28/hong-kong-cina-approvato-disegno-di-legge-sicurezza/"&gt;per volere del governo centrale cinese&lt;/a&gt; a seguito delle ampie manifestazioni in favore della democrazia che c’erano state l’anno prima a Hong Kong: formalmente ha l’obiettivo di contrastare gli atti di «sedizione, sovversione e secessione», ma di fatto ha ridotto moltissimo la libertà di espressione e i diritti politici a Hong Kong, limitando di conseguenza la sua autonomia.&lt;/p&gt;
-&lt;p&gt;La legge prevede pene severe per diversi reati, tra cui l&amp;#8217;incitamento alla sovversione. È stata utilizzata per perseguire numerosi esponenti del movimento democratico di Hong Kong e ha contribuito a trasformare profondamente la vita politica della città.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/07/17/hong-kong-repressione-librerie/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La repressione a Hong Kong contro le librerie indipendenti&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/11/condanne-hong-kong-attivisti-strage-di-piazza-tiananmen</guid>
-      <pubDate>Fri, 11 Sep 2026 05:07:28 +0000</pubDate>
-      <dc:creator>Giovanni De Benedictis</dc:creator>
-    </item>
-    <item>
-      <title>Venerdì 11 settembre</title>
-      <link>https://www.ilpost.it/2026/09/11/venerdi-11-settembre-3</link>
-      <description>&lt;p&gt;&lt;em&gt;Le foto di oggi dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/1789075051-ilpost_20260910231301836_b2392493fad11e7a8e450dac172a9cc2.jpg" /&gt;&lt;/p&gt;
-
- 
- 
- &lt;div class="split-gal" id="gallery-new"&gt;
- &lt;figure class="split-gal-el"&gt;
- &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/11/venerdi-11-settembre-3/napoli-italia-36/" title="vai alla fotogallery"&gt;
- &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/400x267/1789075051-ilpost_20260910231301836_b2392493fad11e7a8e450dac172a9cc2.jpg" width="400" /&gt;
- &lt;span class="arrow"&gt;&lt;/span&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- &lt;span class="caption"&gt;&lt;/span&gt;
- &lt;/figure&gt;
- &lt;/div&gt;&lt;div class="gallery galleryid-3676293 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/11/venerdi-11-settembre-3/napoli-italia-36/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/10/130x91/1789075051-ilpost_20260910231301836_b2392493fad11e7a8e450dac172a9cc2.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;
- &lt;figcaption class="wp-caption-text gallery-caption" id="gallery-2-3676294"&gt;
- Napoli, Italia
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/11/venerdi-11-settembre-3</guid>
-      <pubDate>Fri, 11 Sep 2026 04:45:14 +0000</pubDate>
-      <dc:creator>Susanna Baggio</dc:creator>
     </item>
   </channel>
 </rss>
