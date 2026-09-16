@@ -7,317 +7,347 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:01:28 +0000</lastBuildDate>
+    <item>
+      <title>La Cassazione sta provando l’AI per smaltire i ricorsi più in fretta</title>
+      <link>https://www.ilpost.it/2026/09/16/corte-cassazione-intelligenza-artificiale</link>
+      <description>&lt;p&gt;&lt;em&gt;La sperimentazione non riguarda i giudizi ma la fase preliminare in cui si valuta il rispetto dei requisiti formali, e sembra sia andata bene&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789540771-23282790_large.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Tra luglio e agosto la Corte di Cassazione ha iniziato una sperimentazione con l&amp;#8217;intelligenza artificiale, usandola per smaltire più velocemente le pratiche lunghe e ripetitive. Lo ha fatto solo nella sezione tributaria, cioè la parte che si occupa delle controversie civili in ambito fiscale. Martedì in una riunione con i presidenti della Corte sono stati presentati i primi risultati, e sono sembrati incoraggianti, perciò la Corte vuole proseguire la sperimentazione con l&amp;#8217;obiettivo di estenderla anche al resto degli uffici giudiziari.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Il Sole 24 Ore &lt;/em&gt;ha raccontato in un articolo come si è svolta la sperimentazione fin qui. L&amp;#8217;intelligenza artificiale è stata usata per lo spoglio dei ricorsi, che è una fase preliminare in cui gli atti presentati a corredo del ricorso vengono analizzati per verificare che rispettino tutti i requisiti formali necessari. Poi viene ricostruita la materia, il percorso processuale seguito fino a quel momento, i motivi dell&amp;#8217;impugnazione e le difese della controparte. Sulla base di questa analisi viene deciso quale procedura deve seguire il ricorso e da quale collegio, cioè da quale gruppo di magistrati, deve essere giudicato.&lt;/p&gt;
+&lt;p&gt;Il risultato è una scheda riassuntiva del fascicolo che viene consegnata ai giudici. Di solito la scheda viene compilata dagli addetti dell&amp;#8217;Ufficio per il processo, un organo che ha l&amp;#8217;obiettivo di rendere più efficiente il lavoro della corte e che svolge un lavoro tedioso, sempre uguale.&lt;/p&gt;
+&lt;p&gt;L&amp;#8217;AI è stata usata proprio per fare questo lavoro tedioso. L&amp;#8217;operatore caricava gli atti necessari e il sistema analizzava e riassumeva le informazioni producendo alla fine la scheda, che veniva a sua volta controllata sia dall&amp;#8217;operatore che da un magistrato. Solo dopo la supervisione umana la scheda veniva inserita manualmente nel sistema di gestione.&lt;/p&gt;
+&lt;p&gt;La sperimentazione si è quindi limitata all&amp;#8217;analisi degli atti che vengono caricati e alla compilazione automatica della scheda: il sistema non è collegato a banche dati e non valuta precedenti. La Cassazione ha deciso di utilizzare Copilot, l&amp;#8217;assistente virtuale basato sull&amp;#8217;intelligenza artificiale di Microsoft, in questo caso addestrato dal magistrato della corte Gianluca Grasso.&lt;/p&gt;
+&lt;p&gt;Copilot viene usato attraverso un account istituzionale dedicato al ministero della Giustizia, fatto in modo da garantire alcune condizioni di sicurezza: i dati messi nel sistema, per esempio, restano in Italia e non vengono usati per addestrare altri modelli di intelligenza artificiale.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/corte-cassazione-intelligenza-artificiale</guid>
+      <pubDate>Wed, 16 Sep 2026 09:14:52 +0200</pubDate>
+      <dc:creator>Alice De Luca</dc:creator>
+    </item>
+    <item>
+      <title>L’alternativa russa a Starlink non sta procedendo bene</title>
+      <link>https://www.ilpost.it/2026/09/16/starlink-russo-problemi</link>
+      <description>&lt;p&gt;&lt;em&gt;Rassvet dovrebbe fornire un nuovo sistema per le comunicazioni al fronte, ma dei 32 satelliti mandati in orbita nessuno è arrivato dove doveva&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/1789485756-AP26195688942818.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Da anni la Russia prova a costruire una sua alternativa a Starlink, il servizio di connessione internet via satellite di SpaceX, l&amp;#8217;azienda spaziale di Elon Musk. Non sta andando bene. Quest&amp;#8217;anno sono stati lanciati i primi satelliti non di test del sistema russo, che si chiama Rassvet (&amp;#8220;alba&amp;#8221;): 16 a marzo e altri 16 a luglio. Nessuno ha raggiunto l&amp;#8217;orbita prevista e uno si è già distrutto rientrando nell&amp;#8217;atmosfera.&lt;/p&gt;
+&lt;p&gt;I lanci erano previsti da tempo, ma per la Russia sono diventati più urgenti da febbraio, quando su richiesta del governo ucraino Musk &lt;a href="https://www.ilpost.it/2026/02/06/russia-starlink-ucraina/"&gt;ha bloccato l&amp;#8217;accesso a Starlink all&amp;#8217;esercito russo&lt;/a&gt;, che già lo usava in modo illecito trafugando i terminali e inviandoli al fronte. Starlink è un sistema di comunicazioni satellitari diventato fondamentale per i soldati al fronte perché è molto affidabile e difficile da bloccare. Senza le connessioni protette garantite da Starlink, le forze russe hanno &lt;a href="https://www.ilpost.it/2026/02/18/contrattacco-ucraina-sfrutta-stralink/"&gt;subito con maggiore frequenza intercettazioni&lt;/a&gt; delle loro comunicazioni da parte degli ucraini, che hanno scoperto così la loro posizione, i loro piani e ridotto l&amp;#8217;efficacia dei loro droni.&lt;/p&gt;
+&lt;p&gt;Al momento l&amp;#8217;esercito russo non ha un sistema equivalente, e i primi lanci hanno mostrato quanto Rassvet sia indietro: sia rispetto a Starlink, sia rispetto ai piani dell&amp;#8217;azienda che lo sta sviluppando.&lt;/p&gt;
+&lt;p&gt;Rassvet è sviluppato da Bureau 1440, una società aerospaziale privata russa fondata nel 2020 e chiamata così in ricordo delle 1.440 orbite terrestri completate dallo &lt;a href="https://www.ilpost.it/2017/10/04/sputnik/"&gt;Sputnik 1&lt;/a&gt;, il primo satellite artificiale, portato in orbita dall&amp;#8217;Unione Sovietica nel 1957. L&amp;#8217;azienda è formalmente privata, ma il progetto è strettamente legato al governo russo: dei 432 miliardi di rubli &lt;a href="https://www.kommersant.ru/doc/8533373?"&gt;previsti&lt;/a&gt; fino al 2030 per finanziarlo (circa 4,4 miliardi di euro), poco meno di 103 miliardi (1,1 miliardi di euro) arriveranno direttamente dal bilancio statale. Anche ICS Holding, la società di tecnologia avanzata che &lt;a href="https://x-holding.ru/companies/byuro-1440/"&gt;possiede&lt;/a&gt; Bureau 1440, ha collegamenti con lo stato russo: il suo vicedirettore, per esempio, &lt;a href="https://meduza.io/en/feature/2026/03/16/senior-fsb-official-s-son-linked-to-company-supplying-russia-s-internet-censorship-systems-investigation-finds"&gt;è il figlio 29enne&lt;/a&gt; del vicedirettore dei servizi segreti russi.&lt;/p&gt;
+&lt;div id="attachment_3678919" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3678919 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789394108-photo_2026-05-20_16-04-03.jpg" alt="" width="1280" height="894" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789394108-photo_2026-05-20_16-04-03.jpg 1280w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/400x279/1789394108-photo_2026-05-20_16-04-03.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/680x475/1789394108-photo_2026-05-20_16-04-03.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/130x91/1789394108-photo_2026-05-20_16-04-03.jpg 130w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/768x536/1789394108-photo_2026-05-20_16-04-03.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/800x559/1789394108-photo_2026-05-20_16-04-03.jpg 800w" sizes="(max-width: 1280px) 100vw, 1280px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Lo stand di Bureau 1440 a una fiera di tecnologia in Bielorussia nel 2026 (Bureau 1440)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Sul &lt;a href="https://1440.space/en/#solutions"&gt;suo sito&lt;/a&gt; Bureau 1440 insiste molto sugli usi &lt;em&gt;civili&lt;/em&gt; di Rassvet, per esempio garantire la connessione internet su treni e aerei, ma il sistema è prezioso soprattutto in ambito militare. Prima che Musk glielo impedisse, i russi avevano cominciato a &lt;a href="https://militarnyi.com/en/blogs/starlink-on-russian-drones-how-ukraine-can-protect-its-satcom-domain/"&gt;montare i terminali di Starlink direttamente sui droni&lt;/a&gt;: questo rende il collegamento con il pilota più affidabile e a lungo raggio, permette di aggirare i tentativi di interferenza delle difese ucraine e di colpire i bersagli con più precisione.&lt;/p&gt;
+&lt;p&gt;Bureau 1440 vuole costruire una rete di satelliti in orbita bassa, a qualche centinaio di chilometri di altezza, che forniscano connessione internet a terminali di ricezione a terra. L’orbita bassa permette una connessione veloce, perché il segnale impiega poco ad arrivare dal satellite al terminale, ma per garantire una copertura continua richiede un gran numero di satelliti: ognuno copre col segnale una porzione di superficie terrestre molto più piccola rispetto a un satellite in orbita geostazionaria, che si trova a qualche decina di migliaia di chilometri di altezza e viene usato per le telecomunicazioni tradizionali. Per questo Starlink ha in orbita oltre 7mila satelliti, che ne fanno il sistema di comunicazione più affidabile a disposizione, anche nella guerra in Ucraina.&lt;/p&gt;
+&lt;div id="attachment_3678955" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3678955 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789395887-HDn9i6NbgAAVAwE.jpeg" alt="" width="2048" height="1313" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789395887-HDn9i6NbgAAVAwE.jpeg 2048w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/400x256/1789395887-HDn9i6NbgAAVAwE.jpeg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/680x436/1789395887-HDn9i6NbgAAVAwE.jpeg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/768x492/1789395887-HDn9i6NbgAAVAwE.jpeg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1536x985/1789395887-HDn9i6NbgAAVAwE.jpeg 1536w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/800x513/1789395887-HDn9i6NbgAAVAwE.jpeg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/412x265/1789395887-HDn9i6NbgAAVAwE.jpeg 412w" sizes="(max-width: 2048px) 100vw, 2048px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;La comparazione tra i satelliti Rassvet di test lanciati nel 2023 e nel 2024 e quelli effettivamente operativi lanciati nel 2026 (Bureau 1440)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Nei piani di Bureau 1440, entro il 2035 Rassvet &lt;a href="https://habr.com/ru/articles/876460/"&gt;dovrebbe avere&lt;/a&gt; più di 900 satelliti, che dovrebbero orbitare a quasi il doppio dell&amp;#8217;altezza di quelli di Starlink (circa 800 chilometri contro 450) proprio per compensare in parte il numero molto inferiore. Dovrebbe inviarne in orbita 156 entro il 2026, e poi 292 entro il 2027. Per ora è lontano da questi obiettivi: nel 2026 ne ha lanciati 32, e nessuno ha raggiunto gli 800 chilometri di altezza.&lt;/p&gt;
+&lt;p&gt;Dei 16 lanciati a marzo, uno è precipitato e altri tre si sono stabilizzati tra i 300 e i 400 chilometri di quota, molto più in basso del previsto. Quelli di luglio non sono andati meglio: due stanno perdendo altitudine invece di guadagnarla, e gli altri 14 salgono molto lentamente, senza che nessuno abbia ancora superato i 400 chilometri.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/planet4589/status/2092190937631863018"&gt;&lt;/div&gt;
+&lt;p&gt;Orbitare più in basso vuol dire avere una vita operativa più breve, perché a quelle quote l&amp;#8217;atmosfera è più densa, frena i satelliti e li costringe a consumare di più per restare in orbita. Vuol dire anche coprire col segnale una superficie minore: per ottenere la copertura prevista, quindi, Bureau 1440 dovrebbe lanciare più satelliti di quanti ne aveva programmati. Sta succedendo il contrario, ne sta lanciando molti meno.&lt;/p&gt;
+&lt;p&gt;Il motivo principale è che Bureau 1440 per mettere in orbita i suoi satelliti deve usare i razzi e le basi di lancio dell&amp;#8217;agenzia spaziale russa Roscosmos. Ogni lancio può portare al massimo una ventina di satelliti, e quindi per raggiungere l&amp;#8217;obiettivo di 156 entro la fine dell&amp;#8217;anno servirebbero più di sei lanci in quattro mesi. Sono molti, considerando che la Russia fa in tutto circa 20 lanci orbitali all&amp;#8217;anno – contro gli oltre 150 della sola SpaceX – e che quei lanci servono anche a rinnovare la costellazione GLONASS (il sistema di navigazione satellitare russo), a mettere in orbita satelliti da ricognizione militare e a tutte le altre missioni già programmate da Roscosmos.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/JCed1YnL-bA?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="v=JCed1YnL-bA" data-thumbnail="https://i.ytimg.com/vi/JCed1YnL-bA/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;p&gt;Difficilmente verrà rispettato anche l&amp;#8217;obiettivo di 292 satelliti in orbita entro la fine del 2027, che &lt;a href="https://www.svoboda.org/a/nastupit-li-rassvet-zachem-rossiya-sozdaet-analog-starlink/33851738.html"&gt;secondo gli esperti&lt;/a&gt; è il numero minimo perché il sistema funzioni normalmente. Finché i satelliti saranno poche decine, ognuno passerà sopra la stessa zona solo per brevi intervalli e la copertura durerà poche ore al giorno. Ancora per parecchio tempo, quindi, l&amp;#8217;esercito russo non potrà usare Rassvet come usava Starlink.&lt;/p&gt;
+&lt;p&gt;Non è chiaro nemmeno a che punto sia la produzione dei terminali con cui ricevere a terra il segnale dei satelliti. Bureau 1440 &lt;a href="https://tass.ru/info/27933833"&gt;prevede&lt;/a&gt; di cominciare a venderli nel 2027, ma non ha mai detto quanti conta di produrne né a che prezzo. Realizzarli in serie richiede antenne e strumentazioni che sono costose e complesse da fabbricare e che le sanzioni internazionali rendono difficili importare in Russia.&lt;/p&gt;
+&lt;div id="attachment_3678900" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3678900 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789393237-photo_2025-11-17_09-05-59.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789393237-photo_2025-11-17_09-05-59.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/400x267/1789393237-photo_2025-11-17_09-05-59.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/680x453/1789393237-photo_2025-11-17_09-05-59.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/768x512/1789393237-photo_2025-11-17_09-05-59.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/800x533/1789393237-photo_2025-11-17_09-05-59.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Un prototipo di un terminale del sistema Rassvet per la connessione su treni e aerei presentato a una fiera di tecnologia in Russia nel 2025 (canale telegram di Bureu 1440)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Nel frattempo l&amp;#8217;Ucraina sta cercando di rallentare anche i lanci. Ha colpito tre volte la base di Plesetsk, nel nord-ovest della Russia, da cui nel 2026 sono partiti i razzi con a bordo i satelliti Rassvet: la prima nel dicembre del 2025, la seconda nel marzo del 2026, proprio il giorno del lancio del primo lotto, la terza nell&amp;#8217;agosto del 2026, &lt;a href="https://ru.themoscowtimes.com/2026/08/23/ukraina-atakovala-glavnii-voennii-kosmodrom-rossii-varhangelskoi-oblasti-a204084"&gt;immediatamente prima&lt;/a&gt; del lancio di alcuni satelliti GLONASS.&lt;/p&gt;
+&lt;div class="ilpost_datawrapper loader" data-id="FJorS" data-height="400"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none currentcolor;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe style="display: none;" title="Twitter settings iframe" src="https://platform.twitter.com/widgets/widget_iframe.1227a5674072e080ffb1ba14ac0c1079.html?origin=https%3A%2F%2Fwww.ilpost.it" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;&lt;iframe id="rufous-sandbox" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium;" title="Twitter analytics iframe" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/starlink-russo-problemi</guid>
+      <pubDate>Wed, 16 Sep 2026 09:03:25 +0200</pubDate>
+      <dc:creator>Pietro Pianini</dc:creator>
+    </item>
     <item>
       <title>Un elicottero di NBC News si è schiantato a Los Angeles mentre riprendeva la scena di un incidente stradale: sono morte tre persone</title>
       <link>https://www.ilpost.it/2026/09/16/elicottero-nbc-los-angeles-morti</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789541345-AP26259155784741-1.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789541345-AP26259155784741-1.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;A Los Angeles un elicottero dell&amp;#8217;emittente televisiva &lt;em&gt;NBC News&lt;/em&gt; si è schiantato mentre sorvolava il quartiere di Chatworth per raccontare un incidente stradale che si era verificato due ore prima e in cui erano morte due persone. Nello schianto l&amp;#8217;elicottero ha preso fuoco: sono morte due persone a bordo e una persona che si trovava nel parcheggio dove è caduto. Non è chiaro in totale quante fossero le persone a bordo. Ci sono anche diversi feriti.&lt;/p&gt;
-&lt;p&gt;Al momento non si sa cosa abbia causato l&amp;#8217;incidente. La &lt;em&gt;NBC&lt;/em&gt; ha detto che in quel momento diversi elicotteri stavano effettuando riprese del luogo dell&amp;#8217;incidente. La Federal Aviation Administration e il National Transportation Safety Board (due agenzie governative rispettivamente incaricate di aviazione e di incidenti aerei) hanno aperto un&amp;#8217;indagine.&lt;/p&gt;
-</description>
+&lt;p&gt;Al momento non si sa cosa abbia causato l&amp;#8217;incidente. La &lt;em&gt;NBC&lt;/em&gt; ha detto che in quel momento diversi elicotteri stavano effettuando riprese del luogo dell&amp;#8217;incidente. La Federal Aviation Administration e il National Transportation Safety Board (due agenzie governative rispettivamente incaricate di aviazione e di incidenti aerei) hanno aperto un&amp;#8217;indagine.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/elicottero-nbc-los-angeles-morti</guid>
-      <pubDate>Wed, 16 Sep 2026 08:53:34 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 06:53:34 +0000</pubDate>
       <dc:creator>Antonella Serrecchia</dc:creator>
     </item>
     <item>
       <title>Singapore paga i cittadini che leggono un libro per almeno 15 minuti al giorno</title>
       <link>https://www.ilpost.it/2026/09/16/singapore-iniziativa-lettura-doomscrolling</link>
       <description>&lt;p&gt;&lt;em&gt;Una nuova iniziativa prevede ricompense simboliche per limitare il tempo passato a scrollare i social network&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789540424-GettyImages-1142500023.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789540424-GettyImages-1142500023.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Il governo di Singapore ha lanciato una campagna che prevede piccole ricompense in denaro per i cittadini che leggono un libro almeno 15 minuti al giorno. L&amp;#8217;obiettivo dell&amp;#8217;iniziativa, chiamata &lt;a href="https://www.read.gov.sg/"&gt;&lt;em&gt;ReadSG&lt;/em&gt;&lt;/a&gt;, è incentivare l&amp;#8217;abitudine alla lettura e per provare a contrastare il &lt;em&gt;&lt;a href="https://www.ilpost.it/2020/12/30/doomscrolling/"&gt;doomscrolling&lt;/a&gt;&lt;/em&gt;, cioè l&amp;#8217;abitudine di scorrere compulsivamente i feed dei social network, passando di video in video e di notizia in notizia.&lt;/p&gt;
 &lt;p&gt;La campagna, che è stata organizzata in collaborazione con il consiglio nazionale delle biblioteche di Singapore ed in fase di sperimentazione fino alla fine del 2026, monitora l&amp;#8217;attività di lettura tramite un sito web governativo. I cittadini possono registrarsi e &amp;#8220;accumulare punti&amp;#8221;, che sono poi riscattati: ogni sessione di lettura da 15 minuti che viene registrata viene premiata con 20 monete virtuali, e dopo averne accumulate 1000 si può richiedere la ricompensa in denaro.&lt;/p&gt;
 &lt;p&gt;La ricompensa è simbolica: per ottenere 1 dollaro di Singapore (circa 70 centesimi), è necessario registrare 50 sessioni di lettura giornaliere. È consentita una sola sessione di lettura al giorno.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/REX35D0D6SQ?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="v=REX35D0D6SQ&amp;#038;t=4s" data-thumbnail="https://i.ytimg.com/vi/REX35D0D6SQ/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;small&gt;Un video promozionale della campagna ReadSG&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Il governo spera che la strategia di &amp;#8220;&lt;a href="https://www.ilpost.it/2024/05/12/gamification-gioco-app-lavoro/"&gt;gamification&lt;/a&gt;&amp;#8221; e il meccanismo di ricompensa con cui è stata pensata l&amp;#8217;iniziativa possa riavvicinare gradualmente le persone alla lettura: «Sappiamo che le abitudini si costruiscono con piccole azioni costanti. Quindi, partiamo da un obiettivo semplice: leggere per 15 minuti al giorno. Sull&amp;#8217;autobus, prima di andare a letto o durante la pausa pranzo» ha detto allo&lt;span dir="auto"&gt; &lt;/span&gt;&lt;em&gt;&lt;a href="https://www.straitstimes.com/singapore/community/new-movement-aims-to-get-sporeans-to-read-15-minutes-a-day-through-tracking-platform-virtual-rewards" data-link-name="in body link"&gt;&lt;span dir="auto"&gt;Straits Times&lt;/span&gt;&lt;/a&gt;&lt;/em&gt; la direttrice del consiglio nazionale delle biblioteche di Singapore Melissa Tam.&lt;/p&gt;
+&lt;p&gt;Il governo spera che la strategia di &amp;#8220;&lt;a href="https://www.ilpost.it/2024/05/12/gamification-gioco-app-lavoro/"&gt;gamification&lt;/a&gt;&amp;#8221; e il meccanismo di ricompensa con cui è stata pensata l&amp;#8217;iniziativa possa riavvicinare gradualmente le persone alla lettura: «Sappiamo che le abitudini si costruiscono con piccole azioni costanti. Quindi, partiamo da un obiettivo semplice: leggere per 15 minuti al giorno. Sull&amp;#8217;autobus, prima di andare a letto o durante la pausa pranzo» ha detto allo&lt;span dir="auto"&gt; &lt;/span&gt;&lt;em&gt;&lt;a href="https://www.straitstimes.com/singapore/community/new-movement-aims-to-get-sporeans-to-read-15-minutes-a-day-through-tracking-platform-virtual-rewards"&gt;&lt;span dir="auto"&gt;Straits Times&lt;/span&gt;&lt;/a&gt;&lt;/em&gt; la direttrice del consiglio nazionale delle biblioteche di Singapore Melissa Tam.&lt;/p&gt;
 &lt;p&gt;Dall&amp;#8217;altra parte, oltre a spingere affinché i cittadini leggano di più, Singapore sta valutando se cercare di limitare il &lt;em&gt;doomscrolling&lt;/em&gt;. L&amp;#8217;ipotesi sarebbe imporre, come ormai &lt;a href="https://www.ilpost.it/2026/06/15/regno-unito-divieto-social-network-giovani-minori-starmer/"&gt;molti altri paesi&lt;/a&gt; nel mondo, &lt;a href="https://www.straitstimes.com/singapore/daily-time-limits-on-social-media-among-mandatory-safeguards-considered-for-teens-in-spore?ref=inline-article"&gt;un limite di tempo giornaliero&lt;/a&gt; per l&amp;#8217;utilizzo dei social media per i minori, che sono la fascia che più di tutte rischia di sviluppare isolamento sociale e comportamenti di dipendenza nei confronti dei telefoni.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/16/divieti-social-media-giovani-funzionano/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;I divieti ai social per i minorenni funzionano?&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="instagram" data-url="https://www.instagram.com/p/DdToh_FDuSX/?img_index=1"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p&gt;La preoccupazione del governo è stata mitigata dagli &lt;a href="https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en.html"&gt;ultimi risultati del PISA&lt;/a&gt;, il programma dell’OCSE (l&amp;#8217;Organizzazione per la Cooperazione e lo Sviluppo Economico) che ogni tre anni valuta le competenze in lettura, matematica e scienze degli studenti di 15 anni di diversi paesi nel mondo. Secondo i punteggi del PISA gli studenti di Singapore sono stati valutati come i migliori al mondo per le competenze prese in analisi.&lt;/p&gt;
 &lt;p&gt;Il governo di Singapore utilizza spesso incentivi finanziari per cercare di guidare il comportamento dei propri cittadini: esiste, per esempio, un programma biennale che terminerà nel 2027 che incita le persone a spostarsi a piedi &lt;a href="https://www.onepa.gov.sg/passion-card/passion-deals/explore-singapore-earn-rewards-with-walking-trailscdc"&gt;in cambio di buoni per fare la spesa&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/10/08/consigli-tempo-lettura/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Consigli pratici per trovare il tempo di leggere&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/10/08/consigli-tempo-lettura/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Consigli pratici per trovare il tempo di leggere&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/singapore-iniziativa-lettura-doomscrolling</guid>
-      <pubDate>Wed, 16 Sep 2026 08:50:18 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 06:50:18 +0000</pubDate>
       <dc:creator>Sofia Calvo</dc:creator>
     </item>
     <item>
       <title>Mercoledì 16 settembre</title>
       <link>https://www.ilpost.it/2026/09/16/mercoledi-16-settembre-3</link>
       <description>&lt;p&gt;&lt;em&gt;Le foto dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789538841-AP26258826953728.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789538841-AP26258826953728.jpg" /&gt;&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/09/16/mercoledi-16-settembre-3/ap26258826953728/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x267/1789538841-AP26258826953728.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x267/1789538841-AP26258826953728.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/680x453/1789538841-AP26258826953728.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/768x512/1789538841-AP26258826953728.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/800x533/1789538841-AP26258826953728.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789538841-AP26258826953728.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x267/1789538841-AP26258826953728.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3680353 gallery-columns-3 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/mercoledi-16-settembre-3/ap26258826953728/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789538841-AP26258826953728.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-3680355" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3680353 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/mercoledi-16-settembre-3/ap26258826953728/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789538841-AP26258826953728.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;
- &lt;figcaption class='wp-caption-text gallery-caption' id='gallery-2-3680355'&gt;
+ &lt;figcaption class="wp-caption-text gallery-caption" id="gallery-2-3680355"&gt;
  New York, Stati Uniti
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/mercoledi-16-settembre-3</guid>
-      <pubDate>Wed, 16 Sep 2026 08:08:36 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 06:08:36 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>Peanuts 2026 settembre 16</title>
       <link>https://www.ilpost.it/2026/09/16/peanuts-2026-settembre-16</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789143431-pt_c260916.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" width="1104" height="330" class="alignnone size-large wp-image-3677403" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x203/1789143431-pt_c260916.jpg" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x203/1789143431-pt_c260916.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/400x120/1789143431-pt_c260916.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/768x230/1789143431-pt_c260916.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/800x239/1789143431-pt_c260916.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789143431-pt_c260916.jpg 1104w" sizes="(max-width: 1104px) 100vw, 1104px" /&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/1789143431-pt_c260916.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="alignnone size-large wp-image-3677403" height="330" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/11/680x203/1789143431-pt_c260916.jpg" width="1104" /&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/peanuts-2026-settembre-16</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:55 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 06:00:55 +0000</pubDate>
       <dc:creator>Francesca Lagrotteria</dc:creator>
     </item>
     <item>
       <title>Le prime pagine di oggi</title>
       <link>https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675</link>
       <description>&lt;p&gt;&lt;em&gt;La legge elettorale approvata al Senato, il drone russo abbattuto in Lituania da jet italiani, e il funerale di Bonino&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789534972-la_stampa_apertura.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789534972-la_stampa_apertura.jpg" /&gt;&lt;/p&gt;
 &lt;p class="p1"&gt;Le due notizie principali sulle prime pagine di oggi sono l’approvazione definitiva al Senato del testo della nuova legge elettorale, che adesso dovrà passare all’esame da parte della Camera, e il drone russo abbattuto da due caccia italiani della Nato nello spazio aereo della Lituania, poche ore prima dell’arrivo nel paese del ministro della Difesa Crosetto. Il &lt;em&gt;Sole 24 Ore&lt;/em&gt; si occupa invece della durata dei processi penali in Italia, la &lt;em&gt;Verità&lt;/em&gt; titola sulla decisione del tribunale del riesame di Torino che ha disposto il ritorno in carcere di un uomo accusato di aver molestato una tredicenne, e &lt;em&gt;Libero&lt;/em&gt; critica i tempi per l’espulsione di una persona straniera a cui è stata respinta la richiesta di protezione internazionale.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/1_corriere_della_sera-1128/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x605/1789533999-1_corriere_della_sera.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x605/1789533999-1_corriere_della_sera.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789533999-1_corriere_della_sera.jpg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/400x605/1789533999-1_corriere_della_sera.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3680276 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/1_corriere_della_sera-1128/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789533999-1_corriere_della_sera.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/2_la_repubblica-1108/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534002-2_la_repubblica.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/3_la_stampa-1095/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534007-3_la_stampa.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/4_il_sole_24_ore-1773/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534011-4_il_sole_24_ore.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/5_il_messaggero-1772/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534016-5_il_messaggero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20260916_ilgiornale_naz_1-r3_p0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534021-6_giornale.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/nazionale-1-manifesto-primapagina-pag01-16-09-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534024-7_manifesto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/8_avvenire-1461/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534027-8_avvenire.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/9_il_fatto_quotidiano-1779/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534030-9_il_fatto_quotidiano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/10_verita-1138/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534036-10_verita.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/11_libero-1133/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534040-11_libero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/12_domani-1126/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534044-12_domani.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/13_il_dubbio-930/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534048-13_il_dubbio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/14_il_riformista-1360/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534051-14_il_riformista.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/15_la_notizia-1322/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534055-15_la_notizia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/16_osservatore_romano-1320/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534058-16_osservatore_romano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/17_foglio-1633/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534063-17_foglio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/18_il_secolo_xix-721/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534068-18_il_secolo_xix.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/19_il_mattino-1626/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534071-19_il_mattino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20_il_resto_del_carlino-1309/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534075-20_il_resto_del_carlino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/21_il_gazzettino-1624/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534079-21_il_gazzettino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/22_il_tempo-1588/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534084-22_il_tempo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/23_l_edicola-29/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534088-23_l_edicola.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/24_milano_finanza-1004/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534092-24_milano_finanza.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/25_italia_oggi-1202/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534096-25_italia_oggi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/27_la_gazzetta_del_mezzogiorno-1096/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534100-27_la_gazzetta_del_mezzogiorno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/28_l_eco_di_bergamo-1127/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534104-28_l_eco_di_bergamo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/29_il_piccolo-655/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534107-29_il_piccolo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/30_giornale_di_sicilia-1092/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534111-30_giornale_di_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/31_la_nuova_sardegna-1111/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534115-31_la_nuova_sardegna.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/32_la_sicilia-1102/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534119-32_la_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/34_l_unione_sarda-1055/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534124-34_l_unione_sarda.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/35_messaggero_veneto-653/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534128-35_messaggero_veneto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/36_gazzetta_di_mantova-1038/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534131-36_gazzetta_di_mantova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/37_il_tirreno-1087/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534137-37_il_tirreno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/38_leggo-881/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534142-38_leggo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/39_la_nuova_di_venezia_e_mestre-83/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534147-39_la_nuova_di_venezia_e_mestre.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/39_metro_today-69/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534150-39_metro_today.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/40_giornale_di_brescia-1118/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534154-40_giornale_di_brescia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/41_la_nuova_ferrara-1110/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534159-41_la_nuova_ferrara.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/42_gazzetta_di_modena-1113/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534163-42_gazzetta_di_modena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/43_l_arena-1116/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534167-43_l_arena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/44_il_centro-81/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534172-44_il_centro.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20260916-como-dorso1-pag1-co_prim/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534176-45_provincia_como.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/46_gazzetta_di_parma-77/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534180-46_gazzetta_di_parma.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/47_l_adige-922/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534184-47_l_adige.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/48_gazzetta_del_sud_messina_sicilia-37/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534188-48_gazzetta_del_sud_messina_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/49_corriere_delle_alpi-619/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534192-49_corriere_delle_alpi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/50_il_t-566/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534196-50_il_t.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/50_la_citta_di_salerno-69/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534200-50_la_citta_di_salerno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/51_il_quotidiano_del_sud-1114/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534204-51_il_quotidiano_del_sud.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/52_corriere_dell_umbria-1036/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534209-52_corriere_dell_umbria.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/56_la_prealpina-1106/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534214-56_la_prealpina.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/57_corriere_del_ticino-399/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534219-57_corriere_del_ticino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/58_la_gazzetta_dello_sport-1131/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534223-58_la_gazzetta_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/59_corriere_dello_sport-1128/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534227-59_corriere_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/60_tuttosport-1129/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534232-60_tuttosport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3680276 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/1_corriere_della_sera-1128/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789533999-1_corriere_della_sera.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/2_la_repubblica-1108/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534002-2_la_repubblica.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/3_la_stampa-1095/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534007-3_la_stampa.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/4_il_sole_24_ore-1773/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534011-4_il_sole_24_ore.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/5_il_messaggero-1772/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534016-5_il_messaggero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20260916_ilgiornale_naz_1-r3_p0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534021-6_giornale.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/nazionale-1-manifesto-primapagina-pag01-16-09-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534024-7_manifesto.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/8_avvenire-1461/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534027-8_avvenire.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/9_il_fatto_quotidiano-1779/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534030-9_il_fatto_quotidiano.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/10_verita-1138/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534036-10_verita.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/11_libero-1133/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534040-11_libero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/12_domani-1126/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534044-12_domani.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/13_il_dubbio-930/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534048-13_il_dubbio.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/14_il_riformista-1360/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534051-14_il_riformista.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/15_la_notizia-1322/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534055-15_la_notizia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/16_osservatore_romano-1320/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534058-16_osservatore_romano.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/17_foglio-1633/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534063-17_foglio.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/18_il_secolo_xix-721/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534068-18_il_secolo_xix.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/19_il_mattino-1626/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534071-19_il_mattino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20_il_resto_del_carlino-1309/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534075-20_il_resto_del_carlino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/21_il_gazzettino-1624/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534079-21_il_gazzettino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/22_il_tempo-1588/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534084-22_il_tempo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/23_l_edicola-29/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534088-23_l_edicola.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/24_milano_finanza-1004/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534092-24_milano_finanza.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/25_italia_oggi-1202/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534096-25_italia_oggi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/27_la_gazzetta_del_mezzogiorno-1096/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534100-27_la_gazzetta_del_mezzogiorno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/28_l_eco_di_bergamo-1127/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534104-28_l_eco_di_bergamo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/29_il_piccolo-655/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534107-29_il_piccolo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/30_giornale_di_sicilia-1092/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534111-30_giornale_di_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/31_la_nuova_sardegna-1111/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534115-31_la_nuova_sardegna.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/32_la_sicilia-1102/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534119-32_la_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/34_l_unione_sarda-1055/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534124-34_l_unione_sarda.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/35_messaggero_veneto-653/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534128-35_messaggero_veneto.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/36_gazzetta_di_mantova-1038/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534131-36_gazzetta_di_mantova.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/37_il_tirreno-1087/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534137-37_il_tirreno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/38_leggo-881/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534142-38_leggo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/39_la_nuova_di_venezia_e_mestre-83/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534147-39_la_nuova_di_venezia_e_mestre.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/39_metro_today-69/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534150-39_metro_today.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/40_giornale_di_brescia-1118/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534154-40_giornale_di_brescia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/41_la_nuova_ferrara-1110/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534159-41_la_nuova_ferrara.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/42_gazzetta_di_modena-1113/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534163-42_gazzetta_di_modena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/43_l_arena-1116/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534167-43_l_arena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/44_il_centro-81/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534172-44_il_centro.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/20260916-como-dorso1-pag1-co_prim/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534176-45_provincia_como.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/46_gazzetta_di_parma-77/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534180-46_gazzetta_di_parma.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/47_l_adige-922/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534184-47_l_adige.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/48_gazzetta_del_sud_messina_sicilia-37/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534188-48_gazzetta_del_sud_messina_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/49_corriere_delle_alpi-619/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534192-49_corriere_delle_alpi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/50_il_t-566/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534196-50_il_t.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/50_la_citta_di_salerno-69/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534200-50_la_citta_di_salerno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/51_il_quotidiano_del_sud-1114/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534204-51_il_quotidiano_del_sud.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/52_corriere_dell_umbria-1036/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534209-52_corriere_dell_umbria.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/56_la_prealpina-1106/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534214-56_la_prealpina.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/57_corriere_del_ticino-399/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534219-57_corriere_del_ticino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/58_la_gazzetta_dello_sport-1131/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534223-58_la_gazzetta_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/59_corriere_dello_sport-1128/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534227-59_corriere_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675/60_tuttosport-1129/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/130x91/1789534232-60_tuttosport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/le-prime-pagine-di-oggi-4675</guid>
-      <pubDate>Wed, 16 Sep 2026 07:03:00 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 05:03:00 +0000</pubDate>
       <dc:creator>Nicola Sofri</dc:creator>
     </item>
     <item>
       <title>L’Arabia Saudita dice che gli Houthi hanno provato ad attaccare la Mecca</title>
       <link>https://www.ilpost.it/2026/09/16/arabia-saudita-accuse-houthi-attacco-la-mecca</link>
       <description>&lt;p&gt;&lt;em&gt;Colpire la città santa per le persone musulmane sorpasserebbe una «linea rossa», ha detto il portavoce dell&amp;#x27;esercito &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789534297-AP26258686140003.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789534297-AP26258686140003.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;esercito guidato dall&amp;#8217;Arabia Saudita in Yemen ha detto che martedì un drone lanciato dagli Houthi è stato distrutto poco prima di entrare nello spazio aereo sopra la Mecca, la città saudita santa per le persone musulmane. Gli Houthi, milizia sciita e filoiraniana, hanno negato categoricamente le accuse.&lt;/p&gt;
 &lt;p&gt;Un attacco aereo degli Houthi sulla Mecca sarebbe molto grave per almeno due ragioni. La prima è che alzerebbe di molto il livello dello scontro in corso tra il gruppo e l&amp;#8217;Arabia Saudita, il paese che sostiene il governo dello Yemen con cui gli Houthi sono in guerra dal 2014 (per questo in Yemen ci sono soldati sauditi, e per questo gli Houthi considerano i sauditi nemici).&lt;/p&gt;
 &lt;p&gt;Gli Houthi controllano parte dello Yemen del nord, e nelle ultime settimane hanno intensificato gli attacchi contro l&amp;#8217;Arabia Saudita, colpendo città, impianti petroliferi e basi militari. Domenica un portavoce del gruppo ha avvertito i sauditi di aspettarsi attacchi più intensi e più in profondità nel loro territorio.&lt;/p&gt;
 &lt;p&gt;La seconda ragione è che la Mecca di per sé ha un importanza simbolica impareggiabile nel mondo musulmano. Ospita alcuni dei luoghi più sacri dell&amp;#8217;Islam, tra cui la Grande Moschea con al centro la Ka&amp;#8217;ba, la struttura cubica nera verso cui sono indirizzate le preghiere, ed è la destinazione dell&amp;#8217;Hajj, l&amp;#8217;enorme pellegrinaggio annuale che ogni fedele dovrebbe compiere almeno una volta nella vita. Un portavoce dell&amp;#8217;esercito a guida saudita in Yemen ha definito un attacco sulla città una «linea rossa» da non oltrepassare.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader" data-id="eJ06t" data-height="400"&gt;&lt;/div&gt;
+&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;
 &lt;p&gt;Ad agosto, visto l&amp;#8217;intensificarsi degli scontri, l&amp;#8217;Arabia Saudita aveva firmato con Turchia e Pakistan &lt;a href="https://www.ilpost.it/2026/08/07/patto-arabia-turchia-pakistan/"&gt;un patto di mutua difesa&lt;/a&gt;, che prevede l&amp;#8217;intervento degli altri due paesi in caso uno di questi venga attaccato. È stato firmato nel contesto della guerra in Medio Oriente, soprattutto per tutelare i paesi dagli attacchi dell&amp;#8217;Iran, e finora non è mai stato attivato. La settimana scorsa però il ministero della Difesa pakistano aveva detto che un&amp;#8217;aggressione degli Hoithi sui sauditi avrebbe «senza dubbio» attivato l&amp;#8217;alleanza.&lt;/p&gt;
 &lt;p&gt;Nelle ultime settimane gli Houthi hanno ottenuto alcune importanti vittorie. Sono avanzati verso sud e hanno preso il controllo di nuove aree del paese. Parliamo della costa occidentale e dell’area intorno allo stretto di Bab el Mandeb, un altro snodo fondamentale del commercio internazionale, verso cui in questi mesi l&amp;#8217;Arabia Saudita aveva dirottato gran parte del suo petrolio dopo la chiusura dello stretto di Hormuz. Gli Houthi hanno anche occupato l’isola di Perim e la città di Mocha, poco più a nord di Bab el Mandeb.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader" data-id="ckkVK" data-height="400"&gt;&lt;/div&gt;
-</description>
+&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/arabia-saudita-accuse-houthi-attacco-la-mecca</guid>
-      <pubDate>Wed, 16 Sep 2026 07:02:07 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 05:02:07 +0000</pubDate>
       <dc:creator>Antonella Serrecchia</dc:creator>
     </item>
     <item>
       <title>La polizia turca ha fermato decine di persone della comunità LGBTQ+ che chiedevano di liberare quelle arrestate nel weekend</title>
       <link>https://www.ilpost.it/2026/09/16/turchia-fermo-persone-comunita-lgbtq</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789531740-AP26258405268223.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/16/1789531740-AP26258405268223.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Martedì le forze dell’ordine turche hanno fermato almeno 126 persone che stavano manifestando per i diritti della comunità LGBTQ+ sia nella capitale Ankara che davanti al principale tribunale di Istanbul, e ne hanno arrestate altre 31. Stavano protestando per ottenere la liberazione degli attivisti che erano stati &lt;a href="https://www.ilpost.it/2026/09/13/turchia-polizia-arresti-lgbtq/"&gt;arrestati&lt;/a&gt; in una più ampia operazione di repressione voluta dal governo nei giorni scorsi. In una serie di perquisizioni in locali, sedi di associazioni e in qualche caso anche a casa degli attivisti, la polizia turca aveva arrestato più di 160 persone legate agli ambienti LGBTQ+, accusandole a vario titolo di prostituzione e oscenità. L’operazione si era svolta in 15 province in tutto il paese.&lt;/p&gt;
-&lt;p&gt;In Turchia le relazioni tra persone dello stesso sesso non sono illegali, ma l&amp;#8217;omofobia è diffusa, e nei suoi oltre vent&amp;#8217;anni di governo sempre più autoritario il presidente turco Recep Tayyip Erdoğan ha intensificato la repressione della comunità LGBTQ+. Il governo ha anche fatto bloccare decine di siti e profili di persone, canali o attività.&lt;/p&gt;
-</description>
+&lt;p&gt;In Turchia le relazioni tra persone dello stesso sesso non sono illegali, ma l&amp;#8217;omofobia è diffusa, e nei suoi oltre vent&amp;#8217;anni di governo sempre più autoritario il presidente turco Recep Tayyip Erdoğan ha intensificato la repressione della comunità LGBTQ+. Il governo ha anche fatto bloccare decine di siti e profili di persone, canali o attività.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/16/turchia-fermo-persone-comunita-lgbtq</guid>
-      <pubDate>Wed, 16 Sep 2026 06:32:43 +0200</pubDate>
+      <pubDate>Wed, 16 Sep 2026 04:32:43 +0000</pubDate>
       <dc:creator>Susanna Baggio</dc:creator>
     </item>
     <item>
@@ -1271,133 +1301,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/15/le-prime-pagine-di-oggi-4674</guid>
       <pubDate>Tue, 15 Sep 2026 05:02:18 +0000</pubDate>
       <dc:creator>Nicola Sofri</dc:creator>
-    </item>
-    <item>
-      <title>Le foto e i vincitori degli Emmy 2026</title>
-      <link>https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori</link>
-      <description>&lt;p&gt;&lt;em&gt;Sono i più importanti premi statunitensi dedicati alla tv: quelli principali sono stati assegnati a &amp;quot;Widow&amp;#x27;s Bay&amp;quot; e &amp;quot;The Pitt&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/1789447331-AP26258125983496.jpg" /&gt;&lt;/p&gt;
-
-                    
-&lt;p&gt;Nella notte tra lunedì e martedì a Los Angeles c&amp;#8217;è stata la cerimonia di assegnazione degli Emmy, i più importanti premi degli Stati Uniti dedicati alla tv. &lt;em&gt;The Pitt&lt;/em&gt; e &lt;em&gt;Widow&amp;#8217;s Bay&lt;/em&gt;, due tra le serie più discusse e apprezzate dell&amp;#8217;ultimo anno, sono state premiate rispettivamente come miglior serie drammatica e miglior serie comedy.&lt;/p&gt;
-
- 
- 
- &lt;div class="split-gal" id="gallery-new"&gt;
- &lt;figure class="split-gal-el"&gt;
- &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-press-room-7/" title="vai alla fotogallery"&gt;
- &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/400x267/1789452434-AP26258075318774.jpg" width="400" /&gt;
- &lt;span class="arrow"&gt;&lt;/span&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- &lt;span class="caption"&gt;&lt;/span&gt;
- &lt;/figure&gt;
- &lt;/div&gt;&lt;div class="gallery galleryid-3679230 gallery-columns-5 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-press-room-7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452434-AP26258075318774.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-press-room-6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452397-AP26258125983496.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-emmy-awards-press-room-3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452620-AP26258139240759.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-emmy-awards-press-room/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789450688-AP26258126935261.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-09-15t020139z_912887063_hp1em9f05esig_rtrmadp_3_awards-emmys/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452159-2026-09-15T020139Z_912887063_HP1EM9F05ESIG_RTRMADP_3_AWARDS-EMMYS.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-09-15t033717z_1306852516_hp1em9f03dofx_rtrmadp_3_awards-emmys/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452163-2026-09-15T033717Z_1306852516_HP1EM9F03DOFX_RTRMADP_3_AWARDS-EMMYS.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-arrivals-4/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452220-AP26257855399956.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-arrivals-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452258-AP26257837975932.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-show-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452313-AP26258008793556.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-press-room-5/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452359-AP26258062797101.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/aptopix-2026-emmy-awards-arrivals-6/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789452535-AP26258004214346.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-09-15t030032z_976916324_hp1em9f08ctle_rtrmadp_3_awards-emmys/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789453326-2026-09-15T030032Z_976916324_HP1EM9F08CTLE_RTRMADP_3_AWARDS-EMMYS.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon landscape"&gt;
- &lt;a href="https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori/2026-09-15t031922z_1747740720_hp1em9f0988m4_rtrmadp_3_awards-emmys/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/15/130x91/1789453330-2026-09-15T031922Z_1747740720_HP1EM9F0988M4_RTRMADP_3_AWARDS-EMMYS.jpg" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-&lt;p&gt;Quella che ha avuto più successo nell&amp;#8217;edizione di quest&amp;#8217;anno è stata appunto &lt;em&gt;&lt;a href="https://www.ilpost.it/2026/06/13/serie-tv-widow-s-bay/"&gt;Widow&amp;#8217;s Bay&lt;/a&gt;, &lt;/em&gt;che ha ottenuto quattordici Emmy. Combina il genere dell&amp;#8217;horror a quello della commedia, e racconta le vicende di una piccola città del New England che è afflitta da una maledizione. L&amp;#8217;attore gallese Matthew Rhys, il suo protagonista, ha vinto il premio come miglior attore in una serie comedy, e anche quello come miglior attore per una miniserie per &lt;em&gt;The Beast in Me.&lt;/em&gt; In questa serie ha recitato accanto all&amp;#8217;attrice Claire Danes, interpretando il suo vicino di casa da cui lei diventa ossessionata.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.ilpost.it/2025/09/26/the-pitt-er/"&gt;&lt;em&gt;The Pitt&lt;/em&gt;&lt;/a&gt; invece segue le vicende di un pronto soccorso di Pittsburgh e nell&amp;#8217;edizione dell&amp;#8217;anno scorso aveva ottenuto sei premi: anche quest&amp;#8217;anno Noah Wyle ha vinto il premio come miglior attore in una serie drammatica.&lt;/p&gt;
-&lt;p&gt;Durante la serata l&amp;#8217;attore e produttore cinematografico statunitense, Michael J. Fox, ha ricevuto il premio umanitario Bob Hope per via della sua campagna a supporto del Parkinson.&lt;/p&gt;
-&lt;p&gt;La lista di tutti i premi:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior serie drammatica&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The Pitt&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore protagonista in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Noah Wyle, &lt;em&gt;The Pitt&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice protagonista in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Rhea Seehorn, &lt;em&gt;Pluribus&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore non protagonista in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Tom Pelphrey, &lt;em&gt;Task&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice non protagonista in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Allison Janney, &lt;em&gt;The Diplomat&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior serie comedy&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em style="font-size: 17px;"&gt;Widow&amp;#8217;s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore protagonista in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Matthew Rhys, &lt;em&gt;Widow&amp;#8217;s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice protagonista in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Jean Smart, &lt;em&gt;Hacks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore non protagonista in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Stephen Root, &lt;em&gt;Widow’s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice non protagonista in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Kate O’Flynn, &lt;em&gt;Widow’s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior sceneggiatura in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Vince Gilligan, &lt;em&gt;Pluribus&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior regia in una serie drammatica&lt;/strong&gt;&lt;br /&gt;
-Saul Metzstein, &lt;em&gt;Slow Horses&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior sceneggiatura in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Katie Dippold, &lt;em&gt;Widow’s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior regia in una serie comedy&lt;/strong&gt;&lt;br /&gt;
-Hiro Murai, &lt;em&gt;Widow&amp;#8217;s Bay&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior miniserie&lt;br /&gt;
-&lt;/strong&gt;&lt;em&gt;DTF Saint Louis&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore protagonista in una miniserie o film&lt;br /&gt;
-&lt;/strong&gt;Matthew Rhys, &lt;em&gt;The Beast in Me&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice protagonista in una miniserie o film&lt;/strong&gt;&lt;br /&gt;
-Sally Field,&lt;em&gt; Remarkably Bright Creatures&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attore non protagonista in una miniserie o film&lt;/strong&gt;&lt;br /&gt;
-David Harbour, &lt;em&gt;DTF Saint Louis&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior attrice non protagonista in una miniserie o film&lt;/strong&gt;&lt;br /&gt;
-Linda Cardellini, &lt;em&gt;DTF Saint Louis&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior regia in una miniserie o film&lt;/strong&gt;&lt;br /&gt;
-Steve Conrad, &lt;em&gt;DTF Saint Louis&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior reality competitivo&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The Traitors&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miglior varietà talk show&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;The Late Show with Stephen Colbert&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;La lista completa dei vincitori si può trovare &lt;a href="https://www.televisionacademy.com/awards/nominees-winners"&gt;qui&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/15/emmy-2026-foto-vincitori</guid>
-      <pubDate>Tue, 15 Sep 2026 04:59:08 +0000</pubDate>
-      <dc:creator>Matilda Ferraris</dc:creator>
-    </item>
-    <item>
-      <title>L’aeroporto di Catania resterà chiuso almeno fino alle 10 di martedì a causa dell’eruzione dell’Etna</title>
-      <link>https://www.ilpost.it/2026/09/14/catania-chiusura-aeroporto</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/14/1789372308-ilpost_20260914094333560_6075a7be14778709cff5949f83028038.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;La Sac, la società che gestisce l’aeroporto di Catania, ha detto che tutti i voli in arrivo e in partenza saranno sospesi &lt;span draggable="true"&gt;&lt;a href="https://www.aeroporto.catania.it/news/AGGIORNAMENTO-ETNA" rel="noopener noreferrer" target="_blank"&gt;almeno&lt;/a&gt;&lt;/span&gt; fino alle 10 del mattino di martedì a causa dell’attività vulcanica dell&amp;#8217;Etna. L’aeroporto di Catania è il quinto aeroporto italiano, con oltre 12,3 milioni di passeggeri all’anno, e la vicinanza al vulcano ha spesso causato problemi. Anche ad agosto c&amp;#8217;era stata una chiusura che aveva causato gravi &lt;a href="https://www.ilpost.it/2026/08/15/chiusura-aeroporto-catania-guaio-palermo-trapani/"&gt;disagi&lt;/a&gt; a decine di migliaia di persone.&lt;/p&gt;
-&lt;p&gt;Il provvedimento sulla sospensione dei voli è stato preso dopo che l&amp;#8217;Istituto Nazionale di Geofisica e Vulcanologia (INGV) aveva alzato il livello di allerta per l&amp;#8217;aviazione da arancione a rosso a causa di un’emissione di cenere vulcanica, e in serata è stato prorogato fino a martedì. L&amp;#8217;aeroporto ha invitato i passeggeri a verificare lo stato del loro volo prima di presentarsi.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/08/13/perche-aeroporto-catania-vicino-vulcano-etna/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Com’è possibile che l’aeroporto di Catania sia proprio lì&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/14/catania-chiusura-aeroporto</guid>
-      <pubDate>Mon, 14 Sep 2026 18:00:39 +0000</pubDate>
-      <dc:creator>Susanna Baggio</dc:creator>
     </item>
   </channel>
 </rss>
