@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 26 Sep 2026 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:01:56 +0000</lastBuildDate>
+    <item>
+      <title>C’è stata un’esplosione in una palazzina in un quartiere turistico in centro ad Atene: sei persone sono morte</title>
+      <link>https://www.ilpost.it/2026/09/26/atene-grecia-esplosione-palazzina-morti</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/26/1790442392-AP26269263754059.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Attorno alle 7:30 di sabato mattina una grossa esplosione ha distrutto una palazzina a due piani in un quartiere centrale di Atene e provocato la morte di sei persone, che sono poi state trovate tra le macerie. La palazzina era a poche centinaia di metri dall’Acropoli, probabilmente il sito turistico più noto della capitale della Grecia, e Plaka, il quartiere in cui si trovava, è un’area piena di hotel e appartamenti con affitti a breve termine. Quattro delle persone morte erano turisti statunitensi che avevano affittato un appartamento al primo piano dell’edificio. Le altre due sono una coppia che viveva al secondo: una donna greca di 77 anni e un uomo britannico di 78.&lt;/p&gt;
+&lt;p&gt;L’esplosione ha danneggiato anche i due edifici che si trovavano accanto alla palazzina, e ferito leggermente un passante. L’ipotesi principale è che sia stata causata da un malfunzionamento dell’impianto per la distribuzione del gas nell&amp;#8217;edificio. Andreas Grammatikogiannis, il responsabile della protezione civile dell’amministrazione cittadina, ha detto che comunque si sta indagando per conoscerne le cause precise.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/HtYSrB-GNUM?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="si=yY_J07dZTTUf4MWt" data-thumbnail="https://i.ytimg.com/vi/HtYSrB-GNUM/hq2.jpg"&gt;&lt;/div&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/09/26/atene-grecia-esplosione-palazzina-morti</guid>
+      <pubDate>Sat, 26 Sep 2026 19:23:11 +0200</pubDate>
+      <dc:creator>Susanna Baggio</dc:creator>
+    </item>
     <item>
       <title>Weekly Beasts</title>
       <link>https://www.ilpost.it/2026/09/26/weekly-beasts-608</link>
@@ -1276,17 +1288,6 @@
       <guid isPermaLink="false">https://www.ilpost.it/2026/09/25/sinner-salta-torneo-pechino-ginocchio</guid>
       <pubDate>Fri, 25 Sep 2026 11:22:22 +0000</pubDate>
       <dc:creator>Antonella Serrecchia</dc:creator>
-    </item>
-    <item>
-      <title>I criminali che hanno truffato Revolut hanno messo online alcune anteprime dei file italiani che dicono di possedere</title>
-      <link>https://www.ilpost.it/2026/09/25/criminali-informatici-truffa-revolut-online-anteprime-file-italiani</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/25/1790331635-GettyImages-2248981406.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;I criminali informatici che hanno ottenuto i dati di centinaia di clienti della banca digitale Revolut hanno pubblicato su un sito del dark web le anteprime di alcuni file relativi a persone e istituzioni italiane, tra cui documenti di funzionari pubblici, tessere sanitarie e passaporti diplomatici. Il gruppo, che si fa chiamare IAmNotAVillain, sostiene di essere riuscito a entrare in possesso di 147 gigabyte di dati della polizia italiana. Il ministero dell&amp;#8217;Interno aveva detto che tra i 680 clienti di Revolut a cui erano stati rubati i dati, 8 erano italiani.&lt;/p&gt;
-&lt;p&gt;I circa 85mila file, si trovano all&amp;#8217;interno di una cartella chiamata &amp;#8220;Italy files&amp;#8221; e per il momento non è possibile scaricarli. Non è però chiaro se siano collegati ai dati sottratti a Revolut. Nei giorni scorsi anche altri documenti rubati erano stati resi disponibili in una versione parziale: in alcuni si vedeva solo il viso o il documento di identità dell’utente, in altri le transazioni avvenute sul conto.&lt;/p&gt;
-&lt;p&gt;La truffa era stata compiuta usando un indirizzo di posta elettronica ufficiale della &lt;a href="https://www.ilpost.it/2026/09/16/mail-reggio-calabria-truffa-revolut/"&gt;prefettura di Reggio Calabria&lt;/a&gt; che era stato violato in precedenza, e che i criminali avevano usato per fingersi investigatori impegnati in un’inchiesta. Nelle scorse settimane il gruppo aveva pubblicato una &lt;a href="https://www.ilpost.it/2026/09/17/revolut-riscatto-dati-rubati/"&gt;richiesta di riscatto&lt;/a&gt;, ma l&amp;#8217;azienda non aveva pagato. Aveva quindi &lt;a href="https://www.ilpost.it/2026/09/24/revolut-minaccia-utenti/"&gt;avviato le vendite&lt;/a&gt;, offrendo alle persone a cui sono stati rubati i dati la possibilità di pagare per far rimuovere le loro informazioni prima che venissero vendute.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/09/25/criminali-informatici-truffa-revolut-online-anteprime-file-italiani</guid>
-      <pubDate>Fri, 25 Sep 2026 11:02:24 +0000</pubDate>
-      <dc:creator>Alice De Luca</dc:creator>
     </item>
   </channel>
 </rss>
