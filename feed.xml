@@ -7,82 +7,156 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:02:08 +0000</lastBuildDate>
+    <item>
+      <title>I problemi dei dispositivi che ci ascoltano in continuazione</title>
+      <link>https://www.ilpost.it/2026/10/05/dispositivi-ascoltano-continuazione-privacy</link>
+      <description>&lt;p&gt;&lt;em&gt;Sono quelli che si indossano e che sfruttano le AI per raccogliere e ordinare informazioni quotidiane, ma non registrano solo chi li usa&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/30/1790790422-ai-friend.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Negli ultimi anni diverse aziende e startup hanno messo in vendita dispositivi basati sull’intelligenza artificiale pensati per ascoltare continuamente l’utente, in modo da analizzarne le conversazioni, ricordare appuntamenti e dare consigli sulla base di quanto sentito nel corso del giorno.&lt;/p&gt;
+&lt;p&gt;Un caso emblematico, in questo senso, è quello di Friend, una startup statunitense che nel 2024 presentò un dispositivo a forma di ciondolo, in grado di ascoltare in continuazione quello che l&amp;#8217;utente diceva e dare consigli con un tono diretto e ironico. Altre aziende, come Pocket e Plaud, hanno creato prodotti pensati per le riunioni e per gli ambienti di lavoro, in grado di registrare quanto viene detto per poi riassumerlo o analizzarlo sulla base delle richieste dell’utente.&lt;/p&gt;
+&lt;p&gt;La diffusione di prodotti simili sta già cambiando le abitudini di molti utenti, &lt;a href="https://www.ilpost.it/2026/09/08/parlare-con-dispositivi-ai/"&gt;sempre più abituati&lt;/a&gt; a comunicare vocalmente con i sistemi AI con cui lavorano, ma sta anche generando polemiche sui rischi legati alla violazione della privacy delle persone che potrebbero essere registrate senza il loro consenso. Da questo punto di vista, il fenomeno ricorda quello dei Ray-Ban Meta Glasses, gli occhiali smart di Meta.&lt;/p&gt;
+&lt;p&gt;Pur non essendo progettati per un ascolto continuo e indiscriminato, infatti, questi dispositivi sono dotati di fotocamere, sensori e microfoni, e possono quindi registrare e riprendere in qualsiasi momento, spesso passando inosservati. L’unico segnale è infatti una spia luminosa sulla montatura che si accende mentre l’apparecchio sta registrando. Il risultato è che molti utenti li usano per riprendere persone che non ne sono al corrente e pubblicare questi video online, motivo per cui sono stati molto criticati e soprannominati “pervert glasses”, occhiali da pervertito.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/07/28/occhiali-meta-critiche-registrazioni-non-consensuali/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Gli occhiali di Meta vendono bene ma razzolano male&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;La reazione negativa legata a questi abusi ha spinto Meta a intervenire con un nuovo modello di occhiali smart “audio-only”, cioè senza videocamera.&lt;/p&gt;
+&lt;p&gt;Il problema della violazione della privacy altrui – di amici, colleghi e passanti che non sanno di essere registrati – però rimane. Secondo Guido Scorza, giurista ed ex componente del Garante per la protezione dei dati personali, «questi e altri dispositivi esistono ed esisteranno sempre di più». Fanno parte di quello che definisce un «baratto», ovvero un processo iniziato anni fa con i social network e gli smartphone, per cui l’utente ottiene dei servizi in cambio della condivisione di dati personali con le aziende.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="instagram" data-url="https://www.instagram.com/p/DdByb2sgCp-/?utm_source=ig_web_copy_link&amp;#038;stkn=MzRlODBiNWFlZA=="&gt;&lt;/div&gt;
+&lt;p&gt;Stando al Regolamento europeo sui dati personali (GDPR), le responsabilità di eventuali abusi o invasioni della privacy altrui ricadono sul fornitore del servizio che raccoglie e tratta i dati registrati, non sul produttore del dispositivo che è stato usato: questi a volte coincidono, ma non sempre. Secondo Scorza, il regolamento potrebbe essere aggiornato specificando che anche il produttore può essere responsabile di eventuali abusi, se progetta un prodotto che «consente troppo facilmente invasioni della privacy da parte degli utenti».&lt;/p&gt;
+&lt;p&gt;​​La cattiva nomea di questi dispositivi non ha comunque impedito a Apple di presentare delle nuove funzionalità, Live Rewind e Siri Recap, che sembrano andare nella direzione dell&amp;#8217;ascolto continuo degli utenti. Le novità hanno fatto molto discutere: per gli standard del settore, infatti, Apple è particolarmente attenta alla privacy dei suoi utenti, e le novità in questione sono state viste come un drastico cambio di strategia per l&amp;#8217;azienda.&lt;/p&gt;
+&lt;p&gt;La decisione di Apple può essere però spiegata in due modi: da un lato, la necessità di inseguire Meta, &lt;a href="https://www.ilpost.it/2026/07/05/senso-occhiali-smart/"&gt;che ha una posizione dominante&lt;/a&gt; nel settore degli occhiali smart; e dall&amp;#8217;altro, la competizione nel settore delle AI, che sta spingendo molte aziende tecnologiche a produrre dispositivi simili.&lt;/p&gt;
+&lt;p&gt;Live Rewind e Siri Recap interessano per ora solo le versioni più avanzate dello smartwatch di Apple. Con Live Rewind si può ottenere una trascrizione di quanto detto negli ultimi 15 secondi premendo due volte la Digital Crown, la corona del dispositivo: è una funzione che può tornare utile durante conversazioni di lavoro, per esempio se ci si è distratti per un istante e si vuole essere sicuri di non aver perso dettagli importanti. Quanto a Siri Recap, invece, una volta attivata dall&amp;#8217;utente permette di registrare le sue conversazioni per poi riassumerle e offrire consigli o promemoria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2019/01/02/cellulari-ascoltano-facebook-microfono/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;I nostri cellulari non ci ascoltano&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Le registrazioni di Live Rewind, però, non vengono salvate ma continuamente sovrascritte: quando l’utente richiede la trascrizione di quanto detto negli ultimi 15 secondi, la porzione di audio richiesta viene convertita in testo e la registrazione corrispondente eliminata. Le elaborazioni necessarie avvengono all&amp;#8217;interno del dispositivo, in una parte isolata dal resto del sistema, detta Secure Enclave. Al momento dell&amp;#8217;attivazione di Live Rewind, inoltre, Apple Watch emette un avviso sonoro per avvisare gli altri che l&amp;#8217;utente sta utilizzando quel servizio (non sono invece previsti avvisi per Siri Recap).&lt;/p&gt;
+&lt;p&gt;Secondo Jenna Sherman, direttrice dell&amp;#8217;organizzazione non profit UltraViolet, il problema principale è che questi dispositivi sono spesso attivi di default, e sta ai singoli utenti decidere se disattivarli. «Poter scegliere di disattivarli è molto diverso dallo sceglierli attivamente», &lt;a href="https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance"&gt;ha spiegato&lt;/a&gt; al sito &lt;em&gt;The Verge&lt;/em&gt;. «Nel primo caso una persona deve essere informata e scegliere consapevolmente qualcosa; nel secondo, la scelta è passiva e non mette alcun potere nelle mani del consumatore».&lt;/p&gt;
+&lt;p&gt;Quanto alle spie luminose o agli avvisi sonori, non possono essere considerate una soluzione. Anzi, conclude Sherman, «si finisce per scaricare sui consumatori la responsabilità di stare attenti a mille cose diverse, quando quella responsabilità dovrebbe essere, dal punto di vista etico e legale, delle aziende stesse».&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/dispositivi-ascoltano-continuazione-privacy</guid>
+      <pubDate>Mon, 05 Oct 2026 09:59:15 +0200</pubDate>
+      <dc:creator>Marta Impedovo</dc:creator>
+    </item>
+    <item>
+      <title>Da domani saranno applicate le accise mobili sul prezzo del gasolio</title>
+      <link>https://www.ilpost.it/2026/10/05/accise-mobili-6-ottobre</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791183837-1791180919-ilpost_20261005081450215_1e5774202b9701c651deaecf245c67ce.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Lunedì &lt;a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticoloDefault/originario?atto.codiceRedazionale=26G00181&amp;amp;atto.dataPubblicazioneGazzetta=2026-09-17&amp;amp;atto.tipoProvvedimento=DECRETO-LEGGE"&gt;finisce&lt;/a&gt; lo sconto fisso sulle accise del gasolio deciso dal governo per contenere l&amp;#8217;aumento di prezzo e da martedì si passerà al meccanismo delle &amp;#8220;accise mobili&amp;#8221;: la riduzione applicata cambierà in base alle entrate fiscali generate dalle vendite dei carburanti. Se l’aumento del prezzo internazionale del petrolio produrrà maggiori entrate IVA rispetto al valore di riferimento indicato nell’ultimo documento di finanza pubblica, quindi, queste potranno essere utilizzate per finanziare una riduzione delle accise sui carburanti.&lt;/p&gt;
+&lt;p&gt;Fino a lunedì lo sconto è stato fisso e noto con anticipo; da martedì invece la riduzione sarà stabilita in base alle entrate del mese precedente, con lo stesso meccanismo usato anche a marzo e ad aprile. Nell’ultimo mese lo sconto sul gasolio è stato ridotto progressivamente: era di 17 centesimi fino al 17 settembre, poi di 12 centesimi dal 18 al 25 settembre e, infine, di 6 centesimi dal 26 settembre al 5 ottobre.&lt;/p&gt;
+&lt;p&gt;Nell’ultima settimana il prezzo medio era sceso di 11 centesimi per la benzina e di 13 centesimi per il gasolio, anche grazie agli sconti introdotti da diverse compagnie petrolifere. I prezzi sono stati comunque più alti del 30 per cento rispetto al periodo prima della guerra in Iran.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/29/limite-prezzo-carburanti-aziende-energetiche-eni-ip-q8/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Cosa c’è dietro al limite al prezzo dei carburanti di Eni, IP e Q8&lt;/a&gt;&lt;/p&gt;
+
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/accise-mobili-6-ottobre</guid>
+      <pubDate>Mon, 05 Oct 2026 09:56:13 +0200</pubDate>
+      <dc:creator>Ilaria Sisto</dc:creator>
+    </item>
+    <item>
+      <title>Il primo azionista di Intesa appoggia l’operazione di Intesa per prendersi MPS</title>
+      <link>https://www.ilpost.it/2026/10/05/delfin-adesione-offerta-intesa-sanpaolo-mps</link>
+      <description>&lt;p&gt;&lt;em&gt;La famiglia Del Vecchio, con questa decisione, potrebbe portarsi dietro altri azionisti più piccoli&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791184397-GettyImages-2212128836.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Domenica sera il primo azionista di MPS &lt;a href="https://group.intesasanpaolo.com/it/investor-relations/comunicati-stampa-price-sensitive/2026/10/202610-cs-it"&gt;ha detto che aderirà&lt;/a&gt; all&amp;#8217;&lt;a href="https://www.ilpost.it/2026/06/09/intesa-sanpaolo-opas-mps-risiko-bancario/"&gt;offerta di Intesa Sanpaolo per comprare MPS&lt;/a&gt;. È una buona notizia per Intesa, non solo perché il primo azionista porta con sé una quota rilevante di azioni, rendendo più probabile la riuscita dell&amp;#8217;acquisizione, ma anche perché in questo caso il primo azionista è Delfin, la holding lussemburghese della famiglia Del Vecchio, &lt;a href="https://www.ilpost.it/2026/07/06/delfin-del-vecchio-leonardo-maria-del-vecchio-essilorluxottica-mediobanca-generali/"&gt;potente famiglia di imprenditori&lt;/a&gt; che possiede il gruppo di occhialeria EssilorLuxottica.&lt;/p&gt;
+&lt;p&gt;Delfin ha il 17,5 per cento di MPS, e la loro adesione potrebbe invogliare anche gli azionisti più piccoli a fare lo stesso. È plausibile che succeda anche perché la decisione dei Del Vecchio è stata presa dopo che sabato Intesa &lt;a href="https://group.intesasanpaolo.com/it/investor-relations/comunicati-stampa-price-sensitive/2026/10/20261003-mps-it"&gt;aveva aumentato&lt;/a&gt; l&amp;#8217;offerta e fatto alcune rassicurazioni agli investitori.&lt;/p&gt;
+&lt;p&gt;Il rilancio è di 800 milioni di euro, tutto sommato anche modesto considerato che l&amp;#8217;operazione vale nel complesso più di 34 miliardi di euro. L&amp;#8217;offerta di Intesa è un&amp;#8217;offerta pubblica di acquisto e scambio – &lt;a href="https://www.ilpost.it/2025/02/03/opa-ops-banche/"&gt;uno dei modi con cui si compra una banca&lt;/a&gt; – e prevede di pagare gli azionisti di MPS sia in denaro che in azioni di Intesa: la parte in denaro passa da 1 euro a 1,25 ad azione, a cui resta associata la parte di 1,6 azioni Intesa Sanpaolo per ogni azione MPS. Affinché l&amp;#8217;operazione abbia successo serve che accettino l&amp;#8217;offerta di Intesa azionisti che abbiano in totale almeno il 66,67 per cento di MPS.&lt;/p&gt;
+&lt;p&gt;Per Delfin accettare significa incassare 513 milioni di euro e ricevere il 2,9 per cento del nuovo gruppo bancario che si verrebbe a creare, composto da Intesa Sanpaolo, MPS e anche Mediobanca, la prestigiosa banca commerciale che MPS aveva comprato lo scorso anno.&lt;/p&gt;
+&lt;p&gt;Intesa ha poi anche chiarito alcuni punti che nei mesi scorsi avevano creato un po&amp;#8217; di confusione. Ha detto che in sostanza invaliderà l&amp;#8217;offerta qualora gli azionisti di MPS votino a favore del &lt;a href="https://www.ilpost.it/2026/08/26/piano-mps-banco-bpm-banca-generali-dubbi/"&gt;controverso piano difensivo&lt;/a&gt; pensato dall&amp;#8217;amministratore delegato di MPS Luigi Lovaglio per contrastare l&amp;#8217;offerta di Intesa: ad agosto aveva annunciato di voler comprare non una, ma due banche, Banco BPM e Banca Generali, in modo da rendere MPS troppo grande per l&amp;#8217;offerta di Intesa, che a quel punto dovrebbe o rilanciare o rinunciare.&lt;/p&gt;
+&lt;div id="attachment_3695879" class="wp-caption aligncenter" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3695879 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791184046-21426603_large-2.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791184046-21426603_large-2.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x267/1791184046-21426603_large-2.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/680x453/1791184046-21426603_large-2.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/768x512/1791184046-21426603_large-2.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/800x533/1791184046-21426603_large-2.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;L&amp;#8217;amministratore delegato di MPS Luigi Lovaglio (Mauro Scrobogna/LaPresse)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Intesa &lt;a href="https://www.ilsole24ore.com/art/da-intesa-esposto-consob-operazioni-annunciate-l-opas-AJX89Fv"&gt;ha sempre sostenuto&lt;/a&gt; che questa iniziativa fosse in contrasto con la cosiddetta &lt;em&gt;passivity rule&lt;/em&gt;, quella regola per cui le società obiettivo di un&amp;#8217;offerta debbano astenersi dal fare operazioni che possano comprometterne il valore.&lt;/p&gt;
+&lt;p&gt;L&amp;#8217;assemblea in cui gli azionisti dovranno esprimersi è prevista alla fine di ottobre. Con questa dichiarazione di Intesa Sanpaolo, di fatto, la votazione può avere due soli possibili esiti: o vince il piano di Lovaglio e quindi l&amp;#8217;offerta di Intesa salta; o il piano di Lovaglio viene rifiutato e quindi vuol dire che gli azionisti vogliono accettare l&amp;#8217;offerta di Intesa. Delfin ha già fatto sapere che voterà coerentemente alla decisione di accettare l&amp;#8217;offerta di Intesa Sanpaolo, quindi contro il piano di Lovaglio.&lt;/p&gt;
+&lt;p&gt;Non si sa ancora cosa voglia fare il secondo azionista, i Caltagirone, proprietari del quotidiano &lt;em&gt;Il Messaggero &lt;/em&gt;e costruttori con un radicato potere soprattutto a Roma. La famiglia Caltagirone ha il 10,3 per cento del gruppo MPS, se decidesse di accettare l&amp;#8217;offerta Intesa sarebbe quasi a metà strada, ancor prima che il periodo di adesione all&amp;#8217;offerta inizi formalmente.&lt;/p&gt;
+&lt;p&gt;Alcune ricostruzioni &lt;a href="https://www.corriere.it/economia/finanza/26_ottobre_04/mps-la-mossa-di-messina-per-scoprire-il-gioco-di-lovaglio-e-chiudere-la-partita-su-siena-9037c193-ee75-4b46-838f-96280d7b4xlk.shtml?intcmp=Leggi_anche_nd_270526_corriere_ss_nd&amp;amp;refresh_ce"&gt;sostengono&lt;/a&gt; che anche i Caltagirone sarebbero vicini ad accettare e a rifiutare il piano di Lovaglio: sarebbe del resto coerente con gli attriti che il capostipite della famiglia, Francesco Gaetano Caltagirone, &lt;a href="https://www.ilpost.it/2026/04/15/luigi-lovaglio-consiglio-amministrazione-assemblea-soci-mps-amministratore-delegato-lista-plt/"&gt;ha avuto&lt;/a&gt; con Luigi Lovaglio nei mesi scorsi.&lt;/p&gt;
+&lt;p&gt;L&amp;#8217;adesione di Delfin e del gruppo Caltagirone al piano di Intesa è un esito che fino a poco tempo fa non era per niente scontato. Intesa infatti prevede il sostanziale smembramento del gruppo MPS per non violare le regole sulla concorrenza: Intesa si terrà Mediobanca, mentre darà buona parte di MPS, tra cui tutti i suoi sportelli, a BPER, banca del gruppo Unipol.&lt;/p&gt;
+&lt;p&gt;Secondo una lettura condivisa da buona parte degli esperti, il controllo di Mediobanca, di cui le famiglie Del Vecchio e Caltagirone sono a loro volta azioniste, tramite MPS &lt;a href="https://www.ilpost.it/2025/02/13/delfin-caltagirone-generali-risiko-bancario/"&gt;era un loro obiettivo&lt;/a&gt; per arrivare indirettamente al controllo del grande gruppo assicurativo Generali: le due famiglie sono azioniste di Generali e da anni puntano ad accrescere la loro influenza nel gruppo, soprattutto per la sua dimensione e per il ruolo che ha per l&amp;#8217;economia italiana.&lt;/p&gt;
+&lt;p&gt;Il piano di Intesa divide quello che Lovaglio aveva unito &lt;a href="https://www.ilpost.it/2025/09/11/mps-mediobanca-offerta-pubblica-di-scambio/"&gt;con un&amp;#8217;operazione storica e clamorosa&lt;/a&gt;, con anche l&amp;#8217;auspicio delle due famiglie. Sull&amp;#8217;azione coordinata delle due famiglie e di Lovaglio per arrivare all&amp;#8217;acquisizione di Mediobanca &lt;a href="https://www.ilpost.it/2025/11/30/indagine-mps-mediobanca-caltagirone-milleri-lovaglio-mef/"&gt;è in corso un&amp;#8217;indagine della procura di Milano&lt;/a&gt;, che ha ipotizzato i reati di aggiotaggio, cioè l&amp;#8217;illecito condizionamento dei prezzi dei titoli in borsa, e ostacolo alle autorità di vigilanza. Se il coordinamento, o il “concerto&amp;#8221;, come si chiama in gergo, fosse confermato sarebbe illegittimo per via delle regole finanziarie sulle partecipazioni reciproche. Sono indagati Lovaglio, il presidente di Delfin Francesco Milleri e Francesco Gaetano Caltagirone.&lt;/p&gt;
+&lt;p&gt;&lt;fe_component class="ilPostSocial" data-source="oembed-api" data-component="ilPostSocial" data-type="ilpost" data-subtype="podcast" data-id="3626971" data-postid="3626971" data-url="https://www.ilpost.it/episodes/il-risiko-bancario-spiegato-ai-comuni-mortali/"&gt;&lt;/fe_component&gt;&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/delfin-adesione-offerta-intesa-sanpaolo-mps</guid>
+      <pubDate>Mon, 05 Oct 2026 09:37:18 +0200</pubDate>
+      <dc:creator>Mariasole Lisciandro</dc:creator>
+    </item>
+    <item>
+      <title>Pedro Sánchez ha annunciato elezioni anticipate in Spagna</title>
+      <link>https://www.ilpost.it/2026/10/05/spagna-elezioni-anticipate-sanchez-crisi-abitativa</link>
+      <description>&lt;p&gt;&lt;em&gt;Il primo ministro Socialista lo ha deciso dopo la bocciatura dei decreti sulla casa: saranno il 29 novembre&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791182927-ilpost_20261005084738127_1fbd33688a77be06115571770cc1188d.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Il primo ministro spagnolo Pedro Sánchez, del Partito Socialista, ha annunciato che convocherà elezioni anticipate per il 29 novembre. La decisione è stata presa dopo che venerdì il Congresso, la camera bassa del parlamento, &lt;a href="https://www.ilpost.it/2026/10/02/spagna-respinti-decreti-casa-proteste-maricarmen-abascal/"&gt;aveva bocciato&lt;/a&gt; due decreti presentati dal governo per affrontare la crisi abitativa.&lt;/p&gt;
+&lt;p&gt;A votare contro erano stati il Partito Popolare, il principale di centrodestra e dell&amp;#8217;opposizione; Vox, di estrema destra (sempre all&amp;#8217;opposizione), e soprattutto Junts, il partito indipendentista catalano di centrodestra. La coalizione di Sánchez, formata dai Socialisti e dalla sinistra di Sumar, non ha una maggioranza autonoma in parlamento e i voti di Junts sono fondamentali per approvare i provvedimenti. Il partito però ha posizioni più vicine a quelle dei proprietari immobiliari, e aveva votato contro i decreti.&lt;/p&gt;
+&lt;p&gt;I decreti prevedevano maggiori protezioni dagli sfratti, limiti agli aumenti degli affitti e il rinnovo automatico dei contratti. Erano stati presentati dal governo dopo le grandi proteste innescate dallo sfratto di &lt;a href="https://www.ilpost.it/2026/09/25/spagna-sfratto-donna-87-anni/?homepagePosition=5.1&amp;amp;referrerPost=3689933"&gt;Maricarmen Abascal&lt;/a&gt;, una donna di 87 anni che viveva a Madrid.&lt;/p&gt;
+&lt;p&gt;La bocciatura aveva mostrato quanto fosse difficile per il governo approvare misure su uno dei problemi più sentiti nel paese (quello della crisi abitativa), dovendo contare sul sostegno di Junts. Per questo alcuni ministri e dirigenti del Partito Socialista avevano cominciato a sostenere che fosse meglio anticipare le elezioni, previste inizialmente nel 2027, nella speranza di ottenere una maggioranza più solida.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/spagna-elezioni-anticipate-sanchez-crisi-abitativa</guid>
+      <pubDate>Mon, 05 Oct 2026 09:09:58 +0200</pubDate>
+      <dc:creator>Giovanni De Benedictis</dc:creator>
+    </item>
     <item>
       <title>Lunedì 5 ottobre</title>
       <link>https://www.ilpost.it/2026/10/05/lunedi-5-ottobre-3</link>
       <description>&lt;p&gt;&lt;em&gt;Le foto dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791180935-AP26277429070862.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791180935-AP26277429070862.jpg" /&gt;&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/10/05/lunedi-5-ottobre-3/brasilia-brasile-39/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x267/1791180935-AP26277429070862.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x267/1791180935-AP26277429070862.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/680x453/1791180935-AP26277429070862.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/768x512/1791180935-AP26277429070862.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/800x533/1791180935-AP26277429070862.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791180935-AP26277429070862.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x267/1791180935-AP26277429070862.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3695825 gallery-columns-3 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/lunedi-5-ottobre-3/brasilia-brasile-39/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791180935-AP26277429070862.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-3695829" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3695825 gallery-columns-3 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/lunedi-5-ottobre-3/brasilia-brasile-39/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791180935-AP26277429070862.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;
- &lt;figcaption class='wp-caption-text gallery-caption' id='gallery-2-3695829'&gt;
+ &lt;figcaption class="wp-caption-text gallery-caption" id="gallery-2-3695829"&gt;
  Brasilia, Brasile
- &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/lunedi-5-ottobre-3</guid>
-      <pubDate>Mon, 05 Oct 2026 08:16:45 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:16:45 +0000</pubDate>
       <dc:creator>Alessia Mutti</dc:creator>
     </item>
     <item>
       <title>Senza Ronaldo il Portogallo gioca bene e vince</title>
       <link>https://www.ilpost.it/2026/10/05/portogallo-senza-ronaldo-vince-goncalo-ramos-gol</link>
-      <description>&lt;p&gt;&lt;em&gt;Anche grazie ai gol segnati dal suo sostituto, l&amp;#x27;attaccante del Milan Gonçalo Ramos&#13;
+      <description>&lt;p&gt;&lt;em&gt;Anche grazie ai gol segnati dal suo sostituto, l&amp;#x27;attaccante del Milan Gonçalo Ramos
 &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791179126-Ramosgol.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791179126-Ramosgol.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Domenica sera il Portogallo ha battuto 2-1 la Norvegia nella quarta giornata della Nations League maschile di calcio, diventando la prima squadra a qualificarsi per i quarti di finale di questa edizione del torneo. In questa pausa per le nazionali il Portogallo ha vinto tutte e quattro le partite (due contro la Norvegia, una contro la Danimarca e il Galles), giocando quasi sempre senza Cristiano Ronaldo.&lt;/p&gt;
 &lt;p&gt;Dopo aver giocato per 67 minuti contro il Galles, Ronaldo &lt;a href="https://www.ilpost.it/2026/09/28/cristiano-ronaldo-panchina-portogallo/"&gt;è rimasto in panchina&lt;/a&gt; per tutta la prima partita contro la Norvegia, cosa che in nazionale non accadeva da 18 anni. Poi, mentre la squadra era in trasferta in Danimarca, he &lt;a href="https://www.ilpost.it/2026/10/01/cristiano-ronaldo-lascia-ritiro-portogallo/"&gt;ha lasciato il ritiro&lt;/a&gt;, di fatto non rendendosi disponibile per le partite contro Danimarca e Norvegia. Dopo averlo lasciato in panchina l&amp;#8217;allenatore Jorge Jesus lo aveva definito «un giocatore come gli altri», lasciando intendere che forse non avrebbe giocato titolare nemmeno contro la Danimarca.&lt;/p&gt;
 &lt;p&gt;Ronaldo ha 41 anni, ha giocato 234 partite e segnato 146 gol con il Portogallo, entrambi record nel calcio per nazionali; da tempo però, perlomeno dai Mondiali del 2022, &lt;a href="https://www.ilpost.it/2024/06/22/cristiano-ronaldo-portogallo-europei-2024/"&gt;ci si chiedeva&lt;/a&gt; se la sua presenza non fosse un peso per la nazionale portoghese. Pur essendo diventato un po’ più lento, un po’ meno preciso e ormai quasi inesistente nel pressing e in fase difensiva, Ronaldo ha continuato a voler essere al centro di ogni azione d&amp;#8217;attacco del Portogallo e a pretendere che gli venisse passata la palla, condizionando il gioco dei suoi tanti talentuosi compagni. Le tre recenti partite fatte senza di lui sembrano dar ragione a chi sosteneva che senza Ronaldo il Portogallo avrebbe giocato meglio: la squadra ha vinto le sue partite in modo convincente, ha segnato 8 gol e tutti gli attaccanti e i centrocampisti offensivi sono sembrati a loro agio.&lt;/p&gt;
 &lt;p&gt;Gonçalo Ramos, centravanti acquistato in estate dal Milan (che ha pagato 70 milioni di euro il Paris Saint-Germain per averlo), ha fatto 3 gol consecutivi, a cui ha aggiunto un assist contro la Danimarca e un grande contributo alla fase difensiva e di &lt;em&gt;non possesso&lt;/em&gt;. Proprio ai Mondiali del 2022, quando aveva 21 anni, Ramos giocò titolare negli ottavi di finale contro la Svizzera al posto di Ronaldo: segnò una tripletta e il Portogallo vinse 6-1. Sembrava un passaggio di consegne, e invece Ronaldo è sempre rimasto lì, togliendo parecchio spazio a Ramos. Anche João Félix, un tempo considerato uno dei più promettenti calciatori al mondo, e ora, a 26 anni, finito a giocare in Arabia Saudita (nella squadra di Ronaldo), ha giocato alla grande nelle recenti partite del Portogallo.&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/pyqvl-vXnkE?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="si=eg6ZQNByUv9bQnUh&amp;#038;t=79" data-thumbnail="https://i.ytimg.com/vi/pyqvl-vXnkE/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 &lt;p style="text-align: center;"&gt;&lt;small&gt;&lt;em&gt;Il gol di Ramos contro la Danimarca, che ha concluso una spettacolare azione cominciata con un suo colpo di tacco&lt;/em&gt;&lt;small&gt;&lt;/small&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;p&gt;Dopo la partita contro la Norvegia, Jorge Jesus &lt;a href="https://www.eurosport.it/calcio/uefa-nations-league/2026-2027/jorge-jesus-riapre-a-cristiano-ronaldo-dopo-portogallo-norvegia-2-1-solo-un-malinteso-cr7-puo-tornare-quando-vuole.-per-me-va-tutto-bene_sto23342860/story.shtml"&gt;ha detto&lt;/a&gt; che con Ronaldo c&amp;#8217;è stato un malinteso, e che «può tornare quando vuole». &lt;em&gt;A Bola&lt;/em&gt;, il principale quotidiano sportivo portoghese, &lt;a href="https://www.abola.pt/noticias/cristiano-ronaldo-ja-sabe-que-jorge-jesus-o-quer-na-selecao-em-novembro-2026100419131864280"&gt;scrive&lt;/a&gt; che a novembre, per le prossime partite delle nazionali, Ronaldo sarà convocato da Jesus. Come si è visto nelle ultime settimane, però, è difficile che Ronaldo accetti di andare in nazionale sapendo di poter restare in panchina anche per una partita intera.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/25/nations-league-cose-come-fuziona-a-cosa-serve-nazionale/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;A cosa serve e come funziona la Nations League&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/25/nations-league-cose-come-fuziona-a-cosa-serve-nazionale/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;A cosa serve e come funziona la Nations League&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/portogallo-senza-ronaldo-vince-goncalo-ramos-gol</guid>
-      <pubDate>Mon, 05 Oct 2026 08:15:50 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:15:50 +0000</pubDate>
       <dc:creator>Gianluca Cedolin</dc:creator>
     </item>
     <item>
       <title>Peanuts 2026 ottobre 05</title>
       <link>https://www.ilpost.it/2026/10/05/peanuts-2026-ottobre-05</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790957821-pt_c261005.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" decoding="async" width="1104" height="330" class="alignnone size-large wp-image-3695033" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/680x203/1790957821-pt_c261005.jpg" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/680x203/1790957821-pt_c261005.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/400x120/1790957821-pt_c261005.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/768x230/1790957821-pt_c261005.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/800x239/1790957821-pt_c261005.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790957821-pt_c261005.jpg 1104w" sizes="(max-width: 1104px) 100vw, 1104px" /&gt;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790957821-pt_c261005.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" class="alignnone size-large wp-image-3695033" height="330" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/680x203/1790957821-pt_c261005.jpg" width="1104" /&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/peanuts-2026-ottobre-05</guid>
-      <pubDate>Mon, 05 Oct 2026 08:00:38 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 06:00:38 +0000</pubDate>
       <dc:creator>Francesca Lagrotteria</dc:creator>
     </item>
     <item>
       <title>Cosa sappiamo del presunto caso di peste polmonare in Siberia</title>
       <link>https://www.ilpost.it/2026/10/05/peste-polmonare-siberia-irkutsk-cosa-sappiamo</link>
       <description>&lt;p&gt;&lt;em&gt;La morte di una donna che lavorava in un centro di ricerca sulla peste ha portato a misure eccezionali per il rischio epidemiologico&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/04/1791151710-ilpost_20261005000752178_701ee42c9f8b8fd21961eb9243509dbc.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/10/04/1791151710-ilpost_20261005000752178_701ee42c9f8b8fd21961eb9243509dbc.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;In Russia le autorità della regione di Irkutsk, nella Siberia meridionale, hanno adottato misure eccezionali per il rischio epidemiologico, dopo che lo scorso 2 ottobre è morta una donna che lavorava in un centro di ricerca sulla peste, con sintomi di una grave polmonite. I media locali, basandosi su testimonianze di medici e residenti, &lt;a href="https://t.me/Baikal_People/16651%20"&gt;dicono&lt;/a&gt; che almeno quattro ospedali della città di Irkutsk sono stati messi in quarantena: significa che i pazienti non possono uscire, che non ne vengono ammessi di nuovi e che non sono possibili visite. Le autorità locali hanno solo detto di aver adottato misure «speciali», senza specificare quali.&lt;/p&gt;
-&lt;p&gt;La notizia sta avendo risalto su molti media internazionali soprattutto per la possibilità che la donna sia morta per una peste polmonare: è una malattia molto rara e generalmente associata alle epidemie medievali, ma il batterio che la causa, lo &lt;em&gt;Yersinia pestis&lt;/em&gt;, è ancora in circolazione, seppure in forme estremamente ridotte rispetto al passato. La peste di tipo polmonare è quella &lt;a href="https://www.who.int/news-room/fact-sheets/detail/plague" target="_blank" rel="noopener noreferrer"&gt;più contagiosa&lt;/a&gt;, perché si può trasmettere attraverso particelle respiratorie infette, tipicamente durante contatti ravvicinati. Causa tosse, difficoltà respiratorie e se non viene trattata per tempo può provocare complicazioni gravi, fino alla morte.&lt;/p&gt;
+&lt;p&gt;La notizia sta avendo risalto su molti media internazionali soprattutto per la possibilità che la donna sia morta per una peste polmonare: è una malattia molto rara e generalmente associata alle epidemie medievali, ma il batterio che la causa, lo &lt;em&gt;Yersinia pestis&lt;/em&gt;, è ancora in circolazione, seppure in forme estremamente ridotte rispetto al passato. La peste di tipo polmonare è quella &lt;a href="https://www.who.int/news-room/fact-sheets/detail/plague" rel="noopener noreferrer" target="_blank"&gt;più contagiosa&lt;/a&gt;, perché si può trasmettere attraverso particelle respiratorie infette, tipicamente durante contatti ravvicinati. Causa tosse, difficoltà respiratorie e se non viene trattata per tempo può provocare complicazioni gravi, fino alla morte.&lt;/p&gt;
 &lt;p&gt;Ci sono però ben poche informazioni per poter confermare questa diagnosi. L&amp;#8217;ente federale russo che tutela la salute pubblica e la sicurezza sanitaria, chiamato Rospotrebnadzor, per ora &lt;a href="https://www.interfax.ru/russia/1120228"&gt;ha solo detto&lt;/a&gt; che la donna è morta per una polmonite dalle cause sconosciute. In assenza di notizie ufficiali, gran parte delle informazioni circolate finora è stata diffusa da un giornale locale indipendente, &lt;em&gt;Lyudi Baikala&lt;/em&gt; (che significa “Gente del Baikal”, dal nome di un grande lago siberiano).&lt;/p&gt;
 &lt;p&gt;La donna aveva 28 anni ed era impiegata come tecnica di laboratorio nell&amp;#8217;istituto di ricerca sulla peste di Irkutsk. È morta nell&amp;#8217;ospedale della vicina città di Shelekhov, dove già dal giorno prima, il 1° ottobre, alcuni reparti erano stati messi in quarantena. Questa notizia era stata confermata anche dalle autorità locali. Il governatore della regione di Irkutsk, Igor Kobzev, aveva partecipato a una riunione d&amp;#8217;emergenza con le autorità sanitarie locali parlando pubblicamente di «un caso sospetto di un&amp;#8217;infezione particolarmente pericolosa».&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;ipotesi della peste polmonare &lt;a href="https://baikal-journal.ru/2026/10/02/bolniczu-shelehova-zakryli-na-karantin/"&gt;è stata tirata fuori&lt;/a&gt; da alcuni media locali, in particolare &lt;a href="https://t.me/mash/78264"&gt;dal canale Telegram “Mash”&lt;/a&gt; e proprio da &lt;em&gt;Lyudi Baikala&lt;/em&gt;, che l&amp;#8217;aveva attribuita a una fonte sanitaria anonima. Per ora non ci sono state conferme ufficiali né attribuzioni più dettagliate. Ne ha parlato però in un messaggio pubblico Alexei Tsydenov, il governatore della repubblica di Buriazia, una regione confinante con quella di Irkutsk, dicendo che lì una donna era morta «probabilmente di peste» e che non c&amp;#8217;erano focolai attivi. Tsydenov aveva esplicitamente attribuito le sue informazioni al Rospotrebnadzor, l&amp;#8217;autorità della sicurezza sanitaria, che pure non aveva parlato di peste nei suoi comunicati ufficiali.&lt;/p&gt;
@@ -90,17 +164,16 @@
 &lt;p&gt;Su come la donna possa essersi eventualmente infettata è circolata soprattutto una teoria, ripresa da diversi media internazionali e italiani, ma per ora poco solida: quella secondo cui avrebbe rotto una provetta che conteneva il batterio della peste mentre stava lavorando. Questa versione è stata riferita da Mash e da un giornalista locale, Pavel Stepanov, sul suo canale Telegram. &lt;em&gt;Lyudi Baikala&lt;/em&gt;&lt;em&gt; &lt;/em&gt;&lt;a href="https://baikal-journal.ru/2026/10/02/pogibshaya-ot-chumy-v-shelehove-rabotala-laborantkoj-i-razbila-probirku-s-vozbuditelem-infekczii/"&gt;l&amp;#8217;ha citata&lt;/a&gt; attribuendola a queste due fonti, e da lì ha cominciato a circolare.&lt;/p&gt;
 &lt;p&gt;Il Rospotrebnadzor ha smentito questa ricostruzione e ha detto che dai test fatti sulla donna «non è stato rilevato alcun microrganismo associato alla sua attività professionale». Pur essendo una fonte istituzionale, anche il Rospotrebnadzor – che dipende da un regime assai poco trasparente come quello russo – potrebbe avere interesse a limitare le informazioni sul caso.&lt;/p&gt;
 &lt;p&gt;Nel mondo, tra il 2019 e il 2025, &lt;a href="https://www.who.int/publications/journals/weekly-epidemiological-record/WER101-38"&gt;i casi di peste confermati sono stati 2.646 e &lt;/a&gt;&lt;a href="https://www.who.int/publications/journals/weekly-epidemiological-record/WER101-38"&gt;sono morte 423 persone&lt;/a&gt;. La maggior parte si concentra nella Repubblica Democratica del Congo e in Madagascar.&lt;/p&gt;
-&lt;div id="attachment_3695794" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3695794 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png" alt="" width="1200" height="498" srcset="https://www.ilpost.it/wp-content/uploads/2026/10/05/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png 1200w, https://www.ilpost.it/wp-content/uploads/2026/10/05/400x166/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png 400w, https://www.ilpost.it/wp-content/uploads/2026/10/05/680x282/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png 680w, https://www.ilpost.it/wp-content/uploads/2026/10/05/768x319/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png 768w, https://www.ilpost.it/wp-content/uploads/2026/10/05/800x332/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Paesi che hanno segnalato casi di peste umana all&amp;#8217;OMS nel periodo 2019–2025. Fonte: &lt;a href="https://www.who.int/news-room/fact-sheets/detail/plague"&gt;OMS&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-</description>
+&lt;div class="wp-caption alignnone" id="attachment_3695794"&gt;&lt;img alt="" class="wp-image-3695794 size-full" height="498" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791178237-human-plague-cases-reported-to-who-by-country-2019-to-2025.png" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Paesi che hanno segnalato casi di peste umana all&amp;#8217;OMS nel periodo 2019–2025. Fonte: &lt;a href="https://www.who.int/news-room/fact-sheets/detail/plague"&gt;OMS&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/peste-polmonare-siberia-irkutsk-cosa-sappiamo</guid>
-      <pubDate>Mon, 05 Oct 2026 07:44:18 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 05:44:18 +0000</pubDate>
       <dc:creator>Riccardo Congiu</dc:creator>
     </item>
     <item>
       <title>Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale</title>
       <link>https://www.ilpost.it/2026/10/05/sam-altman-rischi-benefici-ai</link>
       <description>&lt;p&gt;&lt;em&gt;Il capo di OpenAI ha detto che bisognerebbe «accettare che accadano alcune cose brutte in cambio dei benefici» di questa tecnologia&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/05/1791176856-24806273_large.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/10/05/1791176856-24806273_large.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;In un&amp;#8217;intervista a &lt;em&gt;Politico&lt;/em&gt; Sam Altman, l&amp;#8217;amministratore delegato di OpenAI, l&amp;#8217;azienda nota soprattutto per il chatbot ChatGPT, &lt;a href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217"&gt;ha detto&lt;/a&gt; che il mondo «dovrebbe accettare che accadano alcune cose brutte in cambio dei benefici» che porterà l&amp;#8217;intelligenza artificiale. In questo modo Altman ha preso un po&amp;#8217; le distanze da un dibattito recente sul fatto che bisognerebbe rallentare lo sviluppo di questa tecnologia per soppesarne meglio i rischi, soprattutto quello per cui le AI potrebbero diventare &lt;a href="https://www.ilpost.it/2026/09/12/intelligenza-artificiale-sterminio-umani/"&gt;una minaccia esistenziale per l’umanità&lt;/a&gt;.&lt;/p&gt;
@@ -111,313 +184,298 @@
 &lt;p&gt;Ora Altman ha cercato di distinguere la posizione della sua azienda da quella di Anthropic, sostenendo in particolare che il rischio è quello di creare regole che intrappolino il settore. «Non sono d&amp;#8217;accordo, ma capisco il punto di vista di chi pensa che questa tecnologia diventerà così potente e pericolosa che un singolo laboratorio a San Francisco non solo debba averne il controllo, ma anche assicurarsi che non succeda nulla di male e in qualche modo capire come distribuire i benefici». Secondo Altman il fatto che le aziende del settore debbano avere questa responsabilità è un «compromesso assolutamente inaccettabile».&lt;/p&gt;
 &lt;p&gt;«Non mi prendo la responsabilità di dire che faremo in modo che non ci siano attacchi informatici importanti, nessun uso improprio di questa tecnologia, nessuna truffa, nessuna di tutte le altre cose negative che potrebbero accadere», ha detto Altman. Ha poi aggiunto: «Questo perché credo che le persone faranno moltissime cose buone, di gran lunga più di quelle cattive» con l&amp;#8217;intelligenza artificiale.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/30/accordo-intelligenza-artificiale-trump-aziende/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’accordicchio di Trump sulle AI&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/09/30/accordo-intelligenza-artificiale-trump-aziende/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’accordicchio di Trump sulle AI&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/sam-altman-rischi-benefici-ai</guid>
-      <pubDate>Mon, 05 Oct 2026 07:21:02 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 05:21:02 +0000</pubDate>
       <dc:creator>Mariasole Lisciandro</dc:creator>
     </item>
     <item>
       <title>Le prime pagine di oggi</title>
       <link>https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694</link>
       <description>&lt;p&gt;&lt;em&gt;L&amp;#x27;attacco russo a Kyiv durante la visita di Merz, il discorso di Mattarella ad Assisi, e l&amp;#x27;intervista televisiva ai genitori di Chiara Poggi&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791176245-la_stampa_apertura.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791176245-la_stampa_apertura.jpg" /&gt;&lt;/p&gt;
 &lt;p class="p1"&gt;Ci sono notizie diverse in apertura sui giornali di oggi: alcuni titolano sull’attacco russo a Kyiv durante la visita del cancelliere tedesco Merz e sul rapporto dell’Onu sulle vittime della guerra in Ucraina nel 2026, altri si occupano del discorso del presidente della Repubblica Mattarella ad Assisi durante le celebrazioni per gli 800 anni dalla morte di San Francesco. Qualche giornale si occupa di politica interna, con i rapporti fra i partiti del centrosinistra e la ricerca di un candidato premier, &lt;em&gt;Repubblica&lt;/em&gt; apre sulle possibili dimissioni del primo ministro spagnolo Sanchez dopo la bocciatura dei decreti del governo sulla crisi abitativa, e &lt;em&gt;Domani&lt;/em&gt; titola sulle elezioni di midterm negli Stati Uniti.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/1_corriere_della_sera-1141/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="608" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x608/1791175225-1_corriere_della_sera.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x608/1791175225-1_corriere_della_sera.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/1791175225-1_corriere_della_sera.jpg 450w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="608" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/400x608/1791175225-1_corriere_della_sera.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3695721 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/1_corriere_della_sera-1141/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175225-1_corriere_della_sera.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/2_la_repubblica-1121/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175228-2_la_repubblica.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/3_la_stampa-1108/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175232-3_la_stampa.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/4_il_sole_24_ore-1786/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175235-4_il_sole_24_ore.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/5_il_messaggero-1785/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175238-5_il_messaggero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20261005_ilgiornale_naz_1-r3_p0/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175242-6_giornale.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/9_il_fatto_quotidiano-1792/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175244-9_il_fatto_quotidiano.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/10_verita-1151/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175248-10_verita.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/11_libero-1146/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175251-11_libero.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/12_domani-1139/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175254-12_domani.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/17_foglio-1646/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175257-17_foglio.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/18_il_secolo_xix-733/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175260-18_il_secolo_xix.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/19_il_mattino-1639/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175263-19_il_mattino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20_il_resto_del_carlino-1322/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175267-20_il_resto_del_carlino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/22_il_tempo-1601/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175270-22_il_tempo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/23_l_edicola-41/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175274-23_l_edicola.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/25_italia_oggi-1215/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175276-25_italia_oggi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/27_la_gazzetta_del_mezzogiorno-1109/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175279-27_la_gazzetta_del_mezzogiorno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/28_l_eco_di_bergamo-1140/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175282-28_l_eco_di_bergamo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/29_il_piccolo-667/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175285-29_il_piccolo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/30_giornale_di_sicilia-1105/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175288-30_giornale_di_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/31_la_nuova_sardegna-1124/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175291-31_la_nuova_sardegna.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/32_la_sicilia-1115/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175294-32_la_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/33_il_mattino_di_padova-630/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175297-33_il_mattino_di_padova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/34_l_unione_sarda-1068/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175300-34_l_unione_sarda.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/35_messaggero_veneto-665/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175303-35_messaggero_veneto.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/36_gazzetta_di_mantova-1051/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175305-36_gazzetta_di_mantova.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/37_il_tirreno-1100/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175308-37_il_tirreno.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/38_leggo-894/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175311-38_leggo.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/39_la_nuova_di_venezia_e_mestre-95/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175314-39_la_nuova_di_venezia_e_mestre.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/39_metro_today-81/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175317-39_metro_today.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/40_giornale_di_brescia-1131/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175319-40_giornale_di_brescia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/41_la_nuova_ferrara-1123/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175322-41_la_nuova_ferrara.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/42_gazzetta_di_modena-1125/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175325-42_gazzetta_di_modena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/43_l_arena-1129/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175328-43_l_arena.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/44_il_centro-94/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175332-44_il_centro.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20261005-como-dorso1-pag1-co_prim/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175334-45_provincia_como.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/46_gazzetta_di_parma-90/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175336-46_gazzetta_di_parma.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/47_l_adige-933/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175338-47_l_adige.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/48_gazzetta_del_sud_messina_sicilia-48/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175341-48_gazzetta_del_sud_messina_sicilia.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/49_corriere_delle_alpi-631/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175343-49_corriere_delle_alpi.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/51_il_quotidiano_del_sud-1127/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175346-51_il_quotidiano_del_sud.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/52_corriere_dell_umbria-1046/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175349-52_corriere_dell_umbria.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/56_la_prealpina-1119/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175352-56_la_prealpina.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/57_corriere_del_ticino-412/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175356-57_corriere_del_ticino.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/58_la_gazzetta_dello_sport-1144/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175359-58_la_gazzetta_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/59_corriere_dello_sport-1141/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175363-59_corriere_dello_sport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/60_tuttosport-1142/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175366-60_tuttosport.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-3695721 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/1_corriere_della_sera-1141/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175225-1_corriere_della_sera.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/2_la_repubblica-1121/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175228-2_la_repubblica.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/3_la_stampa-1108/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175232-3_la_stampa.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/4_il_sole_24_ore-1786/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175235-4_il_sole_24_ore.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/5_il_messaggero-1785/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175238-5_il_messaggero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20261005_ilgiornale_naz_1-r3_p0/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175242-6_giornale.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/9_il_fatto_quotidiano-1792/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175244-9_il_fatto_quotidiano.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/10_verita-1151/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175248-10_verita.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/11_libero-1146/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175251-11_libero.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/12_domani-1139/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175254-12_domani.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/17_foglio-1646/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175257-17_foglio.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/18_il_secolo_xix-733/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175260-18_il_secolo_xix.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/19_il_mattino-1639/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175263-19_il_mattino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20_il_resto_del_carlino-1322/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175267-20_il_resto_del_carlino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/22_il_tempo-1601/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175270-22_il_tempo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/23_l_edicola-41/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175274-23_l_edicola.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/25_italia_oggi-1215/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175276-25_italia_oggi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/27_la_gazzetta_del_mezzogiorno-1109/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175279-27_la_gazzetta_del_mezzogiorno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/28_l_eco_di_bergamo-1140/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175282-28_l_eco_di_bergamo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/29_il_piccolo-667/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175285-29_il_piccolo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/30_giornale_di_sicilia-1105/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175288-30_giornale_di_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/31_la_nuova_sardegna-1124/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175291-31_la_nuova_sardegna.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/32_la_sicilia-1115/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175294-32_la_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/33_il_mattino_di_padova-630/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175297-33_il_mattino_di_padova.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/34_l_unione_sarda-1068/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175300-34_l_unione_sarda.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/35_messaggero_veneto-665/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175303-35_messaggero_veneto.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/36_gazzetta_di_mantova-1051/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175305-36_gazzetta_di_mantova.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/37_il_tirreno-1100/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175308-37_il_tirreno.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/38_leggo-894/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175311-38_leggo.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/39_la_nuova_di_venezia_e_mestre-95/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175314-39_la_nuova_di_venezia_e_mestre.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/39_metro_today-81/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175317-39_metro_today.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/40_giornale_di_brescia-1131/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175319-40_giornale_di_brescia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/41_la_nuova_ferrara-1123/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175322-41_la_nuova_ferrara.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/42_gazzetta_di_modena-1125/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175325-42_gazzetta_di_modena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/43_l_arena-1129/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175328-43_l_arena.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/44_il_centro-94/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175332-44_il_centro.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/20261005-como-dorso1-pag1-co_prim/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175334-45_provincia_como.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/46_gazzetta_di_parma-90/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175336-46_gazzetta_di_parma.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/47_l_adige-933/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175338-47_l_adige.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/48_gazzetta_del_sud_messina_sicilia-48/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175341-48_gazzetta_del_sud_messina_sicilia.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/49_corriere_delle_alpi-631/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175343-49_corriere_delle_alpi.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/51_il_quotidiano_del_sud-1127/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175346-51_il_quotidiano_del_sud.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/52_corriere_dell_umbria-1046/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175349-52_corriere_dell_umbria.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/56_la_prealpina-1119/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175352-56_la_prealpina.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/57_corriere_del_ticino-412/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175356-57_corriere_del_ticino.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/58_la_gazzetta_dello_sport-1144/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175359-58_la_gazzetta_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/59_corriere_dello_sport-1141/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175363-59_corriere_dello_sport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694/60_tuttosport-1142/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/05/130x91/1791175366-60_tuttosport.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/le-prime-pagine-di-oggi-4694</guid>
-      <pubDate>Mon, 05 Oct 2026 06:57:34 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:57:34 +0000</pubDate>
       <dc:creator>Nicola Sofri</dc:creator>
     </item>
     <item>
       <title>Belle foto dagli stranissimi Giochi Asiatici</title>
       <link>https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto</link>
       <description>&lt;p&gt;&lt;em&gt;Sono appena finiti in Giappone, e si gareggiava pure nel taekwondo virtuale e nel calcio-tennis&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/01/1790866978-2026-09-25T074736Z_1413015432_UP1EM9P0LJ2EU_RTRMADP_3_GAMES-ASIA.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/1790866978-2026-09-25T074736Z_1413015432_UP1EM9P0LJ2EU_RTRMADP_3_GAMES-ASIA.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;&lt;span style="font-weight: 400;"&gt;Il 55enne qatariota Nasser Al-Attiyah ha vinto la medaglia d’oro nel tiro al piattello a squadre pochi mesi dopo aver vinto la gara di rally che &lt;/span&gt;&lt;a href="https://www.ilpost.it/2019/01/17/dakar-rally-foto/"&gt;&lt;span style="font-weight: 400;"&gt;si chiamava&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight: 400;"&gt; Parigi-Dakar; da 52 anni la Cina vince tutte le gare di tuffi; la 51enne ginnasta uzbeka &lt;/span&gt;&lt;span style="font-weight: 400;"&gt;Oksana Chusovitina&lt;/span&gt;&lt;span style="font-weight: 400;"&gt; è andata così bene che punta a qualificarsi alle Olimpiadi del 2028. Sono tutte cose successe durante la ventesima edizione dei Giochi Asiatici (o Asian Games), le bizzarre Olimpiadi riservate ai paesi del continente. &lt;/span&gt;&lt;span style="font-weight: 400;"&gt;Si sono svolte dal 19 settembre al 4 ottobre nella prefettura di Aichi e nella città di Nagoya, in Giappone, e c’erano più di 10mila atleti provenienti da 46 entità territoriali, incluse Taiwan, Macao e Hong Kong. Ci sono state altre cose molto particolari, e che non si vedono spesso in eventi del genere: il taekwondo virtuale, gli eSports, una giocatrice di basket &lt;/span&gt;&lt;i&gt;&lt;span style="font-weight: 400;"&gt;molto&lt;/span&gt;&lt;/i&gt;&lt;span style="font-weight: 400;"&gt; più alta delle avversarie, il calcio-tennis e pure il calcio-pallavolo. Com’è facile intuire ne sono uscite tante belle foto. &lt;/span&gt;&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26261126859592/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/400x267/1790865698-AP26261126859592.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.ilpost.it/wp-content/uploads/2026/10/01/400x267/1790865698-AP26261126859592.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/10/01/680x453/1790865698-AP26261126859592.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/10/01/768x512/1790865698-AP26261126859592.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/10/01/800x533/1790865698-AP26261126859592.jpg 800w, https://www.ilpost.it/wp-content/uploads/2026/10/01/1790865698-AP26261126859592.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/400x267/1790865698-AP26261126859592.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-0 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26261126859592/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865698-AP26261126859592.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games-2/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 130w, https://www.ilpost.it/wp-content/uploads/2026/10/01/400x280/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 400w, https://www.ilpost.it/wp-content/uploads/2026/10/01/680x476/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 680w, https://www.ilpost.it/wp-content/uploads/2026/10/01/768x538/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 768w, https://www.ilpost.it/wp-content/uploads/2026/10/01/800x560/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 800w, https://www.ilpost.it/wp-content/uploads/2026/10/01/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg 980w" sizes="(max-width: 130px) 100vw, 130px" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/2026-09-21t125431z_500513527_up1em9l0yhgit_rtrmadp_3_games-asia/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865684-2026-09-21T125431Z_500513527_UP1EM9L0YHGIT_RTRMADP_3_GAMES-ASIA.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games-3/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866683-2026-09-29T154427Z_330058951_UP1EM9T04H0L9_RTRMADP_3_GAMES-ASIA.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26263143818563/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865703-AP26263143818563.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/2026-09-28t082735z_390059949_up1em9r1tdzus_rtrmadp_3_games-asia/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865693-2026-09-28T082735Z_390059949_UP1EM9R1TDZUS_RTRMADP_3_GAMES-ASIA.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26263278605383/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865709-AP26263278605383.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269375509049/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865751-AP26269375509049.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297091923/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865784-GettyImages-2297091923.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866675-2026-09-24T093254Z_1797949376_UP1EM9O0Q5P7I_RTRMADP_3_GAMES-ASIA.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270056465842/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865756-AP26270056465842.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297344786/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865788-GettyImages-2297344786.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2296325053/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865779-GettyImages-2296325053.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269363613705/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865747-AP26269363613705.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297727443/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865793-GettyImages-2297727443.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26272086651609/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865775-AP26272086651609.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269183344814/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865742-AP26269183344814.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26266251129172/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865728-AP26266251129172.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270134192529/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865761-AP26270134192529.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26266243684492/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865723-AP26266243684492.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270396604588/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865770-AP26270396604588.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26265166253368/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865718-AP26265166253368.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270329051818/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865766-AP26270329051818.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26264079615555/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865713-AP26264079615555.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
-
-</description>
+ &lt;/div&gt;&lt;div class="gallery galleryid-0 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26261126859592/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865698-AP26261126859592.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games-2/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866679-2026-09-26T123619Z_1095511464_UP1EM9Q0VYZAT_RTRMADP_3_GAMES-ASIA.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/2026-09-21t125431z_500513527_up1em9l0yhgit_rtrmadp_3_games-asia/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865684-2026-09-21T125431Z_500513527_UP1EM9L0YHGIT_RTRMADP_3_GAMES-ASIA.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games-3/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866683-2026-09-29T154427Z_330058951_UP1EM9T04H0L9_RTRMADP_3_GAMES-ASIA.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26263143818563/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865703-AP26263143818563.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/2026-09-28t082735z_390059949_up1em9r1tdzus_rtrmadp_3_games-asia/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865693-2026-09-28T082735Z_390059949_UP1EM9R1TDZUS_RTRMADP_3_GAMES-ASIA.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26263278605383/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865709-AP26263278605383.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269375509049/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865751-AP26269375509049.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297091923/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865784-GettyImages-2297091923.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/asian-games/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790866675-2026-09-24T093254Z_1797949376_UP1EM9O0Q5P7I_RTRMADP_3_GAMES-ASIA.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270056465842/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865756-AP26270056465842.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297344786/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865788-GettyImages-2297344786.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2296325053/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865779-GettyImages-2296325053.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269363613705/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865747-AP26269363613705.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/gettyimages-2297727443/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865793-GettyImages-2297727443.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26272086651609/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865775-AP26272086651609.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26269183344814/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865742-AP26269183344814.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26266251129172/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865728-AP26266251129172.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270134192529/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865761-AP26270134192529.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26266243684492/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865723-AP26266243684492.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270396604588/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865770-AP26270396604588.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26265166253368/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865718-AP26265166253368.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26270329051818/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865766-AP26270329051818.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto/ap26264079615555/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://www.ilpost.it/wp-content/uploads/2026/10/01/130x91/1790865713-AP26264079615555.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/giochi-asiatici-2026-foto</guid>
-      <pubDate>Mon, 05 Oct 2026 06:51:28 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:51:28 +0000</pubDate>
       <dc:creator>Claudia Dusina</dc:creator>
     </item>
     <item>
       <title>Gli Stati Uniti hanno ritirato tutti i propri bombardieri dalla base inglese di Fairford</title>
       <link>https://www.ilpost.it/2026/10/05/raf-fairford-ritiro-bombardieri-stati-uniti</link>
       <description>&lt;p&gt;&lt;em&gt;Lo hanno deciso dopo gli arresti per un presunto piano per attaccare la struttura, usata tra le altre cose anche per la guerra in Iran &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://www.ilpost.it/wp-content/uploads/2026/10/05/1791173589-AP26085480993860.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.ilpost.it/wp-content/uploads/2026/10/05/1791173589-AP26085480993860.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Domenica il dipartimento della Difesa statunitense ha detto di aver ritirato tutti i bombardieri dalla base aeronautica di Fairford, nell’Inghilterra sudoccidentale. La base, oltre che dalla Royal Air Force (RAF) britannica, è usata dall’aviazione statunitense, di recente anche per i bombardieri impiegati negli attacchi contro l’Iran.&lt;/p&gt;
 &lt;p&gt;Ufficialmente non sono state date spiegazioni sul ritiro, che è stato però deciso una settimana dopo gli &lt;a href="https://www.ilpost.it/2026/09/28/operazione-antiterrorismo-arresti-base-militare-raf-fairford-inghilterra/"&gt;arresti&lt;/a&gt; legati a un presunto piano per attaccare la struttura. Secondo un funzionario statunitense citato da &lt;em&gt;CNN&lt;/em&gt;, il ritiro sarebbe stato deciso dopo una nuova minaccia, di cui non sono stati resi noti i dettagli.&lt;/p&gt;
 &lt;p&gt;Nella notte tra il 26 e il 27 settembre, nei pressi della base, erano stati arrestati cinque cittadini britannici tra i 23 e i 25 anni, liberati su cauzione il giorno seguente. La polizia non ha ancora chiarito cosa stessero facendo né quale fosse il loro eventuale piano. Sabato era stato rilasciato su cauzione un altro uomo, di 25 anni e con doppia cittadinanza britannica e iraniana, arrestato due giorni prima perché sospettato di essere coinvolto nel piano. Le indagini su tutti e sei sono ancora in corso.&lt;/p&gt;
 &lt;p&gt;La base di Fairford è da tempo oggetto di proteste perché viene utilizzata dai bombardieri statunitensi impegnati nella guerra contro l’Iran. Il primo ministro britannico Andy Burnham aveva detto che erano emersi indizi di un possibile coinvolgimento iraniano nel presunto piano. Il governo iraniano ha negato le accuse, definendole infondate, e convocato l’ambasciatore britannico a Teheran per protestare&lt;/p&gt;
-&lt;p&gt;Fairford è una base utilizzata dall’aeronautica statunitense per le operazioni a lungo raggio. Il governo britannico ne aveva autorizzato l’impiego per attaccare le postazioni missilistiche iraniane da cui venivano colpite le navi nello stretto di Hormuz. Il dipartimento della Difesa statunitense ha precisato che i bombardieri rimangono in grado di compiere missioni anche partendo direttamente dagli Stati Uniti: il ritiro dalla base inglese non implica quindi, di per sé, la fine del loro impiego nella guerra.&lt;/p&gt;
-</description>
+&lt;p&gt;Fairford è una base utilizzata dall’aeronautica statunitense per le operazioni a lungo raggio. Il governo britannico ne aveva autorizzato l’impiego per attaccare le postazioni missilistiche iraniane da cui venivano colpite le navi nello stretto di Hormuz. Il dipartimento della Difesa statunitense ha precisato che i bombardieri rimangono in grado di compiere missioni anche partendo direttamente dagli Stati Uniti: il ritiro dalla base inglese non implica quindi, di per sé, la fine del loro impiego nella guerra.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/raf-fairford-ritiro-bombardieri-stati-uniti</guid>
-      <pubDate>Mon, 05 Oct 2026 06:38:17 +0200</pubDate>
+      <pubDate>Mon, 05 Oct 2026 04:38:17 +0000</pubDate>
       <dc:creator>Giovanni De Benedictis</dc:creator>
     </item>
     <item>
       <title>In Brasile ci sarà il ballottaggio tra Flávio Bolsonaro e Lula</title>
       <link>https://www.ilpost.it/2026/10/05/risultati-elezioni-brasile-ballottaggio-flavio-bolsonaro-lula</link>
       <description>&lt;p&gt;&lt;em&gt;Al primo turno delle elezioni presidenziali nessuno dei due è andato oltre il 50 per cento, ma Bolsonaro è messo un po&amp;#x27; meglio&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/04/1791153833-24818930_large.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/04/1791153833-24818930_large.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Al primo turno delle elezioni presidenziali in Brasile nessun candidato è andato oltre il 50 per cento dei voti, e per questo ci sarà un turno di ballottaggio tra i due più votati: il presidente uscente &lt;a href="https://www.ilpost.it/2026/10/02/terzo-mandato-lula-bilancio/?homepagePosition=7"&gt;Luiz Inácio Lula da Silva&lt;/a&gt;, di sinistra, e il candidato di estrema destra Flávio Bolsonaro, figlio dell&amp;#8217;ex presidente Jair, che sta scontando una &lt;a href="https://www.ilpost.it/2025/09/11/bolsonaro-condannato-brasile/"&gt;condanna a 27 anni&lt;/a&gt; per aver tentato di organizzare un colpo di stato nel 2022. Il ballottaggio è previsto per domenica 25 ottobre.&lt;/p&gt;
@@ -427,10 +485,9 @@
 &lt;p&gt;Anche per questo ha impostato la sua comunicazione soprattutto sulla contrapposizione con la famiglia Bolsonaro, che a queste elezioni era molto presente al di là del candidato Flávio, che di anni ne ha 45. Innanzitutto con Jair, che è agli arresti domiciliari ma compariva regolarmente in immagini e video durante i comizi del figlio, attraverso avatar creati con l&amp;#8217;intelligenza artificiale o espedienti simili. Il figlio lo ha citato di continuo, anche sfruttando una notevole somiglianza fisica, ma ha anche cercato di proporsi come leggermente più moderato su alcune questioni.&lt;/p&gt;
 &lt;p&gt;C&amp;#8217;erano poi altri membri della famiglia candidati in parlamento, e sono stati tutti eletti: alla Camera è stato eletto Renan Jair Bolsonaro, di 28 anni, al suo primo mandato. Al Senato è stato eletto Carlos, che in passato aveva già lavorato per il padre a capo di una struttura che si occupava di attaccare gli avversari politici sui social, anche con insulti e notizie false, rinominata «gabinetto dell&amp;#8217;odio».&lt;/p&gt;
 &lt;p&gt;E sempre al Senato è stata eletta anche Michelle Bolsonaro, terza moglie di Jair, pastora evangelica e protagonista di un’enorme evoluzione politica, da timida moglie del candidato Jair nel 2018 a seguitissima e carismatica leader dell’ala femminile del Partito Liberale, quello dei Bolsonaro appunto.&lt;/p&gt;
-&lt;p&gt;Flávio ha promesso che in caso di vittoria darà la grazia al padre (nel caso, ci sarebbero conseguenze legali enormi e probabilmente una crisi costituzionale). Ci si aspetta poi che possa riabilitare il fratello Eduardo, che vive negli Stati Uniti e in Brasile &lt;a href="https://www.ilpost.it/2026/06/17/brasile-eduardo-bolsonaro-condannato/"&gt;è stato condannato&lt;/a&gt; a quattro anni e due mesi di carcere per aver provato a influenzare il processo al padre attraverso uno stato straniero (gli Stati Uniti): potrebbe così farlo tornare e magari dargli un incarico di rilievo nel governo.&lt;/p&gt;
-</description>
+&lt;p&gt;Flávio ha promesso che in caso di vittoria darà la grazia al padre (nel caso, ci sarebbero conseguenze legali enormi e probabilmente una crisi costituzionale). Ci si aspetta poi che possa riabilitare il fratello Eduardo, che vive negli Stati Uniti e in Brasile &lt;a href="https://www.ilpost.it/2026/06/17/brasile-eduardo-bolsonaro-condannato/"&gt;è stato condannato&lt;/a&gt; a quattro anni e due mesi di carcere per aver provato a influenzare il processo al padre attraverso uno stato straniero (gli Stati Uniti): potrebbe così farlo tornare e magari dargli un incarico di rilievo nel governo.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/05/risultati-elezioni-brasile-ballottaggio-flavio-bolsonaro-lula</guid>
-      <pubDate>Mon, 05 Oct 2026 01:18:34 +0200</pubDate>
+      <pubDate>Sun, 04 Oct 2026 23:18:34 +0000</pubDate>
       <dc:creator>Riccardo Congiu</dc:creator>
     </item>
     <item>
@@ -1541,88 +1598,6 @@
 &lt;div class="ilPostSocial"&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/olivia-dean-causa-plagio-just-the-two-of-us</guid>
       <pubDate>Sat, 03 Oct 2026 10:17:16 +0000</pubDate>
-      <dc:creator>Ginevra Falciani</dc:creator>
-    </item>
-    <item>
-      <title>Il primo campionato di calcio nazionale, vinto da nessuno</title>
-      <link>https://www.ilpost.it/2026/10/03/serie-a-1926-1927-primo-campionato-nazionale-e-primo-scandalo-caso-allemandi-torino-bologna</link>
-      <description>&lt;p&gt;&lt;em&gt;Iniziò un secolo fa senza divisioni tra Nord e Sud, e fu il primo a essere segnato da un grande scandalo&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790938055-Divisione_Nazionale_1926-27_-_Bologna_vs_Juventus_-_Schiavio_Rosetta_e_Allemandi.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Il 3 ottobre 1926, cento anni fa, iniziò il campionato di calcio 1926/27. Fu il primo campionato italiano davvero nazionale: per la prima volta le squadre smisero cioè di essere divise in due gironi geografici, uno per l’Italia del Nord e uno per quella del Sud. Restavano comunque due gironi, ma senza criteri geografici così stringenti. Soprattutto, però, quel campionato è ricordato perché non lo vinse nessuno: lo Scudetto, simbolo della vittoria, fu revocato e mai più riassegnato.&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;organizzazione di quel campionato fu soprattutto una questione di propaganda. Nel 1926 era da poco iniziata la dittatura del Partito fascista, che non voleva che uno sport già molto popolare come il calcio fosse sostanzialmente spaccato a metà tra Nord e Sud.&lt;/p&gt;
-&lt;p&gt;Negli anni precedenti si erano giocati di fatto due campionati: la Lega Nord e la Lega Sud, che erano spesso divise a loro volta in gironi e le cui vincitrici si incontravano in una finalissima.&lt;/p&gt;
-&lt;p&gt;La finalissima aveva però poco valore sportivo, perché le squadre del Nord erano nettamente più forti e vincevano sempre. Nella finalissima del 1926 l&amp;#8217;Alba Audace di Roma perse 7 a 0 la partita d&amp;#8217;andata e 5 a 1 quella di ritorno contro la Juventus.&lt;/p&gt;
-&lt;p&gt;Ma c&amp;#8217;erano anche altri problemi nel calcio italiano: le squadre che partecipavano al campionato (noto come Prima divisione) erano troppe (nel 1925 erano 44). C&amp;#8217;era inoltre l&amp;#8217;obbligo del dilettantismo, che portava a posti di lavoro fittizi e stipendi clandestini, e c&amp;#8217;erano stretti vincoli territoriali per il passaggio dei calciatori da una squadra all&amp;#8217;altra, quello che oggi chiamiamo calciomercato. Nel giugno del 1926 iniziò anche un grosso sciopero degli arbitri, che portò i principali dirigenti della FIGC (la federazione italiana di calcio) a dimettersi e delegare i propri poteri al CONI, il Comitato olimpico italiano.&lt;/p&gt;
-&lt;p&gt;Il fascismo approfittò subito di questo vuoto di potere.&lt;/p&gt;
-&lt;p&gt;Il presidente del CONI, Lando Ferretti, era un deputato iscritto al Partito fascista e, anziché indire nuove elezioni per la Federcalcio, convocò due dirigenti sportivi e un arbitro a Viareggio per riorganizzare il calcio italiano secondo le idee del regime.&lt;/p&gt;
-&lt;p&gt;Da quell&amp;#8217;incontro nacque la Carta di Viareggio, un documento che, tra le altre cose, introdusse di fatto il professionismo in Italia, eliminò i vincoli territoriali già citati e riorganizzò tutti i campionati.&lt;/p&gt;
-&lt;p&gt;La Prima divisione divenne così la Divisione Nazionale: fu ridotta a 20 squadre, 3 prese dalla vecchia Lega Sud e 17 prese dalla Lega Nord. Di queste 17, 16 vi entrarono di diritto e una sola tramite un breve torneo di qualificazione tra le otto retrocesse della stagione precedente. Il nuovo campionato era “nazionale” più nel nome che nei fatti.&lt;/p&gt;
-&lt;p&gt;Le squadre del Sud furono scelte per ragioni politiche, più che sportive. Per garantire la presenza delle città più importanti, furono ammesse due squadre romane – l’Alba e la Fortitudo – e il Napoli (erede dell’Internaples, una squadra che aveva un nome troppo inglese e internazionale perché potesse essere approvato dal regime fascista).&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3694916"&gt;&lt;img alt="" class="wp-image-3694916 size-full" height="822" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790952202-image1787154076.png" width="980" /&gt;&lt;p class="wp-caption-text"&gt;A vincere il torneo di qualificazione fu l&amp;#8217;Alessandria, che sconfisse in finale i rivali del Novara (&lt;em&gt;Guerin Sportivo&lt;/em&gt;, 1° settembre 1926)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Le 20 squadre della Divisione Nazionale furono divise in due gironi da 10; ma essendo solo tre quelle da Roma in giù il criterio non fu geografico. Le prime tre di ogni girone si sarebbero qualificate al girone finale, dove la prima classificata avrebbe vinto lo Scudetto. Le ultime due di ogni girone sarebbero invece retrocesse. Era comunque una soluzione temporanea: l’obiettivo era arrivare a un campionato a girone unico, ma non c’erano ancora i mezzi per poterlo organizzare&lt;/p&gt;
-&lt;p&gt;Per le squadre di Roma e Napoli, quel campionato fu un disastro. Tutte e tre finirono retrocesse, insieme alla Cremonese. Il Napoli fece addirittura un solo punto in 18 giornate. Fu una figuraccia anche per la FIGC e il regime, che l&amp;#8217;anno dopo avrebbero allargato il campionato a 22 squadre così da poter ripescare qualche squadra del Sud.&lt;/p&gt;
-&lt;p&gt;Anche squadre che erano state forti lo erano sempre meno. Come la Pro Vercelli, che aveva vinto l&amp;#8217;ultimo dei suoi sette Scudetti nel 1922 ed era ancora molto amata, per quanto in evidente calo. Nel novembre del 1926 il giornale fascista &lt;em&gt;L&amp;#8217;Impero &lt;/em&gt;scrisse:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Lo spostamento della Pro Vercelli è sempre seguito con incredibile interesse. Le bianche casacche hanno avuto giornate dure, hanno subito sconfitte dolorose, hanno attraversato lunghi periodi di oscuramento di forma, hanno vivacchiato talvolta sulla gloria di un passato meraviglioso. Ciononpertanto non sono mai cadute nell&amp;#8217;estimazione delle folle. Dove giocava la Pro Vercelli là si accorreva anche se la squadra la si sapeva non formidabilmente attrezzata, senza titubanze, poiché là era la prima autentica aristocrazia italiana del calcio che si poteva ammirare.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Per il girone finale si qualificarono Bologna, Genoa, Torino, Juventus, Inter, Milan.&lt;/p&gt;
-&lt;p&gt;A vincere quel girone e di conseguenza il campionato fu il Torino, che in quegli anni poteva contare sul “Trio delle Meraviglie”: Adolfo Baloncieri, Julio Libonatti e Gino Rossetti. In &lt;em&gt;La Grande Storia del Calcio Italiano&lt;/em&gt; lo stesso Baloncieri ricorda i passaggi rapidi e stretti con cui lui e i suoi compagni d&amp;#8217;attacco superavano le difese avversarie.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3694934"&gt;&lt;img alt="" class="wp-image-3694934 size-full" height="649" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/02/1790952823-Trio_delle_meraviglie-2.jpg" width="600" /&gt;&lt;p class="wp-caption-text"&gt;I calciatori Adolfo Baloncieri, Julio Libonatti e Gino Rossetti (Wikimedia)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;La storia di Libonatti, arrivato al Torino nel 1925 da una squadra argentina, è anche esemplare del calciomercato di quel periodo. Per ovviare alle richieste esorbitanti delle squadre italiane, l&amp;#8217;allora presidente del Torino, il conte Enrico Marone Cinzano, aveva infatti iniziato ad acquistare in Sudamerica i cosiddetti “oriundi”, cioè i figli o nipoti di italiani che solo per questo avevano diritto alla cittadinanza italiana. Fu una scelta previdente: la Carta di Viareggio, da lì a poco, avrebbe vietato alle squadre italiane di tesserare giocatori stranieri.&lt;/p&gt;
-&lt;p&gt;Pochi giorni dopo la conclusione del campionato un giornale romano dell’epoca, &lt;em&gt;Il&lt;/em&gt; &lt;em&gt;Tifone&lt;/em&gt;, uscì con un articolo dal titolo “C’è del marcio in Danimarca”, citando l&amp;#8217;&lt;em&gt;Amleto&lt;/em&gt; di Shakespeare. L&amp;#8217;articolo contestava la regolarità della vittoria del Torino, sostenendo che avesse pagato un giocatore avversario – il difensore Luigi Allemandi – con l’intento di garantirsi la vittoria nel &lt;a href="https://www.ilpost.it/2023/05/10/derby-calcio-nome-origini-significato/"&gt;derby&lt;/a&gt; di ritorno contro la Juventus, giocato il 5 giugno 1927, quando il Torino si trovava in testa con tre punti di vantaggio su Bologna e Juventus, le sue due grandi rivali di quell&amp;#8217;anno. Viste ora, le circostanze in cui il giornalista del &lt;em&gt;Tifone&lt;/em&gt; scrisse l’articolo, Renato Farminelli, sembrano perlomeno fantasiose, diciamo.&lt;/p&gt;
-&lt;p&gt;In seguito all’articolo del &lt;em&gt;Tifone&lt;/em&gt;, la FIGC presieduta da Leandro Arpinati, podestà (cioè capo del comune) di Bologna e vicesegretario del Partito fascista, aprì un’indagine, al termine della quale decise di revocare lo Scudetto al Torino senza però assegnarlo al Bologna, secondo classificato, dato che con una scelta del genere Arpinati si sarebbe attirato critiche e accuse. E non ne aveva voglia, visto che fra le altre cose tifava Bologna e stava per diventare sottosegretario al ministero dell&amp;#8217;Interno.&lt;/p&gt;
-&lt;p&gt;Il “caso Allemandi”, come venne chiamato in seguito, fu il primo grande scandalo del calcio italiano e fece molto scalpore. E lo fa ancora, in un certo senso: negli ultimi anni, sia il Torino sia il Bologna hanno chiesto di ricevere quello Scudetto. Ma inutilmente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2017/05/30/scudetto-1927-torino-caso-allemandi/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La storia e le incongruenze del caso Allemandi&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Il Torino, comunque, riuscì a vincerne un altro l&amp;#8217;anno dopo, nel 1928, sempre grazie al suo Trio delle Meraviglie. E ci arrivò vicino anche nel 1929, quando lo perse in seguito a uno spareggio, proprio contro il Bologna.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/serie-a-1926-1927-primo-campionato-nazionale-e-primo-scandalo-caso-allemandi-torino-bologna</guid>
-      <pubDate>Sat, 03 Oct 2026 09:57:15 +0000</pubDate>
-      <dc:creator>Riccardo Trabattoni</dc:creator>
-    </item>
-    <item>
-      <title>Jannik Sinner non giocherà neanche il torneo Masters 1000 di Shanghai</title>
-      <link>https://www.ilpost.it/2026/10/03/jannik-sinner-non-giochera-masters-1000-shanghai</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/1791021077-AP26233526337302.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Sabato il tennista italiano Jannik Sinner ha annunciato che non giocherà il torneo Masters 1000 di Shanghai che si terrà dal 7 al 18 ottobre. Non ha dato motivazioni ma in questi giorni Sinner non sta partecipando neanche al torneo ATP 500 a Pechino, in Cina, per via di un infortunio al ginocchio. «Grazie per il vostro sostegno, non vedo l&amp;#8217;ora di rivedervi l&amp;#8217;anno prossimo», ha scritto su Instagram.&lt;/p&gt;
-&lt;p&gt;Sinner non gioca una partita dal 12 luglio, la data della finale del torneo di Wimbledon, che aveva vinto contro il tennista tedesco Alexander Zverev. Da allora ha saltato alcuni tornei importanti: i Masters 1000 di Montreal e Cincinnati e soprattutto gli US Open.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" class="alignnone wp-image-3695285 size-full" height="1066" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/1791020970-Screenshot-2026-10-03-alle-11.49.09.png" width="600" /&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/jannik-sinner-non-giochera-masters-1000-shanghai</guid>
-      <pubDate>Sat, 03 Oct 2026 09:54:06 +0000</pubDate>
-      <dc:creator>Marta Impedovo</dc:creator>
-    </item>
-    <item>
-      <title>Elly Schlein vuole un solo rivale alle primarie</title>
-      <link>https://www.ilpost.it/2026/10/03/elly-schlein-primarie</link>
-      <description>&lt;p&gt;&lt;em&gt;Ha fatto capire di voler andare allo scontro diretto con Giuseppe Conte, ma per farlo dovrà convincere molte persone&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/1791019273-ilpost_20261003112055751_d52d8c71803b8551ca26095100fe0226.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Venerdì durante la riunione nazionale di direzione del Partito Democratico è diventata chiara la volontà della leader del partito Elly Schlein di fare le primarie del centrosinistra e di partecipare da sola in uno scontro diretto contro il leader del Movimento 5 Stelle Giuseppe Conte. Nel suo discorso ha detto: «Noi siamo disponibili e pronti anche alla primarie», e poi ha aggiunto: «le vinceremo insieme avendo poi grande cura di rappresentare tutte quelle diverse sensibilità che è normale ci siano tra forze politiche alleate».&lt;/p&gt;
-&lt;p&gt;Anche se con parole un po&amp;#8217; criptiche Schlein si è di fatto rivolta ai partiti del cosiddetto &amp;#8220;campo largo&amp;#8221; e ai vari leader e politici che negli ultimi mesi avevano detto o fatto capire di star valutando di candidarsi, chiedendo loro di farsi da parte, sostenere la sua candidatura contro Conte, e poi fidarsi del fatto che il PD riconoscerà loro quanto gli spetta nelle liste elettorali e in caso di un&amp;#8217;eventuale vittoria. Non sarà facile convincerli tutti.&lt;/p&gt;
-&lt;p&gt;Da mesi tra i partiti del centrosinistra che si oppongono al governo di Giorgia Meloni si dibatte in modo piuttosto sterile su chi debba far parte della coalizione cosiddetta “campo largo” e chi no, su quali debbano essere le priorità del programma e, soprattutto, su chi debba essere il leader della coalizione, cioè la persona che ricoprirà la carica di presidente del Consiglio in caso di vittoria.&lt;/p&gt;
-&lt;p&gt;Stabilito che per decidere quest’ultima cosa si faranno delle primarie interne, si dovrà discutere di come farle: a turno secco vincerebbe il candidato con più voti, mentre a doppio turno si andrebbe al ballottaggio tra i due più votati. Inoltre andrà deciso se si potrà votare solo di persona o anche online. L&amp;#8217;idea di Schlein è di andare a un turno secco con solo due candidati, lei e Conte appunto, anche a costo di cedere alla richiesta del Movimento 5 Stelle di accettare anche i voti online.&lt;/p&gt;
-&lt;p&gt;Non sembra però facile. Al momento infatti la coalizione di centrosinistra è molto composita. Oltre al PD e al Movimento 5 Stelle, ne fa parte anche Alleanza Verdi e Sinistra, coi leader Angelo Bonelli e Nicola Fratoianni. Attorno a quesi tre partiti gravitano poi altri progetti politici più centristi come Casa Riformista, sostenuto da Matteo Renzi, Progetto civico di Alessandro Onorato e Più Uno di Ernesto Maria Ruffini.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/10/02/alessandro-onorato-progetto-civico-centro-primarie/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Storia e ambizioni di Alessandro Onorato&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Alle ambizioni di questi movimenti e dei loro leader vanno aggiunte poi quelle di alcuni sindaci di cui si è ipotizzato un possibile passaggio alla politica nazionale, come Beppe Sala (Milano), Gaetano Manfredi (Napoli) e Silvia Salis (Genova), nonostante a giugno &lt;a href="https://www.ilpost.it/2026/06/12/silvia-salis-resta-sindaca-genova/"&gt;avesse detto in modo perentorio&lt;/a&gt; che avrebbe continuato a fare la sindaca fino alla fine del suo mandato. Non solo, era emersa anche la possibilità di un&amp;#8217;altra candidatura interna al PD, quella di Giorgio Gori, che parteciperebbe in rappresentanza di un&amp;#8217;area riformista e moderata del partito. Riguardo la sua candidatura Schlein aveva già fatto capire di essere motivata a impedirla in tutti i modi.&lt;/p&gt;
-&lt;p&gt;Di fatto Schlein sta chiedendo una grossa rinuncia agli altri possibili candidati: sia perché limitando la campagna elettorale per le primarie solo a lei e a Conte toglierebbe loro molte occasioni di visibilità mediatica, in un momento di avvicinamento alle elezioni politiche fondamentale per ottenere consensi; sia perché una larga partecipazione alle primarie permetterebbe ai vari partiti e movimenti di quantificare il loro peso all&amp;#8217;interno della coalizione e sulla base di questo negoziare i posti nelle liste elettorali e i ruoli in un eventuale governo. È a questo che Schlein si riferisce quando dice che se dovesse vincere contro Conte avrà «grande cura di rappresentare tutte quelle diverse sensibilità», chiedendo di fatto un atto di fiducia nei suoi confronti.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/elly-schlein-primarie</guid>
-      <pubDate>Sat, 03 Oct 2026 09:44:47 +0000</pubDate>
-      <dc:creator>Marta Impedovo</dc:creator>
-    </item>
-    <item>
-      <title>Per la prima volta l’Ucraina ha usato un missile balistico di produzione nazionale contro la Russia</title>
-      <link>https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/03/1791016459-missile.png" /&gt;&lt;/p&gt;
-&lt;p&gt;Il presidente ucraino Volodymyr Zelensky ha detto che questa settimana per la prima volta il suo esercito ha usato contro la Russia un missile balistico prodotto in Ucraina, senza specificare contro quale obiettivo sia stato impiegato. Il missile è un FP-7 ed è stato prodotto dall’azienda ucraina Fire Point, &lt;a href="https://www.ilpost.it/2025/12/22/fire-point-ucraina/"&gt;la più letale e avanzata azienda di armi del paese&lt;/a&gt;. È un missile a corto raggio, che quindi è in grado di raggiungere solo le regioni della Russia più vicine al confine ucraino. Fire Point sta inoltre sviluppando un missile più potente, l&amp;#8217;FF-9, che dovrebbe essere in grado di raggiungere Mosca e altri obiettivi più lontani dal confine.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;L&amp;#8217;annuncio arriva in un momento in cui la Russia &lt;a href="https://www.ilpost.it/2026/09/30/guerra-russa-alle-citta-kyiv-ucraina/"&gt;si sta accanendo sulla capitale ucraina Kyiv&lt;/a&gt;, usando &lt;a href="https://www.ilpost.it/2026/09/24/russia-ucraina-guerra-tecnologica-armi/"&gt;due nuovi modelli di droni&lt;/a&gt; difficili da intercettare, fabbricati a migliaia ogni mese in un unico polo industriale, e colpendo principalmente obiettivi civili.&lt;/p&gt;
-&lt;p&gt;Per il momento non si prevede che i missili FP-7 cambieranno in modo significativo le sorti della guerra, ma potrebbero essere usati dall&amp;#8217;Ucraina per distruggere i lanciamissili russi che si trovano nelle regioni di confine. Questo diminuirebbe la capacità russa di attaccare l&amp;#8217;Ucraina con dei missili che l&amp;#8217;esercito ucraino non riesce più a intercettare per via della mancanza dei missili statunitensi Patriot, che costano milioni di dollari e scarseggiano al livello globale. In estate il presidente statunitense Donald Trump aveva promesso all&amp;#8217;Ucraina la licenza per costruirli autonomamente, ma poi &lt;a href="https://www.ilpost.it/2026/08/01/trump-promessa-patriot-ucraina/"&gt;se l&amp;#8217;era rimangiata&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I missili balistici sono le armi più potenti fra quelle usate per condurre attacchi aerei perché sono difficili da intercettare e possono trasportare un carico più pesante rispetto ai droni, che l&amp;#8217;Ucraina è già capace di produrre molto velocemente. Solo &lt;a href="https://www.armscontrol.org/factsheets/worldwide-ballistic-missile-inventories"&gt;31 paesi al mondo&lt;/a&gt; li possiedono, e quelli che sono capaci di produrli sono ancora meno, circa una dozzina. Finora l&amp;#8217;Ucraina aveva usato in combattimento i missili balistici ATACMS fabbricati negli Stati Uniti, da cui però sta cercando progressivamente di rendersi autonoma per via dei costanti cambi di atteggiamento dell&amp;#8217;amministrazione di Donald Trump nei confronti del suo governo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/06/14/cosa-sono-missili-balistici/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Cosa sono e come funzionano i missili balistici&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/10/03/missile-balistico-produzione-ucraina-zelensky</guid>
-      <pubDate>Sat, 03 Oct 2026 08:40:01 +0000</pubDate>
       <dc:creator>Ginevra Falciani</dc:creator>
     </item>
   </channel>
