@@ -7,85 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 07:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:01:10 +0000</lastBuildDate>
     <item>
-      <title>I risultati delle elezioni negli Stati Uniti, in breve</title>
-      <link>https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati</link>
-      <description>&lt;p&gt;&lt;em&gt;I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793771063-AP26308161995854.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;I Democratici hanno stravinto le elezioni di metà mandato negli Stati Uniti, andando quasi ovunque meglio delle previsioni e ottenendo la maggioranza sia alla Camera che al Senato. Erano entrambe controllate dal partito Repubblicano, che ha subìto una sconfitta eclatante causata soprattutto dall&amp;#8217;impopolarità del presidente degli Stati Uniti Donald Trump. Il voto infatti era visto perlopiù come una specie di referendum sul suo operato.&lt;/p&gt;
-&lt;p&gt;Il racconto lungo della notte elettorale si può leggere sul &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/?homepagePosition=0"&gt;liveblog del Post,&lt;/a&gt; dove si trovano i risultati aggiornati e le ultime notizie. Qui sotto c&amp;#8217;è invece una versione sintetica con le cose più importanti da sapere.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Il Senato&lt;/strong&gt;&lt;br /&gt;
-Al Senato, dove la possibilità che il Partito Democratico ottenesse la maggioranza era considerata poco probabile fino a qualche mese fa, i Democratici hanno vinto in tutti gli stati in bilico. Per esempio in Kansas, dove un candidato Democratico non vinceva dal 1932; in South Carolina, che è uno stato tradizionalmente molto conservatore; e nell&amp;#8217;Iowa e nell&amp;#8217;Ohio, che negli ultimi anni si erano spostati molto a destra.&lt;/p&gt;
-&lt;fe_component name="htmlembed" id="31"&gt;&lt;/fe_component&gt;
-&lt;p&gt;La sconfitta &lt;a href="https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas/?homepagePosition=2"&gt;più clamorosa e bruciante&lt;/a&gt; per i Repubblicani è arrivata sicuramente in Texas, dove il Democratico James Talarico ha vinto le elezioni per il Senato, con oltre 10 punti percentuali di vantaggio sullo sfidante Repubblicano Ken Paxton.&lt;/p&gt;
-&lt;div id="attachment_3723960" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3723960 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793771228-AP26308198452397.jpg" alt="" width="1200" height="857" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793771228-AP26308198452397.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x286/1793771228-AP26308198452397.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x486/1793771228-AP26308198452397.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x548/1793771228-AP26308198452397.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x571/1793771228-AP26308198452397.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Il discorso della vittoria di James Talarico in Texas (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;In attesa dello scrutinio dei voti dell&amp;#8217;Alaska, gli ultimi ad arrivare, è praticamente certo che i Democratici avranno almeno 54 senatori: vuol dire 7 seggi guadagnati rispetto alla situazione attuale.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;La Camera&lt;/strong&gt;&lt;br /&gt;
-I numeri definitivi non ci sono ancora, ma secondo i dati raccolti dal &lt;i&gt;&lt;span draggable="true"&gt;&lt;a href="https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html" target="_blank" rel="noopener noreferrer"&gt;New York Times&lt;/a&gt;&lt;/span&gt;&lt;/i&gt; i Democratici sono avanti nello scrutinio in oltre 250 collegi su 435. Prima delle elezioni avevano 214 seggi: ne guadagneranno una quarantina.&lt;/p&gt;
-&lt;p&gt;I candidati repubblicani hanno perso in diversi collegi che prima delle elezioni erano considerati sicuri, anche perché le autorità statali del loro partito ne avevano ridisegnato i confini &lt;a href="https://www.ilpost.it/2026/06/16/gerrymandering-elezioni-meta-mandato-2026/"&gt;appositamente&lt;/a&gt; per garantirsi la vittoria (il cosiddetto &lt;em&gt;gerrymandering)&lt;/em&gt;: in almeno tre casi però non è bastato e hanno vinto i candidati Democratici.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Governatori ed elezioni locali&lt;/strong&gt;&lt;br /&gt;
-In Texas la candidata Democratica Gina Hinojosa ha vinto anche le elezioni per l&amp;#8217;incarico di governatore, battendo il Repubblicano uscente Greg Abbot.&lt;/p&gt;
-&lt;p&gt;Altre vittorie significative per i Democratici sono state nell&amp;#8217;Ohio, dove ha perso Vivek Ramaswamy,  il candidato che aveva pubblicalo lo &lt;a href="https://www.ilpost.it/2026/10/22/spot-ohio-meta-mandato-stati-uniti/"&gt;spot più scorretto di questa campagna elettorale&lt;/a&gt;; e in Georgia, in cui Keisha Lance Bottoms, Democratica, è diventata la prima donna nera governatrice nella storia degli Stati Uniti.&lt;/p&gt;
-&lt;p&gt;I Democratici hanno ottenuto vittorie eclatanti in molte altre elezioni locali: in Texas, per esempio, hanno ottenuto anche la maggioranza nella Camera statale e hanno vinto le elezioni per il procuratore generale, una carica molto rilevante.&lt;/p&gt;
+      <title>È una sconfitta soprattutto di Donald Trump</title>
+      <link>https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm</link>
+      <description>&lt;p&gt;&lt;em&gt;Come una serie di scelte del presidente su candidati e politiche ha contribuito al disastro dei Repubblicani nelle elezioni di metà mandato&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775184-AP26308132431599.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;I Repubblicani sono usciti nettamente sconfitti dalle elezioni di metà mandato negli Stati Uniti (&lt;a href="https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati/?homepagePosition=3"&gt;qui&lt;/a&gt; una sintesi dei risultati). Nella notte il presidente statunitense Donald Trump ha postato sui suoi social un messaggio per sostenere di non avere alcuna responsabilità per il risultato, anzi: «Non ero candidato, e se lo fossi stato avremmo vinto in modo schiacciante», ha scritto.&lt;/p&gt;
+&lt;p&gt;La realtà però è ben diversa, perché queste elezioni erano viste soprattutto come una specie di referendum sull&amp;#8217;operato del presidente, e la sconfitta del partito Repubblicano è in primo luogo una sconfitta di Trump e un effetto della sua bassissima popolarità in tutti gli Stati Uniti.&lt;/p&gt;
+&lt;p&gt;I Repubblicani hanno perso il controllo del Senato e della Camera, ma anche molte elezioni a governatore, alcune in stati in cui vincevano da decenni. La serie di vittorie  per il Senato per esempio in Iowa, Kansas, Texas, Ohio, North e South Carolina sarebbe stata inimmaginabile un anno fa, «a dimostrare di come la guerra del presidente Trump contro l’Iran e le sue politiche economiche abbiano ampliato drasticamente il campo di battaglia», ha scritto il &lt;em&gt;New York Times&lt;/em&gt;.&lt;/p&gt;
+&lt;div id="attachment_3724046" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3724046 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775169-AP26233849446025.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775169-AP26233849446025.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793775169-AP26233849446025.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793775169-AP26233849446025.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793775169-AP26233849446025.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793775169-AP26233849446025.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Un comizio di Trump a Myrtle Beach, South Carolina, il (AP Photo/Jacquelyn Martin)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Le elezioni di metà mandato sono storicamente sfavorevoli al partito che esprime il presidente. Raramente però lo sono state in queste dimensioni. Il risultato ha confermato i sondaggi pre-elettorali sulla popolarità di Trump, che ha gli indici di approvazione &lt;a href="https://www.economist.com/interactive/trump-approval-tracker"&gt;più bassi&lt;/a&gt; da quando vengono commissionati questi sondaggi: stiamo parlando di decenni. È per questo che diversi candidati Repubblicani avevano fatto una campagna cercando di prendere un po&amp;#8217; le distanze da lui.&lt;/p&gt;
+&lt;p&gt;Allo stesso tempo però Trump aveva provato in più occasioni a personalizzare il voto, &lt;a href="https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"&gt;chiedendo ai suoi sostenitori&lt;/a&gt; di andare ai seggi fingendo che il suo nome fosse «sulla scheda elettorale». Aveva fatto campagna in vari stati, anche se in alcune situazioni in modo confuso e caotico.&lt;/p&gt;
+&lt;p&gt;La risposta degli elettori è stata piuttosto uniforme in tutti gli Stati Uniti: difficile quindi legarla solo a questioni statali o all&amp;#8217;efficacia di specifici candidati. Trump era stato eletto nel 2024 anche grazie alla promessa di mantenere prezzi più bassi e di farsi coinvolgere di meno nelle crisi internazionali: &amp;#8220;America First&amp;#8221;, era lo slogan, quindi prima gli interessi degli Stati Uniti.&lt;/p&gt;
+&lt;p&gt;Ha invece cominciato una guerra all&amp;#8217;Iran che ha avuto enormi ripercussioni sull&amp;#8217;economia mondiale e statunitense, portando soprattutto i prezzi dei carburanti a livelli molto alti. Il costo della benzina negli Stati Uniti è considerato un fattore che può influenzare notevolmente le elezioni. Anche le politiche migratorie iper-aggressive, con le retate, le violenze e gli arresti dell&amp;#8217;ICE, hanno probabilmente allontanato dal partito le minoranze, soprattutto quella latinoamericana, che invece nel 2024 aveva votato in larga parte per Trump.&lt;/p&gt;
+&lt;div id="attachment_3724048" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3724048 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775179-AP26301054267151.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775179-AP26301054267151.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793775179-AP26301054267151.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793775179-AP26301054267151.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793775179-AP26301054267151.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793775179-AP26301054267151.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Donald Trump abbraccia il candidato in Texas Ken Paxton a Lubbock, il 26 ottobre 2026 (AP Photo/Alex Brandon)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;C&amp;#8217;è poi un altro motivo per cui questa sconfitta Repubblicana è una sconfitta di Trump: il partito è oggi quasi completamente composto da persone a lui fedeli, spesso scelte proprio perché particolarmente vicine o adulatrici del presidente.&lt;/p&gt;
+&lt;p&gt;Nelle primarie dei Repubblicani per scegliere i candidati a queste elezioni Trump aveva sostenuto rappresentanti della corrente MAGA («Make America Great Again»), anche contro politici di maggiore esperienza. Quei rappresentanti avevano vinto le primarie ma ora hanno però perso nettamente contro i Democratici.&lt;/p&gt;
+&lt;p&gt;In due delle elezioni più seguite, e delle sconfitte più clamorose, c&amp;#8217;è stata proprio una scelta specifica di Trump che ha contribuito al disastro elettorale.&lt;/p&gt;
+&lt;p&gt;In Texas il senatore uscente era il Repubblicano John Cornyn, 74 anni, in carica da quattro mandati e candidato per un quinto. Cornyn era considerato vicino a Trump e in Senato aveva votato secondo le indicazioni del presidente nel 99 per cento dei casi. Per Trump però non era abbastanza allineato: «John Cornyn è una brava persona e ho lavorato bene con lui, ma non mi ha sostenuto nei momenti difficili», ha detto quando ha scelto di sostenere alle primarie Ken Paxton.&lt;/p&gt;
+&lt;p&gt;Paxton è un alleato stretto di Trump, come ha dimostrato nel corso degli anni sostenendo le teorie infondate secondo cui Trump avrebbe vinto le elezioni presidenziali del 2020. Già al momento della sua candidatura era anche universalmente considerato un candidato più debole rispetto a Cornyn, la cui reputazione era stata in parte compromessa da una lunga serie di scandali. La sua campagna elettorale è stata disastrosa, e negli scorsi mesi si è molto parlato anche della sua separazione dalla moglie Angela, che ha chiesto il divorzio citando l&amp;#8217;adulterio come causa principale.&lt;/p&gt;
+&lt;p&gt;Paxton era un difensore della famiglia tradizionale e dei valori cristiani ma durante la campagna elettorale si è presentato pubblicamente con una nuova compagna, una influencer cristiana: tutto questo potrebbe avere influito negativamente sui suoi consensi tra gli elettori Repubblicani.&lt;/p&gt;
+&lt;div id="attachment_3724047" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3724047 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775175-AP26302691011183.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793775175-AP26302691011183.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793775175-AP26302691011183.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793775175-AP26302691011183.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793775175-AP26302691011183.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793775175-AP26302691011183.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Trump con Darline Graham, a Rock Hill , South Carolina, il 26 ottobre 2026 (AP Photo/Alex Brandon)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;In Texas un Democratico non vinceva al Senato dal 1988, in South Carolina addirittura dal 1964: anche qui Trump ha avuto un ruolo diretto nel scegliere la candidata che poi si è rivelata perdente, Darline Graham.&lt;/p&gt;
+&lt;p&gt;Graham è la sorella del senatore Lindsey Graham, importante politico del Partito Repubblicano e amico e collaboratore di Trump, morto improvvisamente lo scorso luglio. Due giorni dopo la morte, il governatore repubblicano Henry McMaster aveva nominato al suo posto la sorella, Darline Graham, fino ad allora funzionaria pubblica e responsabile della Commissione statale per i non vedenti. Trump poi l&amp;#8217;aveva convinta a candidarsi e aveva fatto campagna per lei alle primarie contro Ralph Norman, candidato che rappresenta la parte più tradizionale del partito. Aveva anche mobilitato il super PAC MAGA per finanziarne la sua campagna. I super PAC &lt;a href="https://www.ilpost.it/2023/12/18/super-pac-elezioni-usa/"&gt;sono organizzazioni nate&lt;/a&gt; per raccogliere fondi a favore o contro un candidato e sono sempre più influenti.&lt;/p&gt;
+&lt;p&gt;Durante la campagna elettorale, Graham si è mostrata però spesso in difficoltà, soprattutto per la scarsa esperienza in politica. Durante un dibattito ad agosto, a una domanda su Taiwan, aveva &lt;a href="https://www.youtube.com/watch?v=UtPkiDQXABU"&gt;ammesso&lt;/a&gt; di non saperne molto di sicurezza nazionale. È stata poi sconfitta dalla Democratica Annie Andrews.&lt;/p&gt;
+&lt;p&gt;Quelli in Texas e in South Carolina sono due dei casi più evidenti dell&amp;#8217;influenza che ha avuto Trump nella scelta di candidati vicini a lui che si sono rivelati poi perdenti alle elezioni di stanotte. È per questo che la frase di Trump postata sui suoi social – «Non ero candidato, e se lo fossi stato avremmo vinto in modo schiacciante» – risulta ora poco credibile e senza alcun fondamento.&lt;/p&gt;
 </description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati</guid>
-      <pubDate>Wed, 04 Nov 2026 07:54:50 +0100</pubDate>
-      <dc:creator>Pietro Pianini</dc:creator>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/trump-sconfitta-elezioni-midterm</guid>
+      <pubDate>Wed, 04 Nov 2026 08:48:31 +0100</pubDate>
+      <dc:creator>Valerio Clari</dc:creator>
     </item>
     <item>
-      <title>Trump l’ha presa con sportività</title>
-      <link>https://www.ilpost.it/2026/11/04/trump-sconfitta-midterm-2026</link>
-      <description>&lt;p&gt;&lt;em&gt;Si è congratulato con i Democratici per la grande vittoria alle elezioni di metà mandato, rifiutando di prendersi responsabilità per la sconfitta &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793774400-AP26306730915465.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;C&amp;#8217;era molta curiosità su come il presidente degli Stati Uniti Donald Trump avrebbe preso un&amp;#8217;eventuale sconfitta dei Repubblicani alle elezioni di metà mandato. Trump è noto per le accusare di brogli quando perde e per la tendenza a non voler accettare una sua sconfitta, cosa che peraltro portò anche all&amp;#8217;assalto al Congresso il 6 gennaio del 2021, dopo che perse le elezioni presidenziali.&lt;/p&gt;
-&lt;p&gt;Ma in questa occasione, anche per la &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/"&gt;dimensione inattesa della sconfitta&lt;/a&gt; che il suo partito ha subìto anche in stati storicamente Repubblicani, Trump sembra averla presa con sportività. A &lt;em&gt;Fox News&lt;/em&gt; ha detto «Mi congratulo con i Democratici, hanno fatto un buon lavoro. Del resto volevano vincere da 11 anni e finalmente ce l&amp;#8217;hanno fatta. Ma io non lo vedo come un colpo a me. Abbiamo avuto i due anni più grandi della storia della presidenza [degli Stati Uniti]».&lt;/p&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/FoxNews/status/2117853402096963771"&gt;&lt;/div&gt;
-&lt;p&gt;Che il risultato non abbia a che vedere con il suo governo è una difesa un po’ assurda, per diverse ragioni. Innanzitutto perché storicamente le elezioni di metà mandato sono proprio una sorta di “referendum” sull&amp;#8217;operato del presidente in carica, ed è anche per questo che di solito va sempre meglio il partito all&amp;#8217;opposizione.&lt;/p&gt;
-&lt;p&gt;In più Trump aveva in ogni modo cercato di legare il voto alla sua persona: in diverse occasioni &lt;a href="https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"&gt;aveva detto&lt;/a&gt; agli elettori di votare fingendo che fosse proprio lui sulla scheda, &lt;a href="https://www.facebook.com/kcrgtv9/videos/pretend-im-on-the-ballot-trump-urges-republicans-to-vote-in-the-midterm-election/1074108489008979/"&gt;l&amp;#8217;ultima volta due giorni fa&lt;/a&gt;. E solo qualche ora prima rispetto all&amp;#8217;intervista a &lt;em&gt;Fox News&lt;/em&gt; aveva detto al &lt;em&gt;New York Times&lt;/em&gt;: «Non ero candidato e, se lo fossi stato, avremmo vinto A VALANGA».&lt;/p&gt;
-&lt;p&gt;Il partito Repubblicano ha anche candidato personaggi molto in linea con lo stesso Trump, scelti da lui dopo che negli anni aveva allontanato da ruoli chiave nel partito esponenti che invece la pensavano diversamente.&lt;/p&gt;
-
-
-</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/trump-sconfitta-midterm-2026</guid>
-      <pubDate>Wed, 04 Nov 2026 07:47:31 +0100</pubDate>
-      <dc:creator>Mariasole Lisciandro</dc:creator>
-    </item>
-    <item>
-      <title>In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente</title>
-      <link>https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793770801-AP26308018767310.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente Prabowo Subianto, i ministri del suo governo e altri funzionari pubblici. La polizia indonesiana ha fornito solo le iniziali dei nomi delle persone arrestate, ma &lt;em&gt;Reuters&lt;/em&gt; &lt;a href="https://www.reuters.com/world/asia-pacific/indonesia-arrests-chief-staff-top-policemen-alleged-wiretapping-president-2026-11-04/"&gt;ha confermato&lt;/a&gt; che tra di loro c’è Listyo Sigit Prabowo, che è il capo di gabinetto di Prabowo, nonché l’ex capo della polizia nazionale, e continua a far parte delle forze di polizia indonesiane (i due non sono parenti).&lt;/p&gt;
-&lt;p&gt;La polizia sospetta che i tre abbiano spiato in maniera illegale i telefoni del presidente e dei suoi collaboratori, ma anche quelli di politici, giornalisti e imprenditori, e sta cercando di chiarire per quali motivi. Le indagini in corso rischiano di contribuire al calo di consensi di Prabowo, che fa parte di un partito nazionalista e di destra, governa l’Indonesia in maniera autoritaria, ed era già stato &lt;a href="https://www.ilpost.it/2025/09/15/indonesia-esercito-dwifungsi/"&gt;accusato&lt;/a&gt; di violazioni dei diritti umani e di sfruttare l’esercito per rafforzare il proprio potere e controllare molti aspetti della vita pubblica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/11/10/suharto-eroe-nazionale/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’ex dittatore indonesiano Suharto è un “eroe nazionale”&lt;/a&gt;&lt;/p&gt;
-
-</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto</guid>
-      <pubDate>Wed, 04 Nov 2026 07:15:26 +0100</pubDate>
-      <dc:creator>Susanna Baggio</dc:creator>
-    </item>
-    <item>
-      <title>Il parlamento della Groenlandia ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Danimarca</title>
-      <link>https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793769259-AP26266587574802.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;Il parlamento della Groenlandia ha ratificato &lt;a href="https://www.ilpost.it/2026/09/22/accordo-stati-uniti-danimarca-groenlandia/"&gt;l’accordo&lt;/a&gt; firmato a settembre con Stati Uniti e Danimarca, per consentire una maggiore presenza militare statunitense nel territorio. L’accordo prevede due nuove basi militari e libertà di movimento per le forze armate statunitensi sull&amp;#8217;isola, e afferma di nuovo la totale sovranità della Groenlandia, che fa parte del Regno di Danimarca ma ha un proprio governo e ampie autonomie. Ma soprattutto stabilisce che eventuali investimenti di paesi che non fanno parte della NATO debbano essere concordati con gli Stati Uniti: è una formula vaga, che l’amministrazione statunitense interpreta come una sorta di garanzia che paesi come Russia e Cina non possano accedere alle ingenti riserve di &lt;a href="https://www.ilpost.it/2025/02/26/metalli-rari-materie-prime-critiche-cosa-sono/"&gt;metalli rari&lt;/a&gt; del territorio.&lt;/p&gt;
-&lt;p&gt;Fin dall&amp;#8217;inizio del suo secondo mandato il presidente statunitense Donald Trump aveva insistito in modo molto aggressivo per aumentare il controllo degli Stati Uniti sulla Groenlandia, ed era anche arrivato a &lt;a href="https://www.ilpost.it/2025/01/12/trump-groenlandia-futuro/"&gt;minacciare di invaderla&lt;/a&gt;, citando motivi di sicurezza nazionale: agli Stati Uniti tuttavia la Groenlandia interessa soprattutto per poter sfruttare le riserve di metalli rari, che sono necessari per fabbricare microchip e altri componenti tecnologici.&lt;/p&gt;
-&lt;p&gt;Le rivendicazioni di Trump sulla Groenlandia avevano provocato una grave crisi diplomatica con diversi paesi europei e il governo danese, che era arrivato a considerare gli Stati Uniti una possibile minaccia. Alla fine però erano stati avviati negoziati con i governi groenlandese e danese per cercare un compromesso. L&amp;#8217;accordo entrerà in vigore dopo che sarà stato ratificato anche dal parlamento della Danimarca, che dovrebbe discuterlo e infine votarlo il prossimo 19 novembre.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/01/23/artico-groenlandia/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Tutti vogliono un pezzo di Artico&lt;/a&gt;&lt;/p&gt;
-
-</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca</guid>
-      <pubDate>Wed, 04 Nov 2026 06:46:45 +0100</pubDate>
-      <dc:creator>Susanna Baggio</dc:creator>
-    </item>
-    <item>
-      <title>Le prime pagine di oggi</title>
-      <link>https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724</link>
-      <description>&lt;p&gt;&lt;em&gt;Le elezioni di metà mandato negli Stati Uniti, il rinvio a giudizio di Sempio, e gli attacchi informatici ai supermercati&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793772280-la_stampa_apertura.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;Su quasi tutti i giornali di oggi l&amp;#8217;apertura è dedicata alle elezioni di metà mandato negli Stati Uniti, con i titoli ancora incerti nell&amp;#8217;attesa dei risultati che nella notte hanno poi portato a una netta vittoria dei Democratici, che ottengono la maggioranza sia alla Camera che al Senato. Le altre notizie principali sono la richiesta di rinvio a giudizio da parte della procura di Pavia per Andrea Sempio per l&amp;#8217;omicidio di Chiara Poggi a Garlasco nel 2007, le indagini sugli attacchi informatici a frigoriferi e congelatori dei supermercati, e la discussione sui tagli alla sanità e alla scuola contenuti nella prossima legge di bilancio.&lt;/p&gt;
+      <title>Mercoledì 4 novembre</title>
+      <link>https://www.ilpost.it/2026/11/04/mercoledi-4-novembre-3</link>
+      <description>&lt;p&gt;&lt;em&gt;Le foto dal mondo, man mano che arrivano&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793776336-AP26308113674851.jpg" alt="" /&gt;&lt;/p&gt;
 
  &lt;style&gt;
  .single-post-new article figure.split-gal-el .photo-container .arrow::after {
@@ -96,230 +53,331 @@ In Texas la candidata Democratica Gina Hinojosa ha vinto anche le elezioni per l
  &lt;div id="gallery-new" class="split-gal"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/001-corriere-della-sera-16/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x605/1793770382-001-corriere-della-sera.webp" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x605/1793770382-001-corriere-della-sera.webp 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x1028/1793770382-001-corriere-della-sera.webp 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x1161/1793770382-001-corriere-della-sera.webp 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1016x1536/1793770382-001-corriere-della-sera.webp 1016w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x1209/1793770382-001-corriere-della-sera.webp 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/450x680/1793770382-001-corriere-della-sera.webp 450w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793770382-001-corriere-della-sera.webp 1200w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/mercoledi-4-novembre-3/notte-elettorale/" title="vai alla fotogallery"&gt;
+ &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793776336-AP26308113674851.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793776336-AP26308113674851.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793776336-AP26308113674851.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793776336-AP26308113674851.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793776336-AP26308113674851.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793776336-AP26308113674851.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
  &lt;span class='arrow'&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
  &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3723878 gallery-columns-6 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/001-corriere-della-sera-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770382-001-corriere-della-sera.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/002-la-repubblica-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770388-002-la-repubblica.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/003-la-stampa-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770393-003-la-stampa.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/004-il-sole-24-ore-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770399-004-il-sole-24-ore.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/005-il-messaggero-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770404-005-il-messaggero.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/006-il-giornale-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770410-006-il-giornale.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/007-il-manifesto-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770415-007-il-manifesto.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/008-avvenire-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770419-008-avvenire.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/009-il-fatto-quotidiano-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770424-009-il-fatto-quotidiano.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/010-la-verita-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770430-010-la-verita.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/011-libero-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770435-011-libero.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/012-domani-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770441-012-domani.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/013-il-dubbio-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770447-013-il-dubbio.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/014-il-riformista-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770452-014-il-riformista.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/015-la-notizia-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770457-015-la-notizia.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/016-losservatore-romano-7/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770461-016-losservatore-romano.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/017-il-foglio-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770466-017-il-foglio.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/018-il-secolo-xix-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770472-018-il-secolo-xix.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/019-il-mattino-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770477-019-il-mattino.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/020-il-resto-del-carlino-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770483-020-il-resto-del-carlino.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/021-il-gazzettino-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770488-021-il-gazzettino.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/022-il-tempo-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770493-022-il-tempo.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/023-ledicola-nazionale-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770499-023-ledicola-nazionale.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/024-mf-milano-finanza-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770502-024-mf-milano-finanza.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/025-italiaoggi-13/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770507-025-italiaoggi.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/026-la-gazzetta-del-mezzogiorno-bari-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770513-026-la-gazzetta-del-mezzogiorno-bari.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/027-leco-di-bergamo-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770518-027-leco-di-bergamo.webp" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770518-027-leco-di-bergamo.webp 130w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/636x450/1793770518-027-leco-di-bergamo.webp 636w" sizes="(max-width: 130px) 100vw, 130px" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/028-il-piccolo-trieste-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770521-028-il-piccolo-trieste.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/029-giornale-di-sicilia-palermo-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770526-029-giornale-di-sicilia-palermo.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/030-la-nuova-sardegna-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770531-030-la-nuova-sardegna.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/031-la-sicilia-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770537-031-la-sicilia.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/032-il-mattino-di-padova-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770543-032-il-mattino-di-padova.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/033-lunione-sarda-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770547-033-lunione-sarda.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/034-messaggero-veneto-udine-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770551-034-messaggero-veneto-udine.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/035-gazzetta-di-mantova-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770556-035-gazzetta-di-mantova.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/036-il-tirreno-livorno-cecina-rosignano-piombino-elba-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770560-036-il-tirreno-livorno-cecina-rosignano-piombino-elba.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/037-leggo-roma-12/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770564-037-leggo-roma.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/038-la-nuova-di-venezia-e-mestre-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770570-038-la-nuova-di-venezia-e-mestre.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/039-metro-today-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770575-039-metro-today.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/040-giornale-di-brescia-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770580-040-giornale-di-brescia.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/041-la-nuova-ferrara-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770583-041-la-nuova-ferrara.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/042-gazzetta-di-modena-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770587-042-gazzetta-di-modena.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/043-larena-verona-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770592-043-larena-verona.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/044-il-centro-pescara-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770597-044-il-centro-pescara.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/045-la-provincia-di-como-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770620-045-la-provincia-di-como.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/046-gazzetta-di-parma-15/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770623-046-gazzetta-di-parma.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/048-alto-adige-10/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770634-048-alto-adige.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/049-gazzetta-del-sud-messina-sicilia-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770640-049-gazzetta-del-sud-messina-sicilia.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/050-corriere-delle-alpi-belluno-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770645-050-corriere-delle-alpi-belluno.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/051-il-t-quotidiano-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770650-051-il-t-quotidiano.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/052-la-citta-salerno-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770653-052-la-citta-salerno.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/053-laltravoce-il-quotidiano-del-sud-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770658-053-laltravoce-il-quotidiano-del-sud.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/054-corriere-dellumbria-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770662-054-corriere-dellumbria.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/055-la-prealpina-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770667-055-la-prealpina.webp" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770667-055-la-prealpina.webp 130w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/644x450/1793770667-055-la-prealpina.webp 644w" sizes="(max-width: 130px) 100vw, 130px" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/056-corriere-del-ticino-14/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770670-056-corriere-del-ticino.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/057-la-gazzetta-dello-sport-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770675-057-la-gazzetta-dello-sport.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/058-corriere-dello-sport-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770681-058-corriere-dello-sport.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon portrait'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/059-tuttosport-16/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770686-059-tuttosport.webp" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
+ &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3724100 gallery-columns-3 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
+ &lt;div class='gallery-icon landscape'&gt;
+ &lt;a href='https://www.ilpost.it/2026/11/04/mercoledi-4-novembre-3/notte-elettorale/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793776336-AP26308113674851.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-3724107" /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;figcaption class='wp-caption-text gallery-caption' id='gallery-2-3724107'&gt;
+ Austin, Texas
+ &lt;/figcaption&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
 </description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/mercoledi-4-novembre-3</guid>
+      <pubDate>Wed, 04 Nov 2026 08:21:53 +0100</pubDate>
+      <dc:creator>Claudia Dusina</dc:creator>
+    </item>
+    <item>
+      <title>Peanuts 2026 novembre 04</title>
+      <link>https://www.ilpost.it/2026/11/04/peanuts-2026-novembre-04</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/1793628523-pt_c261104.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading="lazy" decoding="async" width="1104" height="330" class="alignnone size-large wp-image-3721707" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/680x203/1793628523-pt_c261104.jpg" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/680x203/1793628523-pt_c261104.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/400x120/1793628523-pt_c261104.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/768x230/1793628523-pt_c261104.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/800x239/1793628523-pt_c261104.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/02/1793628523-pt_c261104.jpg 1104w" sizes="(max-width: 1104px) 100vw, 1104px" /&gt;&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/peanuts-2026-novembre-04</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:15 +0100</pubDate>
+      <dc:creator>Francesca Lagrotteria</dc:creator>
+    </item>
+    <item>
+      <title>I risultati delle elezioni negli Stati Uniti, in breve</title>
+      <link>https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati</link>
+      <description>&lt;p&gt;&lt;em&gt;I Democratici hanno stravinto ovunque e hanno preso il controllo del Congresso: è una grossa sconfitta per Trump&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793771063-AP26308161995854.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;I Democratici hanno stravinto le elezioni di metà mandato negli Stati Uniti, andando quasi ovunque meglio delle previsioni e ottenendo la maggioranza sia alla Camera che al Senato. Erano entrambe controllate dal partito Repubblicano, che ha subìto una sconfitta eclatante causata soprattutto dall&amp;#8217;impopolarità del presidente degli Stati Uniti Donald Trump. Il voto infatti era visto perlopiù come una specie di referendum sul suo operato.&lt;/p&gt;
+&lt;p&gt;Il racconto lungo della notte elettorale si può leggere sul &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/?homepagePosition=0"&gt;liveblog del Post,&lt;/a&gt; dove si trovano i risultati aggiornati e le ultime notizie. Qui sotto c&amp;#8217;è invece una versione sintetica con le cose più importanti da sapere.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il Senato&lt;/strong&gt;&lt;br /&gt;
+Al Senato, dove la possibilità che il Partito Democratico ottenesse la maggioranza era considerata poco probabile fino a qualche mese fa, i Democratici hanno vinto in tutti gli stati in bilico. Per esempio in Kansas, dove un candidato Democratico non vinceva dal 1932; in South Carolina, che è uno stato tradizionalmente molto conservatore; e nell&amp;#8217;Iowa e nell&amp;#8217;Ohio, che negli ultimi anni si erano spostati molto a destra.&lt;/p&gt;
+
+&lt;p&gt;La sconfitta &lt;a href="https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas/?homepagePosition=2"&gt;più clamorosa e bruciante&lt;/a&gt; per i Repubblicani è arrivata sicuramente in Texas, dove il Democratico James Talarico ha vinto le elezioni per il Senato, con oltre 10 punti percentuali di vantaggio sullo sfidante Repubblicano Ken Paxton.&lt;/p&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3723960"&gt;&lt;img alt="" class="wp-image-3723960 size-full" height="857" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793771228-AP26308198452397.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Il discorso della vittoria di James Talarico in Texas (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;In attesa dello scrutinio dei voti dell&amp;#8217;Alaska, gli ultimi ad arrivare, è praticamente certo che i Democratici avranno almeno 54 senatori: vuol dire 7 seggi guadagnati rispetto alla situazione attuale.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La Camera&lt;/strong&gt;&lt;br /&gt;
+I numeri definitivi non ci sono ancora, ma secondo i dati raccolti dal &lt;i&gt;&lt;span draggable="true"&gt;&lt;a href="https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html" rel="noopener noreferrer" target="_blank"&gt;New York Times&lt;/a&gt;&lt;/span&gt;&lt;/i&gt; i Democratici sono avanti nello scrutinio in oltre 250 collegi su 435. Prima delle elezioni avevano 214 seggi: ne guadagneranno una quarantina.&lt;/p&gt;
+&lt;p&gt;I candidati repubblicani hanno perso in diversi collegi che prima delle elezioni erano considerati sicuri, anche perché le autorità statali del loro partito ne avevano ridisegnato i confini &lt;a href="https://www.ilpost.it/2026/06/16/gerrymandering-elezioni-meta-mandato-2026/"&gt;appositamente&lt;/a&gt; per garantirsi la vittoria (il cosiddetto &lt;em&gt;gerrymandering)&lt;/em&gt;: in almeno tre casi però non è bastato e hanno vinto i candidati Democratici.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Governatori ed elezioni locali&lt;/strong&gt;&lt;br /&gt;
+In Texas la candidata Democratica Gina Hinojosa ha vinto anche le elezioni per l&amp;#8217;incarico di governatore, battendo il Repubblicano uscente Greg Abbot.&lt;/p&gt;
+&lt;p&gt;Altre vittorie significative per i Democratici sono state nell&amp;#8217;Ohio, dove ha perso Vivek Ramaswamy,  il candidato che aveva pubblicalo lo &lt;a href="https://www.ilpost.it/2026/10/22/spot-ohio-meta-mandato-stati-uniti/"&gt;spot più scorretto di questa campagna elettorale&lt;/a&gt;; e in Georgia, in cui Keisha Lance Bottoms, Democratica, è diventata la prima donna nera governatrice nella storia degli Stati Uniti.&lt;/p&gt;
+&lt;p&gt;I Democratici hanno ottenuto vittorie eclatanti in molte altre elezioni locali: in Texas, per esempio, hanno ottenuto anche la maggioranza nella Camera statale e hanno vinto le elezioni per il procuratore generale, una carica molto rilevante.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/elezioni-midterm-risultati</guid>
+      <pubDate>Wed, 04 Nov 2026 06:54:50 +0000</pubDate>
+      <dc:creator>Pietro Pianini</dc:creator>
+    </item>
+    <item>
+      <title>Trump l’ha presa con sportività</title>
+      <link>https://www.ilpost.it/2026/11/04/trump-sconfitta-midterm-2026</link>
+      <description>&lt;p&gt;&lt;em&gt;Si è congratulato con i Democratici per la grande vittoria alle elezioni di metà mandato, rifiutando di prendersi responsabilità per la sconfitta &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793774400-AP26306730915465.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;C&amp;#8217;era molta curiosità su come il presidente degli Stati Uniti Donald Trump avrebbe preso un&amp;#8217;eventuale sconfitta dei Repubblicani alle elezioni di metà mandato. Trump è noto per le accusare di brogli quando perde e per la tendenza a non voler accettare una sua sconfitta, cosa che peraltro portò anche all&amp;#8217;assalto al Congresso il 6 gennaio del 2021, dopo che perse le elezioni presidenziali.&lt;/p&gt;
+&lt;p&gt;Ma in questa occasione, anche per la &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/"&gt;dimensione inattesa della sconfitta&lt;/a&gt; che il suo partito ha subìto anche in stati storicamente Repubblicani, Trump sembra averla presa con sportività. A &lt;em&gt;Fox News&lt;/em&gt; ha detto «Mi congratulo con i Democratici, hanno fatto un buon lavoro. Del resto volevano vincere da 11 anni e finalmente ce l&amp;#8217;hanno fatta. Ma io non lo vedo come un colpo a me. Abbiamo avuto i due anni più grandi della storia della presidenza [degli Stati Uniti]».&lt;/p&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
+&lt;p&gt;Che il risultato non abbia a che vedere con il suo governo è una difesa un po’ assurda, per diverse ragioni. Innanzitutto perché storicamente le elezioni di metà mandato sono proprio una sorta di “referendum” sull&amp;#8217;operato del presidente in carica, ed è anche per questo che di solito va sempre meglio il partito all&amp;#8217;opposizione.&lt;/p&gt;
+&lt;p&gt;In più Trump aveva in ogni modo cercato di legare il voto alla sua persona: in diverse occasioni &lt;a href="https://www.nbcnews.com/politics/2026-election/trump-tries-new-midterm-message-pretend-i-am-on-the-ballot-rcna593849"&gt;aveva detto&lt;/a&gt; agli elettori di votare fingendo che fosse proprio lui sulla scheda, &lt;a href="https://www.facebook.com/kcrgtv9/videos/pretend-im-on-the-ballot-trump-urges-republicans-to-vote-in-the-midterm-election/1074108489008979/"&gt;l&amp;#8217;ultima volta due giorni fa&lt;/a&gt;. E solo qualche ora prima rispetto all&amp;#8217;intervista a &lt;em&gt;Fox News&lt;/em&gt; aveva detto al &lt;em&gt;New York Times&lt;/em&gt;: «Non ero candidato e, se lo fossi stato, avremmo vinto A VALANGA».&lt;/p&gt;
+&lt;p&gt;Il partito Repubblicano ha anche candidato personaggi molto in linea con lo stesso Trump, scelti da lui dopo che negli anni aveva allontanato da ruoli chiave nel partito esponenti che invece la pensavano diversamente.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/trump-sconfitta-midterm-2026</guid>
+      <pubDate>Wed, 04 Nov 2026 06:47:31 +0000</pubDate>
+      <dc:creator>Mariasole Lisciandro</dc:creator>
+    </item>
+    <item>
+      <title>In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente</title>
+      <link>https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto</link>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793770801-AP26308018767310.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;In Indonesia tre importanti funzionari di polizia sono stati arrestati con l’accusa di aver intercettato il presidente Prabowo Subianto, i ministri del suo governo e altri funzionari pubblici. La polizia indonesiana ha fornito solo le iniziali dei nomi delle persone arrestate, ma &lt;em&gt;Reuters&lt;/em&gt; &lt;a href="https://www.reuters.com/world/asia-pacific/indonesia-arrests-chief-staff-top-policemen-alleged-wiretapping-president-2026-11-04/"&gt;ha confermato&lt;/a&gt; che tra di loro c’è Listyo Sigit Prabowo, che è il capo di gabinetto di Prabowo, nonché l’ex capo della polizia nazionale, e continua a far parte delle forze di polizia indonesiane (i due non sono parenti).&lt;/p&gt;
+&lt;p&gt;La polizia sospetta che i tre abbiano spiato in maniera illegale i telefoni del presidente e dei suoi collaboratori, ma anche quelli di politici, giornalisti e imprenditori, e sta cercando di chiarire per quali motivi. Le indagini in corso rischiano di contribuire al calo di consensi di Prabowo, che fa parte di un partito nazionalista e di destra, governa l’Indonesia in maniera autoritaria, ed era già stato &lt;a href="https://www.ilpost.it/2025/09/15/indonesia-esercito-dwifungsi/"&gt;accusato&lt;/a&gt; di violazioni dei diritti umani e di sfruttare l’esercito per rafforzare il proprio potere e controllare molti aspetti della vita pubblica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/11/10/suharto-eroe-nazionale/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;L’ex dittatore indonesiano Suharto è un “eroe nazionale”&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/indonesia-arresto-intercettazione-presidente-prabowo-subianto</guid>
+      <pubDate>Wed, 04 Nov 2026 06:15:26 +0000</pubDate>
+      <dc:creator>Susanna Baggio</dc:creator>
+    </item>
+    <item>
+      <title>Il parlamento della Groenlandia ha ratificato l’accordo per la sicurezza fatto con Stati Uniti e Danimarca</title>
+      <link>https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca</link>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793769259-AP26266587574802.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Il parlamento della Groenlandia ha ratificato &lt;a href="https://www.ilpost.it/2026/09/22/accordo-stati-uniti-danimarca-groenlandia/"&gt;l’accordo&lt;/a&gt; firmato a settembre con Stati Uniti e Danimarca, per consentire una maggiore presenza militare statunitense nel territorio. L’accordo prevede due nuove basi militari e libertà di movimento per le forze armate statunitensi sull&amp;#8217;isola, e afferma di nuovo la totale sovranità della Groenlandia, che fa parte del Regno di Danimarca ma ha un proprio governo e ampie autonomie. Ma soprattutto stabilisce che eventuali investimenti di paesi che non fanno parte della NATO debbano essere concordati con gli Stati Uniti: è una formula vaga, che l’amministrazione statunitense interpreta come una sorta di garanzia che paesi come Russia e Cina non possano accedere alle ingenti riserve di &lt;a href="https://www.ilpost.it/2025/02/26/metalli-rari-materie-prime-critiche-cosa-sono/"&gt;metalli rari&lt;/a&gt; del territorio.&lt;/p&gt;
+&lt;p&gt;Fin dall&amp;#8217;inizio del suo secondo mandato il presidente statunitense Donald Trump aveva insistito in modo molto aggressivo per aumentare il controllo degli Stati Uniti sulla Groenlandia, ed era anche arrivato a &lt;a href="https://www.ilpost.it/2025/01/12/trump-groenlandia-futuro/"&gt;minacciare di invaderla&lt;/a&gt;, citando motivi di sicurezza nazionale: agli Stati Uniti tuttavia la Groenlandia interessa soprattutto per poter sfruttare le riserve di metalli rari, che sono necessari per fabbricare microchip e altri componenti tecnologici.&lt;/p&gt;
+&lt;p&gt;Le rivendicazioni di Trump sulla Groenlandia avevano provocato una grave crisi diplomatica con diversi paesi europei e il governo danese, che era arrivato a considerare gli Stati Uniti una possibile minaccia. Alla fine però erano stati avviati negoziati con i governi groenlandese e danese per cercare un compromesso. L&amp;#8217;accordo entrerà in vigore dopo che sarà stato ratificato anche dal parlamento della Danimarca, che dovrebbe discuterlo e infine votarlo il prossimo 19 novembre.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/01/23/artico-groenlandia/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Tutti vogliono un pezzo di Artico&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/groenlandia-parlamento-ratifica-accordo-stati-uniti-danimarca</guid>
+      <pubDate>Wed, 04 Nov 2026 05:46:45 +0000</pubDate>
+      <dc:creator>Susanna Baggio</dc:creator>
+    </item>
+    <item>
+      <title>Le prime pagine di oggi</title>
+      <link>https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724</link>
+      <description>&lt;p&gt;&lt;em&gt;Le elezioni di metà mandato negli Stati Uniti, il rinvio a giudizio di Sempio, e gli attacchi informatici ai supermercati&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793772280-la_stampa_apertura.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Su quasi tutti i giornali di oggi l&amp;#8217;apertura è dedicata alle elezioni di metà mandato negli Stati Uniti, con i titoli ancora incerti nell&amp;#8217;attesa dei risultati che nella notte hanno poi portato a una netta vittoria dei Democratici, che ottengono la maggioranza sia alla Camera che al Senato. Le altre notizie principali sono la richiesta di rinvio a giudizio da parte della procura di Pavia per Andrea Sempio per l&amp;#8217;omicidio di Chiara Poggi a Garlasco nel 2007, le indagini sugli attacchi informatici a frigoriferi e congelatori dei supermercati, e la discussione sui tagli alla sanità e alla scuola contenuti nella prossima legge di bilancio.&lt;/p&gt;
+
+ 
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
+ &lt;figure class="split-gal-el"&gt;
+ &lt;div class="photo-container"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/001-corriere-della-sera-16/" title="vai alla fotogallery"&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x605/1793770382-001-corriere-della-sera.webp" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
+ &lt;/a&gt;
+ &lt;/div&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
+ &lt;/figure&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3723878 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/001-corriere-della-sera-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770382-001-corriere-della-sera.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/002-la-repubblica-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770388-002-la-repubblica.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/003-la-stampa-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770393-003-la-stampa.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/004-il-sole-24-ore-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770399-004-il-sole-24-ore.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/005-il-messaggero-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770404-005-il-messaggero.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/006-il-giornale-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770410-006-il-giornale.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/007-il-manifesto-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770415-007-il-manifesto.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/008-avvenire-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770419-008-avvenire.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/009-il-fatto-quotidiano-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770424-009-il-fatto-quotidiano.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/010-la-verita-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770430-010-la-verita.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/011-libero-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770435-011-libero.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/012-domani-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770441-012-domani.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/013-il-dubbio-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770447-013-il-dubbio.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/014-il-riformista-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770452-014-il-riformista.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/015-la-notizia-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770457-015-la-notizia.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/016-losservatore-romano-7/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770461-016-losservatore-romano.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/017-il-foglio-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770466-017-il-foglio.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/018-il-secolo-xix-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770472-018-il-secolo-xix.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/019-il-mattino-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770477-019-il-mattino.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/020-il-resto-del-carlino-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770483-020-il-resto-del-carlino.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/021-il-gazzettino-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770488-021-il-gazzettino.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/022-il-tempo-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770493-022-il-tempo.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/023-ledicola-nazionale-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770499-023-ledicola-nazionale.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/024-mf-milano-finanza-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770502-024-mf-milano-finanza.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/025-italiaoggi-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770507-025-italiaoggi.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/026-la-gazzetta-del-mezzogiorno-bari-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770513-026-la-gazzetta-del-mezzogiorno-bari.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/027-leco-di-bergamo-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770518-027-leco-di-bergamo.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/028-il-piccolo-trieste-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770521-028-il-piccolo-trieste.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/029-giornale-di-sicilia-palermo-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770526-029-giornale-di-sicilia-palermo.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/030-la-nuova-sardegna-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770531-030-la-nuova-sardegna.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/031-la-sicilia-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770537-031-la-sicilia.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/032-il-mattino-di-padova-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770543-032-il-mattino-di-padova.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/033-lunione-sarda-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770547-033-lunione-sarda.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/034-messaggero-veneto-udine-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770551-034-messaggero-veneto-udine.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/035-gazzetta-di-mantova-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770556-035-gazzetta-di-mantova.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/036-il-tirreno-livorno-cecina-rosignano-piombino-elba-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770560-036-il-tirreno-livorno-cecina-rosignano-piombino-elba.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/037-leggo-roma-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770564-037-leggo-roma.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/038-la-nuova-di-venezia-e-mestre-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770570-038-la-nuova-di-venezia-e-mestre.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/039-metro-today-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770575-039-metro-today.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/040-giornale-di-brescia-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770580-040-giornale-di-brescia.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/041-la-nuova-ferrara-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770583-041-la-nuova-ferrara.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/042-gazzetta-di-modena-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770587-042-gazzetta-di-modena.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/043-larena-verona-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770592-043-larena-verona.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/044-il-centro-pescara-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770597-044-il-centro-pescara.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/045-la-provincia-di-como-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770620-045-la-provincia-di-como.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/046-gazzetta-di-parma-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770623-046-gazzetta-di-parma.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/048-alto-adige-10/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770634-048-alto-adige.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/049-gazzetta-del-sud-messina-sicilia-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770640-049-gazzetta-del-sud-messina-sicilia.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/050-corriere-delle-alpi-belluno-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770645-050-corriere-delle-alpi-belluno.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/051-il-t-quotidiano-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770650-051-il-t-quotidiano.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/052-la-citta-salerno-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770653-052-la-citta-salerno.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/053-laltravoce-il-quotidiano-del-sud-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770658-053-laltravoce-il-quotidiano-del-sud.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/054-corriere-dellumbria-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770662-054-corriere-dellumbria.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/055-la-prealpina-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770667-055-la-prealpina.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/056-corriere-del-ticino-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770670-056-corriere-del-ticino.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/057-la-gazzetta-dello-sport-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770675-057-la-gazzetta-dello-sport.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/058-corriere-dello-sport-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770681-058-corriere-dello-sport.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon portrait"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724/059-tuttosport-16/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/130x91/1793770686-059-tuttosport.webp" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/le-prime-pagine-di-oggi-4724</guid>
-      <pubDate>Wed, 04 Nov 2026 06:31:27 +0100</pubDate>
+      <pubDate>Wed, 04 Nov 2026 05:31:27 +0000</pubDate>
       <dc:creator>Il Post</dc:creator>
     </item>
     <item>
       <title>Quella dei Repubblicani in Texas è una sconfitta clamorosa</title>
       <link>https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas</link>
       <description>&lt;p&gt;&lt;em&gt;Non solo hanno perso il seggio al Senato, ma anche il governatore, il procuratore generale e la maggioranza alla Camera statale&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767818-AP26307831473249.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767818-AP26307831473249.jpg" /&gt;&lt;/p&gt;
 
                     
 &lt;p&gt;Il Texas non eleggeva un senatore del Partito Democratico dal 1988, e un governatore del Partito Democratico dal 1990: un dominio che si è interrotto a queste elezioni statunitensi di metà mandato, e in modo fragoroso.&lt;/p&gt;
 &lt;p&gt;James Talarico ha vinto le elezioni per il Senato, addirittura con quasi venti punti di vantaggio; Gina Hinojosa ha superato il governatore uscente Greg Abbott di oltre 15 punti percentuali. Sarà del Partito Democratico anche il prossimo procuratore generale, Nathan Johnson, e con ogni probabilità i Repubblicani perderanno anche il controllo della Camera statale. È avvenuto insomma l&amp;#8217;evento che i Democratici inseguivano da anni, venendo frustrati ogni volta: il Texas è &lt;em&gt;diventato blu&lt;/em&gt;, come si dice nel gergo della politica statunitense, visto che il blu è il colore dei Democratici.&lt;/p&gt;
 &lt;p&gt;La sconfitta in Texas per i Repubblicani è storica, perché il loro dominio nello stato – politico, culturale, economico – era così consolidato da sembrare inevitabile e inscalfibile, frutto di una grande sintonia culturale con l&amp;#8217;elettorato locale e anche con la forza che arriva dalla rendita di posizione: dall&amp;#8217;aver governato per decenni uno stato così ricco e influente.&lt;/p&gt;
 &lt;p&gt;Il Texas è anche uno stato molto grande, più del doppio dell’Italia, con una popolazione in grande crescita e formata per più del 40 per cento da persone ispaniche. Alle elezioni presidenziali vale 40 “grandi elettori” sui 270 che servono per vincere: solo la California ne ha di più (54). E il censimento del 2030 ne toglierà alla California per darne altri al Texas. Un risultato del genere, mostrando come il Texas possa essere davvero contendibile, cambia tutte le strategie anche in vista delle presidenziali del 2028.&lt;/p&gt;
-&lt;div id="attachment_3723830" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3723830 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767813-AP26307176340844.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767813-AP26307176340844.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793767813-AP26307176340844.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793767813-AP26307176340844.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793767813-AP26307176340844.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793767813-AP26307176340844.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;La governatrice eletta Gina Hinojosa, e il senatore eletto James Talarico, durante la campagna elettorale (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3723830"&gt;&lt;img alt="" class="wp-image-3723830 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767813-AP26307176340844.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;La governatrice eletta Gina Hinojosa, e il senatore eletto James Talarico, durante la campagna elettorale (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;La vittoria che sarà più raccontata è quella di James Talarico al Senato, ottenuta contro Ken Paxton, ex procuratore generale e candidato &lt;a href="https://www.ilpost.it/2026/10/28/democratici-texas-talarico/"&gt;debole e pieno di scandali&lt;/a&gt;. Paxton era stato scelto da Donald Trump ed Elon Musk aveva investito oltre 200 milioni di dollari per provare a sostenere la sua candidatura. Musk vive in Texas e le sue aziende hanno sede in Texas.&lt;/p&gt;
 &lt;p&gt;Talarico ha 37 anni, è deputato per la Camera del Texas dal 2018 ed è un Democratico particolare. È un seminarista presbiteriano, e in ogni intervento pubblico dà grande rilevanza alla sua fede: cita passi della Bibbia, parla della necessità di amare il prossimo e della «politica dell’amore», cioè fatta con l’intenzione di unire le persone e non di dividerle. Non era ancora nato quando l&amp;#8217;ultimo Democratico fu eletto al Senato in Texas: dopo erano stati decenni di sconfitte. Quando nel 2018 il Democratico Beto O&amp;#8217;Rourke fu sconfitto &lt;em&gt;di poco&lt;/em&gt; (2,6 punti percentuali) da Ted Cruz, il suo risultato fu considerato un&amp;#8217;impresa.&lt;/p&gt;
 &lt;p&gt;Talarico può esser stato favorito dalla debolezza del candidato rivale – avremo più avanti informazioni più chiare – ma la sua vittoria non è un caso isolato: tanto che i Democratici hanno ottenuto anche l&amp;#8217;incarico di governatore, a lungo considerato così fuori portata che inizialmente non avevano nemmeno trovato qualcuno disposto a candidarsi.&lt;/p&gt;
 &lt;p&gt;Greg Abbott, il governatore uscente, era in carica da tre mandati, era considerato ancora popolare e aveva vinto le tre precedenti elezioni con un vantaggio superiore ai 10 punti percentuali. È stato battuto largamente da Gina Hinojosa, deputata statale del Partito Democratico ed presidente del consiglio scolastico di Austin, che ha incentrato la sua campagna sulla promessa di rinnovare la scuola pubblica e liberare il governo dall&amp;#8217;influenza di miliardari e grandi aziende. È la prima donna latina a essere eletta governatrice. L&amp;#8217;ultima governatrice del Partito Democratico era stata Ann Richards, poi battuta da George W. Bush nel 1994.&lt;/p&gt;
 &lt;p&gt;Il crollo dei Repubblicani in Texas non è finito lì.&lt;/p&gt;
-&lt;div id="attachment_3723828" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3723828 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767808-AP26308167673245.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767808-AP26308167673245.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/400x267/1793767808-AP26308167673245.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/680x453/1793767808-AP26308167673245.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/768x512/1793767808-AP26308167673245.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/800x533/1793767808-AP26308167673245.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Cappelli texani per Talarico (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Anche il procuratore generale, il responsabile del sistema giudiziario statale, sarà del Partito Democratico: Nathan Johnson  è in testa con il 59 per cento dei voti contro il 39 per cento per il Repubblicano Mayes Middleton. Gli scrutini per il parlamento statale sono ancora in corso ma anche lì i risultati parziali danno avanti i Democratici.&lt;/p&gt;
-</description>
+&lt;div class="wp-caption alignnone" id="attachment_3723828"&gt;&lt;img alt="" class="wp-image-3723828 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793767808-AP26308167673245.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Cappelli texani per Talarico (AP Photo/Eric Gay)&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Anche il procuratore generale, il responsabile del sistema giudiziario statale, sarà del Partito Democratico: Nathan Johnson  è in testa con il 59 per cento dei voti contro il 39 per cento per il Repubblicano Mayes Middleton. Gli scrutini per il parlamento statale sono ancora in corso ma anche lì i risultati parziali danno avanti i Democratici.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/sconfitta-repubblicani-texas</guid>
-      <pubDate>Wed, 04 Nov 2026 06:08:37 +0100</pubDate>
+      <pubDate>Wed, 04 Nov 2026 05:08:37 +0000</pubDate>
       <dc:creator>Valerio Clari</dc:creator>
     </item>
     <item>
       <title>La mappa aggiornata delle elezioni di metà mandato negli Stati Uniti</title>
       <link>https://www.ilpost.it/2026/11/04/mappa-risultati-elezioni-meta-mandato-stati-uniti</link>
       <description>&lt;p&gt;&lt;em&gt;I seggi alla Camera e al Senato, man mano che vengono assegnati&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793774219-idaho.png" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/04/1793774219-idaho.png" /&gt;&lt;/p&gt;
 
                     
-&lt;p&gt;Alle elezioni di metà mandato degli Stati Uniti si rinnovano tutti i 435 seggi della Camera e 35 dei 100 del Senato: il Post segue tutti i risultati con un &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/?homepagePosition=0" target="_blank" rel="noopener"&gt;liveblog&lt;/a&gt; che andrà avanti tutta la notte e oltre, finché servirà. C&amp;#8217;è stata una &lt;a href="https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/"&gt;diretta video&lt;/a&gt; su YouTube tra le 20 e le 23 di martedì, e ce ne sarà un&amp;#8217;altra dalle 19 di mercoledì.&lt;/p&gt;
-&lt;fe_component name="htmlembed" id="25"&gt;&lt;/fe_component&gt;
-</description>
+&lt;p&gt;Alle elezioni di metà mandato degli Stati Uniti si rinnovano tutti i 435 seggi della Camera e 35 dei 100 del Senato: il Post segue tutti i risultati con un &lt;a href="https://www.ilpost.it/live/elezioni-meta-mandato-stati-uniti-risultati/?homepagePosition=0" rel="noopener" target="_blank"&gt;liveblog&lt;/a&gt; che andrà avanti tutta la notte e oltre, finché servirà. C&amp;#8217;è stata una &lt;a href="https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/"&gt;diretta video&lt;/a&gt; su YouTube tra le 20 e le 23 di martedì, e ce ne sarà un&amp;#8217;altra dalle 19 di mercoledì.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/04/mappa-risultati-elezioni-meta-mandato-stati-uniti</guid>
-      <pubDate>Wed, 04 Nov 2026 00:14:15 +0100</pubDate>
+      <pubDate>Tue, 03 Nov 2026 23:14:15 +0000</pubDate>
       <dc:creator>Stefano Vizio</dc:creator>
     </item>
     <item>
@@ -1453,267 +1511,6 @@ Un altro degli spot più particolari e ben fatti di queste elezioni di metà man
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/03/peanuts-2026-novembre-03</guid>
       <pubDate>Tue, 03 Nov 2026 07:00:07 +0000</pubDate>
       <dc:creator>Francesca Lagrotteria</dc:creator>
-    </item>
-    <item>
-      <title>Il bizzarro ultimo discorso di Trump prima del voto</title>
-      <link>https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington</link>
-      <description>&lt;p&gt;&lt;em&gt;Invece di fare appelli politici si è dilungato sui dettagli tecnici della riapertura della vasca del Lincoln Memorial, come i tubi di scarico&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/1793686425-trump-lincoln-memorial.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;L&amp;#8217;ultimo discorso pubblico del presidente Donald Trump prima delle &lt;a href="https://www.ilpost.it/2026/11/03/guida-elezioni-meta-mandato-stati-uniti-2026/"&gt;elezioni di metà mandato&lt;/a&gt; di oggi negli Stati Uniti non ha avuto quasi nulla di politico, come avrebbe &lt;a href="https://www.wsj.com/livecoverage/midterm-election-news-2026/card/gop-wanted-a-powerful-closing-argument-trump-talked-about-the-reflecting-pool--PGOqnrIQByCo4seFrL7C?mod=e2tw"&gt;sperato&lt;/a&gt; il suo Partito Repubblicano e come avviene di solito prima di un voto &lt;a href="https://www.ilpost.it/2026/11/02/perche-elezioni-meta-mandato-importanti-trump/"&gt;così importante&lt;/a&gt;, quando è fondamentale mobilitare i sostenitori. Trump invece si è concentrato sulla ristrutturazione della Reflecting Pool, la lunga vasca rettangolare del Lincoln Memorial a Washington.&lt;/p&gt;
-&lt;p&gt;Il comizio di lunedì era proprio al Lincoln Memorial e Trump si è dilungato in una serie di dettagli tecnici senza toccare quasi mai i temi della campagna elettorale, neppure per sminuire le preoccupazione degli elettori sul prezzo della benzina o altro, come aveva fatto in altre occasioni.&lt;/p&gt;
-&lt;p&gt;Trump ha parlato a lungo di cose come i tubi di scarico e dell&amp;#8217;intervento per riaprire la &lt;a href="https://www.ilpost.it/2026/06/23/reflecting-pool-lincoln-memorial-washington/"&gt;Reflecting Pool&lt;/a&gt;, uno monumenti più simbolici e visitati della capitale e di tutti gli Stati Uniti. In estate si era conclusa una prima e costosa ristrutturazione, ma poi il governo aveva dovuto chiudere e svuotare la vasca per la presenza di alghe e perché la nuova vernice sul fondale si era scrostata. Inizialmente l&amp;#8217;amministrazione Trump aveva attribuito i problemi ad atti di vandalismo, poi aveva &lt;a href="https://www.ilpost.it/2026/06/23/reflecting-pool-lincoln-memorial-washington/"&gt;ritirato&lt;/a&gt; l&amp;#8217;accusa.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;Durante il discorso Trump ha mostrato vari cartelli coi rendering della ristrutturazione, e con foto dei tubi sostituiti e degli scarichi. Come detto, si è soffermato su aspetti tecnici che evidentemente lo appassionano, vista la sua vita precedente da imprenditore edile. Ha sostenuto che le colonne col capitello in &lt;a href="https://www.storicang.it/a/dorico-ionico-e-corinzio-tre-ordini-greci_18418"&gt;stile corinzio&lt;/a&gt; sono le più belle, che certi tipi di manto erboso «sono come esseri umani» e ha magnificato la resistenza del granito. Ha difeso i lavori alla Casa Bianca per costruire il nuovo &lt;a href="https://www.ilpost.it/2026/08/31/corte-suprema-stati-uniti-sala-ricevimenti-casa-bianca-donald-trump/"&gt;salone da ricevimenti&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/23/reflecting-pool-lincoln-memorial-washington/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Tutti i guai della Reflecting Pool del Lincoln Memorial a Washington&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Il &lt;em&gt;New York Times &lt;/em&gt;&lt;a href="https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"&gt;ha scritto&lt;/a&gt; che «nella storia della politica americana, il discorso potrebbe essere ricordato come uno dei più strani messaggi conclusivi alla vigilia di un&amp;#8217;elezione. Ma è stato anche una buona cristallizzazione di cosa importa a Trump». E cioè legare la sua &lt;em&gt;legacy&lt;/em&gt;, l&amp;#8217;eredità politica, anzitutto a più o meno grandiosi &lt;a href="https://www.ilpost.it/2025/08/06/strumentalizzazioni-architettura-storia-europa/"&gt;progetti architettonici&lt;/a&gt; che gli sopravvivano.&lt;/p&gt;
-&lt;p&gt;Parlare della ristrutturazione, e dire che la vasca dovrebbe essere intitolata a lui, è stato straniante anche come occasione persa, per Trump. I Repubblicani, infatti, arrivano alle elezioni in svantaggio &lt;a href="https://www.ilpost.it/2026/10/22/sondaggi-elezioni-meta-mandato-stati-uniti/"&gt;nei sondaggi&lt;/a&gt; e rischiano seriamente di perdere la maggioranza in entrambi i rami del Congresso.&lt;/p&gt;
-&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
-&lt;p&gt;Trump ha citato, marginalmente, anche alcuni risultati che attribuisce alla sua amministrazione. Ha sostenuto che la guerra in Iran sia finita e vinta, nonostante nella notte italiana gli Stati Uniti abbiano condotto &lt;a href="https://www.ilpost.it/2026/11/03/hormuz-qeshm-iran-attacco-stati-uniti/?homepagePosition=5"&gt;nuovi attacchi&lt;/a&gt; su obiettivi militari sull&amp;#8217;isola iraniana di Qeshm, la più grande nello stretto di Hormuz. Oppure ha rivendicato &lt;a href="https://www.ilpost.it/2026/07/13/il-vicere-del-venezuela/"&gt;l&amp;#8217;influenza&lt;/a&gt; che gli Stati Uniti hanno sul Venezuela e sul suo settore petrolifero, dopo la deposizione dell&amp;#8217;ex presidente Nicolás Maduro, parlandone per la prima volta come di una «conquista».&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/03/trump-discorso-prima-midterm-vasca-washington</guid>
-      <pubDate>Tue, 03 Nov 2026 06:55:44 +0000</pubDate>
-      <dc:creator>Matteo Castellucci</dc:creator>
-    </item>
-    <item>
-      <title>Le prime pagine di oggi</title>
-      <link>https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723</link>
-      <description>&lt;p&gt;&lt;em&gt;Le elezioni di metà mandato negli Stati Uniti, l’attacco informatico a diversi supermercati europei, e le discussioni sulla legge di bilancio&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/1793685805-repubblica_apertura.jpg" /&gt;&lt;/p&gt;
-&lt;p class="p1"&gt;Sono due le notizie principali in apertura sui giornali di oggi: le elezioni di metà mandato negli Stati Uniti, nelle quali oggi verranno rinnovati i 435 seggi della Camera e 35 su 100 di quelli del Senato e potrebbero portare a un cambiamento della maggioranza parlamentare, e gli attacchi informatici contro i frigoriferi e i congelatori di diversi supermercati in otto paesi europei, compresa l’Italia. Le altre notizie più importanti sulle prime pagine sono la legge di bilancio, che sta attirando critiche per i tagli alla sanità e alla scuola, e il rientro in Italia dei corpi dei quattro militari morti nell’incidente dell’elicottero precipitato in Bosnia Erzegovina.&lt;/p&gt;
-
- 
- 
- &lt;div class="split-gal" id="gallery-new"&gt;
- &lt;figure class="split-gal-el"&gt;
- &lt;div class="photo-container"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/001-corriere-della-sera-15/" title="vai alla fotogallery"&gt;
- &lt;img alt="" class="attachment-medium size-medium" height="605" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/400x605/1793685389-001-corriere-della-sera.webp" width="400" /&gt;
- &lt;span class="arrow"&gt;&lt;/span&gt;
- &lt;/a&gt;
- &lt;/div&gt;
- &lt;span class="caption"&gt;&lt;/span&gt;
- &lt;/figure&gt;
- &lt;/div&gt;&lt;div class="gallery galleryid-3722148 gallery-columns-6 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/001-corriere-della-sera-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685389-001-corriere-della-sera.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/002-la-repubblica-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685395-002-la-repubblica.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/003-la-stampa-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685401-003-la-stampa.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/004-il-sole-24-ore-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685406-004-il-sole-24-ore.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/005-il-messaggero-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685412-005-il-messaggero.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/006-il-giornale-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685418-006-il-giornale.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/007-il-manifesto-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685424-007-il-manifesto.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/008-avvenire-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685429-008-avvenire.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/009-il-fatto-quotidiano-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685435-009-il-fatto-quotidiano.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/010-la-verita-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685441-010-la-verita.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/011-libero-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685447-011-libero.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/012-domani-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685453-012-domani.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/013-il-dubbio-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685458-013-il-dubbio.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/014-il-riformista-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685464-014-il-riformista.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/015-la-notizia-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685470-015-la-notizia.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/017-il-foglio-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685473-017-il-foglio.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/018-il-secolo-xix-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685480-018-il-secolo-xix.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/019-il-mattino-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685485-019-il-mattino.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/020-il-resto-del-carlino-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685491-020-il-resto-del-carlino.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/021-il-gazzettino-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685496-021-il-gazzettino.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/022-il-tempo-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685502-022-il-tempo.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/023-ledicola-nazionale-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685507-023-ledicola-nazionale.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/024-mf-milano-finanza-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685510-024-mf-milano-finanza.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/025-italiaoggi-12/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685516-025-italiaoggi.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/026-la-gazzetta-del-mezzogiorno-bari-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685521-026-la-gazzetta-del-mezzogiorno-bari.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/027-leco-di-bergamo-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685527-027-leco-di-bergamo.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/028-il-piccolo-trieste-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685530-028-il-piccolo-trieste.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/029-giornale-di-sicilia-palermo-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685536-029-giornale-di-sicilia-palermo.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/030-la-nuova-sardegna-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685541-030-la-nuova-sardegna.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/031-la-sicilia-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685546-031-la-sicilia.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/032-il-mattino-di-padova-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685553-032-il-mattino-di-padova.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/033-lunione-sarda-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685558-033-lunione-sarda.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/034-messaggero-veneto-udine-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685561-034-messaggero-veneto-udine.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/035-gazzetta-di-mantova-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685566-035-gazzetta-di-mantova.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/036-il-tirreno-livorno-cecina-rosignano-piombino-elba-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685571-036-il-tirreno-livorno-cecina-rosignano-piombino-elba.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/037-leggo-roma-11/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685575-037-leggo-roma.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/038-la-nuova-di-venezia-e-mestre-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685580-038-la-nuova-di-venezia-e-mestre.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/039-metro-today-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685586-039-metro-today.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/040-giornale-di-brescia-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685591-040-giornale-di-brescia.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/041-la-nuova-ferrara-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685595-041-la-nuova-ferrara.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/042-gazzetta-di-modena-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685599-042-gazzetta-di-modena.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/043-larena-verona-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685605-043-larena-verona.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/044-il-centro-pescara-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685610-044-il-centro-pescara.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/045-la-provincia-di-como-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685614-045-la-provincia-di-como.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/046-gazzetta-di-parma-14/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685617-046-gazzetta-di-parma.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/048-alto-adige-9/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685630-048-alto-adige.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/049-gazzetta-del-sud-messina-sicilia-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685658-049-gazzetta-del-sud-messina-sicilia.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/050-corriere-delle-alpi-belluno-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685665-050-corriere-delle-alpi-belluno.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/051-il-t-quotidiano-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685671-051-il-t-quotidiano.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/052-la-citta-salerno-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685675-052-la-citta-salerno.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/053-laltravoce-il-quotidiano-del-sud-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685681-053-laltravoce-il-quotidiano-del-sud.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/054-corriere-dellumbria-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685685-054-corriere-dellumbria.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/055-la-prealpina-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685691-055-la-prealpina.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/056-corriere-del-ticino-13/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685694-056-corriere-del-ticino.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/057-la-gazzetta-dello-sport-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685700-057-la-gazzetta-dello-sport.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/058-corriere-dello-sport-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685706-058-corriere-dello-sport.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
- &lt;div class="gallery-icon portrait"&gt;
- &lt;a href="https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723/059-tuttosport-15/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/130x91/1793685712-059-tuttosport.webp" width="130" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/03/le-prime-pagine-di-oggi-4723</guid>
-      <pubDate>Tue, 03 Nov 2026 05:55:03 +0000</pubDate>
-      <dc:creator>Il Post</dc:creator>
-    </item>
-    <item>
-      <title>È il giorno delle elezioni di metà mandato negli Stati Uniti</title>
-      <link>https://www.ilpost.it/2026/11/03/guida-elezioni-meta-mandato-stati-uniti-2026</link>
-      <description>&lt;p&gt;&lt;em&gt;Si vota per rinnovare la Camera e circa un terzo del Senato, ed è una specie di referendum su Trump: una guida con le cose da sapere&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/1793370405-AP26297736697276.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;Martedì negli Stati Uniti si vota per rinnovare tutti i 435 seggi della Camera e 35 seggi su 100 del Senato. Sono le elezioni di metà mandato, che vengono fatte a metà tra due elezioni presidenziali. I risultati decideranno chi avrà la maggioranza nelle due camere per i prossimi due anni, fino alle presidenziali del 2028. Non si vota invece per il presidente: Donald Trump resterà in carica in ogni caso, ma il suo lavoro sarà più facile se i Repubblicani riusciranno ad aumentare i loro seggi, e più difficile se ne perderanno.&lt;/p&gt;
-&lt;p&gt;Al momento i Repubblicani controllano sia la Camera sia il Senato, seppure con maggioranze risicate. Secondo i sondaggi le cose dovrebbero cambiare: è molto probabile che il Partito Democratico ottenga la maggioranza alla Camera, e potrebbe farcela anche al Senato.&lt;/p&gt;
-&lt;p&gt;Alle elezioni di metà mandato il partito del presidente – i Repubblicani appunto, in questo caso – va quasi sempre male, perché gli avversari possono criticarlo per tutte le decisioni prese dall’inizio del mandato. Quest’anno però la situazione è particolarmente negativa: il tasso di popolarità di Trump &lt;a href="https://www.nytimes.com/interactive/polls/trump-approval-rating-polls.html"&gt;è intorno al 37 per cento&lt;/a&gt;, il dato più basso per un presidente a questo punto del mandato negli ultimi cinquant’anni. Questa impopolarità si trasmette ai candidati: nei &lt;a href="https://www.ilpost.it/2026/10/22/sondaggi-elezioni-meta-mandato-stati-uniti/"&gt;sondaggi&lt;/a&gt; in cui viene chiesto agli elettori se voterebbero per un generico candidato Democratico o per un generico candidato Repubblicano, i Democratici sono avanti di quasi 9 punti percentuali.&lt;/p&gt;
-&lt;div class="flourish-embed"&gt;&lt;/div&gt;
-&lt;p&gt;È poi consuetudine che negli Stati Uniti si voti per un sacco di altre cose insieme. Oltre a Camera e Senato verranno infatti eletti i governatori o le governatrici di 36 stati su 50, in cui abita quasi l’80 per cento dei cittadini statunitensi. Si vota anche per rinnovare molte cariche locali, come i membri dei parlamenti statali, gli sceriffi, i componenti dei consigli scolastici e via dicendo. Infine, ci sono più di 140 referendum in 40 stati.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;
-&lt;p&gt;Il &lt;em&gt;Post&lt;/em&gt; seguirà le elezioni con un liveblog sempre aggiornato e con &lt;a href="https://www.ilpost.it/2026/10/23/due-sere-diretta-elezioni-statunitensi/"&gt;due dirette&lt;/a&gt; sul canale YouTube di Da Costa a Costa: martedì 3 novembre dalle 20, per capire per cosa si vota e perché queste elezioni sono importanti, e mercoledì 4 dalle 19, per raccontare e commentare i risultati.&lt;/p&gt;
-&lt;p&gt;Qui intanto vediamo cosa c&amp;#8217;è da sapere sulle elezioni principali.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Camera&lt;/strong&gt;&lt;br /&gt;
-I 435 deputati della Camera vengono eletti ogni due anni in altrettanti collegi uninominali, cioè dove vince chi prende anche solo un voto più degli altri. Oggi i Repubblicani hanno 219 deputati, i Democratici 214 (ci sono due seggi vacanti).&lt;/p&gt;
-&lt;p&gt;I Democratici dovranno quindi cercare di conquistare almeno 4 seggi in più per ottenere la maggioranza. Secondo i principali modelli statistici (abbiamo spiegato &lt;a href="https://www.ilpost.it/2026/10/22/sondaggi-elezioni-meta-mandato-stati-uniti/"&gt;qui come funzionano&lt;/a&gt;, ma in breve sono delle stime basate su moltissimi fattori) hanno più del 90 per cento di possibilità di farcela: i modelli prevedono che l’esito più probabile sia che vincano 240 seggi contro 195 dei Repubblicani.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/06/16/gerrymandering-elezioni-meta-mandato-2026/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La “guerra delle mappe”, negli Stati Uniti&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Se i Democratici ottenessero la maggioranza, a gennaio il loro capogruppo Hakeem Jeffries dovrebbe diventare speaker, cioè presidente della Camera. È un ruolo molto più politico che in Italia: lo speaker decide quali leggi mettere ai voti e quando, e può quindi ostacolare quelle volute da Trump. Inoltre guida la maggioranza, che presiede tutte le commissioni e può aprire indagini sull’amministrazione o avviare una procedura di impeachment contro il presidente.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3719482"&gt;&lt;img alt="" class="wp-image-3719482 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/1793364551-AP26273794641235.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Hakeem Jeffries davanti al Campidoglio, la sede del Congresso statunitense, l&amp;#8217;1 ottobre 2026 (AP Photo/J. Scott Applewhite)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Senato&lt;/strong&gt;&lt;br /&gt;
-I senatori sono 100 (due per stato a prescindere dalle dimensioni e dalla popolazione) e restano in carica per sei anni: ogni due anni quindi viene rieletto solo un terzo di loro, pari a 33 o 34 senatori. Quest’anno saranno 35 perché ci sono due elezioni suppletive: una in Ohio, per il seggio che era del vicepresidente J.D. Vance, e una in Florida, per quello del segretario di Stato Marco Rubio. Anche per il Senato viene eletto il candidato o la candidata che prende più voti (con alcune eccezioni, come l’Alaska), ma il collegio corrisponde al territorio dell’intero stato.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3719612"&gt;&lt;img alt="" class="wp-image-3719612 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/1793369526-AP26257719574803.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Il capo dei senatori Democratici Chuck Schumer: non partecipa direttamente alle elezioni ma potrebbe diventare il senatore più potente degli Stati Uniti se i Democratici conquistassero la maggioranza (AP Photo/Allison Robbert)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;Siccome le elezioni al Senato sono molte meno di quelle alla Camera, ognuna influenza molto di più il risultato finale, rendendo più difficile prevedere quale partito otterrà la maggioranza.&lt;/p&gt;
-&lt;p&gt;I Democratici hanno 47 senatori: 45 del partito e due indipendenti che votano spesso con loro, Bernie Sanders e Angus King. Per avere la maggioranza devono guadagnare 4 seggi, perché 3 non basterebbero: in caso di parità al Senato vota il vicepresidente, che ora è il Repubblicano Vance. Secondo i modelli hanno circa il 70 per cento di probabilità di riuscirci e dovrebbero arrivare a 51 o 52 seggi. Tra le altre cose, il Senato deve confermare molte delle nomine fatte dal presidente, comprese quelle dei giudici della Corte Suprema (il tribunale più importante degli Stati Uniti), e giudicare il presidente in un eventuale processo di impeachment.&lt;/p&gt;
-&lt;p&gt;Se i Democratici otterranno la maggioranza, lo dovranno soprattutto al fatto che sono competitivi in diversi stati che non &lt;a href="https://www.ilpost.it/2026/10/30/stati-in-bilico-elezioni-di-meta-mandato/?homepagePosition=0"&gt;ci si aspettava sarebbero stati in bilico&lt;/a&gt;, e dove di solito i Repubblicani vincono senza problemi: Texas, Alaska, Kansas, Nebraska, South Carolina, Iowa e Ohio. Ci sono comunque due casi dove succede invece il contrario: in Maine e in Minnesota i Democratici dovrebbero essere nettamente favoriti, ma soprattutto per ragioni locali la sfida con i Repubblicani è aperta.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/10/26/porta-a-porta-volontari-stati-uniti/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Come si fa campagna elettorale porta a porta&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Le elezioni per il Senato più interessanti da seguire sono quelle in &lt;a href="https://www.ilpost.it/2026/10/28/democratici-texas-talarico/"&gt;Texas&lt;/a&gt;, in &lt;a href="https://www.ilpost.it/2026/10/14/elezioni-senato-michigan-rogers-el-sayed/"&gt;Michigan&lt;/a&gt; e in &lt;a href="https://www.ilpost.it/2026/10/29/alaska-candidati-omonimi-operazione-democratici/"&gt;Alaska&lt;/a&gt;: le abbiamo raccontate in vari articoli.&lt;/p&gt;
-&lt;div class="mceTemp"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Governatori&lt;/strong&gt;&lt;br /&gt;
-Negli Stati Uniti i singoli stati hanno un’autonomia molto ampia, e i governatori sono politici influenti anche a livello nazionale. Quest’anno si eleggono i governatori di 36 stati su 50, compresi i tre meno popolosi (Wyoming, Vermont e Alaska) e i tre più popolosi (California, Texas e Florida). Tra le elezioni più combattute c&amp;#8217;è quella in Ohio, dove l’imprenditore Repubblicano Vivek Ramaswamy sfida la Democratica Amy Acton.&lt;/p&gt;
-&lt;p&gt;Ramaswamy si era candidato alle primarie per le presidenziali del 2024 cercando di apparire più trumpiano di Trump, ed è fortemente sostenuto dal vicepresidente Vance: una sua sconfitta sarebbe un duro colpo per il movimento MAGA, quello del presidente. In campagna elettorale si è fatto notare soprattutto per &lt;a href="https://www.ilpost.it/2026/10/22/spot-ohio-meta-mandato-stati-uniti/"&gt;lo spot più scorretto di queste elezioni di metà mandato&lt;/a&gt;, che fa leva su una vicenda privata e particolarmente dolorosa del passato di Acton. È stato considerato eccessivo anche da molti Repubblicani, compreso il senatore dell&amp;#8217;Ohio Jon Husted, e secondo un sondaggio interno al partito ha danneggiato Ramaswamy invece di aiutarlo.&lt;/p&gt;
-&lt;div class="wp-caption alignnone" id="attachment_3719597"&gt;&lt;img alt="" class="wp-image-3719597 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/30/1793368855-AP26302035113043.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Vivek Ramaswamy con Donald Trump durante un evento di campagna elettorale in Ohio il 28 ottobre 2026 (AP Photo/Mark Schiefelbein)&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;Quando arriveranno i risultati&lt;/strong&gt;&lt;br /&gt;
-I primi seggi chiuderanno a mezzanotte ora italiana; gli ultimi, nelle piccole isole Aleutine a ovest dell’Alaska, alle 7. Tra l’1 e le 3 chiuderanno i seggi della maggior parte degli stati in bilico per il Senato: è probabile che intorno alle 3 avremo qualche risultato interessante. Da quel momento in poi arriveranno sempre più dati, anche se ogni stato ha modalità e tempi di conteggio diversi.&lt;/p&gt;
-&lt;p&gt;Per sapere chi avrà la maggioranza alla Camera bisognerà probabilmente aspettare i risultati degli stati della costa ovest, dove i seggi chiudono alle 5 di mattina ora italiana. Il più importante è la California, che elegge 52 deputati ed è anche &lt;a href="https://www.ilpost.it/2026/06/08/california-conteggio-voti-lentezza/"&gt;uno degli stati più lenti a contare i voti&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/03/guida-elezioni-meta-mandato-stati-uniti-2026</guid>
-      <pubDate>Tue, 03 Nov 2026 05:38:56 +0000</pubDate>
-      <dc:creator>Pietro Pianini</dc:creator>
     </item>
   </channel>
 </rss>
