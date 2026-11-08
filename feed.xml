@@ -7,77 +7,90 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:01:15 +0000</lastBuildDate>
+    <item>
+      <title>Lando Norris ha vinto il Gran Premio di Formula 1 del Brasile</title>
+      <link>https://www.ilpost.it/2026/11/08/lando-norris-vincegran-premio-formula-1-brasile</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794160329-ilpost_20261108184836962_cb8afe039efbed9d090b02312f1c395d.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;Il pilota della McLaren Lando Norris ha vinto il Gran Premio di Formula 1 del Brasile che si è corso domenica al circuito di Interlagos, su una pista bagnata dalla pioggia. Norris era partito dalla pole position, ma era stato subito sorpassato dal campione del mondo Kimi Antonelli, che ha dominato la prima parte della gara. Dal ventesimo giro tuttavia Antonelli ha cominciato ad avere problemi, lamentandosi di non riuscire a controllare l&amp;#8217;auto in curva, perdendo man mano posizioni.&lt;/p&gt;
+&lt;p&gt;Antonelli ha chiuso la gara in quinta posizione, dietro a George Russell, come lui della Mercedes, che ha già vinto matematicamente il Mondiale costruttori. Al secondo posto è arrivato Max Verstappen della Red Bull, dopo una rimonta dalla 21esima posizione, seguito dal compagno di scuderia Isack Hadjar. Hanno avuto una gara difficile anche le Ferrari di Charles Leclerc e Lewis Hamilton: erano partiti rispettivamente al 14esimo e 20esimo posto, e sono arrivati settimo e nono.&lt;/p&gt;
+&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="twitter" data-url="https://x.com/F1/status/2119501892254388256"&gt;&lt;/div&gt;
+
+
+
+
+
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/08/lando-norris-vincegran-premio-formula-1-brasile</guid>
+      <pubDate>Sun, 08 Nov 2026 19:45:08 +0100</pubDate>
+      <dc:creator>Susanna Baggio</dc:creator>
+    </item>
     <item>
       <title>A Gaza ci sono decine di migliaia di tende allagate</title>
       <link>https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati</link>
       <description>&lt;p&gt;&lt;em&gt;Un&amp;#x27;alluvione ha causato danni un po&amp;#x27; ovunque, e le organizzazioni internazionali riescono ad aiutare fino a un certo punto &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794155000-GettyImages-2303444886.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794155000-GettyImages-2303444886.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Nella Striscia di Gaza centinaia di migliaia di persone palestinesi sono rimaste senza un posto dove dormire a causa delle forti piogge, che nel fine settimana hanno provocato estese alluvioni e distrutto o allagato circa 70mila tende. Le alluvioni hanno causato danni praticamente in tutta la Striscia, dalla Città di Gaza, la principale del territorio, a Khan Yunis, passando per gli accampamenti di Deir al-Balah, rispettivamente a nord, a sud e nel centro. Il governo di Gaza, controllato da Hamas, ha detto che l&amp;#8217;alluvione ha anche fatto crollare alcune case, ferendo alcune persone.&lt;/p&gt;
 &lt;p&gt;La stragrande maggioranza degli oltre due milioni di abitanti della Striscia di Gaza è stata sfollata per via dell&amp;#8217;invasione dell&amp;#8217;esercito di Israele seguita ai vasti attacchi compiuti da Hamas in territorio israeliano, il 7 ottobre del 2023. Più dell&amp;#8217;80 per cento degli edifici è stato distrutto da bombardamenti aerei o da &lt;a href="https://www.ilpost.it/2025/08/22/bulldozer-israele-privati/"&gt;demolizioni messe in atto da Israele&lt;/a&gt; nelle aree controllate dal suo esercito. Per questo ormai quasi tutta la popolazione vive in campi profughi o accampamenti temporanei, spesso senza mezzi per proteggersi dal freddo e con accesso limitato a cibo, servizi igienici e acqua potabile. Al momento di notte le temperature scendono fino a 11 °C circa.&lt;/p&gt;
 &lt;p&gt;L&amp;#8217;alluvione ha peggiorato la situazione. Le persone non hanno gli strumenti adeguati per far defluire l&amp;#8217;acqua e riparare le tende. Le organizzazioni internazionali invece possono intervenire fino a un certo punto, dato che nell&amp;#8217;ultimo anno sono state costrette a ridurre le loro attività sia &lt;a href="https://www.ilpost.it/2026/10/19/problemi-fondi-wfp-gaza/"&gt;nella Striscia&lt;/a&gt; che altrove, a causa di una &lt;a href="https://www.ilpost.it/2025/12/29/finanziamenti-stati-uniti-nazioni-unite-2026-tagli/"&gt;consistente diminuzione dei finanziamenti da parte degli Stati Uniti&lt;/a&gt;.&lt;/p&gt;
 
- &lt;style&gt;
- .single-post-new article figure.split-gal-el .photo-container .arrow::after {
- content: 'LE ALTRE FOTO';
- }
- &lt;/style&gt;
  
- &lt;div id="gallery-new" class="split-gal"&gt;
+ 
+ &lt;div class="split-gal" id="gallery-new"&gt;
  &lt;figure class="split-gal-el"&gt;
  &lt;div class="photo-container"&gt;
  &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444494/" title="vai alla fotogallery"&gt;
- &lt;img loading="lazy" decoding="async" width="400" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/400x267/1794144789-GettyImages-2303444494.jpg" class="attachment-medium size-medium" alt="" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/400x267/1794144789-GettyImages-2303444494.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/680x453/1794144789-GettyImages-2303444494.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/768x512/1794144789-GettyImages-2303444494.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/800x533/1794144789-GettyImages-2303444494.jpg 800w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794144789-GettyImages-2303444494.jpg 980w" sizes="(max-width: 400px) 100vw, 400px" /&gt;
- &lt;span class='arrow'&gt;&lt;/span&gt;
+ &lt;img alt="" class="attachment-medium size-medium" height="267" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/400x267/1794144789-GettyImages-2303444494.jpg" width="400" /&gt;
+ &lt;span class="arrow"&gt;&lt;/span&gt;
  &lt;/a&gt;
  &lt;/div&gt;
- &lt;span class="caption" itemprop="caption"&gt;&lt;/span&gt;
+ &lt;span class="caption"&gt;&lt;/span&gt;
  &lt;/figure&gt;
- &lt;/div&gt;&lt;div id='gallery-2' class='gallery galleryid-3728027 gallery-columns-5 gallery-size-thumbnail'&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444494/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144789-GettyImages-2303444494.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444617/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144793-GettyImages-2303444617.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444743/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144797-GettyImages-2303444743.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303654263/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144801-GettyImages-2303654263.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303950178/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144805-GettyImages-2303950178.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303950186/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144809-GettyImages-2303950186.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/24926297_large/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144983-24926297_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/24923761_large/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794145027-24923761_large.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303950516/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794147362-GettyImages-2303950516.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303945635/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794147645-GettyImages-2303945635.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303654286/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148004-GettyImages-2303654286.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153231978_54c51a420a7f57d6637594695fc0f62e/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148376-ilpost_20261108153231978_54c51a420a7f57d6637594695fc0f62e.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153708336_ddd37394ff2e467a68d3b53d09e63fc9/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148645-ilpost_20261108153708336_ddd37394ff2e467a68d3b53d09e63fc9.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153902935_c12aa4c748a2cd836bd86abcbcbbe287/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="88" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148793-ilpost_20261108153902935_c12aa4c748a2cd836bd86abcbcbbe287.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
- &lt;/div&gt;&lt;/figure&gt;&lt;figure class='gallery-item'&gt;
- &lt;div class='gallery-icon landscape'&gt;
- &lt;a href='https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303945731/'&gt;&lt;img loading="lazy" decoding="async" width="130" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794149046-GettyImages-2303945731.jpg" class="attachment-thumbnail size-thumbnail" alt="" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;div class="gallery galleryid-3728027 gallery-columns-5 gallery-size-thumbnail" id="gallery-2"&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444494/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144789-GettyImages-2303444494.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444617/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144793-GettyImages-2303444617.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303444743/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144797-GettyImages-2303444743.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303654263/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144801-GettyImages-2303654263.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303950178/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144805-GettyImages-2303950178.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/gettyimages-2303950186/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144809-GettyImages-2303950186.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/24926297_large/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794144983-24926297_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati/24923761_large/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="91" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/130x91/1794145027-24923761_large.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303950516/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794147362-GettyImages-2303950516.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303945635/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794147645-GettyImages-2303945635.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303654286/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148004-GettyImages-2303654286.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153231978_54c51a420a7f57d6637594695fc0f62e/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148376-ilpost_20261108153231978_54c51a420a7f57d6637594695fc0f62e.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153708336_ddd37394ff2e467a68d3b53d09e63fc9/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148645-ilpost_20261108153708336_ddd37394ff2e467a68d3b53d09e63fc9.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/ilpost_20261108153902935_c12aa4c748a2cd836bd86abcbcbbe287/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="88" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794148793-ilpost_20261108153902935_c12aa4c748a2cd836bd86abcbcbbe287.jpg" width="130" /&gt;&lt;/a&gt;
+ &lt;/div&gt;&lt;/figure&gt;&lt;figure class="gallery-item"&gt;
+ &lt;div class="gallery-icon landscape"&gt;
+ &lt;a href="https://www.ilpost.it/2026/10/04/susan-sarandon-ottanta-anni/gettyimages-2303945731/"&gt;&lt;img alt="" class="attachment-thumbnail size-thumbnail" height="87" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/08/1794149046-GettyImages-2303945731.jpg" width="130" /&gt;&lt;/a&gt;
  &lt;/div&gt;&lt;/figure&gt;&lt;/div&gt;&lt;!-- FINE DIV GALLERY --&gt;
 
 &lt;p&gt;Jonathan Veitch, rappresentante per la Palestina dell’UNICEF, l’agenzia delle Nazioni Unite che si occupa dei diritti dei bambini, &lt;a href="https://www.bbc.com/news/articles/cx240e5py64jo"&gt;ha detto&lt;/a&gt; a &lt;em&gt;BBC News&lt;/em&gt; che proprio a causa dei tagli ai finanziamenti lui e gli altri funzionari devono essere «molto più selettivi riguardo alle zone a cui dare sostegno». Veitch ha aggiunto che hanno poche possibilità di fornire nuove tende e teloni di plastica da copertura.&lt;/p&gt;
@@ -85,23 +98,20 @@
 &lt;p&gt;Il disastro «non è semplicemente il risultato del maltempo», &lt;a href="https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"&gt;ha detto&lt;/a&gt; ad &lt;em&gt;Al Jazeera&lt;/em&gt; Ahmad Alhendawi, direttore regionale per il Medio Oriente, il Nord Africa e l’Europa orientale di Save the Children International, ricordando che tende, kit di emergenza e carburante «sono in attesa ai confini di Gaza mentre i bambini dormono tra le acque alluvionali». &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Dall&amp;#8217;ottobre del 2025 nella Striscia di Gaza &lt;a href="https://www.ilpost.it/2025/10/10/israele-hamas-striscia-di-gaza-cessate-il-fuoco/"&gt;è in vigore un cessate il fuoco&lt;/a&gt; tra Israele e Hamas. Anche se si sono ridotti sensibilmente per frequenza e intensità, tuttavia, i bombardamenti israeliani di fatto non si sono mai interrotti. Negli ultimi dodici mesi l’esercito israeliano ha ucciso circa 1.580 persone, la maggior parte in attacchi aerei oppure nella zona della cosiddetta “&lt;a href="https://www.ilpost.it/2026/01/19/linea-gialla-espansione-israele/"&gt;yellow line&lt;/a&gt;”: è il confine temporaneo interno alla Striscia che delimita il territorio controllato dai militari israeliani, e che per le persone palestinesi è diventato uno dei luoghi più pericolosi.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/10/13/israele-gaza-cessate-il-fuoco-bombardamenti/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;È passato un anno dal cessate il fuoco, e Israele bombarda ancora la Striscia&lt;/a&gt;&lt;/p&gt;
-
-</description>
+&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/10/13/israele-gaza-cessate-il-fuoco-bombardamenti/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;È passato un anno dal cessate il fuoco, e Israele bombarda ancora la Striscia&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/08/striscia-gaza-allagata-pioggia-sfollati</guid>
-      <pubDate>Sun, 08 Nov 2026 18:32:18 +0100</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:32:18 +0000</pubDate>
       <dc:creator>Valeria Sforzini</dc:creator>
     </item>
     <item>
       <title>Almeno 21 persone migranti sono morte in un naufragio al largo delle coste del Senegal</title>
       <link>https://www.ilpost.it/2026/11/08/almeno-21-persone-migranti-sono-morte-in-un-naufragio-al-largo-delle-coste-del-senegal</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794156424-GettyImages-2279188959.jpg" alt="" /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/08/1794156424-GettyImages-2279188959.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Almeno 21 persone migranti sono morte sabato sera dopo che l&amp;#8217;imbarcazione sulla quale stavano viaggiando è affondata al largo delle coste del Senegal. Non si sa quante persone ci fossero a bordo, le autorità per il momento hanno recuperato 21 corpi ma probabilmente erano molte di più. Al momento non risultano superstiti. La nave è affondata a circa 180 chilometri a nord della capitale Dakar.&lt;/p&gt;
 &lt;p&gt;Non è chiaro dove fosse diretta l’imbarcazione, ma è plausibile che la sua meta fosse l’arcipelago delle Canarie, nell’oceano Atlantico. Negli ultimi anni infatti sono state &lt;a href="https://www.ilpost.it/2024/07/08/isole-canarie-spagna-redistribuzione-migranti-minorenni/"&gt;sempre di più le persone&lt;/a&gt; partite dalle coste dell’Africa occidentale, soprattutto da Mali e Senegal, per raggiungere le Canarie, in una rotta migratoria pericolosissima, tra le altre cose per via delle correnti oceaniche.&lt;/p&gt;
-&lt;div class="ilpost_datawrapper loader" data-id="adZu0" data-height="400"&gt;&lt;/div&gt;
-</description>
+&lt;div class="ilpost_datawrapper loader"&gt;&lt;/div&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/08/almeno-21-persone-migranti-sono-morte-in-un-naufragio-al-largo-delle-coste-del-senegal</guid>
-      <pubDate>Sun, 08 Nov 2026 18:06:06 +0100</pubDate>
+      <pubDate>Sun, 08 Nov 2026 17:06:06 +0000</pubDate>
       <dc:creator>Valeria Sforzini</dc:creator>
     </item>
     <item>
@@ -1412,19 +1422,6 @@ Il feed &amp;#8220;Per te&amp;#8221; di TikTok, ha spiegato la Commissione, most
 &lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/10/17/olimpia-milano-problemi-sconfitte-seire-a-eurolega-napoli/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Per l’Olimpia Milano è un momentaccio&lt;/a&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/06/peppe-poeta-non-e-piu-allenatore-olimpia-milano</guid>
       <pubDate>Fri, 06 Nov 2026 19:10:44 +0000</pubDate>
-      <dc:creator>Pietro Pianini</dc:creator>
-    </item>
-    <item>
-      <title>Le aziende di abbigliamento Dixie e Patrizia Pepe sono state messe in amministrazione giudiziaria per mancata vigilanza sullo sfruttamento dei lavoratori nelle loro filiere</title>
-      <link>https://www.ilpost.it/2026/11/06/dixie-patrizia-pepe-amministrazione-giudiziaria-sfruttamento-lavoratori</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/06/1793990228-890248659_1002003912979680_7084484365571758462_n.png.jpeg" /&gt;&lt;/p&gt;
-&lt;p&gt;Venerdì il tribunale di Firenze ha disposto l&amp;#8217;amministrazione giudiziaria per le aziende di abbligliamento Dixie e Patrizia Pepe, che hanno entrambe sede in provincia di Firenze. Il tribunale ha accolto la richiesta della procura di Prato che ritiene che le due aziende non abbiano vigilato adeguatamente sulle società a cui affidavano le commesse, agevolando un sistema di sfruttamento dei lavoratori. L&amp;#8217;&lt;a href="https://www.ilpost.it/2025/08/25/filiere-sfruttamento-evasione-logistica-moda-paolo-storari-procura-milano-amministrazione-giudiziaria/"&gt;amministrazione giudiziaria&lt;/a&gt; prevede che le dirigenze delle società siano affiancate da un amministratore nominato dal tribunale, con il compito di correggere eventuali pratiche illecite all’interno della filiera: durerà un anno, ma è prorogabile di altri sei mesi.&lt;/p&gt;
-&lt;p&gt;Secondo le indagini Dixie e Patrizia Pepe avrebbero affidato parte della loro produzione a imprenditori con cittadinanza albanese che avrebbero sfruttato i lavoratori, anche loro stranieri, pagando loro stipendi troppo bassi e facendoli lavorare eccessivamente. Tutto questo per ridurre i costi della produzione. Gli imprenditori albanesi sono indagati per sfruttamento del lavoro, mentre le due aziende di moda non lo sono.&lt;/p&gt;
-&lt;p&gt;Negli ultimi anni l&amp;#8217;amministrazione giudiziaria è stata spesso usata dalle procure per risolvere situazioni di sfruttamento nelle filiere delle aziende di moda. Lo ha fatto per prima e più delle altre la procura di Milano. La procura di Prato a differenza di quella di Milano ha iniziato a indagare soprattutto grazie alle denunce dei sindacati: è la seconda volta che chiede di mettere in amministrazione giudiziaria delle aziende di moda per aver agevolato lo sfruttamento dei lavoratori.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2025/10/22/aziende-regolarizzate-autonomamente-sfruttamento-filiere/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;Le inchieste sullo sfruttamento nelle grandi aziende stanno avendo un effetto preventivo&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/06/dixie-patrizia-pepe-amministrazione-giudiziaria-sfruttamento-lavoratori</guid>
-      <pubDate>Fri, 06 Nov 2026 18:49:53 +0000</pubDate>
       <dc:creator>Pietro Pianini</dc:creator>
     </item>
   </channel>
