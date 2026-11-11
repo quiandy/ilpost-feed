@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:01:32 +0000</lastBuildDate>
     <item>
       <title>Cosa sappiamo degli allarmi bomba nelle scuole</title>
       <link>https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato</link>
       <description>&lt;p&gt;&lt;em&gt;Che erano infondati, innanzitutto: un po&amp;#x27; di risposte su cosa è successo &lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794418022-allarmi.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794418022-allarmi.jpg" /&gt;&lt;/p&gt;
 &lt;p&gt;Mercoledì mattina quasi tutte le scuole statali italiane, 6.300 su 7.476, hanno ricevuto un &lt;a href="https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole/?homepagePosition=0"&gt;allarme bomba&lt;/a&gt; che ha provocato l&amp;#8217;evacuazione di milioni, con lezioni sospese e genitori preoccupati che in molti casi hanno dovuto andare a prenderli a scuola, senza sapere esattamente cosa stesse succedendo. Le cose da capire sono ancora molte, ma una cosa è certa: fin qui tutti gli allarmi si sono rivelati infondati. Le indagini e i sopralluoghi forze dell&amp;#8217;ordine non hanno trovato nulla. In certi casi gli studenti hanno ripreso le lezioni subito dopo, in altri le attività sono state proprio sospese.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Cosa diceva l&amp;#8217;allarme bomba&lt;/strong&gt;&lt;br /&gt;
 Poco prima delle 10 nelle caselle di posta elettronica delle scuole è arrivata una mail in cui il mittente sosteneva di aver appena lasciato nell&amp;#8217;edificio un sacchetto di plastica con dentro «un potente ordigno esplosivo con innesco a distanza». La mail conteneva una serie di minacce molto violente e apparentemente deliranti, tra cui l&amp;#8217;annuncio di un «genocidio contro gli italiani».&lt;/p&gt;
-&lt;div id="attachment_3730715" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3730715 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/400x267/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/680x453/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/768x512/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/800x533/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;La mail arrivata a molte scuole, 11 novembre 2026 (ANSA)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3730715"&gt;&lt;img alt="" class="wp-image-3730715 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794420783-ilpost_20261111191015744_ab747577daaba2f89060226146a9ae14.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;La mail arrivata a molte scuole, 11 novembre 2026 (ANSA)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Che rischi ci sono&lt;/strong&gt;&lt;br /&gt;
 Il fatto che la stessa mail sia arrivata più o meno simultaneamente a migliaia di scuole diverse, annunciando in tutti i casi e con gli stessi toni la stessa cosa, ha fatto capire in breve tempo che non ci fosse un vero pericolo, almeno stando agli accertamenti svolti fin qui. Già in mattinata il ministro dell&amp;#8217;Istruzione Giuseppe Valditara aveva detto che il rischio che gli allarmi fossero concreti era «inesistente».&lt;/p&gt;
 &lt;p&gt;Nel pomeriggio la presidente del Consiglio Giorgia Meloni ha poi confermato che non è emerso «alcun elemento» che indichi un rischio concreto.&lt;/p&gt;
@@ -28,32 +28,30 @@ Questo è un aspetto ancora poco chiaro. La mail era firmata «Mikhail Andropov,
 &lt;p&gt;Dai primi accertamenti sull’indirizzo e-mail che ha inviato l’allarme risulta che appartenga a un’università privata di Taiwan e in particolare a una studentessa, il cui account molto probabilmente è stato violato.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Come sono stati raggiunte così tante scuole &lt;/strong&gt;&lt;br /&gt;
 È perlomeno plausibile che gli indirizzi siano stati presi dal portale dei dati del ministero dell&amp;#8217;Istruzione, per due ragioni: la prima è che gli allarmi non sono arrivati nelle scuole paritarie, ma solo in quelle statali, e la seconda è che le uniche due regioni in cui non sono arrivati allarmi bomba sono state la Valle d&amp;#8217;Aosta e il Trentino-Alto Adige, cioè le uniche che in virtù del loro statuto speciale non &lt;a href="https://dati.istruzione.it/espscu/index.html?area=anagScu"&gt;condividono&lt;/a&gt; i propri dati col ministero. L&amp;#8217;assessore all&amp;#8217;Istruzione e cultura tedesca della provincia di Bolzano, Philipp Achammer, ha detto che secondo lui in Trentino Alto Adige non ci sono stati allarmi proprio per questo motivo.&lt;/p&gt;
-&lt;div id="attachment_3730765" class="wp-caption alignnone" &gt;&lt;img loading="lazy" decoding="async" class="wp-image-3730765 size-full" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794423753-24936678_large.jpg" alt="" width="1200" height="800" srcset="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794423753-24936678_large.jpg 1200w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/400x267/1794423753-24936678_large.jpg 400w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/680x453/1794423753-24936678_large.jpg 680w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/768x512/1794423753-24936678_large.jpg 768w, https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/800x533/1794423753-24936678_large.jpg 800w" sizes="(max-width: 1200px) 100vw, 1200px" /&gt;&lt;p class="wp-caption-text"style="--width: 100%"&gt;Studenti evacuati di fronte al liceo Minghetti di Bologna (Guido Calamosca/LaPresse)&lt;/p&gt;&lt;/div&gt;
+&lt;div class="wp-caption alignnone" id="attachment_3730765"&gt;&lt;img alt="" class="wp-image-3730765 size-full" height="800" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794423753-24936678_large.jpg" width="1200" /&gt;&lt;p class="wp-caption-text"&gt;Studenti evacuati di fronte al liceo Minghetti di Bologna (Guido Calamosca/LaPresse)&lt;/p&gt;&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Cosa dovrebbero fare le scuole&lt;/strong&gt;&lt;br /&gt;
 Non esistono protocolli e linee guida per gestire minacce e allarmi così massicci e anomali, ciascun preside si muove secondo la propria sensibilità, coordinandosi con le forze dell&amp;#8217;ordine: e la sensibilità più diffusa è che, di fronte a qualsiasi minaccia per l&amp;#8217;incolumità degli studenti, la scuola debba essere evacuata.&lt;/p&gt;
 &lt;p&gt;Nel pomeriggio di mercoledì si è svolta una riunione straordinaria con i ministri dell’Interno, degli Esteri e della Difesa, il vicepresidente del Consiglio e ministro dei Trasporti Matteo Salvini, il sottosegretario alla presidenza del Consiglio Alfredo Mantovano e l’Agenzia per la cybersicurezza nazionale. Dalla riunione non è emerso molto. Meloni ha diffuso subito dopo un messaggio in cui ha detto che Meloni ha detto che allarmi di questo tipo fanno parte di una strategia terroristica, ma non ha dato indicazioni su chi potrebbe averli diffusi.&lt;/p&gt;
-&lt;div id="message-list_1794416622.681199" aria-setsize="-1"&gt;
-&lt;div aria-roledescription="message"&gt;
+&lt;div id="message-list_1794416622.681199"&gt;
+&lt;div&gt;
 &lt;div draggable="false"&gt;
-&lt;div class="ilPostSocial" data-component="ilPostSocial" data-type="youtube" data-url="https://www.youtube.com/embed/BWJGqVpFsV8?feature=oembed&amp;#038;enablejsapi=1&amp;#038;origin=https://www.ilpost.it" data-params="v=BWJGqVpFsV8&amp;#038;feature=youtu.be" data-thumbnail="https://i.ytimg.com/vi/BWJGqVpFsV8/hqdefault.jpg"&gt;&lt;/div&gt;
+&lt;div class="ilPostSocial"&gt;&lt;/div&gt;
 
 &lt;p&gt;Da settimane diversi paesi europei affrontano minacce e attacchi informatici di varie forme. I falsi allarmi bomba hanno coinvolto aerei, supermercati e anche redazioni giornalistiche.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-</description>
+&lt;/div&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/11/allarmi-bomba-scuole-cosa-e-successo-chi-e-stato</guid>
-      <pubDate>Wed, 11 Nov 2026 20:47:15 +0100</pubDate>
+      <pubDate>Wed, 11 Nov 2026 19:47:15 +0000</pubDate>
       <dc:creator>Alessandra Pellegrini De Luca</dc:creator>
     </item>
     <item>
       <title>Il ministro dell’Istruzione Giuseppe Valditara ha detto che domani le scuole saranno aperte</title>
       <link>https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba</link>
-      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794424479-24936131_large.jpg" alt="" /&gt;&lt;/p&gt;
-&lt;p&gt;Il ministro dell&amp;#8217;Istruzione Giuseppe Valditara ha detto che domani, giovedì 12 novembre, le scuole saranno regolarmente aperte, nonostante gli allarmi bomba che nella giornata di mercoledì hanno costretto a evacuazioni e interrotto le lezioni. «Non c’è alcun motivo di allarme: domani si andrà a scuola senza problemi», ha detto durante un’intervista a &lt;em&gt;10 Minuti&lt;/em&gt;, su Rete 4.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/11/1794424479-24936131_large.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;Il ministro dell&amp;#8217;Istruzione Giuseppe Valditara ha detto che domani, giovedì 12 novembre, le scuole saranno regolarmente aperte, nonostante gli allarmi bomba che nella giornata di mercoledì hanno costretto a evacuazioni e interrotto le lezioni. «Non c’è alcun motivo di allarme: domani si andrà a scuola senza problemi», ha detto durante un’intervista a &lt;em&gt;10 Minuti&lt;/em&gt;, su Rete 4.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/11/valditara-scuole-aperte-allarmi-bomba</guid>
-      <pubDate>Wed, 11 Nov 2026 20:15:32 +0100</pubDate>
+      <pubDate>Wed, 11 Nov 2026 19:15:32 +0000</pubDate>
       <dc:creator>Mariasole Lisciandro</dc:creator>
     </item>
     <item>
