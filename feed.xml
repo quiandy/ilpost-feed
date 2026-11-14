@@ -7,7 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>it</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:01:34 +0000</lastBuildDate>
+    <item>
+      <title>Una piattaforma delle poste francesi ha subito un attacco informatico: sono stati rubati i dati di 22 milioni di persone</title>
+      <link>https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi</link>
+      <description>&lt;p&gt;&lt;img src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/14/1794689701-la-poste.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;La piattaforma francese Maileva, controllata del gruppo postale nazionale La Poste (l’equivalente francese di Poste Italiane), ha subito un &lt;a href="https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/victime-d-une-cyberattaque-maileva-une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes_8282825.html" target="_blank" rel="noopener"&gt;attacco informatico&lt;/a&gt; che ha portato al furto dei dati di oltre 22 milioni di persone. L&amp;#8217;attacco è avvenuto a metà settembre, ma La Poste ne ha dato notizia soltanto sabato 14 novembre.&lt;/p&gt;
+&lt;p&gt;La violazione ha coinvolto anche diverse migliaia di aziende che utilizzano i servizi di Maileva, in particolare nei settori dell&amp;#8217;edilizia sociale, della sanità e dei servizi pubblici. Tra le informazioni sottratte ci sono i nomi, i cognomi e gli indirizzi postali delle persone a cui erano destinate le comunicazioni inviate attraverso la piattaforma.&lt;/p&gt;
+&lt;p&gt;La Poste ha detto di aver segnalato l&amp;#8217;accaduto alla Commissione nazionale per l&amp;#8217;informatica e le libertà (CNIL), l&amp;#8217;autorità francese che si occupa della protezione dei dati personali, e di aver presentato una denuncia. Sulla vicenda è in corso un&amp;#8217;indagine giudiziaria.&lt;/p&gt;
+&lt;p&gt;Maileva permette alle aziende di inviare per posta documenti come buste paga, avvisi, fatture e raccomandate. Ha più di 70mila utenti e gestisce ogni anno decine di milioni di comunicazioni.&lt;/p&gt;
+</description>
+      <guid isPermaLink="false">https://www.ilpost.it/2026/11/14/furto-dati-poste-francesi</guid>
+      <pubDate>Sat, 14 Nov 2026 22:12:21 +0100</pubDate>
+      <dc:creator>Giuseppe Scaffidi</dc:creator>
+    </item>
     <item>
       <title>Cinque persone sono morte in un incidente all’altezza di San Fili, in provincia di Cosenza</title>
       <link>https://www.ilpost.it/2026/11/14/incidente-san-fili</link>
@@ -1325,18 +1338,6 @@ Non ci avevo mai ripensato, a tutte le volte che ci aveva detto: «Se volete las
       <guid isPermaLink="false">https://www.ilpost.it/2026/11/13/scelta-rappresentate-europeo-negoziati-ucraina-dublino</guid>
       <pubDate>Fri, 13 Nov 2026 09:58:48 +0000</pubDate>
       <dc:creator>Ginevra Falciani</dc:creator>
-    </item>
-    <item>
-      <title>In Argentina sono stati arrestati due presunti complici della fuga dell’ex brigatista Leonardo Bertulazzi</title>
-      <link>https://www.ilpost.it/2026/11/13/bertulazzi-ex-brigatista-arrestati-complici-fuga</link>
-      <description>&lt;p&gt;&lt;img alt="" src="https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/13/1794559339-AP26315736248422.jpg" /&gt;&lt;/p&gt;
-&lt;p&gt;In Argentina sono state arrestate due persone sospettate di aver aiutato l&amp;#8217;ex brigatista Leonardo Bertulazzi a &lt;a href="https://www.ilpost.it/2026/11/10/leonardo-bertulazzi-scappato-argentina-estradizione/"&gt;fuggire&lt;/a&gt; dagli arresti domiciliari: martedì era scappato dalla sua casa di Buenos Aires, mentre era in attesa di essere estradato in Italia. Le due persone arrestate sono una donna salvadoregna e un uomo uruguaiano. Facevano parte di un gruppo WhatsApp di una quindicina di persone sul quale, secondo gli investigatori, sarebbe stata pianificata la fuga.&lt;/p&gt;
-&lt;p&gt;Non si sa di preciso quale ruolo la polizia ritenga che le due persone abbiano avuto nella fuga. Sono state arrestate nella provincia argentina di Entre Ríos, che si trova a nord di Buenos Aires e al confine con l’Uruguay, e dove sempre secondo le indagini &lt;span dir="auto"&gt;sarebbe stata registrata per l&amp;#8217;ultima volta la posizione di Bertulazzi. L’ex membro delle Brigate Rosse avrebbe dovuto scontare in Italia&lt;/span&gt; una condanna a 27 anni di reclusione per vari reati, tra cui sequestro di persona, associazione sovversiva e banda armata. Il governo argentino ha offerto una ricompensa da 20 milioni di pesos (circa 12mila euro) per informazioni che possano portare alla cattura di Bertulazzi, e la garanzia dell’anonimato a chi decida di fornirle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;– Leggi anche:&lt;/strong&gt; &lt;a class="leggi-anche" href="https://www.ilpost.it/2026/11/10/leonardo-bertulazzi-scappato-argentina-estradizione/?utm_source=ilpost&amp;amp;utm_medium=leggi_anche&amp;amp;utm_campaign=leggi_anche"&gt;La fuga da film dell’ex brigatista Leonardo Bertulazzi&lt;/a&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://www.ilpost.it/2026/11/13/bertulazzi-ex-brigatista-arrestati-complici-fuga</guid>
-      <pubDate>Fri, 13 Nov 2026 09:28:40 +0000</pubDate>
-      <dc:creator>Alessandra Pellegrini De Luca</dc:creator>
     </item>
   </channel>
 </rss>
